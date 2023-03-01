@@ -1,59 +1,4 @@
-imges,rating,price,description
-"[[[254 254 254]
-  [254 254 254]
-  [254 254 254]
-  ...
-  [254 254 254]
-  [254 254 254]
-  [254 254 254]]
-
- [[254 254 254]
-  [254 254 254]
-  [254 254 254]
-  ...
-  [254 254 254]
-  [254 254 254]
-  [254 254 254]]
-
- [[254 254 254]
-  [254 254 254]
-  [254 254 254]
-  ...
-  [254 254 254]
-  [254 254 254]
-  [254 254 254]]
-
- ...
-
- [[247 247 247]
-  [207 207 207]
-  [211 211 211]
-  ...
-  [197 197 197]
-  [206 206 206]
-  [253 253 253]]
-
- [[255 255 255]
-  [235 235 235]
-  [210 210 210]
-  ...
-  [214 214 214]
-  [246 246 246]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$159
-00","Compact, light design with 11. 6” display
-Military-grade durability
-Ultra-fast connectivity with Gigabit Wi-Fi
-Advanced security with multiple layers of built-in virus protection
-12. 5 hours of battery life
-Google Assistant enabled"
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -80,29 +25,29 @@ Google Assistant enabled"
 
  ...
 
- [[253 253 253]
-  [251 251 251]
-  [248 248 248]
-  ...
-  [249 249 249]
+ [[251 251 251]
   [250 250 250]
+  [249 249 249]
+  ...
+  [248 248 248]
+  [249 249 249]
   [252 252 252]]
 
- [[254 254 254]
-  [253 253 253]
+ [[253 253 253]
   [252 252 252]
+  [251 251 251]
   ...
-  [252 252 252]
-  [252 252 252]
-  [253 253 253]]
+  [251 251 251]
+  [253 253 253]
+  [254 254 254]]
 
  [[255 255 255]
   [254 254 254]
-  [255 255 255]
-  ...
   [253 253 253]
-  [254 254 254]
-  [254 254 254]]]",4.4,,"Equipped With The Most Powerful and Fast Intel Celeron Processor N Series, 1.1 GHz base clock, up to 2.6 GHz max boost clock, 4 MB cache, 4 Threads.
+  ...
+  [255 255 255]
+  [255 255 255]
+  [254 254 254]]]",4.4,$155.00,"Equipped With The Most Powerful and Fast Intel Celeron Processor N Series, 1.1 GHz base clock, up to 2.6 GHz max boost clock, 4 MB cache, 4 Threads.
 14.0-inch diagonal HD SVA anti-glare micro-edge WLED-backlit display (1366 x 768) I Intel UHD Graphics 605 Integrated
 4GB RAM | 64GB eMMC Internal Storage
 2 SuperSpeed USB Type-C 5Gbps signaling rate (USB Power Delivery, DisplayPort 1.2); 1 SuperSpeed USB Type-A 5Gbps signaling rate; 1 headphone/microphone combo; 1 microSD media card reader
@@ -155,8 +100,7 @@ Google Chrome OS, HP Wide Vision HD Camera with integrated dual array digital mi
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$199
-97","ALWAYS ON THE GO - Take this light and durable HP Chromebook with you anywhere. It travels well and has a long battery life, so you can stay connected without having to search for an outlet
+  [255 255 255]]]",4.4,,"ALWAYS ON THE GO - Take this light and durable HP Chromebook with you anywhere. It travels well and has a long battery life, so you can stay connected without having to search for an outlet
 MADE FOR WHAT YOU DO - Switch between gaming, connecting with friends, and getting your schoolwork done. The powerful MediaTek mobile processor, full-size keyboard, and 11.6-inch touchscreen can handle it all
 THE GOOGLE EXPERIENCE - Enjoy the seamless simplicity that comes with Google Chrome and Android apps, all integrated into one laptop. It’s fast, simple, and secure
 EFFICIENT OPTICS - Never sacrifice graphics for battery life again. The MediaTek Integrated Graphics card has Octa-core CPU and GPU graphics processors and a multimedia engine, so it’s built to perform without draining your battery
@@ -189,29 +133,29 @@ PORTS and CONNECTIVITY - Enjoy rock-solid connections with the latest Wi-Fi 5 WL
 
  ...
 
- [[174 169 163]
-  [120 116 109]
-  [148 142 136]
+ [[156 151 145]
+  [136 129 121]
+  [161 152 142]
   ...
-  [141 136 129]
-  [120 115 108]
-  [169 165 159]]
+  [153 145 134]
+  [136 131 119]
+  [152 149 138]]
 
- [[225 222 217]
-  [123 118 113]
-  [ 89  84  78]
+ [[225 224 218]
+  [117 112 106]
+  [ 97  92  85]
   ...
-  [ 85  81  74]
-  [118 115 108]
-  [219 216 211]]
+  [ 97  89  82]
+  [108 107 103]
+  [216 216 213]]
 
- [[255 255 251]
-  [234 230 226]
-  [195 190 184]
+ [[255 255 254]
+  [229 228 224]
+  [176 174 170]
   ...
-  [197 193 185]
-  [232 231 224]
-  [254 254 250]]]",4.4,"$382
+  [177 173 169]
+  [224 224 224]
+  [254 254 255]]]",4.4,"$382
 00","【Memory & Storage】Memory is 8GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once. Hard Drive is 256GB PCIe Solid State Drive which allows to fast bootup and data transfer
 【Processor】11th Gen Intel Core i3-1115G4 Dual-Core 3.0GHz Processor (6MB Intel Smart Cache, up to 4.10GHz) Intel UHD Graphics
 【Screen】15.6"" HD Touchscreen (1366 x 768) Display
@@ -243,29 +187,29 @@ PORTS and CONNECTIVITY - Enjoy rock-solid connections with the latest Wi-Fi 5 WL
 
  ...
 
- [[255 255 254]
+ [[252 255 255]
   [255 255 255]
-  [216 217 218]
+  [213 217 220]
   ...
-  [226 227 230]
+  [225 226 230]
   [255 255 255]
-  [255 255 255]]
+  [254 255 255]]
 
- [[255 255 254]
-  [246 246 245]
-  [196 196 197]
+ [[253 255 255]
+  [252 253 254]
+  [219 220 223]
   ...
-  [202 203 205]
-  [252 252 253]
-  [255 255 255]]
+  [233 234 236]
+  [254 254 255]
+  [254 254 255]]
 
- [[255 255 255]
-  [253 253 253]
-  [240 240 240]
+ [[254 255 255]
+  [254 255 255]
+  [240 241 243]
   ...
-  [243 243 243]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$429
+  [246 246 248]
+  [251 251 253]
+  [254 254 255]]]",4.5,"$429
 99","The Lenovo IdeaPad 3i laptop is built with powerful 12th generation Intel Core i5-1235U processors, 8GB memory, and 256GB storage
 The 14"" FHD display gives you wider viewing angles for a better experience across the board, providing better color accuracy and contrast, while the display's narrow bezels give you more available viewing screen
 Enjoy crystal-clear collaboration – HD camera clarity gives you incredible video call, online class, and video conferencing quality, while Smart Noise Cancellation provides a more natural sound experience with less background noise
@@ -301,23 +245,23 @@ Stay connected with WiFi and Bluetooth, plus one full-function USB-C port, two U
   [254 254 254]
   [248 248 248]
   ...
-  [230 230 230]
+  [231 231 231]
   [246 246 246]
-  [251 251 251]]
-
- [[255 255 255]
-  [255 255 255]
-  [252 252 252]
-  ...
-  [241 241 241]
-  [252 252 252]
   [253 253 253]]
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
+  [250 250 250]
   ...
-  [251 251 251]
+  [240 240 240]
+  [250 250 250]
+  [254 254 254]]
+
+ [[255 255 255]
+  [255 255 255]
+  [254 254 254]
+  ...
+  [250 250 250]
   [254 254 254]
   [254 254 254]]]",4,"$899
 00","The Slim 7i features a first-of-its-kind processor designed for multitasking, with 12th Generation Intel Core H Series processors that distribute performance where you need it most
@@ -588,7 +532,8 @@ The IdeaPad 3i gaming laptop offers excellent battery life to keep you playing f
   ...
   [254 254 254]
   [254 254 254]
-  [254 254 254]]]",4.4,,"More power: The 10th Gen Intel Core i7-10750H processor provides the ultimate level of performance with up to 5.0 GHz max turbo and 6 cores.
+  [254 254 254]]]",4.4,"$1,940
+03","More power: The 10th Gen Intel Core i7-10750H processor provides the ultimate level of performance with up to 5.0 GHz max turbo and 6 cores.
 Ray-tracing: The NVIDIA GeForce RTX 2070 with Max-Q Design is powered by the NVIDIA Turing GPU architecture and brings cinematic-quality rendering to the most visually intense games.
 More frames: Incredible performance paired with the fast 144Hz 15. 6"" full HD thin bezel display helps edge out the win.
 Thin and compact: The CNC aluminum unibody frame houses incredible performance in the most compact footprint possible, while remaining remarkably durable and just 0.78"" thin.
@@ -750,7 +695,7 @@ HP True Vision 720p HD camera with integrated dual array digital microphones, Wi
   ...
   [253 253 253]
   [251 251 251]
-  [254 254 254]]]",4.4,"$238
+  [254 254 254]]]",4.4,"$228
 00","It is backlit for the screen, not for keyboard."
 "[[[255 255 255]
   [255 255 255]
@@ -855,7 +800,8 @@ Storage: 64 GB eMMC"
   ...
   [252 252 252]
   [254 254 254]
-  [255 255 255]]]",4.5,,"Intel Celeron N4000 Processor (2 core, 2.6GHz, 4M Cache, 6W) 2 USB Type-C, 2 USB 3.1
+  [255 255 255]]]",4.5,"$325
+06","Intel Celeron N4000 Processor (2 core, 2.6GHz, 4M Cache, 6W) 2 USB Type-C, 2 USB 3.1
 4GB 2400MHz LPDDR4 Non-ECC
 32GB eMMC hard drive
 11.6"" Hd (1366 x 768) embedded touch, camera & Microphone, WLAN capable
@@ -908,7 +854,8 @@ Intel Dual Band Wireless AC 9560 (802.11AC) 2x2 plus Bluetooth 5.0"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"15.6 inch Full HD NanoEdge bezel display with stunning 83% screen-to-body ratio
+  [255 255 255]]]",4.5,"$555
+00","15.6 inch Full HD NanoEdge bezel display with stunning 83% screen-to-body ratio
 Powerful Intel Core i5-1135G7 Processor (Up to 4.2 GHz, 4 cores, 8M Cache) with Intel Iris Xᵉ Graphics
 4GB DDR4 on board + 4GB DDR4 SO-DIMM RAM, 512GB PCIe NVMe M.2 SSD and Windows 10 Home
 Ergonomic backlit keyboard along with a fingerprint sensor for Windows Hello login
@@ -962,7 +909,8 @@ Lightning-fast dual band Wi-Fi 5 (802.11ac) keeps you connected through any cong
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"HIGH PERFORMANCE – Surf, stream, and speed through tasks all day with an Intel Core processor backed by extensive quality testing that ensures your laptop keeps you productive and connected all day.
+  [255 255 255]]]",4.4,"$499
+00","HIGH PERFORMANCE – Surf, stream, and speed through tasks all day with an Intel Core processor backed by extensive quality testing that ensures your laptop keeps you productive and connected all day.
 HD PLUS DISPLAY – View all your photos, movies, and games in crisp HD Plus (1600 x 900) resolution on a narrow-edge, 17.3-inch diagonal display (1). Plus, the BrightView glossy finish means on-screen colors pop while blacks appear deep and distinct.
 INTEL CORE PROCESSOR – Experience the superior performance, amazing battery life, and modern features you need for both work and play with the 11th Generation Intel Core processor (2).
 STUNNING GRAPHICS – From games to movies, Intel UHD Graphics delivers high performance and stunning visuals for all your entertainment
@@ -1123,7 +1071,7 @@ This Chromebook does not include a built-in DVD/CD drive."
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$454
-18","Touch Screen Type : Capacitive.Aspect Ratio:16:9
+06","Touch Screen Type : Capacitive.Aspect Ratio:16:9
 Latest 11th generation Intel Core i3-1115G4 Processor (6M Cache, up to 4.1 GHz, 2 cores)
 Windows 10 Home in S mode, 128GB SSD and 4GB LPDDR4X RAM
 14” Full HD Wideview touch display with up to 178° viewing angle optimized for entertainment
@@ -1178,11 +1126,9 @@ Comes with Windows 10 Home in S Mode and a FREE upgrade to Windows 11"
   ...
   [245 247 246]
   [251 253 252]
-  [255 255 255]]]",4.4,,"15inch HD IPS LED Display(1366x768), Intel Graphics
-Intel Dual-Core Celeron Processor Up to 2.55GHz, 4GB RAM, 32GB Storage
+  [255 255 255]]]",4.4,$160.98,"15inch HD IPS LED Display(1366x768), Intel Graphics
 2x USB Type-A, 2x USB Type-C, 1x Headphone/microphone, Micro SD Card Reader
-Super-Fast WiFi Up to 1300 Mbps, Bluetooth 5.0
-Chrome OS"
+Super-Fast WiFi Up to 1300 Mbps, Bluetooth 5.0"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1231,7 +1177,8 @@ Chrome OS"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"UPC: 195122666729
+  [255 255 255]]]",4.4,"$984
+00","UPC: 195122666729
 Weight: 6.500 lbs"
 "[[[255 255 255]
   [255 255 255]
@@ -1281,7 +1228,8 @@ Weight: 6.500 lbs"
   ...
   [242 242 242]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Perfect display for work or play: An edge-to-edge, 100% sRGB, factory-calibrated matte screen with a 144Hz refresh rate offers stunning visuals for intense gaming sessions or content creation
+  [255 255 255]]]",4.4,"$1,999
+99","Perfect display for work or play: An edge-to-edge, 100% sRGB, factory-calibrated matte screen with a 144Hz refresh rate offers stunning visuals for intense gaming sessions or content creation
 Zero compromise powerhouse: Built for gaming and creative work in a 0.78"" thin CNC aluminum unibody
 Future proof design: Supports SSD/HDD and dual-channel memory upgradeability, Thunderbolt 3 enabled, compatible with Razer Core X external GPU enclosures for additional graphics power
 Biometric security: Supports Windows Hello instant facial unlock and authentication with integrated webcam and IR sensor
@@ -1447,7 +1395,8 @@ Watch and stream shows and videos with no distractions, thanks to the narrow bez
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,
+  [255 255 255]]]",4.4,"$355
+00",
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1496,7 +1445,8 @@ Watch and stream shows and videos with no distractions, thanks to the narrow bez
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"AMD Ryzen 5 2500U: AMD Quad-Core Ryzen 5 2500U Processor, 2.0GHz Base Frequency, up to 3.60GHz, 6 MB Smartcache
+  [255 255 255]]]",4.4,"$590
+00","AMD Ryzen 5 2500U: AMD Quad-Core Ryzen 5 2500U Processor, 2.0GHz Base Frequency, up to 3.60GHz, 6 MB Smartcache
 Expanded Storage: 8GB 2400MHz DDR4 SDRAM, 256GB PCle Solid State Drive, Can Exactly Reach Your Expectation
 HP Envy X360 15: 15.6"" Full HD ( 1920 x 1080 ) IPS Touchscreen WLED Display, Boasts Impressive Color and Clarity, AMD Radeon RX Vega 8 Graphics Integrated
 External Ports: 1 x USB 3.1 Type-C, 2 x USB 3.1, 1 x HDMI, 1 x Headphone/microphone Combo Jacks, 1 x microSD Media Card Reader
@@ -1636,13 +1586,13 @@ Cooling Perfected: The Triton 500 SE gaming laptop includes only the best: state
 
  ...
 
- [[254 254 254]
-  [253 253 253]
-  [250 250 250]
-  ...
-  [251 251 251]
+ [[253 253 253]
+  [255 255 255]
   [252 252 252]
-  [254 254 254]]
+  ...
+  [252 252 252]
+  [253 253 253]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
@@ -1691,29 +1641,29 @@ EFFORTLESSLY CONNECTED – Smooth wireless experiences are the new norm with you
 
  ...
 
- [[255 255 254]
+ [[252 255 255]
   [255 255 255]
-  [216 217 218]
+  [213 217 220]
   ...
-  [226 227 230]
+  [225 226 230]
   [255 255 255]
-  [255 255 255]]
+  [254 255 255]]
 
- [[255 255 254]
-  [246 246 245]
-  [196 196 197]
+ [[253 255 255]
+  [252 253 254]
+  [219 220 223]
   ...
-  [202 203 205]
-  [252 252 253]
-  [255 255 255]]
+  [233 234 236]
+  [254 254 255]
+  [254 254 255]]
 
- [[255 255 255]
-  [253 253 253]
-  [240 240 240]
+ [[254 255 255]
+  [254 255 255]
+  [240 241 243]
   ...
-  [243 243 243]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$429
+  [246 246 248]
+  [251 251 253]
+  [254 254 255]]]",4.5,"$429
 99","The Lenovo IdeaPad 3i laptop is built with powerful 12th generation Intel Core i5-1235U processors, 8GB memory, and 256GB storage
 The 14"" FHD display gives you wider viewing angles for a better experience across the board, providing better color accuracy and contrast, while the display's narrow bezels give you more available viewing screen
 Enjoy crystal-clear collaboration – HD camera clarity gives you incredible video call, online class, and video conferencing quality, while Smart Noise Cancellation provides a more natural sound experience with less background noise
@@ -1749,23 +1699,23 @@ Stay connected with WiFi and Bluetooth, plus one full-function USB-C port, two U
   [254 254 254]
   [248 248 248]
   ...
-  [230 230 230]
+  [231 231 231]
   [246 246 246]
-  [251 251 251]]
-
- [[255 255 255]
-  [255 255 255]
-  [252 252 252]
-  ...
-  [241 241 241]
-  [252 252 252]
   [253 253 253]]
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
+  [250 250 250]
   ...
-  [251 251 251]
+  [240 240 240]
+  [250 250 250]
+  [254 254 254]]
+
+ [[255 255 255]
+  [255 255 255]
+  [254 254 254]
+  ...
+  [250 250 250]
   [254 254 254]
   [254 254 254]]]",4,"$899
 00","The Slim 7i features a first-of-its-kind processor designed for multitasking, with 12th Generation Intel Core H Series processors that distribute performance where you need it most
@@ -1874,7 +1824,8 @@ Stay connected with Bluetooth 5.1 and Wi-Fi built in, plus 2 USB-A ports, HDMI, 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Aspect Ratio:16:9
+  [255 255 255]]]",4.6,"$2,623
+58","Aspect Ratio:16:9
 NVIDIA GeForce RTX 30 Series Graphics for Stunning Visuals: Built on NVIDIA’s award-winning 2nd-gen RTX architecture, these GPUs provide the most realistic ray-traced graphics and cutting-edge AI features for the most powerful graphics in a gaming laptop
 Intel 11th Gen 8-Core CPU for All-out Gaming Performance: Run the heaviest AAA titles and creation tasks without breaking a sweat, and activate Intel Turbo Boost Technology for a jolt of speed that brings the i7 processor up to 5.1GHz
 Next-gen Display: Go with ultra-fast 360Hz FHD for competitive gaming, OLED UHD for creative work with 4K clarity, or a 240Hz QHD display for the best of both worlds
@@ -1929,7 +1880,7 @@ Windows 11 Home: Experience the best Windows ever for gaming with superior graph
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Open/Edit MS Office Files Using Free Embedded Quick Office Editor or Google Docs for Free
+  [255 255 255]]]",4.6,$159.99,"Open/Edit MS Office Files Using Free Embedded Quick Office Editor or Google Docs for Free
 Intel Celeron Dual-Core N3350 Processor (Up to 2.4GHz, 2MB Cache), 4GB LPDDR4 Memory, 32GB SSD Storage
 11.6"" Multi-touch HD Widescreen IPS LED-backlit Display (1366 x 768) with Anti-glare Technology, Intel HD Graphics,
 2x USB 3.0, 2x USB-C, 1x Headphone/Speaker Combo Jack, HD Webcam, NO Optical Drive
@@ -2035,7 +1986,8 @@ Windows 10 Home"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Fast and Efficient: With an 11th Generation Intel Core i3 processor and Intel UHD graphics, this ASUS laptop helps you get things done swiftly and efficiently
+  [255 255 255]]]",4.4,"$279
+99","Fast and Efficient: With an 11th Generation Intel Core i3 processor and Intel UHD graphics, this ASUS laptop helps you get things done swiftly and efficiently
 Stylish and Portable: Weighing only 3.3lbs, the extremely portable ASUS Vivobook 14 F415 is a lightweight laptop that will keep up with your fast-paced lifestyle
 Immersive Viewing Experience: This 14 inch laptop features a NanoEdge display, giving it a vast screen area for work and play. Its IPS-level wide-view FHD panel features an anti-glare coating to reduce unwanted distractions from irritating glare and reflections, so you can truly focus on what’s in front of you
 Ergonomic, Comfortable Typing: This notebook laptop comes with a full-size backlit keyboard, so it is perfect for dim environments. Ergonomically designed, its sturdy, one-piece construction and 1.4 mm key travel provide a comfortable typing experience
@@ -2070,15 +2022,15 @@ Lightning-fast dual band Wi-Fi 5 (802.11ac) keeps you connected through any cong
 
  [[255 255 255]
   [253 253 253]
-  [252 252 252]
+  [251 251 251]
   ...
-  [252 252 252]
+  [251 251 251]
   [253 253 253]
-  [255 255 255]]
+  [254 254 254]]
 
  [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+  [254 254 254]
+  [253 253 253]
   ...
   [254 254 254]
   [255 255 255]
@@ -2086,9 +2038,9 @@ Lightning-fast dual band Wi-Fi 5 (802.11ac) keeps you connected through any cong
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
-  ...
   [254 254 254]
+  ...
+  [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$188
 00","Intel Celeron N3060, 1.6GHz, dual-core Processor
@@ -2146,7 +2098,8 @@ Connectivity technology: WiFi"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"The 14 inches Fhd (1920 x 1080) Touchscreen display is ideal for productivity or creativity, while the Intel Pentium Core i5-8265u Processor is fast and responsive. Includes 8GB DDR4 RAM and 128GB NVMe SSD
+  [255 255 255]]]",4.4,"$730
+00","The 14 inches Fhd (1920 x 1080) Touchscreen display is ideal for productivity or creativity, while the Intel Pentium Core i5-8265u Processor is fast and responsive. Includes 8GB DDR4 RAM and 128GB NVMe SSD
 With up to 8 hours of battery life, the Flex 14 enables you to work, play, and stay in the loop all day, from anywhere. Recharge technology lets you recharge your multimode PC up to 80% in just 1 hour
 Stay connected with Wi-Fi and Bluetooth built in. The Flex 14 notebook also includes 2 USB ports, 1 USB-C port, a card reader, HDMI port, and audio jack
 Write, draw, or sketch directly onto the Flex 14's touch screen. With a digital pen (available separately), you can capture moments of inspiration or take notes on the fly
@@ -2199,7 +2152,8 @@ The convenient true block privacy shutter lets you physically close your PC's we
   ...
   [226 226 226]
   [247 247 247]
-  [255 255 255]]]",4.4,,"【Storage & RAM】RAM is 16 GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; Hard Drive is 1 TB PCIe NVMe M.2 Solid State Drive to allow faster bootup and data transfer.
+  [255 255 255]]]",4.4,"$968
+47","【Storage & RAM】RAM is 16 GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; Hard Drive is 1 TB PCIe NVMe M.2 Solid State Drive to allow faster bootup and data transfer.
 【Processor】Intel Core i5-1135G7 2.40GHz Quad-Core Processor
 【Display】17.3"" FHD (1920x1080) IPS, Anti-glare
 【Operating System】Windows 11 Home, 64-bit, English
@@ -2208,25 +2162,25 @@ The convenient true block privacy shutter lets you physically close your PC's we
   [255 255 255]
   [255 255 255]
   ...
-  [229 233 245]
-  [236 240 250]
-  [248 252 255]]
+  [227 232 245]
+  [231 235 244]
+  [246 249 251]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [221 225 237]
-  [225 229 240]
-  [233 237 248]]
+  [221 227 241]
+  [218 225 236]
+  [223 230 234]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [220 224 235]
-  [221 225 236]
-  [221 225 236]]
+  [222 229 242]
+  [220 230 242]
+  [217 227 231]]
 
  ...
 
@@ -2252,7 +2206,8 @@ The convenient true block privacy shutter lets you physically close your PC's we
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"15.6 inch Full HD NanoEdge bezel display with stunning 86% screen-to-body ratio
+  [255 255 255]]]",4.4,"$673
+23","15.6 inch Full HD NanoEdge bezel display with stunning 86% screen-to-body ratio
 Latest 11th generation Intel Core i5-1135G7 Quad Core Processor (8M Cache, up to 4.70 GHz, with IPU)
 8GB DDR4 RAM and 512GB PCIe SSD and Windows 10 Home
 Metal chassis and 16mm z-height
@@ -2361,7 +2316,8 @@ Extremely portable: the laptop is only 3.97lbs and 0.7 inches thin, this ASUS la
   ...
   [ 94 101 104]
   [121 127 130]
-  [230 231 232]]]",4.5,,"Aspect Ratio:16:9
+  [230 231 232]]]",4.5,"$1,079
+99","Aspect Ratio:16:9
 Intel Evo Platform - The perfect combination of performance, responsiveness and battery life. Enjoy amazing performance with the 11th Gen Intel Core i7-1165G7 processor. Experience vivid colors with Intel Iris Xe graphics. Stay productive with a fast-charging, long-lasting battery.
 13.3 inch OLED 400nits Full HD (1920 x 1080) Wide View 4-way NanoEdge bezel display
 Latest 11th generation Intel Core i7-1165G7 Processor 2.8 GHz (12M Cache, up to 4.7 GHz) with Intel Iris Plus graphics
@@ -2416,7 +2372,7 @@ Built-in IR camera for facial recognition sign in with Windows Hello"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Display: 14.0-inch diagonal HD SVA Bright View micro-edge WLED-backlit (1366 x 768), Graphics: AMD Radeon Vega 3 Graphics
+  [255 255 255]]]",4.4,$239.99,"Display: 14.0-inch diagonal HD SVA Bright View micro-edge WLED-backlit (1366 x 768), Graphics: AMD Radeon Vega 3 Graphics
 Memory: 4 GB DDR4-2400 SDRAM (1 x 4 GB), Internal storage: 128 GB M.2 Solid State Drive
 Camera: HP True Vision HD Camera with integrated digital microphone, Product weight: 3.25 lb
 Operating system: Windows 10 Home in S mode
@@ -2469,7 +2425,8 @@ Processor: AMD Ryzen 3 3200U"
   ...
   [150 150 150]
   [149 149 149]
-  [188 188 188]]]",4.4,,"11th Gen Intel Core i5-1135G7 processor
+  [188 188 188]]]",4.4,"$630
+00","11th Gen Intel Core i5-1135G7 processor
 8GB system memory for advanced multitasking
 256 GB Solid State Drive (PCI-e)
 360° flip-and-fold design
@@ -2522,7 +2479,8 @@ Processor: AMD Ryzen 3 3200U"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"NVIDIA GeForce RTX 3060 6GB GDDR6 - ROG Boost up to 1752MHz at 140W (115W + 25W with Dynamic Boost)
+  [255 255 255]]]",4.5,"$1,299
+99","NVIDIA GeForce RTX 3060 6GB GDDR6 - ROG Boost up to 1752MHz at 140W (115W + 25W with Dynamic Boost)
 MUX switch - GPU MUX switch lets the GPU communicate directly with the display, increasing performance and decreasing latency
 AMD Ryzen 7 6800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost)
 300Hz 3ms 15.6” FHD (1920 x 1080) IPS Type Display
@@ -2577,7 +2535,8 @@ Full Connectivity - Wi-Fi 6E with RangeBoost, Bluetooth 5.2, 1x RJ45 LAN port, 1
   ...
   [245 245 245]
   [255 255 255]
-  [255 255 255]]]",4.4,,"【High Speed RAM And Enormous Space】20GB DDR4 RAM to smoothly run multiple applications and browser tabs all at once; 512GB PCIe M.2 Solid State Drive allows to fast bootup and data transfer
+  [255 255 255]]]",4.4,"$480
+00","【High Speed RAM And Enormous Space】20GB DDR4 RAM to smoothly run multiple applications and browser tabs all at once; 512GB PCIe M.2 Solid State Drive allows to fast bootup and data transfer
 【Processor】Intel Core i3-1115G4 3.00 GHz 2 Cores Processor (6MB Cache, up to 4.10 GHz), Intel UHD Graphics
 【Dazzling Display】15.6"" HD touchscreen display with narrow bezels
 【Tech Specs】2 x SuperSpeed USB Type-A, 1 x USB 2.0 Type-A, 1 x HDMI, 1 x Headphone/Microphone Combo; SD Card Reader; Wi-Fi 6
@@ -2630,7 +2589,8 @@ Full Connectivity - Wi-Fi 6E with RangeBoost, Bluetooth 5.2, 1x RJ45 LAN port, 1
   ...
   [208 208 208]
   [229 229 229]
-  [251 251 251]]]",4.5,,"17.3-inch diagonal, FHD (1920 x 1080), IPS, anti-glare display Enjoy vibrant, crystal-clear images with 178° wide-viewing angles, Non-reflective and low gloss means you'll get less glare while you're outside.
+  [251 251 251]]]",4.5,"$465
+00","17.3-inch diagonal, FHD (1920 x 1080), IPS, anti-glare display Enjoy vibrant, crystal-clear images with 178° wide-viewing angles, Non-reflective and low gloss means you'll get less glare while you're outside.
 AMD Ryzen 5 5500U Mobile Processor Create. Play. Work. Educate. Entertain. The possibilities are infinite. Be anywhere, go anywhere. Powers ultrathin notebooks that offer supreme performance, astonishing battery life, and modern features you need on-the-go.
 8GB system memory for advanced multitasking Substantial high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once.
 256GB PCIe NVMe SSD storage Get up to 15x faster performance than a traditional hard drive.
@@ -2661,20 +2621,20 @@ AMD Radeon graphics Whether it’s games or movies, experience high performance 
 
  ...
 
- [[237 237 237]
-  [139 139 139]
-  [ 20  20  20]
+ [[241 241 241]
+  [128 128 130]
+  [ 22  22  24]
   ...
-  [ 20  20  20]
-  [137 137 137]
+  [ 17  17  19]
+  [118 118 119]
   [239 239 239]]
 
  [[255 255 255]
-  [247 247 247]
-  [228 228 228]
+  [255 255 255]
+  [200 200 201]
   ...
-  [216 216 216]
-  [246 246 246]
+  [199 199 200]
+  [255 255 255]
   [255 255 255]]
 
  [[255 255 255]
@@ -2683,7 +2643,7 @@ AMD Radeon graphics Whether it’s games or movies, experience high performance 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$1,149
+  [255 255 255]]]",4.4,"$1,399
 00","Aspect Ratio:16:9
 POWERFUL, FAST, AMAZING: Our new laptop is packed with the premium performance you’ve come to expect from Samsung — plus some; It’s powered by the latest 12th Gen Evo-certified Intel processor, our most powerful available CPU yet
 THIN, LIGHT, POWERFUL: With a PC this powerful, you’ll want to take it with you wherever you go; And you can. At less than 2 pounds, Galaxy Book2 Pro is our thinnest and lightest laptop yet
@@ -2795,7 +2755,7 @@ Comprehensive connections including fingerprint sensor, USB 3.2 Type-A (Gen2), U
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers.
+  [255 255 255]]]",4.4,$209.99,"This pre-owned product is not Apple certified, but has been professionally inspected, tested and cleaned by Amazon-qualified suppliers.
 There will be no visible cosmetic imperfections when held at an arm’s length. There will be no visible cosmetic imperfections when held at an arm’s length.
 This product will have a battery which exceeds 80% capacity relative to new.
 Accessories will not be original, but will be compatible and fully functional. Product may come in generic Box.
@@ -2848,7 +2808,8 @@ This product is eligible for a replacement or refund within 90 days of receipt i
   ...
   [253 253 253]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Slim and light, the IdeaPad 3 is powered by an Intel Core i3-1005G1 Processor with 4GB DDR4 RAM, 128GB M.2 SSD storage, and Integrated Intel UHD Graphics
+  [255 255 255]]]",4.4,"$265
+00","Slim and light, the IdeaPad 3 is powered by an Intel Core i3-1005G1 Processor with 4GB DDR4 RAM, 128GB M.2 SSD storage, and Integrated Intel UHD Graphics
 Get more from your entertainment with Dolby Audio. Enjoy crystal-clear sound whether you're watching a video, streaming music, or video-chatting – you're sure to love what you hear on the IP 3 laptop
 See more and do more on the 14-inch FHD screen. A narrow bezel on 2 sides makes for a clean design and larger display, giving you more viewing area and less clutter
 Keep your privacy intact and get peace of mind when you need it with a physical shutter on your 720p webcam with dual microphones
@@ -2901,31 +2862,32 @@ Stay connected with 2x2 WiFi (802.11 ac), Bluetooth 5.0, 2 x USB 3.0, USB 2.0, 3
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Aspect Ratio:16:9
+  [255 255 255]]]",4.4,"$449
+00","Aspect Ratio:16:9
 Awarded Best Chromebook by CNN Underscored!
 THE POWER & SPEED YOU DESERVE: Whether your working, studying or relaxing, Galaxy Chromebook 2 has you covered. With the latest Intel Core processor, you'll get super-fast speeds. Plus, Wi-Fi 6 GIG+ that’s up to 3x faster than standard Wi-Fi gives you a super smooth performance
 SLEEK DESIGN TO MAKE YOU STAND OUT: Featuring an ultra-thin design , the Galaxy Chromebook 2 is compact and ready for impact. With technology as slim, sleek and savvy as this, it’s no wonder they’re staring. Whether your working, studying or relaxing, Galaxy Chromebook 2 has you covered. With the latest Intel Core processor, you'll get super-fast speeds. Plus, Wi-Fi 6 GIG+ that’s up to 3x faster than standard Wi-Fi gives you a super smooth performance.
 A BATTERY THAT'S ABOVE & BEYOND: Stay dialed in on-the-go with an all-day battery that keeps up no matter how many checkmarks your to-do list demands.
 WHEN INSPIRATION STRIKES, you’re prepared. Add any USI pen to your Galaxy Chromebook 26 and enjoy industry-leading pressure sensitivity whether you’re writing your boss an email, or creating boss-level original content."
-"[[[255 254 251]
-  [255 254 250]
-  [255 254 249]
+"[[[255 255 250]
+  [255 255 249]
+  [255 255 247]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[255 253 253]
-  [255 254 252]
-  [255 254 252]
+ [[255 254 254]
+  [255 254 253]
+  [255 255 251]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[255 252 255]
-  [255 253 255]
-  [255 254 255]
+ [[255 254 255]
+  [255 254 254]
+  [255 255 249]
   ...
   [255 255 255]
   [255 255 255]
@@ -2955,7 +2917,8 @@ WHEN INSPIRATION STRIKES, you’re prepared. Add any USI pen to your Galaxy Chro
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"SUPERCHARGED RTX GRAPHICS - Gameplay graphics are silky smooth with the NVIDIA GeForce RTX 3050 4GB GDDR6 at 95W with ROG Boost, with cutting-edge AI features like NVIDIA DLSS and Ray-Tracing
+  [255 255 255]]]",4.5,"$1,333
+90","SUPERCHARGED RTX GRAPHICS - Gameplay graphics are silky smooth with the NVIDIA GeForce RTX 3050 4GB GDDR6 at 95W with ROG Boost, with cutting-edge AI features like NVIDIA DLSS and Ray-Tracing
 MUX SWITCH BOOST - A MUX Switch lets the GPU communicate directly with the display, increasing performance and decreasing latency
 ROG INTELLIGENT COOLING - a robust thermal system with Thermal Grizzly Liquid Metal Thermal Compound and self cleaning dual fans with anti-dust technology extend system longevity
 READY FOR ANYTHING - Use your gaming laptop to stream and multi-task with ease thanks to an AMD Ryzen 7 6800H CPU with 20MB Cache, up to 4.7 GHz, 8 cores/16 threads and 16GB of blisteringly fast 4800MHz DDR5 RAM on Windows 11 Home
@@ -3010,7 +2973,7 @@ AURA SYNC - 4-zone RGB Keyboard, RGB light bar, RGB Logo"
   ...
   [246 249 247]
   [252 253 253]
-  [255 255 255]]]",4.4,,"15.6"" Full HD LED Backlit Touchscreen(1920x1080), Intel Graphics
+  [255 255 255]]]",4.4,$192.99,"15.6"" Full HD LED Backlit Touchscreen(1920x1080), Intel Graphics
 Intel Dual-Core Celeron N Processor Up to 2.50GHz, 4GB DDR4 RAM, 32GB SSD
 2x USB Type-A, 2x USB Type-C, 1x Headphone/microphone, Micro SD Card Reader
 IEEE 802.11a/b/g/n/ac, Bluetooth 5.0, Full-size keyboard with Numeric keypad
@@ -3063,7 +3026,8 @@ Chrome OS"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"14” Full HD NanoEdge bezel display with stunning 85% screen-to-body ratio
+  [255 255 255]]]",4.4,"$729
+99","14” Full HD NanoEdge bezel display with stunning 85% screen-to-body ratio
 Latest 11th generation Intel Core i5-1135G7 Quad Core Processor (8M Cache, up to 4.70 GHz, with IPU)
 Free Upgrade to Windows 11 Home
 8GB DDR4 RAM and 512GB PCIe NVMe M.2 PCIe SSD
@@ -3119,7 +3083,8 @@ ASUS AI Noise-Canceling Technology employs machine learning to isolate unwanted 
   ...
   [ 96 203 229]
   [ 93 194 221]
-  [134 212 229]]]",4.5,,"Aspect Ratio:16:9
+  [134 212 229]]]",4.5,"$779
+00","Aspect Ratio:16:9
 EASY ON THE EYES: Everything looks brilliant with the first 13.3""/15.6” AMOLED screen in a Galaxy Book; Enjoy vibrant viewing while you work or school inside or in direct sunlight, and it lessens eye strain by reducing harmful blue light.
 LIGHTEST GALAXY BOOK LAPTOP: Sleek, ultrathin and available in a stylish, dual color design, Galaxy Book Pro is the lightest laptop and won’t weigh you down.
 DO IT IN A FLASH: From downloading large documents fast to watching streams with no lag, and more — all with the new 11th Gen Core processor that’s Intel Evo certified, so it works on a premium platform; With 512 GB of storage, you’ll have all the space you need.
@@ -3207,28 +3172,28 @@ Stay connected with WiFi and Bluetooth, plus one full-function USB-C port, two U
  ...
 
  [[255 255 255]
-  [255 255 255]
-  [252 252 252]
+  [254 254 254]
+  [248 248 248]
   ...
-  [232 232 232]
-  [247 247 247]
-  [252 252 252]]
+  [231 231 231]
+  [246 246 246]
+  [253 253 253]]
 
- [[254 254 254]
+ [[255 255 255]
   [255 255 255]
-  [253 253 253]
+  [250 250 250]
   ...
   [240 240 240]
-  [248 248 248]
+  [250 250 250]
   [254 254 254]]
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
+  [254 254 254]
   ...
   [250 250 250]
-  [253 253 253]
-  [255 255 255]]]",4,"$899
+  [254 254 254]
+  [254 254 254]]]",4,"$899
 00","The Slim 7i features a first-of-its-kind processor designed for multitasking, with 12th Generation Intel Core H Series processors that distribute performance where you need it most
 The pristine WQXGA IPS touchscreen display runs seamless visuals in smooth motion with a rapid 120Hz refresh rate on a 16:10 screen
 Intel Arc graphics allow you to crunch through everything from 8K video processing to AI-accelerated photo editing, while enjoying higher quality and more realistic gaming
@@ -3260,29 +3225,29 @@ Stay connected with Bluetooth 5.1 and Wi-Fi built in, plus 2 USB-A ports, HDMI, 
 
  ...
 
- [[254 254 252]
-  [252 252 250]
-  [246 246 244]
+ [[254 254 254]
+  [252 252 252]
+  [248 248 248]
   ...
   [244 244 244]
-  [249 249 249]
-  [255 255 255]]
+  [248 248 248]
+  [252 252 252]]
 
- [[250 250 248]
-  [249 249 247]
-  [247 247 245]
+ [[253 253 253]
+  [252 252 252]
+  [247 247 247]
   ...
   [247 247 247]
-  [252 252 252]
-  [254 254 254]]
-
- [[252 252 250]
-  [251 251 249]
-  [249 249 247]
-  ...
   [249 249 249]
+  [252 252 252]]
+
+ [[255 255 255]
+  [253 253 253]
+  [248 248 248]
+  ...
+  [250 250 250]
   [252 252 252]
-  [254 254 254]]]",4.4,,"【Upgraded】RAM is upgraded to 16 GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; Hard Drive is upgraded to 1 TB Solid State Drive to allow faster bootup and data transfer. Original Seal is opened for upgrade ONLY. If the computer has modifications (listed above), then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.
+  [253 253 253]]]",4.4,,"【Upgraded】RAM is upgraded to 16 GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; Hard Drive is upgraded to 1 TB Solid State Drive to allow faster bootup and data transfer. Original Seal is opened for upgrade ONLY. If the computer has modifications (listed above), then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.
 【COLLABORATION READY】Protects your data with enterprise-grade security, boosts productivity with powerful management tools, and keeps going with long battery life. Powerful Wi-Fi 5 + Bluetooth 4.2 supports Gigabit speed and smooth streaming of high-resolution videos, TrueVision HD Camera system ready for remote work, virtual meeting, and online class
 【Display】15.6 inch diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 220 nits, 45 percent NTSC
 【Processor】AMD Athlon Silver 3050U 2.3GHz Dual-Core Processor (5MB Cache, Up to 3.2GHz)
@@ -3335,8 +3300,8 @@ Stay connected with Bluetooth 5.1 and Wi-Fi built in, plus 2 USB-A ports, HDMI, 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$1,285
-08","Powered Up: The 12th Gen. Intel Core i7 processor to deliver maximum efficiency in gameplay, Multi-task work and producTivity.
+  [255 255 255]]]",4.4,"$1,263
+22","Powered Up: The 12th Gen. Intel Core i7 processor to deliver maximum efficiency in gameplay, Multi-task work and producTivity.
 It All Starts Now: Enjoy the latest generation Windows 11 Home for your everyday needs. MSI recommends Windows 11 Pro for business use.
 Ray-Tracing: The NVIDIA GeForce RTX 3070 Laptop GPU powered by the NVIDIA 2nd gen RTX architecture for the most realistic ray-traced graphics and cutting-edge AI features.
 FHD Display: The 15.6” 144Hz FHD display delivers smooth refresh rate for seamless and vibrant gameplay.
@@ -3389,7 +3354,8 @@ High-Speed Data: SSD Gen 4x4 and DDR4-3200 memory for the fastest data transfer,
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"14 inch Touchscreen Full HD 1920x1080 4-way NanoEdge display featuring ultra-narrow bezels (5mm thin) around each side of the display that allows for a 14 inch screen to fit in the body of a 13 inch laptop footprint
+  [255 255 255]]]",4.4,"$499
+99","14 inch Touchscreen Full HD 1920x1080 4-way NanoEdge display featuring ultra-narrow bezels (5mm thin) around each side of the display that allows for a 14 inch screen to fit in the body of a 13 inch laptop footprint
 The Full HD display has a durable 360 degree hinge that can be used to flip the touchscreen display to tent, stand, and tablet mode
 Powered by the Intel Core m3-8100Y Processor (up to 3.4 GHz) for super-fast and snappy performance. If you use a ton of tabs or run lots of apps, this has the power to get it all done with ease
 4GB LPDDR3 RAM; 32GB eMMC storage and 2x USB 3.2 Type-C (Gen 1) and 1x USB 3.2 Type-A (Gen 1) ports plus a backlit keyboard (*USB Transfer speed may vary. Learn more at ASUS website)
@@ -3442,7 +3408,8 @@ The lightweight (3.2lb) all-aluminum metal body makes the C434 both durable and 
   ...
   [248 247 247]
   [249 251 250]
-  [254 255 255]]]",4.4,,"Chromebook runs on Chrome OS - an operating system by Google that is built for the way we live today It comes with built-in virus protection updates automatically boots up in seconds and continues to stay fast over time (*Internet connection is required)
+  [254 255 255]]]",4.4,"$199
+00","Chromebook runs on Chrome OS - an operating system by Google that is built for the way we live today It comes with built-in virus protection updates automatically boots up in seconds and continues to stay fast over time (*Internet connection is required)
 All the Google apps you know and love come standard on every Chromebook which means you can edit download and convert Microsoft Office files in Google Docs Sheets and Slides
 Get access to more than 2 million Android apps from Google Play to learn and do more
 Chromebooks come with built-in storage for offline access to your most important files and an additional 100GB of Google Drive space to ensure that all of your files are backed up automatically
@@ -3475,9 +3442,9 @@ CB314-1HT-C7C0 comes with 14” HD Touch Display Intel Celeron N4000 4GB LPDDR4 
 
  [[255 255 255]
   [255 255 255]
-  [198 198 198]
+  [186 186 186]
   ...
-  [235 235 235]
+  [212 212 212]
   [255 255 255]
   [255 255 255]]
 
@@ -3487,7 +3454,7 @@ CB314-1HT-C7C0 comes with 14” HD Touch Display Intel Celeron N4000 4GB LPDDR4 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]
+  [254 254 254]]
 
  [[255 255 255]
   [255 255 255]
@@ -3495,8 +3462,8 @@ CB314-1HT-C7C0 comes with 14” HD Touch Display Intel Celeron N4000 4GB LPDDR4 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$2,399
-99","Aspect Ratio:16:9
+  [255 255 255]]]",4.4,"$2,252
+96","Aspect Ratio:16:9
 NVIDIA GeForce RTX 30 Series Graphics for Stunning Visuals: Built on NVIDIA’s award-winning 2nd-gen RTX architecture, these GPUs provide the most realistic ray-traced graphics and cutting-edge AI features for the most powerful graphics in a gaming laptop
 Whether gaming or creating, AMD Ryzen processors offer ultimate performance: AMD Ryzen 5000 Series processors power the next generation of demanding games, providing one of a kind immersive experiences and dominate any multithreaded task like 3D and video rendering3, and software compiling
 Next-gen Displays to Meet Your Needs: 165Hz QHD display for the best of both worlds in fast gaming and ultra clear display
@@ -3552,7 +3519,8 @@ Input and Output: 2 x USB 3.2 Gen 2 Type-A Ports, 2 x USB 3.2 Gen 2 Type-C with 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"13.3 Inch FHD Touchscreen (1920 x 1080I) IPS, Glossy, 250 nits
+  [255 255 255]]]",4.4,"$412
+00","13.3 Inch FHD Touchscreen (1920 x 1080I) IPS, Glossy, 250 nits
 128GB Solid State Drive, 8GB RAM LPDDR4x (3733MHz)
 3.0GHz i3-1135G7 Dual Core Processor (Up to 4.1GHz), Intel UHD Graphics
 Chrome OS, 10 Hour Battery Life, Backlit Keyboard, microSD Card Reader, Webcam, Wi-Fi 6 802.11AX (2 x 2), Bluetooth 5.0, Dual 2W Speakers
@@ -3605,7 +3573,8 @@ Ports: 2 x USB-C (1 with power delivery); 1 x USB-A; 1 x MicroSD Card Reader, 1 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Aspect Ratio:16:9
+  [255 255 255]]]",4.5,"$3,200
+99","Aspect Ratio:16:9
 NVIDIA GeForce RTX 3080 Ti 16GB GDDR6 - ROG Boost up to 1445 MHz at 150W (125W + 25W with Dynamic Boost)
 MUX switch - GPU MUX switch lets the GPU communicate directly with the display, increasing performance and decreasing latency
 Latest 12th Gen Intel Core i9-12900H Processor - 24M Cache, up to 5.0 GHz, 14 cores (6 P-cores and 8 E-cores)
@@ -3659,8 +3628,7 @@ Latest 12th Gen Intel Core i9-12900H Processor - 24M Cache, up to 5.0 GHz, 14 co
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$114
-95","Google Classroom Compatible! Fast, flexible, and fun, the Chromebook 3-11"" brings everyone's favorite Chromebook features, housed in a slim chassis, running on the lightning-fast Chrome OS that boots up in seconds, updates automatically, and is protected by built-in virus protection. Powered by an Intel Celeron processor with up to 10 hours of battery life, the Chromebook 3-11"" can seamlessly run all of your favorite apps at the same time.
+  [255 255 255]]]",4.4,,"Google Classroom Compatible! Fast, flexible, and fun, the Chromebook 3-11"" brings everyone's favorite Chromebook features, housed in a slim chassis, running on the lightning-fast Chrome OS that boots up in seconds, updates automatically, and is protected by built-in virus protection. Powered by an Intel Celeron processor with up to 10 hours of battery life, the Chromebook 3-11"" can seamlessly run all of your favorite apps at the same time.
 Intel Celeron N4020 Dual-Core Processor 1.1GHz up to 2.8GHz. Integrated Intel UHD Graphics 600
 4GB LPDDR4 2.4 GHz RAM, 32GB eMMC Solid State Drive, No optical drive.
 11.6"" HD 1366x768 LED Backlit Anti-Glare LCD/LED Display with a brightness level of 250 nits.
@@ -3767,7 +3735,8 @@ Wi-Fi 5 (802.11ac), 2x2 + Bluetooth 5.0, Windows 10 Home 64, English"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Aspect Ratio:16:9
+  [255 255 255]]]",4.4,"$1,269
+00","Aspect Ratio:16:9
 Intel Evo Platform - The perfect combination of performance, responsiveness and battery life. Enjoy amazing performance with the 11th Gen Intel Core i7 processor with Intel Iris Xe graphics. Stay productive with a fast-charging, long-lasting battery
 13.3 inch OLED Full HD 4-way NanoEdge bezel display with Windows 11 Home
 Fast storage and memory featuring a 1TB PCIe NVMe M.2 SSD and 16GB LPDDR4X RAM
@@ -3821,11 +3790,12 @@ Sleek and lightweight aluminum body at only 2.87lbs and 0.55 inches thick, for c
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"【Storage & RAM】Enjoy up to 15x faster performance than a traditional hard drive with 256 GB SSD storage and experience improved multitasking with higher bandwidth thanks to 16 GB of RAM
+  [255 255 255]]]",4.6,"$540
+00","【Storage & RAM】Enjoy up to 15x faster performance than a traditional hard drive with 256 GB SSD storage and experience improved multitasking with higher bandwidth thanks to 16 GB of RAM
 【Processor】10th Gen Intel Core i5-1035G1 1.0GHz Quad-Core Processor (6MB Intel Smart Cache, up to 3.60GHz)
 【Display】15.6-inch FHD (1920 x 1080) Anti-glare LED Backlight Touch Narrow Border WVA Display
 【Operating System】Windows 10 Home, 64-bit, English"
-"[[[255 255 255]
+"[[[254 254 254]
   [255 255 255]
   [255 255 255]
   ...
@@ -3833,17 +3803,17 @@ Sleek and lightweight aluminum body at only 2.87lbs and 0.55 inches thick, for c
   [255 255 255]
   [255 255 255]]
 
- [[245 245 245]
-  [189 189 189]
-  [177 177 177]
+ [[251 251 251]
+  [190 190 190]
+  [179 179 179]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[191 191 191]
-  [ 88  88  88]
-  [ 86  86  86]
+ [[185 185 185]
+  [ 73  73  73]
+  [ 90  90  90]
   ...
   [255 255 255]
   [255 255 255]
@@ -3873,7 +3843,8 @@ Sleek and lightweight aluminum body at only 2.87lbs and 0.55 inches thick, for c
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"AMD A4-9120C APU Dual Core Processor 1.6 GHz base clock, up to 2.4 GHz max boost / Radeon R4 Graphics / 4GB DDR4-1866 SDRAM
+  [255 255 255]]]",4.4,"$139
+99","AMD A4-9120C APU Dual Core Processor 1.6 GHz base clock, up to 2.4 GHz max boost / Radeon R4 Graphics / 4GB DDR4-1866 SDRAM
 32GB eMMC Internal Storage / 11.6-inch HD (1366 x 768) anti-glare 220 nits 45% NTSC Display
 720p HD Camera / Integrated microphone / Pick and spill-resistant, full-size, island-style, backlit keyboard / Qualcomm Wi-Fi 5 (2x2) and Bluetooth 4.2 Combo / Touchpad with multi-touch gesture support / HD audio with dual speakers
 1 microSD Slot 2 USB 3.1 Type-C Gen 1 (Power delivery, DisplayPort), 2 USB 2.0 / 1 Stereo headphone/microphone combo jack
@@ -3982,7 +3953,8 @@ Extensive connectivity with HDMI 2.0b, USB 3.2 Type-A, Thunderbolt 4 via USB Typ
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Aspect Ratio:16:9
+  [255 255 255]]]",4.5,"$789
+99","Aspect Ratio:16:9
 Intel Evo Platform - The perfect combination of performance, responsiveness and battery life. Enjoy amazing performance with the 11th Gen Intel Core i5-1135G7 processor. Experience vivid colors with Intel Iris Xe graphics. Stay productive with a fast-charging, long-lasting battery.
 13.3 inch OLED 400nits Full HD (1920 x 1080) Wide View 4-way NanoEdge bezel display
 Latest 11th generation Intel Core i5-1135G7 Processor (8M Cache, up to 4.2 GHz) with Intel Iris Plus graphics
@@ -4036,7 +4008,8 @@ Fast storage and memory featuring 256GB PCIe NVMe M.2 SSD with 8GB LPDDR4X RAM"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"14-inch (1366 x 768) LED Display
+  [255 255 255]]]",4.4,"$144
+90","14-inch (1366 x 768) LED Display
 Intel Celeron N3350 Processor (Dual-Core, 2.4GHz, 4MB Cache)
 4GB DDR4 System Memory
 32GB  eMMC
@@ -4144,7 +4117,8 @@ Wireless: Intel Wireless Wi-Fi 6 AX200 802.11ax Dual-Band 2.4GHz and 5GHz featur
   ...
   [206 206 206]
   [208 208 208]
-  [235 235 235]]]",4.7,,"Aspect Ratio:16:9
+  [235 235 235]]]",4.7,"$1,873
+40","Aspect Ratio:16:9
 17"" WQXGA (2560x1600) IPS LCD, with DCI-P3 99% color expression
 Intel Evo Platform Powered by 11th generation Intel core i7-1195G7 Processor with Intel Xe Graphics delivers performance for high-resolution content creation and editing
 16GB LPDDR4X 4266mhz RAM delivers a high level of performance for memory-intensive content creation, designing, editing, and multitasking
@@ -4254,8 +4228,8 @@ FULL CONNECTIVITY - Blazing fast Wi-Fi 6E, Bluetooth 5.2, 1x Thunderbolt 4, 1x U
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$619
-99","【High Speed RAM And Enormous Space】32GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer.
+  [255 255 255]]]",4.5,"$619
+98","【High Speed RAM And Enormous Space】32GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer.
 【Processor】Intel Core i5-1035G1 Quad-Core Processor (4 Cores, 6MB Cache, 8 Threads, Base Frequency at 1.0 GHz, up to 3.6 GHz at Maximum Turbo Speed)
 【Display】15.6-inch FHD (1920 x 1080) Anti-glare LED Backlight Narrow Border WVA Touchscreen
 【Tech Specs】802.11ac 1x1 WiFi and Bluetooth; 1 x SD Card Reader, 1 x USB 2.0, 2 x USB 3.2, 1 x HDMI 1.4, 1 x Headphone & Microphone Audio Jack; Stereo speakers; SD Card Reader
@@ -4415,8 +4389,8 @@ Intel Wireless Wi-Fi 6 | Acer Bio-Protection Fingerprint Solution | Up to 14 Hou
   ...
   [253 254 253]
   [254 255 254]
-  [255 255 255]]]",4.3,"$870
-64","Get high performance, responsiveness and long battery life with the Intel Core i7-1165G7 Processor - up to 4.7GHz, 4 cores, 8 threads, 12MB Intel Smart Cache
+  [255 255 255]]]",4.2,"$870
+49","Get high performance, responsiveness and long battery life with the Intel Core i7-1165G7 Processor - up to 4.7GHz, 4 cores, 8 threads, 12MB Intel Smart Cache
 17.3"" Full HD (1920 x 1080) IPS Widescreen LED-backlit Display | Intel Iris Xe Graphics
 16GB DDR4 Memory (Expandable to 24GB) and 512GB NVMe SSD
 1 - USB 3.2 (Type-C) Gen 1 port (up to 5 Gbps) | 2 - USB 3.2 Gen 1 Port (one with Power-off Charging) | 1 - USB 2.0 Port | 1 - HDMI Port with HDCP support
@@ -4523,7 +4497,7 @@ Killer WiFi 6E AX1675 (2x2 )"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,
+  [255 255 255]]]",5,$469.99,
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4608,23 +4582,23 @@ Stay connected with WiFi and Bluetooth, plus one full-function USB-C port, two U
   [254 254 254]
   [248 248 248]
   ...
-  [230 230 230]
+  [231 231 231]
   [246 246 246]
-  [251 251 251]]
-
- [[255 255 255]
-  [255 255 255]
-  [252 252 252]
-  ...
-  [241 241 241]
-  [252 252 252]
   [253 253 253]]
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
+  [250 250 250]
   ...
-  [251 251 251]
+  [240 240 240]
+  [250 250 250]
+  [254 254 254]]
+
+ [[255 255 255]
+  [255 255 255]
+  [254 254 254]
+  ...
+  [250 250 250]
   [254 254 254]
   [254 254 254]]]",4,"$899
 00","The Slim 7i features a first-of-its-kind processor designed for multitasking, with 12th Generation Intel Core H Series processors that distribute performance where you need it most
@@ -4786,8 +4760,7 @@ Processor Speed: 2.60 GHz"
   ...
   [254 255 254]
   [255 255 255]
-  [255 255 255]]]",4.4,"$887
-38","Exceptional Experience: The MSI Prestige 14 is verified by the Intel Evo platform. Intel Evo brings the perfect combination of performance, responsiveness, battery life and stunning visuals to a new class of sleek, stylish laptops
+  [255 255 255]]]",4.4,,"Exceptional Experience: The MSI Prestige 14 is verified by the Intel Evo platform. Intel Evo brings the perfect combination of performance, responsiveness, battery life and stunning visuals to a new class of sleek, stylish laptops
 Pure Performance: The Prestige Series features the 11th Gen. Intel Core i7 processor & Intel Iris Xe graphics, delivering heavyweight performance with lightweight portability which will keep you in the flow, wherever you go
 Connect & Charge: Sporting a Micro SD Card reader paired with multiple Thunderbolt 4 ports, the Prestige laptop supports power delivery through ports for quick charge to devices, transfer data at 40Gbps and connect to multiple displays and peripherals
 Designed for the Future: Crafted in an ultra-thin and light aluminum chassis, the Prestige Series is made to be both portable and stylish. The 180 degree hinge makes it easy to share your content and ideas with others
@@ -4840,7 +4813,8 @@ Modern Experience: With Windows Hello, you can sign-in with your face or fingerp
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Aspect Ratio:16:10
+  [255 255 255]]]",4.4,"$1,649
+99","Aspect Ratio:16:10
 16'' (2560*1500) 16:10 120Hz display; 100% Adobe RGB; Pantone validated color accuracy; 500 nits; Delta E <2
 AMD R7 5800H processor 3.2 GHz(16M Cache, up to 4.4GHz) with Windows 11 Home
 NVIDIA Geforce RTX 3060 with 6GB GDDR6 VRAM - RTX Studio Ready
@@ -5005,8 +4979,8 @@ Windows 11 Home"
   ...
   [191 191 191]
   [198 198 198]
-  [229 229 229]]]",4.4,"$1,613
-00","Aspect Ratio:16:10
+  [229 229 229]]]",4.4,"$1,612
+72","Aspect Ratio:16:10
 16"" WQXGA (2560x1600) IPS LCD, with DCI-P3 99% color expression
 Intel Evo Platform Powered by 11th generation Intel core i7-1165G7 Processor with Intel Xe Graphics delivers performance for high-resolution content creation and editing
 16GB LPDDR4X 4266mhz RAM delivers a high level of performance for memory-intensive content creation, designing, editing, and multitasking
@@ -5060,7 +5034,8 @@ Connect with Confidence: Two USB-C ports with Thunderbolt 4 support, two USB-A 3
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Smooth Performance: The 11th Gen. Intel Core i5 processor maximizes your efficiency, multi-tasking, productivity.
+  [255 255 255]]]",4.7,"$776
+55","Smooth Performance: The 11th Gen. Intel Core i5 processor maximizes your efficiency, multi-tasking, productivity.
 Iris Xe Graphics: The Intel Iris Xe graphics delivers performance and reliability to supercharge your productivity.
 Thin Bezel Display: The 15-inch FHD display fully expands your screen estate enhancing your productivity and workflow.
 MSI Center: Take optimization to the next level with easily adjustable system modes and resources for a wide range of scenarios and needs.
@@ -5113,7 +5088,8 @@ Hi-Res Audio: With the ability to support up to 24bit / 192kHz sampling, hear au
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Powerful & efficient AMD Ryzen 5 5500U Processor (8M Cache, up to 4.0GHz, 6 cores)
+  [255 255 255]]]",4.4,"$729
+99","Powerful & efficient AMD Ryzen 5 5500U Processor (8M Cache, up to 4.0GHz, 6 cores)
 512GB SSD and 8GB DDR4 RAM
 14” Full HD Wideview touch display (with glossy finish) with up to 178° viewing angle optimized for entertainment
 12.8” wide, 0.7” thin with a stunning 82% screen-to-body ratio; Brushed aluminum chassis and lightweight at 3.31 pounds
@@ -5220,6 +5196,7 @@ Chrome OS"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,,"17. 3"" Thin Bezel LG FHD 1920x1080 144Hz anti-glare IPS display
+Intel Core i7-9750h
 Intel UHD Graphics 630 NVIDIA GeForce RTX 2060 GDDR6 6GB
 Samsung 16GB DDR4, 2 slots (Max 64GB)
 M. 2 NVMe PCIe 512gb*1 (2x M. 2 SSD slots [Type 2280, supports 1x NVMe PCIe & SATA/ 1x NVMe PCIe], 1 x 2. 5” HDD/2. 5“ SSD slot)"
@@ -5271,7 +5248,8 @@ M. 2 NVMe PCIe 512gb*1 (2x M. 2 SSD slots [Type 2280, supports 1x NVMe PCIe & SA
   ...
   [ 54  54  56]
   [ 65  65  66]
-  [149 149 149]]]",4.4,,"15.6"" Full HD IPS Anti-glare Micro-edge WLED-backlit Touchscreen (1920 x 1080) Display
+  [149 149 149]]]",4.4,"$568
+90","15.6"" Full HD IPS Anti-glare Micro-edge WLED-backlit Touchscreen (1920 x 1080) Display
 AMD Ryzen 5 5500U Hexa-Core Processor up to 4.2GHz, AMD Radeon Graphics with Shared Graphics Memory
 8GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 256GB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer
 2 x USB 3.1 Gen 1, 1 x USB 3.1 Gen 1 Type-C, 1 x HDMI, 1 x Combination Audio Jack, 1 x Multi-format SD Media Card Reader
@@ -5324,7 +5302,7 @@ HP Wide Vision HD Camera with Integrated Dual Array Digital Microphone, HP Audio
   ...
   [253 253 253]
   [253 253 253]
-  [255 255 255]]]",4.4,,"AMD Ryzen 5 4500U (2.3 GHz base clock, up to 4.0 GHz max boost clock, 8 MB L3 cache, 6 cores)
+  [255 255 255]]]",4.4,$429.00,"AMD Ryzen 5 4500U (2.3 GHz base clock, up to 4.0 GHz max boost clock, 8 MB L3 cache, 6 cores)
 15.6"" diagonal, FHD (1920 x 1080)
 8GB DDR4-SDRAM; 512GB SSD
 1 SuperSpeed USB Type-C 10Gbps signaling rate (USB PowerDelivery, DisplayPort 1.4,2 SuperSpeed USB Type-A 5Gbps signaling rate,1 Headphone/microphone combo 1 AC smart pin, 1 HDMI 2.0
@@ -5356,29 +5334,79 @@ Windows 10 Home"
  ...
 
  [[255 255 255]
-  [254 254 254]
+  [255 255 255]
   [253 253 253]
   ...
-  [255 255 255]
+  [253 253 253]
   [255 255 255]
   [255 255 255]]
 
  [[255 255 255]
-  [254 254 254]
+  [255 255 255]
   [253 253 253]
   ...
-  [255 255 255]
+  [254 254 254]
   [255 255 255]
   [255 255 255]]
 
  [[255 255 255]
-  [254 254 254]
-  [253 253 253]
+  [255 255 255]
+  [255 255 255]
   ...
+  [254 254 254]
   [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,,"Intel Core i5-1035G1 quad-core processor with up to 3.6GHz speed and 6MB cache memory
+  [255 255 255]]]",4.4,"$405
+00","Intel Core i5-1035G1 quad-core processor with up to 3.6GHz speed and 6MB cache memory
 Internal storage: 256 GB PCIe NVM M.2 SSD
 Display: 14.0-inch diagonal HD, BrightView, micro-edge
 8GB DDR4-2666 SDRAM seamlessly handles multiple programs together with its higher bandwidth, everything from multitasking to playing games gets a performance boost
 Wireless: Realtek Wi-Fi 5 (2x2) and Bluetooth 5.0 combo"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[254 254 254]
+  [251 251 251]
+  [248 248 248]
+  ...
+  [247 247 247]
+  [250 250 250]
+  [252 252 252]]
+
+ [[255 255 255]
+  [252 252 252]
+  [252 252 252]
+  ...
+  [251 251 251]
+  [252 252 252]
+  [254 254 254]]
+
+ [[254 254 254]
+  [254 254 254]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [254 254 254]
+  [254 254 254]]]",4.4,$177.99,

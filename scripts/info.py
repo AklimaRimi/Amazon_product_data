@@ -9,7 +9,7 @@ from fastbook import *
 import requests
 import numpy
 
-data = pd.read_csv('link.csv')
+data = pd.read_csv('data\link.csv')
 
 links = data['Links'].values.tolist()
 
@@ -31,7 +31,7 @@ for link in links:
         name = pic_link.split('/')[-1]
             
         img = img.resize((200,200))
-        img.save(f'images/{name}')
+        # img.save(f'images/{name}')
         img = numpy.array(img)
         
         try:
@@ -39,7 +39,8 @@ for link in links:
         except:
             rating = None
         try:
-            price =  driver.find_element(By.XPATH,'//*[@id="corePriceDisplay_desktop_feature_div"]/div[1]/span[2]/span[2]').text
+            price =  driver.find_element(By.XPATH,'//*[@id="corePrice_feature_div"]/div/span/span[2]').text
+            print(price)
         except:
             price = None
         try:
@@ -47,21 +48,21 @@ for link in links:
         except:
             description= None
         
-        
-        print(rating)
         df.append([img,rating,price,description])
-        time.sleep(1)
+        
         if cnt%100 == 0:
-            data = pd.DataFrame(df,columns=['imges','rating','price','description'])
+            data = pd.DataFrame(df,columns=['Image','Ratings','Price','Description'])
             data.to_csv(f'data\description{cnt}.csv',index=False)
             df=[]
-
-            
-        cnt+=1
+        cnt+=1 
     except:
         continue
-    
-    
+
+
+
+
+            
+           
     
 
 

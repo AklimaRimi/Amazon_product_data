@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -47,7 +47,8 @@ imges,rating,price,description
   ...
   [255 255 255]
   [255 255 254]
-  [255 255 254]]]",4.8,,"Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details
+  [255 255 254]]]",4.8,"$1,199
+99","Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details
 ASUS VivoBook Pro 15 OLED laptop comes with 15.6” FHD (1920 x 1080) 16:9 aspect ratio with ultra-slim NanoEdge bezels
 The laptop comes with 144Hz refresh rate, 100% sRGB color gamut, Pantone Validated and TÜV Rheinland-certified
 Latest Intel Core i7-12650H Processor 2.3 GHz (24M Cache, up to 4.7 GHz, 6P cores + 4E cores)

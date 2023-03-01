@@ -1,113 +1,4 @@
-imges,rating,price,description
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[202 202 203]
-  [ 35  35  37]
-  [ 16  16  18]
-  ...
-  [ 25  24  29]
-  [ 44  43  48]
-  [206 206 206]]
-
- [[255 255 255]
-  [226 226 226]
-  [196 196 196]
-  ...
-  [196 196 197]
-  [226 226 227]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",2.9,,"Vivobook S 14 OLED is protected by ASUS Antibacterial Guard – a surface treatment that keeps the bugs at bay.
-14” 2.8K (2880 x 1800) OLED 16:10 aspect ratio with ultra-slim 4-sided NanoEdge bezels, 90Hz refresh rate, 0.2ms response time, 600nits peak brightness, 100% DCI-P3 color gamut, 1,000,000:1 Contrast ratio, VESA CERTIFIED Display HDR True Black 600
-The laptop comes with Latest Intel Core i7-12700H Processor (24M Cache, up to 4.7 GHz, 6P+8E cores) and Intel Iris Xe graphics
-The laptop comes with Fast storage and memory featuring 512GB M.2 NVMe PCIe 4.0 SSD and 8GB DDR4 on board + 8GB DDR4 SO-DIMM RAM, Windows 11 Home
-Intel Evo Platform - The perfect combination of performance, responsiveness, and battery life. Enjoy amazing performance with the 12th Gen Intel Core i7 processor. Experience vivid colors with Intel Iris Xe graphics. Stay productive with fast-charging, long-lasting battery.
-Complimentary 1-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details
-The laptop is Sleek and lightweight aluminum body at only 3.31 lbs and 0.74 inches thick"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[254 254 254]
-  [253 253 253]
-  [245 245 245]
-  ...
-  [244 244 244]
-  [255 255 255]
-  [255 255 255]]
-
- [[254 254 254]
-  [246 246 246]
-  [232 232 232]
-  ...
-  [243 243 243]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [253 253 253]
-  [252 252 252]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",2.8,"$1,199
-00","15.6"" FHD (1920*1080), IPS-Level 60Hz 45%NTSC Thin Bezel
-Intel Core i7-11800H 8 Core 2.4 - 4.6GHz
-NVIDIA Quadro T1200 4GB GDDR6
-16GB (8G*2) DDR4 3200MHz; 2 Sockets; Max Memory 64GB
-512GB NVMe SSD"
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -156,7 +47,8 @@ NVIDIA Quadro T1200 4GB GDDR6
   ...
   [250 250 250]
   [250 250 250]
-  [253 253 253]]]",2.7,,"Intel Core i3 3 GHz works smartly and well responsive to let you swiftly use multiple applications
+  [253 253 253]]]",2.7,"$1,110
+60","Intel Core i3 3 GHz works smartly and well responsive to let you swiftly use multiple applications
 8 GB memory is ready to run powerful programs with efficient performance
 The 14"" 1366 x 768 screen provides a great movie watching experience
 Windows 10 Pro can be best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops
@@ -260,7 +152,8 @@ Detachable PixelSense Display with pen & touch"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.6,,"Experience responsive performance, power, adaptability and fun with Intel® Celeron™ 1.10 GHz processor
+  [255 255 255]]]",2.6,"$479
+99","Experience responsive performance, power, adaptability and fun with Intel® Celeron™ 1.10 GHz processor
 With 8 GB memory, you can multitask between various applications without issue
 The 11.6"" 1366 x 768 screen provides a great movie watching experience
 Chrome OS offers cloud connectivity to store data online that saves you hardware cost
@@ -313,7 +206,8 @@ Chrome OS offers cloud connectivity to store data online that saves you hardware
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.7,,"ASUS VivoBook S 15 laptop comes with 15.6” FHD (1920 x 1080) with ultra-slim NanoEdge bezels
+  [255 255 255]]]",2.7,"$1,063
+38","ASUS VivoBook S 15 laptop comes with 15.6” FHD (1920 x 1080) with ultra-slim NanoEdge bezels
 Latest AMD Ryzen 9 6900HX Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost) and AMD Radeon Graphics
 Fast storage and memory featuring 1TB M.2 NVMe PCIe 3.0 SSD and 16GB DDR5 RAM, Windows 11 Home
 Extensive connectivity with 2x USB 3.2 Gen 2 Type-C, USB 3.2 Type A, USB 2.0 Type A, 3.5mm Combo Audio Jack, Wi-Fi 6 (802.11ax) and Bluetooth 5.0  (*USB transfer speed may vary. Learn more at ASUS.com)
@@ -400,29 +294,29 @@ Chrome OS; Silver; Online Class ready, great for back to school students, Home, 
 
  ...
 
- [[252 255 255]
+ [[255 255 254]
   [255 255 255]
-  [213 217 220]
+  [216 217 218]
   ...
-  [225 226 230]
+  [226 227 230]
   [255 255 255]
-  [254 255 255]]
+  [255 255 255]]
 
- [[253 255 255]
-  [252 253 254]
-  [219 220 223]
+ [[255 255 254]
+  [246 246 245]
+  [196 196 197]
   ...
-  [233 234 236]
-  [254 254 255]
-  [254 254 255]]
+  [202 203 205]
+  [252 252 253]
+  [255 255 255]]
 
- [[254 255 255]
-  [254 255 255]
-  [240 241 243]
+ [[255 255 255]
+  [253 253 253]
+  [240 240 240]
   ...
-  [246 246 248]
-  [251 251 253]
-  [254 254 255]]]",4.5,"$429
+  [243 243 243]
+  [255 255 255]
+  [255 255 255]]]",4.5,"$429
 99","The Lenovo IdeaPad 3i laptop is built with powerful 12th generation Intel Core i5-1235U processors, 8GB memory, and 256GB storage
 The 14"" FHD display gives you wider viewing angles for a better experience across the board, providing better color accuracy and contrast, while the display's narrow bezels give you more available viewing screen
 Enjoy crystal-clear collaboration – HD camera clarity gives you incredible video call, online class, and video conferencing quality, while Smart Noise Cancellation provides a more natural sound experience with less background noise
@@ -458,23 +352,23 @@ Stay connected with WiFi and Bluetooth, plus one full-function USB-C port, two U
   [254 254 254]
   [248 248 248]
   ...
-  [230 230 230]
+  [231 231 231]
   [246 246 246]
-  [251 251 251]]
-
- [[255 255 255]
-  [255 255 255]
-  [252 252 252]
-  ...
-  [241 241 241]
-  [252 252 252]
   [253 253 253]]
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
+  [250 250 250]
   ...
-  [251 251 251]
+  [240 240 240]
+  [250 250 250]
+  [254 254 254]]
+
+ [[255 255 255]
+  [255 255 255]
+  [254 254 254]
+  ...
+  [250 250 250]
   [254 254 254]
   [254 254 254]]]",4,"$899
 00","The Slim 7i features a first-of-its-kind processor designed for multitasking, with 12th Generation Intel Core H Series processors that distribute performance where you need it most
@@ -583,7 +477,8 @@ Stay connected with Bluetooth 5.1 and Wi-Fi built in, plus 2 USB-A ports, HDMI, 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2,,"Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details
+  [255 255 255]]]",2,"$3,499
+99","Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details
 Unfold it for a big and beautiful 17.3” 2560 x 1920 FOLED 4:3 aspect ratio foldable OLED NanoEdge touchscreen
 Vesa Certified DisplayHDR True Black 500 display, Pantone Validated, 100% DCI-P3 color gamut, 0.2ms response time, with 87% screen-to-body ratio
 A new hybrid of laptop and tablet with on-screen keyboard mode, laptop mode, PC mode, tablet mode, book mode and extend mode
@@ -693,7 +588,8 @@ Ingress Protection 53 Compliant | MIL-STD 810H Certified | TPM 2.0 | Up to 13 Ho
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2,,"AMD Ryzen Graphics: The AMD Ryzen 5000 Series Mobile Processor accelerates both work and play with immersive entertainment and smooth image and video editing all at the fingertips.
+  [255 255 255]]]",2,"$699
+00","AMD Ryzen Graphics: The AMD Ryzen 5000 Series Mobile Processor accelerates both work and play with immersive entertainment and smooth image and video editing all at the fingertips.
 Thin Bezel Display: The 15-inch FHD display fully expands your screen estate enhancing your productivity and workflow.
 MSI Center: Take optimization to the next level with easily adjustable system modes and resources for a wide range of scenarios and needs.
 Hi-Res Audio: With the ability to support up to 24bit / 192kHz sampling, hear audio the way it was truly intended."
@@ -745,8 +641,7 @@ Hi-Res Audio: With the ability to support up to 24bit / 192kHz sampling, hear au
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.6,"$1,619
-19","NVIDIA GeForce RTX 3070 Laptop GPU 8 GB GDDR6 wth Boost Clock 1290 MHz, Maximum Graphics Power 100 W
+  [255 255 255]]]",2.6,,"NVIDIA GeForce RTX 3070 Laptop GPU 8 GB GDDR6 wth Boost Clock 1290 MHz, Maximum Graphics Power 100 W
 NVIDIA DLSS for groundbreaking AI rendering
 10th Gen Intel Core i7-10870H (2.2GHz), 16 GB RAM, 512 GB PCIe SSD
 15.6"" 4K/UHD 3840x2160 Samsung AMOLED Display, 3mm Ultra-thin Bezel
@@ -855,7 +750,8 @@ Integrated AMD Radeon Graphics
   ...
   [249 249 249]
   [249 249 249]
-  [252 252 252]]]",2.1,,"Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs
+  [252 252 252]]]",2.1,"$695
+62","Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs
 8 GB memory is ready to run powerful programs with efficient multitasking
 The 14"" 1366 x 768 screen provides a great movie watching experience"
 "[[[255 255 255]
@@ -906,7 +802,8 @@ The 14"" 1366 x 768 screen provides a great movie watching experience"
   ...
   [252 255 255]
   [255 254 255]
-  [255 252 255]]]",2,,"14"" THIN BEZEL Full HD IPS-Level 60Hz 45%NTSC
+  [255 252 255]]]",2,"$647
+20","14"" THIN BEZEL Full HD IPS-Level 60Hz 45%NTSC
 Intel Core i5-1155G7 2.5-4.5 GHz
 8GB (8GB*1) DDR4 3200MHz | 1 Socket; Max Memory 32GB
 512GB NVMe SSD"
@@ -958,7 +855,8 @@ Intel Core i5-1155G7 2.5-4.5 GHz
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"Powered by the Intel Celeron N4020 Processor 1.1 GHz (4M Cache, up to 2.8 GHz, 2 cores)
+  [255 255 255]]]",1,"$269
+99","Powered by the Intel Celeron N4020 Processor 1.1 GHz (4M Cache, up to 2.8 GHz, 2 cores)
 Durable build with Military grade standard MIL- STD 810H US with weight at 2.73 lbs
 64GB eMMC and 4GB RAM, Wi-Fi 5 + Bluetooth 5.1
 11.6 inch HD 1366x768 anti-glare NanoEdge Display
@@ -1013,7 +911,8 @@ Chromebook runs on Chrome OS and has the Google apps. You can edit, download, an
   ...
   [254 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"NVIDIA 30 Series GPU: NVIDIA GeForce RTX 3080 Ti Laptop GPU 16GB GDDR6, Boost Clock 1125MHz, Maximum Graphics Power 105 W
+  [255 255 255]]]",1,"$2,841
+02","NVIDIA 30 Series GPU: NVIDIA GeForce RTX 3080 Ti Laptop GPU 16GB GDDR6, Boost Clock 1125MHz, Maximum Graphics Power 105 W
 Intel 12th Gen Ready: 12th Gen Intel Core i9-12900H
 DDR5 Ready: DDR5 4800 32GB*2, 2x DDR5 Slots - Max 64GB, 2TB Storage
 Cutting-Edge Display: 16"" Thin Bezel 4K/UHD+ 3840x2400 Samsung AMOLED Display, VESA DisplayHDR 500, 100% DCI-P3, X-Rite Factory Calibration & Pantone Validated Dual Certification
@@ -1120,7 +1019,8 @@ Ultra Thin 2-in-1 with 360° Hinge: Enjoy the high performance and reliability w
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"Processor Manufacturer: Intel
+  [255 255 255]]]",1,"$1,354
+41","Processor Manufacturer: Intel
 Processor Type: Core i5
 Processor Generation: 11th Gen
 Processor Model: i5-1145G7
@@ -1173,7 +1073,7 @@ Processor Core: Quad-core (4 Core)"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"15inch Diagonal, FHD (1920 x 1080), Micro-edge, BrightView Display, AMD Graphics
+  [255 255 255]]]",1,$229.99,"15inch Diagonal, FHD (1920 x 1080), Micro-edge, BrightView Display, AMD Graphics
 AMD Athlon Processor Up to 3.1GHz, 4GB RAM, 128GB SSD
 1x USB Type C, 2x USB Type A, 1x HDMI, 1x Headphone/Microphone Jack, SD Card Reader
 Super-fast Wifi and Bluetooth 5, HD Webcam
@@ -1226,8 +1126,8 @@ Windows 11 OS, AC Charger Included, Dale Silver Color"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,"$2,165
-96","Intel Core i5 2.70 GHz processor provides great performance, immersive multimedia and rapid loading of programs
+  [255 255 255]]]",1,"$2,277
+54","Intel Core i5 2.70 GHz processor provides great performance, immersive multimedia and rapid loading of programs
 With 16 GB of memory, users can run many programs without losing execution
 Exceptionally large 17"" diagonal display provides 1920 x 1200 resolution
 With Windows 10 Pro edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.
@@ -1439,8 +1339,8 @@ Package height: 1.0"""
   ...
   [253 253 253]
   [254 254 254]
-  [255 255 255]]]",1,"$702
-96","Powered by Intel's 12th Gen 10-Core CPU: With PCIe Gen4 performance and DDR4 memory with speeds of 3200MHz, the Intel i5-1235U 10-Core processor is able to keep producTivity at an all Time high while on the move.
+  [255 255 255]]]",1,"$799
+00","Powered by Intel's 12th Gen 10-Core CPU: With PCIe Gen4 performance and DDR4 memory with speeds of 3200MHz, the Intel i5-1235U 10-Core processor is able to keep producTivity at an all Time high while on the move.
 It All Starts Now: Enjoy the latest generation Windows 11 Home for your everyday needs. *MSI recommends Windows 11 Pro for business use.
 Elevate Creativity & Productivity: With Intel Iris Xe dedicated graphics experience amazing HD video capabilities for work, home & remote learning. With support for up to 3 simultaneous 4K HDR displays, immerse yourself in your favorite content.
 180° Lay-Flat & Flip-n-Share: Lay your screen down flat & with just a touch of a button share your screen with those around you ensuring for a more productive environment.
@@ -1493,7 +1393,8 @@ Stay Connected: Includes, USB3.2 Type-A, USB3.2 Gen2 Type-C w/ PD Charging, HDMI
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"14"" THIN BEZEL Full HD IPS-Level 60Hz 72% NTSC
+  [255 255 255]]]",1,"$862
+61","14"" THIN BEZEL Full HD IPS-Level 60Hz 72% NTSC
 Intel Iris Xe
 8GB (8GB*1) DDR4 3200MHz
 512GB NVMe SSD
@@ -1546,7 +1447,8 @@ Intel 9560 Jefferson Peak (2x2 802.11 ac)"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"Processor Socket: Socket BGA-1787
+  [255 255 255]]]",1,"$1,702
+85","Processor Socket: Socket BGA-1787
 Processor Supported: Core i7
 64-bit Processing: Yes
 Chipset Manufacturer: Intel
@@ -1652,7 +1554,8 @@ Operating System: Windows 10 Pro 64-bit."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"Intel Core i7 3 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games
+  [255 255 255]]]",1,"$2,746
+75","Intel Core i7 3 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games
 With 16 GB of memory, users can run many programs without losing execution
 15.6"" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity
 With Windows 10 Pro edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.
@@ -1705,7 +1608,8 @@ With Windows 10 Pro edition, enjoy your favorite content all at once on a larger
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"Get more done on your computer with the new Spin 3.
+  [255 255 255]]]",1,"$799
+99","Get more done on your computer with the new Spin 3.
 Package Dimensions: 48.107 H x 6.299 L x 30.988 W (centimeters)
 Package Weight: 2.44 kilograms
 Country of Origin : China"
@@ -1757,7 +1661,8 @@ Country of Origin : China"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"Intel Core i7 1.70 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games
+  [255 255 255]]]",1,"$1,371
+19","Intel Core i7 1.70 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games
 With 16 GB DDR4 SDRAM of memory, runs as many programs as you want without losing the execution
 The 14"" 1920 x 1080 screen provides a great movie watching experience
 Windows 10 Pro comes with improved 2 x 2 snapping, helps you make more productive at work
@@ -1810,7 +1715,8 @@ Windows 10 Pro comes with improved 2 x 2 snapping, helps you make more productiv
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,
+  [255 255 255]]]",1,"$1,843
+54",
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1895,23 +1801,23 @@ Stay connected with WiFi and Bluetooth, plus one full-function USB-C port, two U
   [254 254 254]
   [248 248 248]
   ...
-  [230 230 230]
+  [231 231 231]
   [246 246 246]
-  [251 251 251]]
-
- [[255 255 255]
-  [255 255 255]
-  [252 252 252]
-  ...
-  [241 241 241]
-  [252 252 252]
   [253 253 253]]
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
+  [250 250 250]
   ...
-  [251 251 251]
+  [240 240 240]
+  [250 250 250]
+  [254 254 254]]
+
+ [[255 255 255]
+  [255 255 255]
+  [254 254 254]
+  ...
+  [250 250 250]
   [254 254 254]
   [254 254 254]]]",4,"$899
 00","The Slim 7i features a first-of-its-kind processor designed for multitasking, with 12th Generation Intel Core H Series processors that distribute performance where you need it most
@@ -2020,7 +1926,8 @@ Stay connected with Bluetooth 5.1 and Wi-Fi built in, plus 2 USB-A ports, HDMI, 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.1,,"Processor Manufacturer: Intel
+  [255 255 255]]]",2.1,"$992
+83","Processor Manufacturer: Intel
 Processor Type: Core i7
 Processor Generation: 11th Gen
 Processor Model: i7-1185G7
@@ -2073,8 +1980,8 @@ Processor Core: Quad-core (4 Core)"
   ...
   [250 250 250]
   [252 252 251]
-  [255 255 254]]]",2.1,"$783
-65","Great performance meets long battery life with the Intel Core i5-1135G7 Processor - up to 4.20 GHz, 4 cores, 8 threads, 8 MB Intel Smart Cache
+  [255 255 254]]]",2.1,"$824
+99","Great performance meets long battery life with the Intel Core i5-1135G7 Processor - up to 4.20 GHz, 4 cores, 8 threads, 8 MB Intel Smart Cache
 14"" Full HD (1920 x 1080) Widescreen LED-backlit Display | Intel Iris Xe Graphics
 8GB DDR4 Memory and 512GB NVMe SSD
 1 - USB Type-C Port USB 3.2 Gen 2 (up to 10 Gbps) DisplayPort over USB Type-C, Thunderbolt 4 & USB Charging | 2 - USB 3.2 Gen 2 ports (one featuring power-off charging) | 1 - HDMI port
@@ -2127,7 +2034,8 @@ Windows 10 Professional | Military Grade Tough | TPM 2.0 |Lightweight: Only 3.13
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"Intel Core i3 3 GHz works smartly and well responsive to let you swiftly use multiple applications
+  [255 255 255]]]",1,"$763
+18","Intel Core i3 3 GHz works smartly and well responsive to let you swiftly use multiple applications
 4 GB memory for smooth multitasking
 15.6"" display with 1366 x 768 resolution showcases movies, games and photos with impressive clarity
 Windows 10 Pro can be best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops"
@@ -2179,8 +2087,8 @@ Windows 10 Pro can be best fit for both home and office and it features an impro
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,"$845
-30","Intel Core i3-6006U (Dual Core, 2.0GHz, 3M cache,15W)
+  [255 255 255]]]",1,"$760
+77","Intel Core i3-6006U (Dual Core, 2.0GHz, 3M cache,15W)
 13.3-inch FHD (1920 x 1080) Touch Display
 4GB (1x4G) 2133MHz DDR4 Memory
 Intel Dual Band Wireless-AC 7265 2x2 + Bluetooth 4.0
@@ -2269,23 +2177,23 @@ Stay connected with WiFi and Bluetooth, plus one full-function USB-C port, two U
   [254 254 254]
   [248 248 248]
   ...
-  [230 230 230]
+  [231 231 231]
   [246 246 246]
-  [251 251 251]]
-
- [[255 255 255]
-  [255 255 255]
-  [252 252 252]
-  ...
-  [241 241 241]
-  [252 252 252]
   [253 253 253]]
 
  [[255 255 255]
   [255 255 255]
-  [255 255 255]
+  [250 250 250]
   ...
-  [251 251 251]
+  [240 240 240]
+  [250 250 250]
+  [254 254 254]]
+
+ [[255 255 255]
+  [255 255 255]
+  [254 254 254]
+  ...
+  [250 250 250]
   [254 254 254]
   [254 254 254]]]",4,"$899
 00","The Slim 7i features a first-of-its-kind processor designed for multitasking, with 12th Generation Intel Core H Series processors that distribute performance where you need it most
@@ -2394,7 +2302,7 @@ Stay connected with Bluetooth 5.1 and Wi-Fi built in, plus 2 USB-A ports, HDMI, 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$99
+  [255 255 255]]]",4.3,"$99
 99","【Comfortable Tactile Mechanical Keyboard】MECH K300 mechanical keyboard features tactile typing with red shaft low profile keys. Two adjustable tilt feet (6º and 9º) and tilted bottom frame with rounded recessed wrap-around keys provide a great ergonomic support for long-term typing comfort.
 【Quiet Keyboard Wireless】With smooth fluid linear low profile keys, wireless mechanical keyboard has a very short travel and a light feel but solid feedback. Nice soft touch feeling keys provides a silent typing with less noise.
 【Open Style & Nice Metal Look】With a well-constructed and nice metal look, the Bluetooth mechanical keyboard for Mac is an open-style keyboard, and it is easy to clean with a key removal tool.
@@ -2506,7 +2414,8 @@ Note: For better customer experience, We added PgUp PgDn Home End function on �
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
+  [255 255 255]]]",3.7,"$69
+99","【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
 【Function Across 3 Devices】 The wireless ergonomic keyboard allows you to connect via Bluetooth or a 2.4G USB receiver. You can connect up to 3 different devices at the same time and easy switch between them by just pressing a single key. Widely compatible with Windows 7/8/10, Mac OS X 10.12, Android 4.3 or higher, Microsoft system.
 【Quiet & Comfortable Typing】 Scissor switch structure make every keystroke quiet and fast rebound, scooped keys match the shape of your fingertips, offering quick and precise typing experience.
 【Rechargeable & Power Saving】 The wireless ergonomic keyboard is built with 300mAh lithium battery, it can be easily recharged with the included Type-C cable. Auto sleep mode for power saving after 30 minutes of no operation.
@@ -2722,7 +2631,8 @@ Logitech Unifying receiver: The tiny Unifying receiver stays in your notebook, s
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Keyboard with low-profile keys for a comfortable, quiet typing experience
+  [255 255 255]]]",4.5,"$10
+58","Keyboard with low-profile keys for a comfortable, quiet typing experience
 Includes a matte black keyboard with US layout (QWERTY) and a simple wired USB connection
 Hotkeys enable easy access to Media, My Computer, Mute, Volume up/down, and Calculator
 4 function keys control Previous Track, Stop, Play/Pause, and Next Track on a media player
@@ -2993,7 +2903,7 @@ SYSTEM REQUIREMENTS - Windows 7, 8, 10 and 11; Wired USB connection via USB 2 0 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Ultra-quiet keyboard and mouse combo with 2.4 GHz wireless (non-bluetooth) connectivity; compact size, yet fully functional
+  [255 255 255]]]",4.1,$20.99,"Ultra-quiet keyboard and mouse combo with 2.4 GHz wireless (non-bluetooth) connectivity; compact size, yet fully functional
 US layout (QWERTY); 12 multimedia hot keys; numeric keypad; contoured mouse includes textured rubber grips for added comfort
 Each use a small USB receiver and 2 AAA batteries (included); 128-bit AES encryption for security
 Plug and play (no drivers needed); compatible with Windows 7, 8, and 10; ideal for open office spaces, dorm rooms, and home offices
@@ -3046,8 +2956,8 @@ Keyboard measures 17.7 by 5.6 by 0.9 inches; mouse measures 3.7 by 2.3 by 1.3 in
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$62
-96","Wired/wireless - wired
+  [255 255 255]]]",3.8,"$65
+75","Wired/wireless - wired
 Connector/port/interface - USB
 For_device_type - desktop computer
 Keyboard_design - oversized"
@@ -3153,7 +3063,7 @@ Compatible with Windows 7/8/10. Package includes: 1 x Periboard-317; 12-month li
   ...
   [253 253 253]
   [255 255 255]
-  [255 255 255]]]",4.7,"$153
+  [255 255 255]]]",4.7,"$154
 99","World's Fastest Keyboard - Overtake standard mechanical keyboards as OmniPoint 2.0 delivers 11x faster response and 10x swifter actuation.
 Customize Every Keystroke - Precisely adjust the registration depth of every key to the nearest 0.1MM, going from speedy 0.2MM touches to deliberate 3.8MM presses.
 2-in-1 Action Keys - Program two different actions for the same key, such as walking with a light touch and sprinting with a deeper press.
@@ -3645,7 +3555,7 @@ Connect up to 3 devices and switch seamlessly between them[1]."
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -3653,7 +3563,7 @@ Connect up to 3 devices and switch seamlessly between them[1]."
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -3661,7 +3571,7 @@ Connect up to 3 devices and switch seamlessly between them[1]."
   [255 255 255]
   [255 255 255]
   ...
-  [254 254 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -3909,25 +3819,25 @@ STANDARD WINDOWS LAYOUT: The Freestyle2 for PC features a standard Windows layou
 LOW-FORCE KEY SWITCHES: The Freestyle2 uses a custom membrane key switch that features a low-activation force and tactile feedback to reduce finger fatigue, impact and strain.
 WHAT'S IN THE BOX: Freestyle2 USB Wired keyboard with a standard Windows Layout, detachable pivot tether for adjustable splay, and Quick Start Guide. Plug-and-Play for Windows 7-10.
 PLUG-AND-PLAY: Windows 7-10, Linux, and Chrome. No software or special drivers required."
-"[[[254 254 252]
-  [254 254 252]
-  [255 255 253]
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[254 254 252]
-  [254 254 252]
-  [255 255 253]
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[255 255 253]
-  [255 255 253]
-  [255 255 253]
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
@@ -3957,7 +3867,7 @@ PLUG-AND-PLAY: Windows 7-10, Linux, and Chrome. No software or special drivers r
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$99
+  [255 255 255]]]",4.3,"$99
 99","【Comfortable Tactile Mechanical Keyboard】MECH K300 mechanical keyboard features tactile typing with red shaft low profile keys. Two adjustable tilt feet (6º and 9º) and tilted bottom frame with rounded recessed wrap-around keys provide a great ergonomic support for long-term typing comfort.
 【Quiet Keyboard Wireless】With smooth fluid linear low profile keys, wireless mechanical keyboard has a very short travel and a light feel but solid feedback. Nice soft touch feeling keys provides a silent typing with less noise.
 【Open Style & Nice Metal Look】With a well-constructed and nice metal look, the Bluetooth mechanical keyboard for Mac is an open-style keyboard, and it is easy to clean with a key removal tool.
@@ -3970,15 +3880,7 @@ PLUG-AND-PLAY: Windows 7-10, Linux, and Chrome. No software or special drivers r
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
+  [255 255 253]
   [255 255 255]
   [255 255 255]]
 
@@ -3986,7 +3888,15 @@ PLUG-AND-PLAY: Windows 7-10, Linux, and Chrome. No software or special drivers r
   [255 255 255]
   [255 255 255]
   ...
+  [255 255 253]
   [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 254 253]
   [255 255 255]
   [255 255 255]]
 
@@ -4069,7 +3979,8 @@ Note: For better customer experience, We added PgUp PgDn Home End function on �
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
+  [255 255 255]]]",3.7,"$69
+99","【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
 【Function Across 3 Devices】 The wireless ergonomic keyboard allows you to connect via Bluetooth or a 2.4G USB receiver. You can connect up to 3 different devices at the same time and easy switch between them by just pressing a single key. Widely compatible with Windows 7/8/10, Mac OS X 10.12, Android 4.3 or higher, Microsoft system.
 【Quiet & Comfortable Typing】 Scissor switch structure make every keystroke quiet and fast rebound, scooped keys match the shape of your fingertips, offering quick and precise typing experience.
 【Rechargeable & Power Saving】 The wireless ergonomic keyboard is built with 300mAh lithium battery, it can be easily recharged with the included Type-C cable. Auto sleep mode for power saving after 30 minutes of no operation.
@@ -4175,7 +4086,8 @@ It's durable and hassle free with solid construction, Two years battery life*, 1
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Tablet and S-pen sold separately
+  [255 255 255]]]",4.5,"$229
+99","Tablet and S-pen sold separately
 SIMPLE SETUP: Start typing in a flash thanks to intuitive pogo pin connectors that simplify installation of the Galaxy Tab S7 plus Book Cover Keyboard. Customize the exact angle of the screen by positioning the magnetized back cover, now designed with a free angle hinge.
 GREATER FOR ON-THE-GO: The sleek, lightweight design of the Galaxy Tab S7 plus Book Cover Keyboard enhances the device’s portability without sacrificing its protection. Grab your covered tablet on the way out the door and feel confident that both the screen and back of the tablet will be protected. The cover also secures the S Pen, which attaches magnetically to the back of the tablet and charges when docked.
 Connectivity technology: Bluetooth
@@ -4331,7 +4243,8 @@ A full-size keyboard featuring a number pad and FN keys — all in a surprisingl
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Ultra-wide compatibility with both standard and non-standard bottom row keycap sets to fit most mechanical keyboard brands, including SteelSeries, Razer, Corsair, and virtually all other MX stem mechanical keyboards
+  [255 255 255]]]",4.6,"$29
+99","Ultra-wide compatibility with both standard and non-standard bottom row keycap sets to fit most mechanical keyboard brands, including SteelSeries, Razer, Corsair, and virtually all other MX stem mechanical keyboards
 Standard US ANSI 104 keys works on full sized, tenkeyless, and 60% mini keyboard layouts
 Enhanced lighting displays brilliant pudding-style RGB illumination through a specially engineered double shot design with translucent sides and letters
 Retains consistent texture and appearance even after heavy use with highly durable double shot PBT keycaps
@@ -4384,7 +4297,8 @@ Included keycap puller is built with finger hole grip to pull any keycap out wit
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"[Bluetooth mini keyboard]- Work for fire tv cube,All-new Fire TV Cube, amazon fire TV stick lite, fire tv stick(2nd Gen and 3rd Gen), fire tv stick 4k, fire tv stick 4k max, fire tv(3rd gen), replace voice search to input content, make the search much quick and more accurate. Note: FIRE STICK REMOTE NOT INCLUDED
+  [255 255 255]]]",4.1,"$29
+16","[Bluetooth mini keyboard]- Work for fire tv cube,All-new Fire TV Cube, amazon fire TV stick lite, fire tv stick(2nd Gen and 3rd Gen), fire tv stick 4k, fire tv stick 4k max, fire tv(3rd gen), replace voice search to input content, make the search much quick and more accurate. Note: FIRE STICK REMOTE NOT INCLUDED
 [New Features with Multimedia Buttons and Keyboard lock]- Add Home/ Return/ Pause/ Search/ Menu button, much more convenient for multimedia navigation; Add the keyboard lock feature, when the keyboard is facing down,it will be locked, avoid pressing the keys in mistake when using the siri remote
 [iPazzPort Backlit Keyboard]- Mini bluetooth keyboard with LED backlit for convenient operation in dark room, Just need to press “Light bulb key” to turn on/off
 [Built-in Li-ion Battery]- Rechargable Li-ion Battery that with longer standby time long working hours, convenient USB charging and no need to open the lid to install battery now
@@ -4545,7 +4459,7 @@ Forged. Polished. Plated: The Keyboard Frame Is Forged With Aluminum Alloy And P
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.1,"$20
-69","Compact, fully-functional wireless (non-bluetooth) QWERTY keyboard for home, office, or remote work
+91","Compact, fully-functional wireless (non-bluetooth) QWERTY keyboard for home, office, or remote work
 Sound-dampened keys makes working in quiet environments less disruptive
 Includes numeric key pad and 12 multimedia hot keys
 Powered by 2 AAA batteries; transmits data securely via USB receiver with 128-bit AES encryption
@@ -4703,8 +4617,8 @@ Three-mode power-saving switch allows you to toggle between 2 4GHz Bluetooth and
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$55
-95","PLUG AND PLAY: Using the built in Lightning cable, simply connect your iPad, iPad Mini, iPad Pro, or iPad Air to the keyboard with integrated iPad stand, and begin typing. No software required. (Not compatible with iPads with USB C ports)
+  [255 255 255]]]",4.4,"$57
+48","PLUG AND PLAY: Using the built in Lightning cable, simply connect your iPad, iPad Mini, iPad Pro, or iPad Air to the keyboard with integrated iPad stand, and begin typing. No software required. (Not compatible with iPads with USB C ports)
 FULL SIZE KEYCAPS: This durable, lightweight iPad keyboard has full size, well spaced keys for comfortable typing
 INTEGRATED TABLET STAND: Built in iPad stand securely holds iPad in landscape orientation. Supports your Apple tablet with or without a case
 NO BATTERIES REQUIRED: Never worry about running out of power. This wired keyboard stand connects to an individual iPad via a secure connection and requires no batteries or charging
@@ -4757,8 +4671,8 @@ APPROVED FOR STANDARDIZED TESTING: Connecting directly to your iPad using built 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$62
-96","Wired/wireless - wired
+  [255 255 255]]]",3.8,"$65
+75","Wired/wireless - wired
 Connector/port/interface - USB
 For_device_type - desktop computer
 Keyboard_design - oversized"
@@ -4789,27 +4703,27 @@ Keyboard_design - oversized"
  ...
 
  [[251 251 251]
-  [249 249 249]
+  [251 251 251]
   [251 251 251]
   ...
   [251 251 251]
-  [250 250 250]
-  [252 252 252]]
+  [252 252 252]
+  [253 253 253]]
 
  [[251 251 251]
-  [250 250 250]
-  [250 250 250]
+  [251 251 251]
+  [251 251 251]
   ...
   [251 251 251]
-  [250 250 250]
-  [252 252 252]]
+  [252 252 252]
+  [253 253 253]]
 
- [[253 253 253]
-  [250 250 250]
-  [252 252 252]
-  ...
-  [252 252 252]
+ [[251 251 251]
   [251 251 251]
+  [251 251 251]
+  ...
+  [251 251 251]
+  [252 252 252]
   [253 253 253]]]",4.4,"$24
 99","Big Font, Full-Size Layout: 105 keys, full-size layout keyboard with elegant, adjustable backlighting, and the letters are 4-times larger font than the usual keyboard for more visibility
 Stylish Key Design: Round keycaps inspired by typewriter-style keys ensure stable keypress every time and comfortable typing
@@ -4918,7 +4832,8 @@ OS independent – This convenient computer keyboard works with laptops desktops
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"HIGH-QUALITY ABS CAPS IN CLASSIC GMK COLORS: German manufacturer GMK is one of the premiere keycap makers in the industry.
+  [255 255 255]]]",4.4,"$120
+00","HIGH-QUALITY ABS CAPS IN CLASSIC GMK COLORS: German manufacturer GMK is one of the premiere keycap makers in the industry.
 MADE IN GERMANY: Using original Cherry tooling, the set comprises 140 ultra-thick, ultra-durable ABS keycaps that put PBT to the test.
 CLASSIC COLORS: The colors used are GMK's classic CR Black and WS1 White for a complementary look that will jibe with any keyboard. They’re also compatible with a variety of different keyboards, including those with nonstandard and standard layouts.
 SPECS: Doubleshot 1.5 mm ABS plastic compatible with MX Style switch stems, 140-keys, Cherry Profile, Made in Germany, and GMK Display Tray
@@ -5185,8 +5100,8 @@ Clicky Mechanical Switch (50G)"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$199
-32","Premium mechanical keyboard: The Retro Compact Keyboard (RCK) is comprised of premium materials, a timeless appearance, and intuitive usability.
+  [255 255 255]]]",4.6,"$229
+99","Premium mechanical keyboard: The Retro Compact Keyboard (RCK) is comprised of premium materials, a timeless appearance, and intuitive usability.
 Genuine & luxurious : Genuine leather or wood top plate. Leather reflects taste, craftsmanship, and exclusiveness while emitting a unique charm that inspires
 Tactile. Clicky. backlit: the backlit mechanical keys are tuned to be tactile and ""clicky"", reminiscent of vintage typewriters
 Forged. Polished. Plated: the keyboard frame is forged with aluminium alloy and plated into a beautiful chrome/satin finish to accompany the leather top plate"
@@ -5238,7 +5153,8 @@ Forged. Polished. Plated: the keyboard frame is forged with aluminium alloy and 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,
+  [255 255 255]]]",4.2,"$39
+99",
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -5347,3 +5263,110 @@ Stylish Key Design: Round keycaps inspired by typewriter-style keys ensure stabl
 Multi-Color Backlighting: Bright and evenly distributed backlit keys for easy typing in lower light environments; ideal for studio work, office, and home office; 3-color backlighting (RED, BLUE, PURPLE); To turn on/off backlighting or switch backlighting color: press the Backlit Hotkey; For breathing mode: press Fn + Backlit Hotkey
 Easy-Access Shortcuts: Equipped with 12 convenient hotkeys; activate hotkeys with the Fn-key; shortcuts such as media control, e-mail, calculator, and home button
 Compatible with Windows 7/8/10. Package includes: 1 x Periboard-317; 12-month limited warranty"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [243 253 241]
+  [231 236 232]
+  [162 168 164]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [241 254 241]
+  [245 252 245]
+  [210 216 210]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [240 250 237]
+  [242 249 240]
+  [245 252 245]]
+
+ ...
+
+ [[237 236 241]
+  [237 236 241]
+  [237 236 241]
+  ...
+  [236 237 242]
+  [236 237 242]
+  [236 237 242]]
+
+ [[236 235 240]
+  [236 235 240]
+  [236 235 240]
+  ...
+  [235 236 241]
+  [235 236 241]
+  [235 236 241]]
+
+ [[236 235 240]
+  [236 235 240]
+  [236 235 240]
+  ...
+  [235 236 241]
+  [235 236 241]
+  [235 236 241]]]",4.6,,"【excellent to touch】High-quality PBT material, excellent hand feeling, not shiny after long-term use. XDA profile makes the finger contact area wider and more tactile.
+【Matcha keycaps】Matcha green gives people a natural feel. People love cakes and desserts. The whole design is very beautiful and elegant, dress up your keyboard.
+【Wide Compatible】The 124 keys include 104 standard keys and 36 supplementary keys, most 61/64/66/68/71/78/87/96/98/104 keys Keyboards can use.
+【Durable】With the sublimation process, the pattern will not fall off after long-term use. The PBT material is stable, Not easy to wear, strong and durable.
+【Gifts for Game Lovers】Perfect for kids, teens, friends' gifts, an ideal choice for keyboard lovers, e-players, Office staff, someone who like the customized keycaps.(Only keycaps, The keyboard is only for display)"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",3.7,"$69
+99","【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
+【Function Across 3 Devices】 The wireless ergonomic keyboard allows you to connect via Bluetooth or a 2.4G USB receiver. You can connect up to 3 different devices at the same time and easy switch between them by just pressing a single key. Widely compatible with Windows 7/8/10, Mac OS X 10.12, Android 4.3 or higher, Microsoft system.
+【Quiet & Comfortable Typing】 Scissor switch structure make every keystroke quiet and fast rebound, scooped keys match the shape of your fingertips, offering quick and precise typing experience.
+【Rechargeable & Power Saving】 The wireless ergonomic keyboard is built with 300mAh lithium battery, it can be easily recharged with the included Type-C cable. Auto sleep mode for power saving after 30 minutes of no operation.
+【Adjustable Palm Lift】 This ergonomic keyboard features 4 foldable tilt legs. Whether seated or standing, adjust the keyboard at a perfect angle to keep your wrists in comfortable, natural typing posture."
