@@ -29,10 +29,8 @@ for link in links:
         
         img = Image.open(requests.get(pic_link, stream = True).raw)
         name = pic_link.split('/')[-1]
-            
-        img = img.resize((200,200))
-        # img.save(f'images/{name}')
-        img = numpy.array(img)
+        img.save(f'images/{name}')
+        img = f'images/{name}'
         
         try:
             rating = driver.find_element(By.XPATH,'//*[@id="reviewsMedley"]/div/div[1]/span[1]/span/div[2]/div/div[2]/div/span').text.split()[0]
