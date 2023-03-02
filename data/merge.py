@@ -12,4 +12,4 @@ for files in os.listdir('data'):
         df.append(data)
         
 df = pd.concat(df)
-df.to_csv('final_data.csv',index=False)
+df.to_csv('data/final_data.csv',index=False)
