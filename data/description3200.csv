@@ -1,53 +1,17 @@
 Image,Ratings,Price,Description
-"[[[254 254 254]
-  [255 255 255]
-  [229 231 231]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [252 252 252]
-  [ 96  98  97]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [140 140 140]
-  [ 13  16  15]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$434
+images/71hD56lmE0L._AC_SX679_.jpg,3.9,"$129
+99","15.6"" Full HD (1920 x 1080) Widescreen IPS Display
+Ultra slim portable design, only 0.61 inches and 2.5 pounds | Zero Frame Design
+Refresh Rate: 60Hz | Response Time: 8ms (G to G)
+Ports: 1 x USB 3.1 (Type-C) port supporting power and Display over USB-C, 1 x USB 3.1 (Type-C) port supporting power delivery, 1 x Mini HDMI (v1.4) & 1 x Audio out (HDMI and USB Type-C Cable Included)
+To display video signal via Type-C, the source device needs to support DP-Alt mode. USB Type-C video is only compatible with devices like smart phones and laptops that support USB Type-C video output"
+images/81PNmttrXYL._AC_SX679_.jpg,4.1,"$225
+83","27"" IPS FHD panel with 1920 x 1080 full HD resolution to render stunning game graphics with no color distortion, even at the widest possible viewing angles
+Rapid refresh rate of 144Hz, 1ms MPRT response time for fluid motion
+AMD Radeon Freesync Premium and NVIDIA G-SYNC Compatible
+This NearEdgeless gaming monitor has thin bezels on 3 sides for maximum viewing space
+Height-adjustable stand offers -5° / 22° tilt angle and VESA mount capability. HDMI 1.4 and DisplayPort 1.2 1.2 connectivity"
+images/71CD-hBjG5L._AC_SX679_.jpg,5,"$359
 99","Is long-lasting with reduced screen burning to ensure maximum efficiency
 USB Type-C allows quick transmission of data at a higher rate for your convenience
 23.8"" viewable screen size provides a spectacular viewing experience
@@ -55,325 +19,37 @@ USB Type-C allows quick transmission of data at a higher rate for your convenien
 Enjoy crisp content and energetic hues with the 300 Nit brightness
 Experience a new level of viewing pleasure with Wide Quad High Definition (WQHD) that features 4 times the resolution of standard HD
 WLED backlight technology provides a clear and smooth display"
-"[[[203 202 198]
-  [137 137 137]
-  [143 141 140]
-  ...
-  [ 97  97  98]
-  [ 92  92  92]
-  [183 183 183]]
-
- [[100  97  98]
-  [ 40  40  41]
-  [ 74  74  76]
-  ...
-  [  0   1   3]
-  [  0   0   0]
-  [ 80  80  80]]
-
- [[ 98  95  99]
-  [ 77  78  84]
-  [ 89 104 116]
-  ...
-  [ 11  12  15]
-  [  8   8   9]
-  [ 86  86  85]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.5,"$316
-20","28"" UltraHD (3840 x 2160) Widescreen IPS Display with Adaptive-Sync Support | EPEAT Bronze Certified | TUV/Eyesafe Certification
+images/71IAqbxG+lL._AC_SX679_.jpg,3.5,"$311
+99","28"" UltraHD (3840 x 2160) Widescreen IPS Display with Adaptive-Sync Support | EPEAT Bronze Certified | TUV/Eyesafe Certification
 Brightness: 300nits | Response Time: 4ms (G to G)
 DCI-P3 90% | Colors: 1.07 billion | HDR10 Support
 2 speakers, 2 watts per speaker
 Video Ports: 1 x Display Port 1.2, 1 x Mini Display Port, 2 x HDMI 2.0 & 1 x Audio-Out | HDMI and USB Cables Included"
-"[[[169 164 166]
-  [ 86  85  82]
-  [ 88  89  81]
-  ...
-  [ 78  79  80]
-  [ 80  80  76]
-  [163 163 160]]
-
- [[ 89  86  82]
-  [ 30  21  31]
-  [ 72  46  85]
-  ...
-  [ 93  88 128]
-  [ 33  31  44]
-  [ 84  84  83]]
-
- [[ 92  90  89]
-  [ 65  45  81]
-  [183 127 222]
-  ...
-  [184 172 249]
-  [ 76  71 102]
-  [ 83  83  82]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3,"$718
+images/91ds6o12PxL._AC_SX679_.jpg,3,"$718
 13","14ms response time - Eliminate screen tearing and choppy frame rates
 VESA Certified DisplayHDR 600
 178° wide view angle
 4K Resolution for finest picturing experience"
-"[[[252 251 252]
-  [188 190 193]
-  [170 174 178]
-  ...
-  [182 186 188]
-  [198 202 205]
-  [249 251 251]]
-
- [[170 170 173]
-  [ 86  87  92]
-  [108 112 118]
-  ...
-  [ 35  40  43]
-  [ 27  32  35]
-  [158 161 163]]
-
- [[121 121 125]
-  [133 134 139]
-  [139 143 149]
-  ...
-  [ 12  16  19]
-  [  5   9  13]
-  [113 117 119]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.2,"$399
+images/71349mrz9qL._AC_SX679_.jpg,4.2,"$399
 99","31. 5"" UltraHD 4K2K (3840 x 2160) Widescreen VA Display with AMD Free Sync Technology
 HDR Ready, sRGB & 6-Axis Color Adjustment
 Refresh Rate: 60Hz
 Response Time: 4ms
 Ports: 1 x Display Port (1. 2) & 2 x HDMI 2. 0
 60 hertz"
-"[[[253 253 253]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [254 254 254]]
-
- [[255 255 255]
-  [239 239 239]
-  [188 188 188]
-  ...
-  [227 227 227]
-  [254 254 254]
-  [254 254 254]]
-
- [[249 249 249]
-  [128 128 128]
-  [106 106 106]
-  ...
-  [113 113 113]
-  [185 185 185]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$150
+images/61OhnR0hx8L._AC_SX679_.jpg,5,"$150
 99","LED backlight technology provides for industry-leading low power consumption and less hazardous materials
 Height-adjust, tilt and swivel capabilities add flexibility and comfort to your viewing preferences
 Full connectivity, including DisplayPort, HDMI and VGA inputs
 Integrated speakers and headphone jack bring additional usability
 ECO Mode allows you to manually adjust the display’s brightness to your liking, saving power and reducing your energy costs"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [252 252 252]
-  [255 255 255]
-  [255 255 255]]
-
- [[242 242 243]
-  [243 243 244]
-  [217 217 218]
-  ...
-  [125 125 127]
-  [185 185 186]
-  [230 230 230]]
-
- [[216 216 217]
-  [100 100 102]
-  [ 69  69  71]
-  ...
-  [ 45  45  47]
-  [ 53  53  55]
-  [185 185 186]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.1,"$1,133
+images/71KaGlmHBSL._AC_SX679_.jpg,4.1,"$1,133
 80","27"" UHD 4K (3840 x 2160) Widescreen IPS Display with NVIDIA G-SYNC Technology
 Refresh Rate: 120Hz (OverClocking to 144Hz)
 High Brightness and Contrast with VESA Certified DisplayHDR 400
 DCI-P3 90% Wide Color Gamut | Optimize Colors with Quantum Dot Technology | No Color Difference with Delta E<1
 Ports: 1 x Display Port v1. 4, 1 x HDMI v2. 0 & 4 x USB 3. 0 Ports (Display Port & USB Cable Included)"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [244 244 244]
-  [242 242 242]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[254 254 254]
-  [254 254 254]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,"$450
+images/71Jj-1ohoSL._AC_SX679_.jpg,4.3,"$450
 80","Up to 180Hz Refresh Rate: With 144Hz (can overclock to 180Hz) and Adaptive Sync, you have more frames displayed on screen every second compared to a 75Hz, 100Hz or 120Hz screen, eliminating lag and motion blur for exhilarating gameplay with ultra-smooth action
 WQHD Image Quality: With a screen resolution of 3440x1440 pixels—approximately 2.4 times the density of Full HD delivers razor-sharp images. And with more pixels to display content, you can view more of your gaming screen, movies, web pages and documents at once without scrolling or zooming out
 Smooth and Lively Visuals: Over 99% in sRGB consistent color gamut coverage and 16.7 million display colors improve experience of watching and gaming
@@ -382,55 +58,7 @@ Picture-in-picture (PIP) and Picture-by-Picture (PBP): Allows easy content viewi
 Compatible with most inputs: HDMI x2 and Display ports x 2 inputs allow for easy connection to most devices. 3.5mm audio-out port built-in for easy connection to your speakers or headphones
 ComfortView feature: Minimize distractions with blue light shift, allowing you to comfortably work or play
 What you get: 1 x 35” monitor, 1 x DP cable, 1 x power cable, 1 x user manual, without speaker"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",2.5,"$279
+images/81PRUoOr4PL._AC_SX679_.jpg,2.5,"$279
 00","Best for video conferencing and online learning with integrated Full HD webcam, mic array and stereo speakers
 23.8-inch Full HD (1920 x 1080) frameless IPS panel with wide viewing angles
 ASUS AI Noise-Canceling Microphone offers crystal-clear voice communication
@@ -438,162 +66,18 @@ Face Auto Exposure technology helps users’ face to stand out from the backgrou
 Extensive connectivity with HDMI, USB-C, DisplayPort, DisplayPort out for daisy-chain, earphone jack, USB hub and RJ45 LAN port for the most flexibility
 USB-C port allows simple laptop docking for data transmission and video signal to the display, as well as charging the laptop via just one cable
 Zoom Certified monitor has undergone comprehensive testing and review processes to ensure seamless communication"
-"[[[255 255 255]
-  [212 212 212]
-  [ 78  78  78]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[221 221 221]
-  [ 63  63  63]
-  [  9   9   9]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[114 114 114]
-  [ 24  24  24]
-  [ 19  19  19]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.2,"$119
+images/71iCSuGLcVL._AC_SX679_.jpg,3.2,"$119
 99","1ms response time - Eliminate screen tearing and choppy frame rates
 Built-in 2W speakers
 TÜV certification display protect eyesight
 Less blue light and anti-flicker technology"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,"$96
+images/71g8qN3JotL._AC_SX466_.jpg,4.3,"$96
 26","Nearly 20% more clarity than standard 3M Black Privacy Filters
 Effective ""black out"" privacy from side views outside the 60-degree viewing angle
 Compatible with curved displays
 Provides excellent privacy while maintaining the glossy clarity of your screen
 Helps protect your eyes from potentially harmful blue light, without distorting the natural color of your display"
-"[[[254 251 255]
-  [237 234 235]
-  [231 230 232]
-  ...
-  [214 212 211]
-  [216 216 216]
-  [249 249 249]]
-
- [[241 238 240]
-  [ 72  67  67]
-  [ 30  30  31]
-  ...
-  [ 17  15  18]
-  [ 27  27  27]
-  [207 207 206]]
-
- [[233 232 232]
-  [ 29  27  26]
-  [  0   0   4]
-  ...
-  [  2   2   7]
-  [  6   5   6]
-  [197 197 197]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.1,"$719
+images/81j3hpYRDSL._AC_SX679_.jpg,4.1,"$719
 72","32-inch WQHD (2560 x 1440) Fast IPS gaming monitor with ultrafast 175Hz (above 144Hz) refresh rate designed for professional gamers and immersive gameplay
 Fast IPS technology enables a 1ms response time (GTG) for sharp gaming visuals with high frame rates
 ASUS Extreme Low Motion Blur Sync (ELMB SYNC) technology enables ELMB together with G-SYNC Compatible, eliminating ghosting and tearing for sharp gaming visuals with high frame rates.
@@ -602,216 +86,24 @@ High Dynamic Range (HDR) technology with professional color gamut delivers contr
 Robust connectivity with HDMI (v2.0) x2, DisplayPort 1.2, USB ports
 What’s in the box: Power Adapter (150W) ,Power cord , DP cable , HDMI cable , USB 3.0 cable ,Warranty card, QSG , Calibration report, Thank you card, ROG sticker
 Free 3-month Adobe Creative Cloud Subscription: Receive complimentary access with the purchase of this product (offer valid from 9/15/2021 to 8/31/2023)"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,,"👍 Original from AuviPal with upgraded Gigabit Ethernet port for lightning-fast wired speeds which gives you a full speed of your internet, Ideal for Raspberry Pi 3B+, Compatible with all previous models.
+"images/61PvBSeofAL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg",4.4,,"👍 Original from AuviPal with upgraded Gigabit Ethernet port for lightning-fast wired speeds which gives you a full speed of your internet, Ideal for Raspberry Pi 3B+, Compatible with all previous models.
 👍 It utilizes the optimal PoE module solution with Isolation transformer + Standard PD (Powered Devices) chip. Run your Raspberry Pi more stable and safer when compared with others cheap non-isolated transformer and diode PD module.
 👍 PoE HAT Alternative - a cost savings way to achieve POE function for your Raspberry Pi instead of buying an overpriced PoE HAT, What’s more, no need to dismount raspberry pi case or screen anymore during installation by using AuviPal Gigabit PoE Splitter.
 👍 Fully complies with IEEE 802.3af/at standard, Work with all IEEE 802.3af/at compliant PoE switch and PoE Injector (Not included). Plug and play, no extra effort or configuration required, Set it up in seconds.
 👍 2-year warranty and 24/7 lifetime hassle free customer service, add to cart & get AuviPal now to enjoy the best value!"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$11
+images/61j8s1iLRkL._AC_SX466_.jpg,4.6,"$11
 15","6-outlet surge protector with 2.5-foot cord, AC Plug Style: straight plug,Not a Flat Plug
 Ideal solution for small home appliances, general household electronics, entry-level computers, printers, and ADSL modems
 Provides complete protection from power surges, spikes, and AC contamination
 Slim design reduces office clutter
 Rated to handle 555 Joules, Belkin Lifetime Warranty and dollar 15,000 Connected Equipment Warranty"
-"[[[231 229 230]
-  [122 124 128]
-  [112 113 114]
-  ...
-  [133 130 132]
-  [134 131 134]
-  [219 217 222]]
-
- [[159 164 162]
-  [ 16  18  19]
-  [ 41  20  16]
-  ...
-  [ 37  21  21]
-  [ 25  19  19]
-  [129 129 134]]
-
- [[155 154 154]
-  [ 82  49  39]
-  [196  95  70]
-  ...
-  [ 62  10   4]
-  [ 39  23  19]
-  [118 122 124]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,"$96
+images/71TOE0w7DzL._AC_SY300_SX300_.jpg,4.3,"$96
 18","SHARE THE PANORAMIC VIEW : The 23.8 inch monitor adopts a new generation of VA screen, covering 99% of the SRGB color gamut and 8bit gray level over 16.7M color numbers. Thus the business monitor can 100% restore true colors and present vivid details. Besides, the 178° wide viewing angle of this VA monitor allows you to enjoy a clear, sharp, and delicate images at any angle.
 EXTREMELY VIEWING COMFORT: Find your best viewing position and stay comfortable by tilting the screen up to 5 degrees forward or 15 degrees backward. Flicker-Free technology, Blue Light Filter, you can enjoy ultra-smooth gameplay or working for all-day without any eyes uncomfort.
 ULTRA SLIM DESIGN: The KOORUI 23.8 inch Business Computer Monitor adopts edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution. You can connect the edge-less monitor to Xbox, PC and laptops etc, transmitting high-quality images, any switch between office and entertainment.
 RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium service, making you assured. With a 3-year warranty, a 12-month replacement service and calling technical support. If you find any damage, malfunction or missing accessories, please feel free to contact us."
-"[[[251 250 247]
-  [212 208 212]
-  [176 170 182]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[202 207 201]
-  [ 47  47  49]
-  [  6   4  15]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[134 149 142]
-  [ 12  18  20]
-  [ 43  41  52]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$109
+images/71P0M7tKjYL._AC_SX300_SY300_.jpg,4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -819,588 +111,60 @@ Vesa wall mount ready; Lamp Life: 30,000+ Hours
 Windows 10 Sceptre Monitors are fully compatible with Windows 10, the most recent operating System available on PCs.Brightness: 220 cd/M2
 Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
 75 hertz"
-"[[[255 255 255]
-  [229 229 230]
-  [183 183 185]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [163 163 165]
-  [ 40  40  42]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [151 151 154]
-  [ 26  26  28]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$149
+images/613QjYRkKqL._AC_SX300_SY300_.jpg,4.5,"$149
 97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 165Hz Refresh Rate: Pushing beyond the standard refresh rate, 165Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 Response Time 1ms MPRT: With 1ms MPRT, motion blur is eliminated and exceptionally crisp imagery is visible in the midst of chaotic combat.
 320 Brightness: Remarkably vivid colors illuminate the screen like never before with 320 cd/m² brightness.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[195 197 199]
-  [119 114 116]
-  [114 111 109]
-  ...
-  [204 207 207]
-  [199 199 199]
-  [229 229 229]]
-
- [[119 122 124]
-  [ 14  10  11]
-  [  7   4   8]
-  ...
-  [ 87  87  88]
-  [ 79  79  79]
-  [158 157 157]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$149
+images/613DOrmx7gL._AC_SX679_.jpg,4.5,"$149
 97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 119% sRGB: With 119% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 300 Lux Brightness: Remarkably vivid colors illuminate the screen like never before with 300 cd/m² brightness.
 75Hz Refresh Rate thru Multiple Ports: The HDMI, and DP ports accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
 Built in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$142
-21","Higher Refresh Rate with Adaptive Sync: When the game is on the line, you don’t want to miss a beat. Enjoy up to 144 Hz refresh rate that lets you clearly see the action clearly as it unfolds
+images/71e8YQk-xLL._AC_SX679_.jpg,4.5,"$142
+37","Higher Refresh Rate with Adaptive Sync: When the game is on the line, you don’t want to miss a beat. Enjoy up to 144 Hz refresh rate that lets you clearly see the action clearly as it unfolds
 Full High Definition: 1920*1080P image resolution with unparalleled quality and clarity. Double the image resolution of traditional HD monitors
 4ms Fast Response Time: Eliminate screen tearing and choppy frame rates with 4ms response time
 Eye Care: Optimize your viewing comfort by reducing blue light emissions
 Powerful and Strong Connections: Featuring with the 2 HDMI inputs as well as the 1 Display port, you can connect multiple device"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$6
+images/518s1VVWPmL._AC_SX679_.jpg,4.5,"$6
 97","Cable Ties - 100 black Cable Management Zip Ties
 Use - These black zip ties are designed to bundle and secure cables to help with cord management throughout your home
 Easy Use - Small zip ties are easy to manage and zip closed tightly; cut these cable zip ties to the correct length after zipping for a neat, organized installation
 Strong - These reusable cable ties have 18 pounds of tensile strength for reliable cord management
 Compatibility - Black cable ties work well with a variety of cable types for effective wire management or a DIY cable organizer"
-"[[[205 205 205]
-  [139 139 139]
-  [147 147 147]
-  ...
-  [235 235 235]
-  [235 235 235]
-  [247 247 247]]
-
- [[141 141 141]
-  [ 62  62  62]
-  [ 69  69  69]
-  ...
-  [ 90  90  90]
-  [ 84  84  84]
-  [157 157 157]]
-
- [[144 144 144]
-  [ 73  73  73]
-  [ 80  80  80]
-  ...
-  [ 81  81  81]
-  [ 74  74  74]
-  [142 142 142]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.6,"$137
+images/81cUlKagpvL._AC_SX679_.jpg,3.6,"$137
 65","Ergonomic stand: adjustable tilt, swivel, pivot and height
 Earth-friendly: recycled plastic, LED backlight, Acer EcoDisplay
 23.8"" Full HD Acer ComfyView display with Acer eColor technology
 Extensive connectivity: DisplayPort
 VGA, DVI and USB 3.0"
-"[[[255 255 255]
-  [255 255 255]
-  [150 150 150]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [193 193 193]
-  [ 39  39  39]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[214 214 214]
-  [ 58  58  58]
-  [ 41  41  41]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$489
+images/712G9AFZrjL._AC_SX679_.jpg,5,"$489
 98","27"" 2560x1440, In-Plane Switching, Natural Low Blue Light Display
 1080p IRRGB webcam, dual noise-cancelling mics and 2x3W front facing speakers
 USB Type-C Hub Monitor with Smart Energy Sensor and Smart Traffic Light"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.7,"$199
+images/81nz6tZ9Z1L._AC_SX466_.jpg,3.7,"$199
 99","Enterprise-Grade Display for Video Conferencing: High resolution 21 inch monitor with an integrated 1080p camera, stereo speakers, a directional microphone and a touch control bar for sound management.
 Doubles as a Second Monitor: Use as a second display with enhanced features designed for video conferencing. Through just one USB-C cord, you can connect your PC to a computer display with a webcam, microphone and speakers.
 Diffused Touch Control Lighting: At 3000K, Studio P21's ambient lighting offers a softer, more subtle illumination than the standard ring light. The display lights, located on either side of the screen, give you a warm glow on camera without causing strain on your eyes.
 High Quality Camera and Audio: 1080p HD webcam with vibrant colors and excellent camera optics shows you clearly, while a 90 degree FOV frames you just right. Adjustable camera settings available through Lens Desktop app so you can customize for your unique environment. Hear and be heard clearly with integrated stereo speakers and a directional microphone.
 Compatibility & Convenience: PC & Mac. Works with Zoom, Microsoft Teams & all other video conferencing services. Enhance security and privacy with the integrated privacy shutter. All-in-one USB-connected design. Wireless mobile phone charging pad at base."
-"[[[195 194 192]
-  [ 81  80  79]
-  [ 83  83  85]
-  ...
-  [ 81  80  90]
-  [ 81  80  86]
-  [192 191 193]]
-
- [[ 96  96  98]
-  [ 11  10  14]
-  [ 10   8  15]
-  ...
-  [ 10  12  14]
-  [ 11  11  16]
-  [ 94  93  97]]
-
- [[ 98  97 104]
-  [ 23  21  30]
-  [121 117 130]
-  ...
-  [131 109 119]
-  [ 21  19  25]
-  [ 99  99 102]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.7,,"Elegant touches: The thin bezels offer a sleek, modern look that complements any space
+images/81tVDkb8CiL._AC_SX679_.jpg,4.7,,"Elegant touches: The thin bezels offer a sleek, modern look that complements any space
 Gaming fun: Game with tear-free visuals on this AMD Radeon FreeSync compatible monitor that features up to 75Hz refresh rate.
 Increase viewing comfort: Protect your eyes by minimizing harmful blue light with Dell's ComfortView feature.
 Choose your view: Easily tilt the monitor to get just the ideal viewing angle"
-"[[[213 214 216]
-  [159 160 164]
-  [169 170 174]
-  ...
-  [ 84  84  85]
-  [ 80  80  82]
-  [155 155 157]]
-
- [[134 135 139]
-  [ 96  97 101]
-  [135 136 140]
-  ...
-  [ 46  46  47]
-  [ 53  53  55]
-  [ 73  73  75]]
-
- [[125 126 130]
-  [ 87  88  92]
-  [126 127 131]
-  ...
-  [ 57  57  58]
-  [ 71  71  73]
-  [ 79  79  81]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$149
+images/61Ci2CegZkL._AC_SX679_.jpg,4.6,"$149
 69",
-"[[[255 255 253]
-  [254 254 252]
-  [251 252 250]
-  ...
-  [255 250 252]
-  [252 250 251]
-  [250 251 251]]
-
- [[255 255 253]
-  [254 254 252]
-  [252 252 250]
-  ...
-  [252 249 250]
-  [251 252 251]
-  [250 251 250]]
-
- [[255 255 253]
-  [255 255 253]
-  [246 245 243]
-  ...
-  [249 252 251]
-  [249 251 251]
-  [253 254 254]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4,"$650
+images/61UHtW4fBKL._AC_SX679_.jpg,4,"$650
 00","4K UHD IPS panel with wide Viewing angles for excellent image reproduction
 Full connectivity, including DisplayPort and two HDMI inputs as well as USB Type-C
 USB Type-C input delivers 60W of power as well as video and USB over one cable
 Touch-sensitive OSD controls are integrated into the bezel, making Display adjustments easier than ever
 Human and ambient light sensors automatically detect your work conditions to determine the proper Display brightness and conserve power
 60 hertz"
-"[[[179 179 179]
-  [142 142 142]
-  [139 139 139]
-  ...
-  [141 139 135]
-  [152 157 153]
-  [212 223 221]]
-
- [[ 14  14  14]
-  [  0   0   0]
-  [  0   0   0]
-  ...
-  [  6   0   0]
-  [  5   4   2]
-  [119 126 125]]
-
- [[  4   4   4]
-  [  0   0   0]
-  [  5   5   5]
-  ...
-  [ 39   6   9]
-  [  8   0   0]
-  [ 96  94  93]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$119
+images/61DS+ZM0qGL._AC_SY300_SX300_.jpg,4.6,"$105
 99","GREAT FOR HOME AND OFFICE: An ideal all-around 24 inch display for offices or remote work
 SEE THE DIFFERENCE: Razor-sharp clarity and detail with Full HD (1920x1080p) resolution
 LESS CABLE CLUTTER: In addition to fast data, audio and video transfer, USB Type-C also provides 15W charging over a single cable
@@ -1409,55 +173,7 @@ AMAZING AT ANY ANGLE: A slim bezel panel ensures stunning views no matter your v
 ENHANCED VIEWING COMFORT: Flicker-Free technology and Blue Light Filter for all-day comfort
 FLEXIBLE CONNECTIVITY: The VA2447-MHU supports a variety of HD devices including gaming consoles, Blu-ray, laptops, PCs and digital cameras with HDMI and VGA inputs
 INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, and a Quick Start Guide"
-"[[[215 213 210]
-  [183 181 183]
-  [178 177 177]
-  ...
-  [230 228 231]
-  [233 233 234]
-  [251 251 251]]
-
- [[105 103 102]
-  [ 47  44  50]
-  [ 46  44  49]
-  ...
-  [ 95  92  98]
-  [ 92  92  94]
-  [172 172 174]]
-
- [[ 88  86  89]
-  [ 23  20  28]
-  [  8   5   9]
-  ...
-  [ 38  39  37]
-  [ 53  53  55]
-  [133 133 135]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
+images/71hrBloottS._AC_SX679_.jpg,4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 99% sRGB Color Gamut: With 99% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance & sharp visibility from multiple viewing angles.
 up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
@@ -1465,55 +181,7 @@ Multiple Ports: Two HDMI ports and one DisplayPort provide up to 75HZ refresh ra
 Edgeless Design: Edgeless Design completely immerses you in all the captivating action and wondrous scenery that 1440P resolution and 75Hz refresh rate have to offer.
 Blue Light Shift: Reduce your monitors blue light to protect you from eye fatigue, irritation and strains. This enables you to work on your documents, watch movies, or play games more comfortably for extended periods.
 FPS-RTS Game Modes: FPS and RTS are Sceptre's custom set display settings built for an enhanced gaming experience. FPS (First Person Shooter), RTS (Real-Time Strategy)."
-"[[[251 250 252]
-  [180 179 185]
-  [171 170 175]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[143 142 148]
-  [ 30  29  37]
-  [ 24  23  31]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[ 65  64  72]
-  [ 49  48  56]
-  [ 54  53  61]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$164
+images/71-4ZeUWzqL._AC_SX300_SY300_.jpg,4.6,"$164
 97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
@@ -1521,911 +189,95 @@ Adaptive Sync: Adaptive Sync is a technology that closes the gap between the gra
 Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes.
 Tiltable Display: A display that tilts 15° backward and 5° forward allows you to find a sweet spot that bridges clarity and comfort."
-"[[[189 189 189]
-  [ 95  95  95]
-  [103 103 103]
-  ...
-  [ 99  99  99]
-  [ 93  93  93]
-  [176 176 176]]
-
- [[ 92  92  92]
-  [ 23  23  23]
-  [ 13  13  13]
-  ...
-  [ 15  15  15]
-  [ 22  22  22]
-  [ 74  74  74]]
-
- [[ 88  88  88]
-  [ 36  36  36]
-  [ 83  83  83]
-  ...
-  [ 59  59  59]
-  [ 14  14  14]
-  [ 75  75  75]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$168
+images/71TEDk-2xvL._AC_SX679_.jpg,5,"$168
 54","27"" FHD 1080P View your applications, spreadsheets and more with a perfect 27 inches screen with a breathtaking viewing experience that comes with Full HD resolution
 IPS Grade Panel Instantly optimize the screen colors and brightness to ensure that you enjoy every detail at its best while creating your own on-line video
 75Hz High Refresh Rate Experience smooth gaming with a blazing fast 75Hz refresh rate, that gives you the upperhand in fast moving games.
 MSI Anti-Flicker technology provides a very comfortable viewing experience by reducing the amount of screen flicker.
 VESA Mountable To be mounted on the wall of your office & home with a VESA standard design which can make it completely invisible on a desk."
-"[[[226 228 223]
-  [149 151 145]
-  [131 133 129]
-  ...
-  [131 131 133]
-  [156 156 158]
-  [234 234 235]]
-
- [[139 141 136]
-  [ 17  19  15]
-  [  4   6   3]
-  ...
-  [  4   4   6]
-  [ 34  34  36]
-  [180 180 182]]
-
- [[122 124 119]
-  [  2   3   1]
-  [  0   1   0]
-  ...
-  [  3   3   4]
-  [  0   0   1]
-  [133 133 135]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.5,"$149
+images/71T-PCsNINL._AC_SX679_.jpg,3.5,"$149
 99","1ms response time - Eliminate screen tearing and choppy frame rates
 AMD FreeSync – prevent screen tearing
 178° wide view angle
 Gaming OSD App - Create the ultimate viewing settings for your game
 AMD FreeSync – prevent screen tearing"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [239 239 239]
-  [233 233 233]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[253 253 253]
-  [222 222 222]
-  [212 212 212]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.5,,"HDR1000: HDR1000 (High Dynamic Range) enhances dynamic contrast ratio, illuminating colors up to 50% brighter than SDR while displaying profoundly clear dark colors.
+images/61DSKq3kkXL._AC_SX679_.jpg,3.5,,"HDR1000: HDR1000 (High Dynamic Range) enhances dynamic contrast ratio, illuminating colors up to 50% brighter than SDR while displaying profoundly clear dark colors.
 QHD Resolution: Quad (QHD) resolution is aptly named for having four times more pixels (2560 × 1440) than HD and delivers a splash of transcendent color and piercing clarity.
 up to 165Hz Multiple Ports: The DisplayPorts deliver up to 165Hz refresh rate, providing incredible visibility & agility to beat your standard player. All 3 HDMI ports and the USB-C port provide an impressive 144hz refresh rate.
 Ambient Light Sensor: With an ambient light sensor, the screen is readable in different environments. The ambient light sensor helps reduce eye strain by either increasing the screen brightness to compensate for bright sunlight near a window or dimming the screen for nighttime reading.
 Luminous Backcover Lights: A colorful LED light illuminates the back cover of the monitor, delivering a uniquely modern design."
-"[[[203 202 198]
-  [137 137 137]
-  [143 141 140]
-  ...
-  [ 97  97  98]
-  [ 92  92  92]
-  [183 183 183]]
-
- [[100  97  98]
-  [ 40  40  41]
-  [ 74  74  76]
-  ...
-  [  0   1   3]
-  [  0   0   0]
-  [ 80  80  80]]
-
- [[ 98  95  99]
-  [ 77  78  84]
-  [ 89 104 116]
-  ...
-  [ 11  12  15]
-  [  8   8   9]
-  [ 86  86  85]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$269
+images/71xdv8bb7pL._AC_SX679_.jpg,5,"$269
 32","27"" WQHD (2560 x 1440) Widescreen IPS Display with Adaptive-Sync Support | EPEAT Bronze Certified | TUV/Eyesafe Certification
 Refresh Rate: 75Hz | Response Time: 4ms (G to G) | Brightness: 350nits
 100% sRGB | Colors: 16.7 million | HDR10 Support
 2 speakers, 2 watts per speaker
 Video Ports: 1 x Display Port 1.2, 1 x Mini Display Port, 2 x HDMI 2.0 & 1 x Audio-Out | HDMI and USB Cables Included"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.2,,"DECT 6.0 Digital technology, Digital answering system
+images/81+pnSPxKAL._AC_SX466_.jpg,4.2,,"DECT 6.0 Digital technology, Digital answering system
 Caller ID/Call Waiting, Backlit keypad and display.
 This item does not have the speakerphone feature.
 30 name and number phonebook directory, DSL Subscribers may need to us a DSL Filter
 For optimal performance batteries should be charged for 16 hours prior to use"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [ 71  71  71]
-  [143 143 143]
-  [253 253 253]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [167 167 167]
-  [216 216 216]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [207 207 207]
-  [247 247 247]
-  [255 255 255]]]",4.5,"$29
+images/71RpT94kluL._AC_SX466_.jpg,4.5,"$29
 99","Clean modern design raises your monitor 4.0 in to a comfortable and ergonomically correct viewing height to reduce neck strain
 Great for monitors, laptops, printers, TVs, gaming consoles, DVD players, stereos unto 40 lbs/18 kg
 Unique design allows for keyboard to slide underneath platform, keeping it out of the way when not in use. Great accessory for standing desks to ensure healthy ergonomic posture
 Made of powder coated steel with perforated hole pattern for passive airflow. Keeps your electronics cool
 Non-skid protective feet will not scuff furniture. Sturdy platform measures 14 in (W) x 9 in (D)"
-"[[[175 171 176]
-  [105 103 102]
-  [110 110 110]
-  ...
-  [102 110 107]
-  [116 118 117]
-  [234 234 234]]
-
- [[ 94  89  90]
-  [  0   0   0]
-  [  2   2   5]
-  ...
-  [  0   3   0]
-  [ 16  17  16]
-  [212 212 212]]
-
- [[ 96  97 100]
-  [  1   8  14]
-  [ 10  36  53]
-  ...
-  [106  29 134]
-  [ 28  24  30]
-  [211 212 210]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$299
+images/71WkA5arkHL._AC_SX679_.jpg,4.5,"$299
 97","1ms Response Time: Colors fade and illuminate instantly with a 1ms response time, eliminating ghosting and piecing together precise imagery during action-packed scenes and gaming.
 up to 165Hz Refresh Rate: Stay above the pack with 165Hz, giving you an edge in performance as frames transition instantly.
 HDR400: HDR400 (High Dynamic Range) enhances dynamic contrast ratio, illuminating colors up to 50% brighter than SDR while displaying profoundly clear dark colors."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$649
+images/71WdkWI-DQL._AC_SX679_.jpg,5,"$649
 64","Atlas 1 Co2 monitor/controller comes with a 25 foot remote sensor
 It features adjustable set point and elevation levels, a built in 'self calibration' function and an integrated photocell that enables operation in daytime hours only, when the plants need Co2
 Made in China
 Brand name: Titan Controls"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.7,"$24
+images/81gVqJR4DXL._AC_SX679_.jpg,4.7,"$24
 26","Dimensions: 12"" x 8"" x 3/8''
 Personalize it with your own 4” x 6” photo; Slides smoothly into top slot of picture frame without the hassle of clips and hardware
 Pops of team color stand out against the classic woodgrain background
 Comes ready to hang or display
 YouTheFan: officially licensed sports products specifically for you the fan - including StadiumViews, Fan Banners, Sportulas, Grill Sets, Boaster Drink Coasters, Puzzles and more for over 500 NFL, NCAA, NHL teams"
-"[[[199 198 201]
-  [116 118 121]
-  [118 116 118]
-  ...
-  [156 161 162]
-  [162 164 163]
-  [217 217 217]]
-
- [[106 109 112]
-  [  8  10  11]
-  [ 39  35  36]
-  ...
-  [  5   6   6]
-  [  4   4   4]
-  [102 102 102]]
-
- [[106 106 109]
-  [ 40  37  40]
-  [ 69  51  55]
-  ...
-  [ 13   2   2]
-  [  6   4   5]
-  [ 93  94  93]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.7,"$399
+images/710v81WBIES._AC_SX679_.jpg,4.7,"$399
 99","27"" Full HD (1920 x 1080) Widescreen IPS Monitor with AMD Radeon FreeSync Premium Technology
 Refresh Rate: Overclock to 280Hz | Response Time: Up to 0.5ms (G to G) | Brightness: 400 nits | Pixel Pitch: 0.311mm | HDR Ready | Color Gamut: 99% sRGB
 Zero-Frame Design | 2 Speakers, 2 Watts per Speaker
 Ergonomic Tilt: -5° to 25° | Height Adjustment Range: 4.7"" | Swivel: 360° | Pivot: +/- 90°
 Ports: 1 x Display Port 1.2 & 2 x HDMI 2.0 (Display Port and HDMI Cable Included)"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[253 253 253]
-  [253 253 253]
-  [252 252 252]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[253 253 253]
-  [253 253 253]
-  [252 252 252]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[254 254 254]
-  [254 254 254]
-  [253 253 253]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,"$349
+images/5150ly7RPpL._AC_SX679_.jpg,4.3,"$349
 99","BALANCED WORK AND PLAY - With ample space for multi-monitor setups, keyboards, mice and more, the GD160 is made to handle both work and play sessions. Whether you're conquering foes on the battlefield, or scrubbing timelines in Adobe Premiere, it's the perfect desk to tackle whatever you throw at it.
 3 HEIGHT ADJUSTMENT - The GD160 has three different height levels to fit your needs. Freely adjust between 28.0"", 29.5"" (default) or 31.1"" to accomodate higher or lower setups.
 CABLE MANAGEMENT - Cable management has never been easier with the included rear steel cable tray on our GD Series desks. Route cables for your peripherals, monitors, and more through the cable tray to help maintain a clean, tidy workspace.
 ""BUILT TO LAST - The GD160 is thoroughly tested for durability, being able to withstand up to 220.5 lbs without breaking a sweat. Rest easy with this battle-tested table as your sturdy companion.""
 FULL SURFACE MOUSEPAD - The GD160 comes equipped with a full-surface gaming mousepad that spans across the entire desk. It's made of water-resistant* materials, so fluids don't easily absorb into the mat, making it easier to clean and prolong its lifespan. *water resistance is only for cold liquids, hot liquids may still absorb into the mat."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$604
+images/71sSOHh87OL._SX522_.jpg,5,"$604
 97","Integrated peripheral options include a Magnetic Stripe Reader (MSR), RFID reader and webcam
 Integrated cable management
 iTouch Plus surface acoustic wave (SAW) touchscreen couples zero-bezel design with multi-touch
 Dual position stand - single hinge with high/low settings and tilt functionality
 Internal speakers
 Mounting type: 75mm VESA mount"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3,"$512
+images/51hIt6bnGWL._SX522_.jpg,3,"$512
 99","Elo
 1590L product
 15-Inch lcd (led backlight)
 Anti-glare, not power brick
 Refresh Rate: 60Hz"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,"$146
-46","Hauppauge Hd Pvr 2 Ge Plus - Functions: Video Recording, Video Streaming, Video Capturing - Usb 2.0 - 1920 X 1080 - External"
-"[[[255 255 255]
-  [170 170 171]
-  [ 95  95  97]
-  ...
-  [177 173 181]
-  [215 214 216]
-  [255 255 255]]
-
- [[202 202 202]
-  [ 37  37  39]
-  [ 25  25  27]
-  ...
-  [ 59  60  69]
-  [ 80  80  83]
-  [219 219 220]]
-
- [[161 161 162]
-  [ 17  17  19]
-  [ 31  31  33]
-  ...
-  [ 80  80  89]
-  [ 63  63  66]
-  [176 176 177]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$239
+images/61GIacqSr6L._AC_SX679_.jpg,4.3,"$146
+47","Hauppauge Hd Pvr 2 Ge Plus - Functions: Video Recording, Video Streaming, Video Capturing - Usb 2.0 - 1920 X 1080 - External"
+images/61+xbdcEmPL._AC_SX679_.jpg,4.6,"$239
 99","QUALITY SCREEN TIME: From big data to beautiful presentations, this monitor delivers Full HD (1920x1080p) viewing for any task
 PRODUCTIVITY & COMFORT: Advanced ergonomics help to boost productivity with all-day comfort
 AMAZING AT ANY ANGLE: This SuperClear IPS panel ensures stunning views no matter your vantage point
 FLEXIBLE CONNECTIVITY: The VG2453 supports laptops, PCs, Macs, and POS systems with HDMI, DisplayPort, USB, and VGA inputs
 INCLUDED IN THE BOX: LCD Monitor, Power Cable, Mini DP to DP Cable, and USB 3.0 Cable"
-"[[[231 229 230]
-  [122 124 128]
-  [112 113 114]
-  ...
-  [133 130 132]
-  [134 131 134]
-  [219 217 222]]
-
- [[159 164 162]
-  [ 16  18  19]
-  [ 41  20  16]
-  ...
-  [ 37  21  21]
-  [ 25  19  19]
-  [129 129 134]]
-
- [[155 154 154]
-  [ 82  49  39]
-  [196  95  70]
-  ...
-  [ 62  10   4]
-  [ 39  23  19]
-  [118 122 124]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,"$96
+images/71TOE0w7DzL._AC_SY300_SX300_.jpg,4.3,"$96
 18","SHARE THE PANORAMIC VIEW : The 23.8 inch monitor adopts a new generation of VA screen, covering 99% of the SRGB color gamut and 8bit gray level over 16.7M color numbers. Thus the business monitor can 100% restore true colors and present vivid details. Besides, the 178° wide viewing angle of this VA monitor allows you to enjoy a clear, sharp, and delicate images at any angle.
 EXTREMELY VIEWING COMFORT: Find your best viewing position and stay comfortable by tilting the screen up to 5 degrees forward or 15 degrees backward. Flicker-Free technology, Blue Light Filter, you can enjoy ultra-smooth gameplay or working for all-day without any eyes uncomfort.
 ULTRA SLIM DESIGN: The KOORUI 23.8 inch Business Computer Monitor adopts edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution. You can connect the edge-less monitor to Xbox, PC and laptops etc, transmitting high-quality images, any switch between office and entertainment.
 RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium service, making you assured. With a 3-year warranty, a 12-month replacement service and calling technical support. If you find any damage, malfunction or missing accessories, please feel free to contact us."
-"[[[255 255 255]
-  [203 202 205]
-  [163 162 167]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[200 200 203]
-  [ 44  43  50]
-  [ 25  24  30]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[122 121 126]
-  [ 34  33  39]
-  [ 63  62  68]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$109
+images/71P0M7tKjYL._AC_SX679_.jpg,4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -2433,163 +285,19 @@ Vesa wall mount ready; Lamp Life: 30,000+ Hours
 Windows 10 Sceptre Monitors are fully compatible with Windows 10, the most recent operating System available on PCs.Brightness: 220 cd/M2
 Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
 75 hertz"
-"[[[255 255 255]
-  [229 229 230]
-  [183 183 185]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [163 163 165]
-  [ 40  40  42]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [151 151 154]
-  [ 26  26  28]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$149
+images/613QjYRkKqL._AC_SX300_SY300_.jpg,4.5,"$149
 97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 165Hz Refresh Rate: Pushing beyond the standard refresh rate, 165Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 Response Time 1ms MPRT: With 1ms MPRT, motion blur is eliminated and exceptionally crisp imagery is visible in the midst of chaotic combat.
 320 Brightness: Remarkably vivid colors illuminate the screen like never before with 320 cd/m² brightness.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes."
-"[[[214 211 210]
-  [128 126 126]
-  [124 124 125]
-  ...
-  [177 175 174]
-  [181 180 180]
-  [234 234 234]]
-
- [[120 118 117]
-  [  7   6   6]
-  [ 26  27  29]
-  ...
-  [  8   7   9]
-  [  9   9   9]
-  [134 134 134]]
-
- [[114 113 113]
-  [ 34  34  36]
-  [ 50  52  56]
-  ...
-  [ 47  81 110]
-  [  2   4   7]
-  [119 119 118]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$299
+images/71XNJ9z6miL._AC_SX679_.jpg,5,"$299
 99","27.0"" Full HD (1920 x 1080) Widescreen IPS Gaming Monitor
 AMD FreeSync Premium Technology | Color Gamut: 99% sRGB | High Brightness and Contrast with VESA Certified DisplayHDR 400
 Zero-Frame Design | 2 Speakers, 2 Watts per Speaker
 Refresh Rate: Up to 165Hz | Response Time: Up to 0.5ms | Brightness: 400 nits (Peak)| Pixel Pitch: 0.233mm
 Ports: 1 x Display Port 1.2 and 2 x HDMI 2.0 (Display Port Cable and HDMI Cable Included)"
-"[[[252 252 250]
-  [214 218 216]
-  [204 210 211]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[204 217 213]
-  [ 59  56  50]
-  [ 58  34  31]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[159 159 154]
-  [ 98  50  40]
-  [168  74  60]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.7,"$612
+images/61G3JFJGgwL._AC_SX679_.jpg,4.7,"$612
 27","Is long-lasting with reduced screen burning to ensure maximum efficiency
 31.5"" viewable screen size provides a spectacular viewing experience
 4 ms Extreme Mode response time diminishes ghosting, blurring, and streaking in fast-moving games and movies
@@ -2597,427 +305,43 @@ Enjoy crisp content and energetic hues with the 350 Nit brightness
 Experience breathtaking level of details when you open your eyes to the clarity of 4K UHD screen
 LED backlight technology provides for industry-leading low power consumption and less hazardous materials
 3840 x 2160 maximum resolution for stunning, lively result with optimal viewing usability"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4,"$195
-13",
-"[[[196 195 198]
-  [100  99 103]
-  [101 100 105]
-  ...
-  [ 98  98 100]
-  [ 99  99 101]
-  [197 197 198]]
-
- [[ 98  97 102]
-  [ 26  25  30]
-  [ 36  35  40]
-  ...
-  [ 36  36  38]
-  [ 25  25  27]
-  [ 98  98 100]]
-
- [[ 98  97 101]
-  [ 41  40  45]
-  [ 60  59  64]
-  ...
-  [ 60  60  62]
-  [ 41  41  43]
-  [ 97  97  99]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.2,"$325
+images/51PwOF6i5wL._AC_SX466_.jpg,4,"$195
+27",
+images/71O66R-DU8L._AC_SX679_.jpg,3.2,"$325
 99","16:9 widescreen resolution perfect for watching movies, playing video games and getting on with office work
 WUXGA WLED with 1920x1200 resolution to view two A4 pages side-by-side
 Furnishes captivating visuals with 300 Nit brightness levels
 Features HDMI input to get connected with the top of the line PCs, Blu-ray players, and cutting edge gaming consoles
 5 ms Fast response time makes it excellent for latest action films, sports or gaming"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",2.9,,"ACHIEVE THE ULTIMATE WORKSTATION: This docking station includes 14 ports that include 2x HDMI 2.0, 2x DisplayPort 1.4, 1x USB-C (MFDP), 5x USB-A, 2x USB-C (1x upstream, 1x downstream), 1x Gigabit Ethernet.
+images/31sYpF4Gf0L._AC_SX679_.jpg,2.9,,"ACHIEVE THE ULTIMATE WORKSTATION: This docking station includes 14 ports that include 2x HDMI 2.0, 2x DisplayPort 1.4, 1x USB-C (MFDP), 5x USB-A, 2x USB-C (1x upstream, 1x downstream), 1x Gigabit Ethernet.
 65W POWER DELIVERY: This charging dock allows you to charge your laptop with up to 600W of pass-through power. It also has a USB-C Power Delivery 3.0 port so you can fast charge a smartphone, tablet, or other device at the same time.
 SUPPORT MULTIPLE DISPLAYS: Connect your laptop to up to 3 displays for a smooth, vivid, and immersive visual experience. Get up to 4K resolutions for multiple displays.
 WORKS WITH CHROMEBOOK CERTIFIED: This USB-C dock is part of our portfolio of Chrome-certified products. All our Works With Chromebook products have gone through extensive testing and are proven to meet Chromebook compatibility standards.
 2-YEAR WARRANTY: This Belkin USB Docking Station comes with a 2-year limited warranty and a Connected Equipment Warranty (CEW) of up to $2,500, so you can rest assured that your devices are safe and protected."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.2,"$256
+images/61t-UBicmWL._AC_SX679_.jpg,4.2,"$256
 64","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 144Hz Refresh Rate: More than double the standard refresh rate,144Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 1ms Fast Response Time: Colors fade and illuminate instantly with a 1ms response time, eliminating ghosting and piecing together precise imagery during action-packed scenes and gaming.
 Gaming Covers: Attached to the top and sides of the monitor, gaming covers provide more privacy and reduce outside distractions, bolstering your focus on the mission at hand.
 Multiple Ports: The DisplayPort & HDMI 1 deliver up to a stellar 144Hz refresh rate, providing incredible visibility & agility to dominate all gaming competition. The HDMI 2 & 3 provide impressive QHD at up to 75Hz."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[254 254 254]
-  [254 254 254]
-  [253 253 253]
-  ...
-  [251 251 251]
-  [254 254 254]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [254 254 254]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3,"$349
+images/61mFYc1x7+L._AC_SX679_.jpg,3,"$349
 99","ADVANCED TOUCHSCREEN: With a scratch-resistant 1080p multi-touch display, the TD2465 adds interactive productivity to office, home, retail and school environments.
 DURABLE VERSATILITY: Use Pen Touch Mode, Glove Touch Mode or Water-Resistant Touch Mode for interactivity in any environment.
 RAZOR-SHARP IMAGES: With a 3,000:1 static contrast ratio and two built-in speakers, the TD2465 delivers stunning images every single time.
 FLEXIBLE CONNECTIVITY: The TD2465 supports laptops, PCs and Apple/Mac operating systems with VGA, HDMI 1.4, Display Port and USB inputs.
 INCLUDED IN THE BOX: TD2465 monitor, power cable, HDMI cable, USB-A/B cable and quick start guide."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 252]
-  [255 255 255]
-  [254 253 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 254]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.8,"$23
+images/81d9kCNkv+L._AC_SX679_.jpg,3.8,"$23
 29","WYSE COMPATIBLE: Connect a DVI D and VGA monitor simultaneously to your Wyse terminal with this DVI I to DVI D and VGA splitter
 FLEXIBLE CONNECTION: With 8 inches of cable length, this DVI video splitter cable offers you ultimate versatility with your Wyse system
 REPLACEMENT CABLE: This DVI analog to DVI digital and VGA cable is a cost-effective replacement for your Wyse 920302-02L splitter cable
 DUAL MONITOR SPLITTER: Use this Wyse compatible DVI splitter to create a dual monitor workstation with your DVI D and VGA equipped monitors"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.1,"$191
+images/71lj9awBBAL._AC_SX679_.jpg,4.1,"$191
 98","""23.8"" full hd (1920 x 1080) widescreen ips display with adaptive-sync support""
 refresh rate: 75hz, response time: 4ms (g to g), brightness: 250 nits
 ""ergonomic tilt: -5 degrees to 25 degrees, height adjustment range: 4.7"", swivel: 45° to the left and right, pivot: +/-90 degrees""
 built-in full hd adjustable webcam with microphone, only compatible with windows os based systems
 video ports: 1 x display port 1 x hdmi & 1 x vga, usb ports: 4 x usb 3.0 downstream ports & 1 x usb 3.0 upstream port, vga cable, hdmi cable and usb cable included"
-"[[[166 166 166]
-  [119 119 119]
-  [128 128 128]
-  ...
-  [123 128 124]
-  [137 139 136]
-  [222 223 223]]
-
- [[ 13  13  13]
-  [  0   0   0]
-  [  0   0   0]
-  ...
-  [  0   0   0]
-  [  0   0   0]
-  [113 117 115]]
-
- [[  3   3   3]
-  [  1   1   1]
-  [  0   0   0]
-  ...
-  [ 45   8  13]
-  [ 12   0   0]
-  [ 83  85  83]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$119
+images/61DS+ZM0qGL._AC_SY300_SX300_.jpg,4.6,"$105
 99","GREAT FOR HOME AND OFFICE: An ideal all-around 24 inch display for offices or remote work
 SEE THE DIFFERENCE: Razor-sharp clarity and detail with Full HD (1920x1080p) resolution
 LESS CABLE CLUTTER: In addition to fast data, audio and video transfer, USB Type-C also provides 15W charging over a single cable
@@ -3026,55 +350,7 @@ AMAZING AT ANY ANGLE: A slim bezel panel ensures stunning views no matter your v
 ENHANCED VIEWING COMFORT: Flicker-Free technology and Blue Light Filter for all-day comfort
 FLEXIBLE CONNECTIVITY: The VA2447-MHU supports a variety of HD devices including gaming consoles, Blu-ray, laptops, PCs and digital cameras with HDMI and VGA inputs
 INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, and a Quick Start Guide"
-"[[[227 229 236]
-  [206 205 219]
-  [208 205 216]
-  ...
-  [244 245 245]
-  [239 240 240]
-  [244 245 245]]
-
- [[114 115 128]
-  [ 44  43  53]
-  [ 30  27  34]
-  ...
-  [ 93  93  96]
-  [105 103 105]
-  [187 183 185]]
-
- [[110 110 118]
-  [ 11  10  16]
-  [  0   0   0]
-  ...
-  [ 17  16  24]
-  [ 35  26  33]
-  [155 141 149]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
+images/71hrBloottS._AC_SX679_.jpg,4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 99% sRGB Color Gamut: With 99% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance & sharp visibility from multiple viewing angles.
 up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
@@ -3082,55 +358,7 @@ Multiple Ports: Two HDMI ports and one DisplayPort provide up to 75HZ refresh ra
 Edgeless Design: Edgeless Design completely immerses you in all the captivating action and wondrous scenery that 1440P resolution and 75Hz refresh rate have to offer.
 Blue Light Shift: Reduce your monitors blue light to protect you from eye fatigue, irritation and strains. This enables you to work on your documents, watch movies, or play games more comfortably for extended periods.
 FPS-RTS Game Modes: FPS and RTS are Sceptre's custom set display settings built for an enhanced gaming experience. FPS (First Person Shooter), RTS (Real-Time Strategy)."
-"[[[248 242 247]
-  [200 188 197]
-  [185 178 184]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[164 155 167]
-  [ 27  18  28]
-  [  9   6  14]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[ 71  67  81]
-  [ 35  32  44]
-  [ 36  37  45]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$164
+images/71-4ZeUWzqL._AC_SX300_SY300_.jpg,4.6,"$164
 97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
@@ -3138,215 +366,23 @@ Adaptive Sync: Adaptive Sync is a technology that closes the gap between the gra
 Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes.
 Tiltable Display: A display that tilts 15° backward and 5° forward allows you to find a sweet spot that bridges clarity and comfort."
-"[[[255 255 255]
-  [255 255 255]
-  [242 242 242]
-  ...
-  [155 156 153]
-  [109 109 109]
-  [172 172 172]]
-
- [[255 255 255]
-  [255 255 255]
-  [203 203 204]
-  ...
-  [ 20  22  21]
-  [ 17  17  17]
-  [ 81  81  81]]
-
- [[255 255 255]
-  [255 255 255]
-  [204 204 204]
-  ...
-  [ 23  24  30]
-  [ 20  20  21]
-  [ 87  87  87]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.8,"$228
+images/81uV0XUkyKL._AC_SX679_.jpg,3.8,"$228
 50","165hz refresh rate
 2560 x 1440 resolution
 Freesync Support
 G-sync compatible
 HDR10"
-"[[[234 238 238]
-  [154 154 149]
-  [139 142 138]
-  ...
-  [142 140 141]
-  [148 147 151]
-  [228 227 229]]
-
- [[142 143 144]
-  [  6   3   2]
-  [  6   7   8]
-  ...
-  [  4   7  14]
-  [  3   3   7]
-  [112 111 115]]
-
- [[116 119 125]
-  [  4   8  18]
-  [ 81  96 117]
-  ...
-  [ 50  79 122]
-  [ 10  12  21]
-  [ 88  87  90]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,,"Number of Screens: 1
+images/81ZQImyz3HL._AC_SX679_.jpg,4.4,,"Number of Screens: 1
 Screen Size Class: 22""
 Viewable Screen Size: 21.5""
 Screen Mode: LCD
 Screen Surface: Matte, 3H Hard Coating"
-"[[[225 222 225]
-  [163 164 163]
-  [175 176 175]
-  ...
-  [201 200 200]
-  [189 188 191]
-  [207 208 203]]
-
- [[157 157 157]
-  [ 56  57  55]
-  [ 66  60  59]
-  ...
-  [ 60  65  68]
-  [ 58  61  67]
-  [104 104 101]]
-
- [[157 156 156]
-  [ 75  67  67]
-  [230 208 208]
-  ...
-  [158 189 208]
-  [ 73  82  89]
-  [106 103 102]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,,"27"" FHD 1080P View your applications, spreadsheets and more with a perfect 27 inches screen with a breathtaking viewing experience that comes with Full HD resolution
+images/51YIWXPi6EL._AC_SX679_.jpg,4.3,,"27"" FHD 1080P View your applications, spreadsheets and more with a perfect 27 inches screen with a breathtaking viewing experience that comes with Full HD resolution
 Type C Display Allows you to connect the latest devices more conveniently and with less trouble.
 Built-In Speaker Built-in speakers allow you to listen clearly without connecting external speakers.
 Adjustable stand Adjust the stand to the angle that is most suitable for you to keep yourself work comfortably
 Display Kit Support Providing the most convenient tool, the proper color & display mode to you while working with it everyday."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$129
+images/71fiXWROXhL._AC_SX679_.jpg,4.4,"$129
 99","Full High Definition: 1920*1080P image resolution with unparalleled quality and clarity. Double the image resolution of traditional HD monitors
 75Hz Refresh Rate: 75Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images
 Immersive Viewing Experience: The 1800R curvature of the screen lets you enjoy big, bold and stunning panoramic views while you work or play at home or the office
@@ -3354,751 +390,79 @@ Eye Care: Optimize your viewing comfort by reducing blue light emissions and fli
 Thin Bezel & Tilting: Ultra-thin bezel for optimal screen visibility from edge to edge. 15° Backward and 5° forward tilt angles for ideal viewing. Slim design allows for versatile placement in homes or offices
 Multiple Ports Support: 1*HDMI, 1*VGA and Audio Output
 Gameplus Mode: It will give you an edge when you’re playing first-person shooting games"
-"[[[139 139 141]
-  [ 78  81  83]
-  [ 91  88  90]
-  ...
-  [124 125 124]
-  [117 118 120]
-  [175 176 177]]
-
- [[ 87  87  89]
-  [ 26  28  28]
-  [  8   8   7]
-  ...
-  [ 32  36  40]
-  [ 45  46  49]
-  [148 149 151]]
-
- [[ 86  87  88]
-  [ 17  18  16]
-  [176 169 165]
-  ...
-  [167 201 221]
-  [ 36  39  43]
-  [140 141 143]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$179
+images/71y+IasAinL._AC_SX679_.jpg,5,"$179
 99","27"" FHD 1080P View your applications, spreadsheets and more with a perfect 27 inches screen with a breathtaking viewing experience that comes with Full HD resolution Anti-Flicker technology
 Type C Display Allowing you to connect the latest devices more easily via USB Type C
 Adjustable stand Adjust the stand to the angle that is most suitable for you to keep yourself work comfortably
 Built-In Speaker Built-in speakers allow you to listen clearly without connecting external speakers
 MSI Anti-Flicker technology provides a very comfortable viewing experience by reducing the amount of screen flicker."
-"[[[246 245 248]
-  [199 198 201]
-  [187 186 190]
-  ...
-  [201 199 203]
-  [194 194 195]
-  [249 249 250]]
-
- [[162 161 165]
-  [ 28  27  32]
-  [ 23  22  27]
-  ...
-  [ 34  32  37]
-  [ 20  20  22]
-  [157 157 159]]
-
- [[111 110 114]
-  [ 19  18  24]
-  [ 36  35  40]
-  ...
-  [  6   6  10]
-  [ 15  15  18]
-  [ 94  94  95]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$349
+images/71Xw6psqIyL._AC_SX679_.jpg,4.4,"$349
 99","Acer EI272UR Pbmiiipx 27"" 1500R Curved WQHD (2560 x 1440) VA Gaming Monitor with AMD Radeon FreeSync2 HDR Technology, 144Hz, VESA Certified DisplayHDR400, DCI-P3 (Display Port & 3 x HDMI Ports), Black
 1500R curved display with 16: 9 aspect ratio | high Brightness and contrast with VESA Certified displays 400 | response time: 4ms (g to G)
 Dci-p3 90% wide Color gamut | 144Hz refresh rate - Using Display port or HDMI 2. 0
 Zero frame Design | 2 speakers at 3 watts per speaker
 Ports: 1 x Display Port, 1 x HDMI V2. 0, 2 x HDMI V1. 4 & Audio out (HDMI cable included)"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [126 126 126]
-  [251 251 251]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [254 254 254]
-  [255 255 255]]]",4.3,"$122
-58","Monitor weight suspension up to 17. 6lbs
+images/41wg972bi-L._AC_SX466_.jpg,4.3,"$121
+69","Monitor weight suspension up to 17. 6lbs
 Optional 360° rotation makes sharing your screen simple, and ball bearing arm joints ensure supple, long-life operation
 Quick release/attachment display mechanism makes installation and swapping monitors a one-person operation and cables are cleverly managed for a clean and professional look
 Quick-release display heard with security screw
 10-Year"
-"[[[253 253 253]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [252 252 250]
-  [251 251 249]]
-
- [[254 254 254]
-  [212 212 212]
-  [137 137 137]
-  ...
-  [221 221 219]
-  [247 247 245]
-  [254 254 252]]
-
- [[255 255 255]
-  [143 143 143]
-  [  0   0   0]
-  ...
-  [ 33  33  32]
-  [175 175 173]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.7,"$99
+images/51FYXkeySsL._AC_.jpg,4.7,"$99
 99","21.5In Ws Lcd 1920X1080 600:1
 Mounting Type: VESA Mount"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [214 214 214]
-  [221 221 221]
-  [244 244 244]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [213 213 213]
-  [197 197 197]
-  [225 225 225]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [242 242 242]
-  [198 198 198]
-  [225 225 225]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.2,"$135
+images/61IJ82qhjmL._AC_SX679_.jpg,4.2,"$135
 99","FLEXIBLE INSTALLATION: For added versatility, this desk mount single monitor arm can be clamped to your desk or through the grommet hole and also features built-in cable management for ease of use.
 SUPPORTS VESA COMPATIBLE DISPLAYS: To ensure ultimate compatibility, this full motion articulating monitor arm supports a flat or curved (up to 34) or ultrawide (up to 33.76) VESA mount monitors.
 EASY TO USE: With a height adjustment of 13.1 the computer screen mount can rotate your display 180 degrees & has a +/-90 tilt & +/-180 swivel so you can customize positioning.
 HEAVY-DUTY ALUMINUM CONSTRUCTION: The height adjustable monitor arm securely supports a VESA mount monitor (75x75, 100x100 mm) with a maximum weight capacity of 19.8lb / 9kg per display."
-"[[[248 248 248]
-  [172 172 172]
-  [145 145 145]
-  ...
-  [214 216 215]
-  [221 221 221]
-  [255 255 255]]
-
- [[228 228 228]
-  [ 99  99  99]
-  [ 89  89  89]
-  ...
-  [ 21  21  22]
-  [ 39  39  39]
-  [220 220 220]]
-
- [[225 225 225]
-  [109 109 109]
-  [ 99  99  99]
-  ...
-  [ 13  10  12]
-  [ 22  22  22]
-  [201 201 201]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$373
+images/91URdNaP0cL._AC_SX679_.jpg,4.4,"$373
 49","Acer XG 27"" monitor features WQHD resolution (2560 x 1440) presenting stunning, high quality images with excellent detail that not only enhances users’ working efficiency, but creates outstanding visual enjoyment.
 With AMD Free Sync, the game’s frame rate is determined by your graphics card, not the fixed refresh rate of the monitor, which eliminates screen tearing and delivers very smooth gaming experiences.
 A fast response time of 1ms enhances the in-game experience. No matter how fast-moving the action is, transitions are rendered smoothly without the annoying effects of smearing or ghosting.
 Signal Inputs: 1x DVI, 1 x HDMI 2. 0 & 1 x Display Port"
-"[[[255 255 255]
-  [250 250 250]
-  [192 193 195]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[212 212 214]
-  [ 85  86  90]
-  [ 56  57  61]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[127 128 131]
-  [ 51  52  56]
-  [ 81  82  86]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$129
+images/719HPyFgp1L._AC_SX679_.jpg,4.6,"$129
 99","16:9 widescreen resolution perfect for watching movies, playing video games and getting on with office work
 21.5"" screen size with 1920x1080 resolution provides a native display of a Full HD video sources without any degradation due to down-sampling technologies
 250 Nit brightness gives an exceptional visible display for clear and consistent on-screen pictures
 5 ms Fast response time makes it excellent for latest action films, sports or gaming
 LED backlight enhances display performance that delivers an outstanding color range and contrast ratios"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [254 254 254]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [ 90  89  90]
-  [198 198 198]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [ 18  17  18]
-  [ 30  30  30]
-  [203 203 203]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$344
+images/61I3pIharUL._AC_SX679_.jpg,5,"$344
 99","USB-C Video Input with 65W PD: In addition to two HDMI 2.0 and one DisplayPort 1.2 video inputs, it includes a USB C video input, with 65 watts of Power Delivery (PD) for charging/powering the connected device.
 4K UHD Resolution: The 3840x2160 4K maximum resolution allows you see fine details with rich color accuracy, ensuring that you won't miss any visual cues or graphic elements in your games and movies.
 Fully Articulating Stand: With most monitors, you need to purchase a wall or desk mount to get the perfect viewing angle, but the 28"" CrystalPro 4K UHD Monitor includes a fully articulating stand with full height, vertical tilt, and horizontal swivel adjustments, allowing you to get the perfect viewing angle right out of the box. Additionally, the stand allows the display to be rotated, so you can easily switch between landscape and portrait orientations.
 IPS Panel Technology: In Plane Switching (IPS) Technology provides superior viewing angles, with accurate color reproduction at all angles. The 60Hz refresh rate and <5ms response time ensure fluid performance at all times.
 HDR Compatible: Experience a wider, richer range of colors, brighter whites, and deeper blacks with High Dynamic Range (HDR)."
-"[[[199 200 202]
-  [136 137 140]
-  [137 138 141]
-  ...
-  [170 170 170]
-  [172 172 172]
-  [221 221 221]]
-
- [[119 120 124]
-  [ 32  33  37]
-  [ 52  53  57]
-  ...
-  [  4   5   5]
-  [  4   4   4]
-  [112 112 112]]
-
- [[114 115 119]
-  [ 55  56  60]
-  [ 76  77  81]
-  ...
-  [  0   0   1]
-  [  0   0   0]
-  [ 94  94  94]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$543
+images/81ozoS4o+mL._AC_SX300_SY300_.jpg,5,"$543
 29","31.5"" WQHD (2560 x 1440) Widescreen Agile-Splendor IPS 400 Gaming Monitor | G-SYNC Compatible
 Refresh Rate: Up to 170Hz| Response Time: Up to 0.5ms (G to G) | VESA Certified DisplayHDR 400 | Pixel Pitch: 0.272mm | Color Gamut: DCI-P3 90% | Color Accuracy: Delta E<1
 Zero-Frame Design | 2 Speakers, 2 Watts per Speaker
 Ergonomic Tilt: -5° to 35° | Height Adjustment Range: 5.1"" | Swivel: +/- 30°
 Ports: 1 x Display Port 1.2, 2 x HDMI 2.0 & USB Ports (Display Port, HDMI & USB Cable Included)"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[215 215 215]
-  [164 164 164]
-  [164 164 164]
-  ...
-  [120 120 120]
-  [126 126 126]
-  [214 214 214]]
-
- [[138 138 138]
-  [119 119 119]
-  [124 124 124]
-  ...
-  [ 52  52  52]
-  [ 39  39  39]
-  [ 94  94  94]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$298
+images/41aD1SqtAbL._AC_SX679_.jpg,5,"$298
 24","Native resolution: 3840x2160
 Input: HDMI (2), Display Port
 Stand: tilt/ height adjustable/ pivot
 Vesa mountable: 100x100mm"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 254 255]
-  [255 254 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 254 255]
-  [255 255 255]
-  [254 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 254 255]
-  [255 255 255]
-  [254 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$32
+images/41yRnenGYsL._AC_SX466_.jpg,4.6,"$32
 24","Wide platform; elegant minimalist design; many uses - monitor riser, laptop stand, printer stand, desk shelf
 Creates extra space to store keyboard, game consoles, laptop, accessories underneath
 22"" wide x 8.25"" deep x 3.25"" high; clearance under platform 19.65” wide x 3” high
 5mm tempered glass platform; 40 pound capacity
 Sleek designer-look white legs; non-skid feet to prevent sliding and protect desktop; sturdy construction legs; Simple assembly, just screw legs into platfom"
-"[[[231 229 230]
-  [122 124 128]
-  [112 113 114]
-  ...
-  [133 130 132]
-  [134 131 134]
-  [219 217 222]]
-
- [[159 164 162]
-  [ 16  18  19]
-  [ 41  20  16]
-  ...
-  [ 37  21  21]
-  [ 25  19  19]
-  [129 129 134]]
-
- [[155 154 154]
-  [ 82  49  39]
-  [196  95  70]
-  ...
-  [ 62  10   4]
-  [ 39  23  19]
-  [118 122 124]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,"$96
+images/71TOE0w7DzL._AC_SY300_SX300_.jpg,4.3,"$96
 18","SHARE THE PANORAMIC VIEW : The 23.8 inch monitor adopts a new generation of VA screen, covering 99% of the SRGB color gamut and 8bit gray level over 16.7M color numbers. Thus the business monitor can 100% restore true colors and present vivid details. Besides, the 178° wide viewing angle of this VA monitor allows you to enjoy a clear, sharp, and delicate images at any angle.
 EXTREMELY VIEWING COMFORT: Find your best viewing position and stay comfortable by tilting the screen up to 5 degrees forward or 15 degrees backward. Flicker-Free technology, Blue Light Filter, you can enjoy ultra-smooth gameplay or working for all-day without any eyes uncomfort.
 ULTRA SLIM DESIGN: The KOORUI 23.8 inch Business Computer Monitor adopts edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution. You can connect the edge-less monitor to Xbox, PC and laptops etc, transmitting high-quality images, any switch between office and entertainment.
 RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium service, making you assured. With a 3-year warranty, a 12-month replacement service and calling technical support. If you find any damage, malfunction or missing accessories, please feel free to contact us."
-"[[[255 255 255]
-  [229 229 230]
-  [183 183 185]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [163 163 165]
-  [ 40  40  42]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [151 151 154]
-  [ 26  26  28]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$149
+images/613QjYRkKqL._AC_SX679_.jpg,4.5,"$149
 97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 165Hz Refresh Rate: Pushing beyond the standard refresh rate, 165Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 Response Time 1ms MPRT: With 1ms MPRT, motion blur is eliminated and exceptionally crisp imagery is visible in the midst of chaotic combat.
 320 Brightness: Remarkably vivid colors illuminate the screen like never before with 320 cd/m² brightness.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes."
-"[[[251 250 247]
-  [212 208 212]
-  [176 170 182]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[202 207 201]
-  [ 47  47  49]
-  [  6   4  15]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[134 149 142]
-  [ 12  18  20]
-  [ 43  41  52]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$109
+images/71P0M7tKjYL._AC_SX679_.jpg,4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -4106,55 +470,7 @@ Vesa wall mount ready; Lamp Life: 30,000+ Hours
 Windows 10 Sceptre Monitors are fully compatible with Windows 10, the most recent operating System available on PCs.Brightness: 220 cd/M2
 Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
 75 hertz"
-"[[[233 232 233]
-  [151 151 155]
-  [138 139 136]
-  ...
-  [133 135 132]
-  [151 151 150]
-  [235 235 235]]
-
- [[129 131 126]
-  [  5   9  11]
-  [  6   7   7]
-  ...
-  [  8   8  10]
-  [  7   7   6]
-  [128 128 128]]
-
- [[107 107 100]
-  [ 12   3   1]
-  [ 71  30  12]
-  ...
-  [ 11  13  38]
-  [  0   0   1]
-  [102 102 102]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$799
+images/71Iuy+BqAjL._AC_SX679_.jpg,4.6,"$799
 99","PREMIUM MONITOR: This QHD (2560x1440p), 165Hz, G-Sync Compatible IPS monitor delivers lifelike colors perfect for the office, graphic design, photographers and more
 INTEGRATED COLOR WHEEL: A ColorPro Wheel helps you fine-tune colors and adjust calibration with exquisite precision
 REDUCE CABLE CLUTTER: Connect video, audio, data and power with a single 90W USB-C cable. A USB hub lets you plug in peripherals like USB drives and mice
@@ -4162,55 +478,7 @@ NANO IPS PANEL: IPS Nano Color technology delivers deep and vibrant on-screen co
 EXCEPTIONAL COLOR ACCURACY: Enjoy 100% sRGB, EBU, SMPTE-C, Rec. 709 and Delta E<2 accuracy. A gorgeous palette of 1.07 billion colors create precise, lifelike images
 IDEAL FOR MACS: 95% DCI-P3 uses the exact same color gamut as Apple’s Retina Display. Make color matching and synchronization easy with ICC Bridge and Color Sync
 PANTONE VALIDATED DISPLAY: Experience color fidelity in every pixel. The VP2776 has been rigorously tested and deemed capable of reproducing Pantone Matching System colors"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.6,"$31
+images/71j2L4pHjPL._AC_SX466_.jpg,3.6,"$31
 35","Helps reduce glare and mirror-like reflections which makes your screen easier to use in high-glare situations
 Designed to fit widescreen laptops with a diagonally measured 14"" viewing screen and a 16:9 aspect ratio
 Actual filter dimensions are 12 3/16"" wide x 6 7/8"" high (310 mm x 175 mm)
@@ -4218,429 +486,45 @@ Easy to apply, removable and re-attachable. No lamination, no bubbles.
 Lightweight, thin, frameless design
 Protects screen against scratches
 Attaches with optically clear adhesive strips that can easily be applied and reapplied numerous times"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.9,,"15.6'' diagonal size
+images/81DKdMyq1bL._SX522_.jpg,3.9,,"15.6'' diagonal size
 16:9 aspect ratio
 1366 x 768 resolution
 Active matrix TFT LCD with LED backlighting"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.9,,"Features full HD 1080P IPS screen.
+images/71YUMOaT86L._AC_SX679_.jpg,3.9,,"Features full HD 1080P IPS screen.
 Aspect Ratio is 16:9
 Brightness: 220cd/m2(typ).
 Portable, lightweight and ultra-slim design.
 Versatile digital connectivity with mini HDMI & USB C ports.
 Powered on by 5v 2A or higher adapter which support PD. (Power supply not included) Long press for 7s to turn on the monitor."
-"[[[254 254 254]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [254 254 254]
-  [253 253 253]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [254 254 254]
-  [255 255 255]]
-
- ...
-
- [[252 251 255]
-  [249 248 252]
-  [254 253 255]
-  ...
-  [252 251 254]
-  [253 253 254]
-  [255 255 255]]
-
- [[250 249 253]
-  [251 250 253]
-  [249 248 252]
-  ...
-  [253 252 254]
-  [255 255 255]
-  [255 255 255]]
-
- [[253 252 255]
-  [254 253 255]
-  [255 254 255]
-  ...
-  [254 253 255]
-  [253 253 254]
-  [255 255 255]]]",3.2,"$237
+images/51LQIZaGigL._AC_.jpg,3.2,"$237
 49","Fhd Mini portable monitor 11 6” Full HD 1920x1080 (16 7M colors) with HDMI VGA video inputs USB powered
 Rear dock port expansion provides you the connectivity on the back side of monitor and keep your total solution simpler
 Best choice for commercial display & factory use light-weighted 490G extra-slim 11mm with high-end ffs panel for wide viewing angles
 Optional accessory Multi-Mount kit 1102 making the viewing more flexible with VESA 75 kit
 Plug & play/ smart cover Stand with unique cover lock"
-"[[[253 253 253]
-  [249 249 249]
-  [240 240 240]
-  ...
-  [229 229 229]
-  [249 249 249]
-  [252 252 252]]
-
- [[249 249 249]
-  [154 154 154]
-  [127 127 127]
-  ...
-  [ 36  36  36]
-  [101 101 101]
-  [248 248 248]]
-
- [[219 219 219]
-  [116 116 116]
-  [120 120 120]
-  ...
-  [ 32  32  32]
-  [ 27  27  27]
-  [215 215 215]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",1,"$395
+images/61S9VXlYraL._AC_SX679_.jpg,1,"$395
 19","Native resolution: 24"" 1920 x 1080 IPS panel, 5M: 1 (DFC), 250 cd/M2
 Interface: display port, VGA, DVI-I, USB 2.0 (6), 10/100/1000 Ethernet
 Processor: Teradici Tera 2321"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",2,"$228
+images/71dRVDmh1QL._AC_SX679_.jpg,2,"$228
 42","23.8"" Full HD (1920 x 1080) Widescreen IPS Display with Adaptive-Sync Support | Built-in Full HD Adjustable Webcam with Microphone | EPEAT Bronze Certified | TUV/Eyesafe Certification
 Refresh Rate: 75Hz | Response Time: 4ms (G to G) | 2 speakers, 2 watts per speaker
 Color Accuracy: No color difference with Delta E<2
 USB Type-C: 1 x USB 3.1 (Type-C) port (Gen 1 up to 5 Gbps) supporting data, power (100W) and DisplayPort over USB-C
 Video Ports: 1 x Display Port 1.4, 1 x Display Port Out, 1 x HDMI 2.0, 1 x Ethernet (RJ-45) Port and 1 x Audio-Out | USB Ports: 4 x USB 3.0 Downstream Ports & 6 x USB-B 3.0 (2 Up and 4 Down) | HDMI and USB Type-C Cables Included"
-"[[[223 222 223]
-  [133 132 133]
-  [128 126 127]
-  ...
-  [161 158 159]
-  [158 156 157]
-  [202 201 202]]
-
- [[129 126 127]
-  [ 31  29  30]
-  [ 48  46  47]
-  ...
-  [  9   6   8]
-  [  7   5   6]
-  [ 76  74  75]]
-
- [[120 117 118]
-  [ 51  50  51]
-  [ 80  78  79]
-  ...
-  [  1   1   2]
-  [  3   1   2]
-  [ 69  67  68]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$515
+images/91CdaHwKirL._AC_SX679_.jpg,4.4,"$515
 03","31.5"" WQHD (2560 x 1440) Widescreen Agile-Splendor IPS Gaming Monitor with AMD FreeSync Premium Technology
 High Brightness and Contrast with VESA Certified DisplayHDR 400 | Color Gamut: 90% DCI-P3 | Color Accuracy: No color difference with Delta E<1
 Refresh Rate: Up to 170Hz | Response Time: Up to 0.5ms | Pixel Pitch: 0.273mm
 TUV/Eyesafe Certification | Acer VisionCare 3.0 Technologies
 Ports: 1 x Display Port 1.2, 2 x HDMI 2.0 & 4 x USB Ports (Display Port, HDMI and USB Cables Included)"
-"[[[198 199 194]
-  [111 116 112]
-  [116 116 118]
-  ...
-  [159 159 162]
-  [160 160 160]
-  [208 208 208]]
-
- [[109 110 106]
-  [  7   9   7]
-  [ 36  33  35]
-  ...
-  [  6   6   9]
-  [  2   3   3]
-  [ 89  89  89]]
-
- [[109 109 107]
-  [ 37  38  36]
-  [ 62  55  57]
-  ...
-  [ 22  13  19]
-  [  1   0   1]
-  [ 83  84  84]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.8,"$279
+images/81n+UhGyU2L._AC_SX679_.jpg,4.8,"$279
 97","23.8"" Full HD (1920 x 1080) Widescreen IPS Gaming Monitor
 NVIDIA G-Sync Compatible | AMD FreeSync Premium Technology | Zero-Frame Design | 2 Speakers, 2 Watts per Speaker
 Refresh Rate: Up to 165Hz | Response Time: Up to 0.5ms (G to G) | VESA Certified DisplayHDR 400 | Pixel Pitch: 0.275mm
 Ergonomic Tilt: -5° to 25° | Height Adjustment Range: 4.7"" | Swivel: 360° | Pivot: +/- 90°
 Ports: 1 x Display Port 1.2 & 2 x HDMI 2.0 (Display Port and HDMI Cable Included)"
-"[[[166 166 166]
-  [119 119 119]
-  [128 128 128]
-  ...
-  [123 128 124]
-  [137 139 136]
-  [222 223 223]]
-
- [[ 13  13  13]
-  [  0   0   0]
-  [  0   0   0]
-  ...
-  [  0   0   0]
-  [  0   0   0]
-  [113 117 115]]
-
- [[  3   3   3]
-  [  1   1   1]
-  [  0   0   0]
-  ...
-  [ 45   8  13]
-  [ 12   0   0]
-  [ 83  85  83]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$119
+images/61DS+ZM0qGL._AC_SY300_SX300_.jpg,4.6,"$105
 99","GREAT FOR HOME AND OFFICE: An ideal all-around 24 inch display for offices or remote work
 SEE THE DIFFERENCE: Razor-sharp clarity and detail with Full HD (1920x1080p) resolution
 LESS CABLE CLUTTER: In addition to fast data, audio and video transfer, USB Type-C also provides 15W charging over a single cable
@@ -4649,55 +533,7 @@ AMAZING AT ANY ANGLE: A slim bezel panel ensures stunning views no matter your v
 ENHANCED VIEWING COMFORT: Flicker-Free technology and Blue Light Filter for all-day comfort
 FLEXIBLE CONNECTIVITY: The VA2447-MHU supports a variety of HD devices including gaming consoles, Blu-ray, laptops, PCs and digital cameras with HDMI and VGA inputs
 INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, and a Quick Start Guide"
-"[[[227 229 236]
-  [206 205 219]
-  [208 205 216]
-  ...
-  [244 245 245]
-  [239 240 240]
-  [244 245 245]]
-
- [[114 115 128]
-  [ 44  43  53]
-  [ 30  27  34]
-  ...
-  [ 93  93  96]
-  [105 103 105]
-  [187 183 185]]
-
- [[110 110 118]
-  [ 11  10  16]
-  [  0   0   0]
-  ...
-  [ 17  16  24]
-  [ 35  26  33]
-  [155 141 149]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
+images/71hrBloottS._AC_SX300_SY300_.jpg,4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 99% sRGB Color Gamut: With 99% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance & sharp visibility from multiple viewing angles.
 up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
@@ -4705,55 +541,7 @@ Multiple Ports: Two HDMI ports and one DisplayPort provide up to 75HZ refresh ra
 Edgeless Design: Edgeless Design completely immerses you in all the captivating action and wondrous scenery that 1440P resolution and 75Hz refresh rate have to offer.
 Blue Light Shift: Reduce your monitors blue light to protect you from eye fatigue, irritation and strains. This enables you to work on your documents, watch movies, or play games more comfortably for extended periods.
 FPS-RTS Game Modes: FPS and RTS are Sceptre's custom set display settings built for an enhanced gaming experience. FPS (First Person Shooter), RTS (Real-Time Strategy)."
-"[[[251 250 252]
-  [180 179 185]
-  [171 170 175]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[143 142 148]
-  [ 30  29  37]
-  [ 24  23  31]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[ 65  64  72]
-  [ 49  48  56]
-  [ 54  53  61]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$164
+images/71-4ZeUWzqL._AC_SX300_SY300_.jpg,4.6,"$164
 97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
@@ -4761,643 +549,55 @@ Adaptive Sync: Adaptive Sync is a technology that closes the gap between the gra
 Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes.
 Tiltable Display: A display that tilts 15° backward and 5° forward allows you to find a sweet spot that bridges clarity and comfort."
-"[[[255 255 255]
-  [254 254 254]
-  [254 254 254]
-  ...
-  [255 255 255]
-  [251 252 252]
-  [254 254 254]]
-
- [[255 255 255]
-  [255 255 255]
-  [218 218 218]
-  ...
-  [215 215 215]
-  [253 253 253]
-  [254 254 254]]
-
- [[255 255 255]
-  [255 255 255]
-  [158 158 158]
-  ...
-  [150 150 150]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3,"$249
+images/51c7eZdwn1L._AC_.jpg,3,"$249
 99","Elegant and personalized design fits any corners of your house
 TUV certified display protects your eyesight and keeps your eyes healthy
 Anti-Flicker and Less Blue Light technologies prevent your eyes from strain & fatigue
 75 Hz refresh rate provides a better viewing experience
 Ergonomically work with the most comfortable position while focusing on your courses and works"
-"[[[244 244 244]
-  [194 194 194]
-  [139 139 139]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[153 153 153]
-  [  6   6   6]
-  [  8   8   8]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[121 121 121]
-  [  0   0   0]
-  [ 21  21  21]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",2.7,"$449
+images/71h8XRlmJPL._AC_SX679_.jpg,2.7,"$404
 99","27"" Fast IPS KSF LED (AHVA) with Native 2560 x 1440 Resolution.
 Native Refresh Rate: 165Hz for DisplayPort with AMD Radeon FreeSync Premium Certified Range for 30Hz - 165Hz. 144Hz for HDMI with AMD Radeon FreeSync Premium Certified Range for 30Hz - 144Hz.
 Color Support: 98% DCI-P3, Response Time: 1ms (Gray to Gray), Brightness: 350 cd/m2 (Typical) and Up to 400 cd/m2, Native Contrast Ratio: 1000:1, Viewing Angles: 178° horizontal/178° vertical
 Console Compatible: Xbox Series X and Series S for 2560 x1440 @ 120Hz and 1920x1080 @ 120Hz. Playstation 5 for 1920x1080 @ 120Hz.
 3 years Manufacturer and Customer support by Nixeus (USA Brand and Company)"
-"[[[198 199 194]
-  [111 116 112]
-  [116 116 118]
-  ...
-  [159 159 162]
-  [160 160 160]
-  [208 208 208]]
-
- [[109 110 106]
-  [  7   9   7]
-  [ 36  33  35]
-  ...
-  [  6   6   9]
-  [  2   3   3]
-  [ 89  89  89]]
-
- [[109 109 107]
-  [ 37  38  36]
-  [ 62  55  57]
-  ...
-  [ 22  13  19]
-  [  1   0   1]
-  [ 83  84  84]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$299
+images/81n+UhGyU2L._AC_SX679_.jpg,4.4,"$299
 99","23.8"" Full HD (1920 x 1080) Widescreen IPS Gaming Monitor
 AMD FreeSync Premium Technology | Color Gamut: 99% sRGB | Acer HDR400
 Zero-Frame Design | 2 Speakers, 2 Watts per Speaker
 Refresh Rate: Up to 270Hz | Response Time: Up to 0.5ms | Brightness: 400 nits | Pixel Pitch: 0.275mm
 Ports: 1 x Display Port 1.2 and 2 x HDMI 2.0 (Display Port Cable and HDMI Cable Included)"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$42
-13","Smart Fit System lets you adjust monitor height to your personal comfort color, by snapping risers into place
+images/515rgN+vdVL._AC_SX466_.jpg,4.4,"$41
+83","Smart Fit System lets you adjust monitor height to your personal comfort color, by snapping risers into place
 3 height settings (3""-to-6"")
 Stand positions monitor in line with your eyes to help reduce eye and neck strain
 Extra-wide universal platform design fits any monitor up to 24"" and 80 lbs
 11. 5"" clearance between the legs under the stand provides plenty of storage for accessories or papers to optimize desktop space"
-"[[[255 255 255]
-  [254 254 254]
-  [252 252 252]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [254 254 254]
-  [255 255 255]
-  ...
-  [242 242 243]
-  [248 248 248]
-  [255 255 255]]
-
- [[255 255 255]
-  [252 252 252]
-  [163 163 163]
-  ...
-  [ 96  96  98]
-  [114 114 116]
-  [228 228 229]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,"$485
-69","The Dark Matter 34 inch Curved Gaming Monitor features a vast 3440x1440 (UWQHD) resolution.
+images/61Ob2hJTKZL._AC_SX679_.jpg,4.4,"$484
+34","The Dark Matter 34 inch Curved Gaming Monitor features a vast 3440x1440 (UWQHD) resolution.
 An ultrawide 21:9 aspect ratio providing 35 percent more desktop real estate than a traditional WQHD 16:9 display.
 The 1500R curvature enhances immersion and reduces any potential eye strain. It offers an impressive 144Hz refresh rate and AMD FreeSync technology for blistering fast, tear-free gaming and entertainment.
 Samsung Quantum Dot Color technology delivers a wider gamut of colors, as well as enhanced brightness and contrast.
 VESA DisplayHDR 400 certification satisfies the display industry's standard for true 8-bit image quality, peak luminance of 400cd/m2, higher contrast ratio, and a wider color gamut."
-"[[[255 255 255]
-  [255 255 255]
-  [246 246 246]
-  ...
-  [244 245 240]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [247 247 247]
-  ...
-  [238 239 234]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [248 248 248]
-  ...
-  [239 240 236]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4,"$229
+images/71Mr+6RrwxL._AC_SX679_.jpg,4,"$229
 99","Elegant and personalized design fits any corners of your house
 TUV certified display protects your eyesight and keeps your eyes healthy
 Anti-Flicker and Less Blue Light technologies prevent your eyes from strain & fatigue
 75 Hz refresh rate provides a better viewing experience
 Ergonomically work with the most comfortable position while focusing on your courses and works"
-"[[[253 253 253]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [244 244 244]
-  [225 225 225]
-  ...
-  [235 235 235]
-  [252 252 252]
-  [255 255 255]]
-
- [[249 249 249]
-  [118 118 118]
-  [ 76  76  76]
-  ...
-  [ 36  36  36]
-  [191 191 191]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.1,"$194
+images/31zGNwCagkL._AC_.jpg,4.1,"$177
 99","Weight (With Stand):16.8 lbs
 Mounting Type: Wall Mount size 100 x 100mm
 Refresh rate :75 hertz"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [254 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [254 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [254 255 255]]]",1,"$151
+images/41VPNh0Xr4L._AC_SX679_.jpg,1,"$151
 23","4K STREAMING: Wirelessly stream 4K content from your own devices (such as desktop PCs, laptops, tablets, and mobile phones), to any commercial display, interactive display, or projector.
 NATIVE SUPPORT FOR AIRPLAY, MIRACAST, AND CHROMECAST: Easily stream audio and video through popular wireless casting protocols such as AirPlay, Miracast, and Chromecast without needing a 3rd party app.
 ONE-TO-MANY MULTI-CAST: With multi-screen broadcasting, users can stream their content to multiple displays in different locations without hassle (ProCast App required).
 SPLIT-SCREEN DISPLAY WITH HOST CONTROL: A 4-in-1 split screen function transforms any large format display or projection screen into an interactive meeting room terminal – allowing up to 4 presenters to securely display media from any range of devices such as tablets, laptops, and mobile phones. Host Control enables a designated user to preview, control, and moderate content being shared from connected devices, and choose the information that is shared on the projector or display.
 ENTERPRISE-LEVEL NETWORK SECURITY: WPA2 enterprise encryption ensures secure wireless connection."
-"[[[255 255 255]
-  [223 223 223]
-  [169 169 169]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[231 231 231]
-  [ 74  74  74]
-  [  9   9   9]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[147 147 147]
-  [ 24  24  24]
-  [ 21  21  21]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",1,"$560
+images/6132Szxf1IL._AC_SX679_.jpg,1,"$560
 78",Mounting Type:Wall Mountable 100 x 100 mm.Aspect Ratio 21:9
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",5,"$416
+images/81e+dPyXp5L._AC_SX679_.jpg,5,"$416
 99","HP Eye Ease - Low Blue Light Hardware
 Single Power-On
 27"" IPS Panel w/ LED"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [181 184 186]
-  [251 251 250]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [ 44  53  57]
-  [106 106 107]
-  [226 226 227]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [ 69  71  68]
-  [ 52  52  54]
-  [133 133 135]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$293
-99","16:9 widescreen resolution perfect for watching movies, playing video games and getting on with office work
-21.5"" screen size with 1920x1080 resolution provides a native display of a Full HD video sources without any degradation due to down-sampling technologies
-Enjoy crisp content and energetic hues with the 250 Nit brightness
-HDMI interface allows you to connect to a variety of HD devices including gaming consoles, Blu-ray players, laptop PCs, digital cameras and many others for the ultimate true high-definition display
-5 ms Fast response time makes it excellent for latest action films, sports or gaming
-VESA mount compatibility allows you to mount the display on a wall or with a stand depending on your specific needs"
-"[[[234 235 236]
-  [122 123 126]
-  [ 99  99 104]
-  ...
-  [114 118 119]
-  [129 130 132]
-  [230 230 231]]
-
- [[127 128 132]
-  [ 24  26  30]
-  [ 32  35  38]
-  ...
-  [  2   3   5]
-  [  2   2   4]
-  [120 120 121]]
-
- [[107 108 112]
-  [ 66  67  71]
-  [ 74  78  81]
-  ...
-  [  1   1   2]
-  [  2   2   4]
-  [ 87  87  89]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.2,,"27"" WQHD (2560 x 1440) 1000R Curved Widescreen VA with AMD FreeSync Premium Technology
-Refresh Rate: Overclock to 170Hz | Response Time: Up to 0.5ms (G to G) | Brightness: 400 nits | Pixel Pitch: 0.233mm | High Brightness and Contrast with HDR 400 | Color Gamut: 95% sRGB
-Zero-Frame Design | 2 Speakers, 3 Watts per Speaker
-Ergonomic Tilt: -5° to 25° | Height Adjustment Range: 4.72"" | Swivel: +/- 30°
-Ports: 1 x Display Port 1.4 & 2 x HDMI 2.0 (Display Port and HDMI Cable Included)"
