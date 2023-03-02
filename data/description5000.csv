@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -47,9 +47,10 @@ imges,rating,price,description
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"100% Synthetic/Leather
+  [255 255 255]]]",4.1,"$40
+99","100% Synthetic/Leather
 Imported
-Rubber sole
+Synthetic sole
 Memory foam"
 "[[[255 255 255]
   [255 255 255]
@@ -752,8 +753,8 @@ Electrical Hazard Protection is rated to protect against open circuits up to 600
   ...
   [254 254 254]
   [254 254 254]
-  [254 254 254]]]",4.2,"$46
-19","MAXIMUM SLIP RESISTANCE: These Heavy Flex-O-Than PVC overshoe boots have a reinforced 4-way cleated out outsole that offers maximum slip resistance.
+  [254 254 254]]]",4.2,"$44
+84","MAXIMUM SLIP RESISTANCE: These Heavy Flex-O-Than PVC overshoe boots have a reinforced 4-way cleated out outsole that offers maximum slip resistance.
 WATERPROOF: These boots feature an energy absorbing 4-way cleated outsole with channels to repel water making them 100% waterproof.
 COMFORTABLE: Our boots are made to be both comfortable and durable with a special self-cleaning 4-way cleated outsole. These boots are kick off lug for easy on and off wear fitting over most work shoes and boots.
 APPLICATIONS: Our Heavy Flex-O-Than construction boots work well for heavy duty jobs like construction, farming, utilities, and food processing. Please review our size charts in the image section to find the correct sizing.
@@ -972,9 +973,12 @@ PERSONALIZATION: Add Jibbitz shoe charms to your Crocs to show your unique style
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"fabric
+  [255 255 255]]]",4.5,,"fabric-and-synthetic
+Imported
 Rubber sole
-Comes with slip-resistant & durable sole;Made with waterproof & breathable lining;These shoes are used for walking in different weather conditions;Made with superior quality & design."
+Shaft measures approximately low-top from arch
+Run-train Performance Sneaker
+Tazon"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1947,7 +1951,8 @@ Since 1947 Salomon has created innovative outdoor sports gear; From running and 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Stability : 3d chassis stabilizes the foot without sacrificing forefoot mobility
+  [255 255 255]]]",4.5,"$81
+01","Stability : 3d chassis stabilizes the foot without sacrificing forefoot mobility
 Precise fit: sensifit with quick lace delivers a fast, comfortable fit for every foot
 Aggressive grip: contagrip with aggressive lug design ensures grip on all surfaces and terrain types
 Outsole: high abrasion contagrip / high traction contagrip; Protective heel cap
@@ -2177,25 +2182,25 @@ Air Cooled"
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
-  [253 254 249]
-  [251 254 250]]
+  [255 254 255]
+  [255 252 251]
+  [255 254 254]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
+  [255 253 255]
   [255 255 255]
-  [255 255 255]
-  [252 254 252]]
+  [255 254 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [140 129 124]
-  [248 243 247]
-  [252 253 254]]
+  [148 133 128]
+  [250 245 247]
+  [255 255 255]]
 
  ...
 
@@ -2388,7 +2393,8 @@ Light weight"
   ...
   [254 254 254]
   [254 254 254]
-  [254 254 254]]]",4.5,,"Leather / Suede / Mesh
+  [254 254 254]]]",4.5,"$99
+99","Leather / Suede / Mesh
 Imported
 Rubber sole
 Shaft measures approximately 5"" from arch
@@ -2450,15 +2456,7 @@ Patented SST Technology for the Right or Left Hand"
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
+  [254 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -2466,7 +2464,15 @@ Patented SST Technology for the Right or Left Hand"
   [255 255 255]
   [255 255 255]
   ...
+  [254 255 255]
   [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -2494,8 +2500,11 @@ Patented SST Technology for the Right or Left Hand"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Made in the USA or Imported
-Synthetic Rubber sole
+  [255 255 255]]]",4.4,"$84
+64","100% Man Made
+Made in the USA or Imported
+100% Man Made sole
+Platform measures approximately 1 inches
 Knit uppers on lace up sneaker
 Fully padded sock lining for ultimate comfort
 Full EVA outsole with our ultimate cushioning technology, with rubber pods in the heel and toe for traction"
@@ -2600,8 +2609,7 @@ To be updated."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Synthetic
-Imported
+  [255 255 255]]]",4.6,,"Imported
 Synthetic sole
 Under Armour’s mission is to make all athletes better through passion, design and the relentless pursuit of innovation
 Where we started? It all started with an idea to build a superior T-shirt
@@ -2691,25 +2699,25 @@ COMFORTABLE WORK BOOTS FOR MEN: The Chelsea Boot by Ariat is made with durable f
   [255 255 255]
   [255 255 255]
   ...
-  [214 214 212]
-  [236 236 234]
-  [253 253 252]]
+  [211 211 209]
+  [237 237 235]
+  [254 254 252]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
+  [255 255 254]
+  [255 255 254]
+  [255 255 253]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.4,,"100% Leather
+  [255 255 253]
+  [254 254 252]
+  [254 254 252]]]",4.4,,"100% Leather
 Imported
 Manmade sole
 Shaft measures approximately 10"" from arch
@@ -2722,22 +2730,22 @@ Removable OrthoLite cushioned footbed for all day long comfort"
   ...
   [255 255 255]
   [255 253 254]
+  [255 254 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [188 184 185]
+  [255 255 255]
   [255 253 254]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [189 182 183]
-  [255 255 255]
-  [255 253 254]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [ 79  65  55]
-  [216 212 212]
+  [ 77  64  47]
+  [217 214 215]
   [255 255 255]]
 
  ...
@@ -2984,7 +2992,7 @@ Product designed and quality inspected in the USA, with a 24/7 US-based support 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Imported
+  [255 255 255]]]",4.5,,"Imported
 Rubber sole
 Shaft measures approximately 6"" from arch
 Boot opening measures approximately 11 around
@@ -3371,7 +3379,7 @@ AIR COOLED GOGA MAT (TOPPED INSOLE CUSHION): when comparing to memory foam; the 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Imported
+  [255 255 255]]]",4.4,,"Imported
 Ethylene Vinyl Acetate sole
 COMFY MATERIALS: Dickies stands for well-made and sturdy, but these slippers will also keep you warm and cozy. The exterior is made of soft microsuede and the lining is a comfortable microterry fabrication that you will love on your feet.
 FEATURES: The classic clog slipper silhouette is perfect for easily sliding on and off. Meanwhile, the woven logo near the heel will show off your Dickies style. You can't go wrong with this tried-and-true slipper style, for yourself or as a present for someone else.
@@ -3437,24 +3445,24 @@ All Day Cushioning insole with rebound"
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [254 255 255]
+  [255 255 253]
+  [255 253 255]
   [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [254 255 255]
+  [255 255 254]
+  [255 253 255]
   [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [254 255 255]
+  [254 255 254]
+  [255 254 255]
   [255 255 255]]
 
  ...
@@ -3481,14 +3489,13 @@ All Day Cushioning insole with rebound"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$110
-00","100% Leather
-Imported
+  [255 255 255]]]",4.6,,"100% Leather
+Made in USA or Imported
 Synthetic sole
 Shaft measures approximately Ankle from arch
+Heel measures approximately 1.25""
 Boot opening measures approximately 10"" around
-Inspired by Dr. Martens iconic 1460
-Crazy Horse is heavyweight leather with a tough, worn-in appearance giving a pre-loved finish without the hard work."
+6-eye style, with metal eyelets"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3921,14 +3928,13 @@ TIMBERLAND HAS YOU COVERED whether you're looking for men's boots, women's boots
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Rubber sole
+  [255 255 255]]]",4.5,,"100% Leather
+Rubber sole
 Shaft measures approximately Ankle from arch
 Boot opening measures approximately 12 around
 Made to be super comfortable with an OrthoLite Impressions memory-foam footbed and the Hoverlite comfort outsole, these men's chukka boots are also responsibly constructed with environmentally sensitive materials.
 Upper: Better Leather from a tannery rated silver for its water, energy, and waste management practices, and mesh fabric
-Defender Repellent Systems treatment
-ReBOTL fabric lining containing at least 50% recycled plastic
-Ground-contact midsole of EVA-blend foam for high-rebound cushioning"
+Defender Repellent Systems treatment"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3978,12 +3984,12 @@ Ground-contact midsole of EVA-blend foam for high-rebound cushioning"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.5,,"100% Leather
-Made in USA or Imported
 Leather sole
 Shaft measures approximately Calf High from arch
 Boot opening measures approximately 14 around
 ATS technology provides ergonomic support whether you're on your feet or in the saddle
-Leather lining"
+Leather lining
+Removable Pro Performance insole for cushioning and shock absorption"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4374,22 +4380,22 @@ EVA outsole"
   [255 255 255]
   ...
   [255 255 255]
-  [255 255 255]
+  [252 255 255]
   [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [248 247 245]
-  [255 255 255]
+  [247 247 244]
+  [253 255 255]
   [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [193 192 185]
+  [193 192 184]
   [255 255 255]
   [255 255 255]]
 
@@ -5401,13 +5407,15 @@ Happy U sponge rubber outsole"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Rubber sole
-CHEMICAL RESISTANT: Features chemical, liquid, and barnyard acid-resistant SPR leather, hard-wearing thermoplastic urethane (TPU) SAFETY cell reinforcement provides excellent protection from oils and minerals, cuts and abrasions.
+  [255 255 255]]]",3.9,"$282
+98","CHEMICAL RESISTANT: Features chemical, liquid, and barnyard acid-resistant SPR leather, hard-wearing thermoplastic urethane (TPU) SAFETY cell reinforcement provides excellent protection from oils and minerals, cuts and abrasions.
 MET GUARD: XRD internal metatarsal guard; lightweight, soft and flexible, but instantly hardens on impact to create a unique protective shield for excellent impact protection
 COMFORT CUSHION: Uses a combination of cellular urethane and PORON Performance Cushioning technology to protect the heel and ball of the foot, providing superior cushioning and shock absorption at the heel, reducing foot, leg and lower back fatigue.
 NANOLITE FOOTBEAD: For greater comfort and well-being. The gently raised surface massages your feet as you walk, promoting greater blood ﬂow to help reduce fatigue. A perforated foam air control layer enhances air circulation, reducing odor.
 100% WATERPROOF: Waterproof technology constructed using a seam sealed membrane lining that draws moisture from the foot, whilst preventing water penetration into the boot
-ALL-TERRAIN DUAL DENSITY SOLING TECHNOLOGY : Combines soft, shock-absorbing low density PU for the midsole and high density, hard wearing rubber for the outsole. Chemical-resistant sole resists mineral oils, acids, alkalies, animal fats and oils. Heat-resistant sole up to 300º C for use in many high-temperature work environments. Superior resistance to cutting and abrasion"
+ALL-TERRAIN DUAL DENSITY SOLING TECHNOLOGY : Combines soft, shock-absorbing low density PU for the midsole and high density, hard wearing rubber for the outsole. Chemical-resistant sole resists mineral oils, acids, alkalies, animal fats and oils. Heat-resistant sole up to 300º C for use in many high-temperature work environments. Superior resistance to cutting and abrasion
+Meets ASTM F2413-18 M/I/C Mt PR EH and Meets CSA Grade 1 Steel Toe ESR PR Met (STEEL TOE PROTECTION -METATARSAL PROTECTION -PUNCTURE RESISTANT MIDSOLE-ELECTRICAL HAZARD PROTECTION)
+NATURE FORM TOE CAP: A wide profile shape to suit your foot, padded with a latex cushion liner to ensure toes are not in contact with the cap."
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]

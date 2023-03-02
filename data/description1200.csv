@@ -1,106 +1,4 @@
-imges,rating,price,description
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[239 241 240]
-  [227 229 228]
-  [211 213 212]
-  ...
-  [220 221 220]
-  [234 234 234]
-  [244 244 244]]
-
- [[246 248 247]
-  [242 244 243]
-  [235 236 236]
-  ...
-  [217 217 217]
-  [230 230 230]
-  [238 238 238]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4,,"REFRESH YOUR TYPING: Warm weather, cool drinks, high-quality typing—that’s our ideal summer. If it’s yours too, we have a keyboard you can’t pass up. It’s called the Matcha Summer Keyboard, and it’s the first installment in our Expression Series: the most accessible line in our Icon Collection, and your source for streamlined enthusiast performance.
-ENTR AND GATERON YELLOW: Assembled with a white ENTR keyboard case and PCBA, the Matcha Summer Keyboard is equipped with Gateron Yellow Switches for smooth linear typing with moderate resistance.
-MATCHA MANGO ARTIFACT KEYCAPS: True to its name, this colorful, tenkeyless board is also outfitted with the Matcha Mango Keycap Set from Artifact’s Bloom Series.
-ENTHUSIAST-LEVEL KEYBOARD: There’s nothing like the feel of an enthusiast-level mechanical keyboard. Every desk deserves one—but not everybody has the time to source components and build one. That’s where our Expression Series comes in. Each keyboard is hand-assembled in the USA with enthusiast-level quality.
-BACKLIT: The Matcha Series Keyboard features a sturdy aluminum ENTR case, ultra-reliable Gateron Yellow Switches, and Matcha Mango keycaps made from durable PBT for years worth of intensive typing. It’s also backlit"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.1,,
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -149,7 +47,8 @@ BACKLIT: The Matcha Series Keyboard features a sturdy aluminum ENTR case, ultra-
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"CRISP WHITE CAPS IN COMFY MT3 PROFILE: When it comes to keycaps, the difference between a high-quality set and a run-of-the-mill one is, well, black and white.
+  [255 255 255]]]",4.2,"$80
+00","CRISP WHITE CAPS IN COMFY MT3 PROFILE: When it comes to keycaps, the difference between a high-quality set and a run-of-the-mill one is, well, black and white.
 FROM THE IBM TERMINAL TO THE DESKTOP: Based on the profile form the iconic IBM beamspring terminals of the 1970s, this custom set is fully sculpted in Hi-Profile. From its heavily slanted design to the scooped, contoured tops of each cap, the set recreates the feel of vintage keyboards.
 DOUBLESHOT LEGENDS: As opposed to a dye-sublimiation process, these doubleshot legends are permanently molded inside the keycap, thus becoming an integral part of it. This ensures reliable legends and continuity throughout the set.
 ORTHO KIT: Covers Ortholinear keyboard layouts including the Drop Preonic and Planck.
@@ -202,7 +101,8 @@ SPECS: Produced by Drop, ABS Hi-Profile MT3 keycaps, Doubleshot legends, MX comp
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.6,,"Scissor-structure key-switch
+  [255 255 255]]]",3.6,"$44
+99","Scissor-structure key-switch
 Square keys with low key distance
 Internet, email and multimedia hot keys
 Compatible with Microsoft Windows ME/2000/XP/Vista/7
@@ -258,7 +158,7 @@ Compatible with Microsoft Windows ME/2000/XP/Vista/7"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$99
+  [255 255 255]]]",4.3,"$99
 99","【Comfortable Tactile Mechanical Keyboard】MECH K300 mechanical keyboard features tactile typing with red shaft low profile keys. Two adjustable tilt feet (6º and 9º) and tilted bottom frame with rounded recessed wrap-around keys provide a great ergonomic support for long-term typing comfort.
 【Quiet Keyboard Wireless】With smooth fluid linear low profile keys, wireless mechanical keyboard has a very short travel and a light feel but solid feedback. Nice soft touch feeling keys provides a silent typing with less noise.
 【Open Style & Nice Metal Look】With a well-constructed and nice metal look, the Bluetooth mechanical keyboard for Mac is an open-style keyboard, and it is easy to clean with a key removal tool.
@@ -271,15 +171,7 @@ Compatible with Microsoft Windows ME/2000/XP/Vista/7"
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
+  [255 255 253]
   [255 255 255]
   [255 255 255]]
 
@@ -287,7 +179,15 @@ Compatible with Microsoft Windows ME/2000/XP/Vista/7"
   [255 255 255]
   [255 255 255]
   ...
+  [255 255 253]
   [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 254 253]
   [255 255 255]
   [255 255 255]]
 
@@ -370,8 +270,8 @@ Note: For better customer experience, We added PgUp PgDn Home End function on �
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$62
-96","Wired/wireless - wired
+  [255 255 255]]]",3.8,"$65
+75","Wired/wireless - wired
 Connector/port/interface - USB
 For_device_type - desktop computer
 Keyboard_design - oversized"
@@ -423,7 +323,8 @@ Keyboard_design - oversized"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"GODSPEED RETURNS FOR ANOTHER MISSION: The history of space exploration is marked with more than a few missions to the great beyond. The same is proving to be true for Godspeed: our exclusive keycap set inspired by space races of the past and future.
+  [255 255 255]]]",5,"$130
+00","GODSPEED RETURNS FOR ANOTHER MISSION: The history of space exploration is marked with more than a few missions to the great beyond. The same is proving to be true for Godspeed: our exclusive keycap set inspired by space races of the past and future.
 NASA'S ICONIC COLORWAY: Featuring NASA’s iconic colorway from the original Apollo 11 lunar module cockpit—the first spaceflight in which man set foot on the moon. The second space race has arrived.
 FROM THE IBM TERMINAL TO THE DESKTOP: Based on the profile form the iconic IBM beamspring terminals of the 1970s, this custom set is fully sculpted in Hi-Profile. From its heavily slanted design to the scooped, contoured tops of each cap, the set recreates the feel of vintage keyboards.
 DYE-SUBLIMATED PBT: Durable, dye-sublimated PBT build ensures lasting brilliance with an exceptional feel.
@@ -527,7 +428,7 @@ Weight: 2.700 lbs"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Gaming Mechanical keyboard Key caps X 1set，Include 12 Keys ：【 1.2.3.4.5.Q.W.E.R.A.S.D 】 Key puller X 1PC
+  [255 255 255]]]",4,,"Gaming Mechanical keyboard Key caps X 1set，Include 12 Keys ：【 1.2.3.4.5.Q.W.E.R.A.S.D 】 Key puller X 1PC
 100% compatible for Logitech G910 G810 G413 G310 K840 G613 Romer-G Mechanical keyboard.(ont only these model)
 If you are not sure, please open your keycaps and contrast with our second picture,then you can know if it is fit for you.
 These keycaps have a different shape to the surface so that they are easily identified to the touch.but need takes time to adapt!
@@ -580,7 +481,8 @@ Easily Interchangeable, if the keycap jumps out, please press down hard (Note! i
   ...
   [ 64  64  64]
   [ 64  64  64]
-  [ 64  64  64]]]",4.4,,"CONVENIENCE: The most important keyboard shortcuts right where you need them most.
+  [ 64  64  64]]]",4.4,"$5
+95","CONVENIENCE: The most important keyboard shortcuts right where you need them most.
 QUALITY: Durable vinyl. Scratch-resistant. Waterproof. No-residue adhesive.
 DESIGN: Simple, professional design. Two sizes available.
 TRUST: Created by TeachUcomp, Inc.- Software training professionals since 2001.
@@ -634,7 +536,8 @@ VERSIONS: These keyboard shortcuts work with Windows versions 11 and 10."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Superior PBT Material For a textured finish and enhanced durability: Made of high-grade thermoplastic with a sturdy, textured finish that never wears out, the keycaps are crafted with extra-thick walls fit for intensive gaming that produce satisfying, solid keystrokes.
+  [255 255 255]]]",4.2,"$57
+99","Superior PBT Material For a textured finish and enhanced durability: Made of high-grade thermoplastic with a sturdy, textured finish that never wears out, the keycaps are crafted with extra-thick walls fit for intensive gaming that produce satisfying, solid keystrokes.
 Doubleshot Molding with Ultra-thin Font The thinnest font ever on a PBT keycap: Our unique doubleshot precision molding process produces the thinnest font ever seen on a PBT keycap that is also backlight compatible and fade-resistant despite intense usage.
 Fit most mechanical and optical keyboards For out-of-box compatibility: Consisting of 120 keycaps and additional stabilizers for optical and mechanical keyboards, the Razer PBT Keycap Upgrade Set fits both Razer and standard 104/105 key US and UK layouts.
 PBT Material An Ultra-Durable, Shine-Resistant Plastic: PBT (Polybutylene terephthalate) is a thermoplastic that is known to be stiffer and more durable than other plastics commonly used in keycaps like ABS. It retains its color and texture and will not develop a glossy finish nor fade over time."
@@ -686,7 +589,8 @@ PBT Material An Ultra-Durable, Shine-Resistant Plastic: PBT (Polybutylene tereph
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Package length: 12.0""
+  [255 255 255]]]",3.9,"$11
+87","Package length: 12.0""
 Package width: 4.96""
 Package height: 1.06""
 Country of Origin: UNITED STATES"
@@ -738,7 +642,8 @@ Country of Origin: UNITED STATES"
   ...
   [227 227 227]
   [255 255 255]
-  [254 254 255]]]",3.4,,"CHERRY MX RED SWITCH, PBT KEYCAPS
+  [254 254 255]]]",3.4,"$109
+99","CHERRY MX RED SWITCH, PBT KEYCAPS
 CAR AUDIO STYLE ROTARY VOLUME CONTROL KNOB
 CONNECTION MODES: 2.4GHz, Bluetooth 4.2, USB Type-C
 Battery placement for two 1.5V AA and a receiver storage.
@@ -791,8 +696,8 @@ Individual power button. Includes an ergonomic wrist rest."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,"$25
-90","COMPACT KEYBOARD - A compact-size keyboard with integrated number pad for fast and accurate data entry featuring big enter key; Dimensions: 15.67x5.71x1.18 inches and 5'9 feet cable length
+  [255 255 255]]]",4.4,"$26
+10","COMPACT KEYBOARD - A compact-size keyboard with integrated number pad for fast and accurate data entry featuring big enter key; Dimensions: 15.67x5.71x1.18 inches and 5'9 feet cable length
 CONVENIENT SHORTCUTS - Hotkeys that are easy to perform by pressing the Fn key and the specific shortcut key simultaneously for more productivity at work and media control
 ELEGANT DESIGN - The keyboard is piano black and one piece design; With a slightly raised back design, its support to intensive typing is more solid and surprisingly comfortable than most foldable feet
 LOGO-FREE - For customized or system integration projects, a keyboard without manufacturer logo printed on the surface offers more flexibility; Classic design fits in all environments for different applications"
@@ -844,7 +749,8 @@ LOGO-FREE - For customized or system integration projects, a keyboard without ma
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,,"Compatibility: Fits most mechanical keyboards and optical keyboards.
+  [255 255 255]]]",3.8,"$22
+71","Compatibility: Fits most mechanical keyboards and optical keyboards.
 Doubleshot PBT Keycaps: Made of high quality PBT for a more durable and oil-resistant finish. Avoid your keycaps getting shiny and worn down after extended use.
 Backlight Compatible & Anti-fading: Unique doubleshot construction process for clear fonts to let RGB backlighting shine through.
 OEM Profile: The most popular OEM profile, suitable for most cherry MX switches and Cherry-like switches."
@@ -950,7 +856,8 @@ Compatible with Windows 8.1/8/7"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"REINVENTING A CLASSIC In the early 2000s, Dolch Computer Systems led the pack in portable computer stations. The included keyboard on those stations—an earthy blend of brown and gray—would later become one of the most iconic colorways of all time. Riffing on the classic Dolch look, these caps are made from durable PBT material with dye-sublimated legends, which are non-textured and highly resistant to wear.
+  [255 255 255]]]",4,"$50
+00","REINVENTING A CLASSIC In the early 2000s, Dolch Computer Systems led the pack in portable computer stations. The included keyboard on those stations—an earthy blend of brown and gray—would later become one of the most iconic colorways of all time. Riffing on the classic Dolch look, these caps are made from durable PBT material with dye-sublimated legends, which are non-textured and highly resistant to wear.
 DURABLE PBT MATERIAL: Made from durable PBT material, these caps are outfitted with dye-sublimated legends, which are non-textured and highly resistant to wear.
 CHERRY PROFILE: Each keycap is shaped in Cherry profile: one of the most popular profiles on the market today, profile of choice for GMK, and a great option for those looking to mix and match their keycaps.
 EXTENSIVE COMPATIBILITY: An impressive 129 keycaps fit a huge range of keyboard layouts—including full-size, tenkeyless, compact 1800, HHKB, 75%, 67%, and 60%. Compatible with Cherry MX switches and clones.
@@ -981,56 +888,56 @@ DROP KEYBOARD COMPATIBILITY: Drop ALT, CTRL, ENTR, Carina, Tokyo60, and SHIFT."
 
  ...
 
- [[241 244 243]
-  [ 94  97  96]
-  [ 49  52  51]
+ [[237 238 238]
+  [132 133 135]
+  [ 82  82  83]
   ...
-  [ 17  19  18]
-  [164 164 164]
+  [ 56  56  56]
+  [179 179 179]
+  [255 255 255]]
+
+ [[252 252 253]
+  [215 216 217]
+  [196 197 198]
+  ...
+  [152 152 152]
+  [222 222 222]
   [255 255 255]]
 
  [[255 255 255]
-  [248 250 249]
-  [241 243 242]
-  ...
-  [208 209 209]
-  [244 244 244]
-  [255 255 255]]
-
- [[254 255 255]
   [255 255 255]
   [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$62
-96","Wired/wireless - wired
+  [255 255 255]]]",3.8,"$65
+75","Wired/wireless - wired
 Connector/port/interface - USB
 For_device_type - desktop computer
 Keyboard_design - oversized"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
+"[[[254 255 255]
+  [254 255 255]
+  [254 255 255]
   ...
   [254 255 255]
-  [255 255 255]
-  [255 255 255]]
+  [254 255 255]
+  [254 255 255]]
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[254 255 255]
+  [254 255 255]
+  [254 255 255]
   ...
   [254 255 255]
-  [255 255 255]
-  [255 255 255]]
+  [254 255 255]
+  [254 255 255]]
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
+ [[254 255 255]
   [254 255 255]
+  [254 255 255]
+  ...
   [255 255 255]
-  [255 255 255]]
+  [254 255 255]
+  [254 255 255]]
 
  ...
 
@@ -1056,7 +963,8 @@ Keyboard_design - oversized"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
+  [255 255 255]]]",3.7,"$69
+99","【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
 【Function Across 3 Devices】 The wireless ergonomic keyboard allows you to connect via Bluetooth or a 2.4G USB receiver. You can connect up to 3 different devices at the same time and easy switch between them by just pressing a single key. Widely compatible with Windows 7/8/10, Mac OS X 10.12, Android 4.3 or higher, Microsoft system.
 【Quiet & Comfortable Typing】 Scissor switch structure make every keystroke quiet and fast rebound, scooped keys match the shape of your fingertips, offering quick and precise typing experience.
 【Rechargeable & Power Saving】 The wireless ergonomic keyboard is built with 300mAh lithium battery, it can be easily recharged with the included Type-C cable. Auto sleep mode for power saving after 30 minutes of no operation.
@@ -1088,27 +996,27 @@ Keyboard_design - oversized"
  ...
 
  [[251 251 251]
-  [249 249 249]
+  [251 251 251]
   [251 251 251]
   ...
   [251 251 251]
-  [250 250 250]
-  [252 252 252]]
+  [252 252 252]
+  [253 253 253]]
 
  [[251 251 251]
-  [250 250 250]
-  [250 250 250]
+  [251 251 251]
+  [251 251 251]
   ...
   [251 251 251]
-  [250 250 250]
-  [252 252 252]]
+  [252 252 252]
+  [253 253 253]]
 
- [[253 253 253]
-  [250 250 250]
-  [252 252 252]
-  ...
-  [252 252 252]
+ [[251 251 251]
   [251 251 251]
+  [251 251 251]
+  ...
+  [251 251 251]
+  [252 252 252]
   [253 253 253]]]",4.4,"$24
 99","Big Font, Full-Size Layout: 105 keys, full-size layout keyboard with elegant, adjustable backlighting, and the letters are 4-times larger font than the usual keyboard for more visibility
 Stylish Key Design: Round keycaps inspired by typewriter-style keys ensure stable keypress every time and comfortable typing
@@ -1163,7 +1071,8 @@ Compatible with Windows 7/8/10. Package includes: 1 x Periboard-317; 12-month li
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"Compatible with Apple iPad Air
+  [255 255 255]]]",4,"$56
+48","Compatible with Apple iPad Air
 The ZAGGkeys Cover for iPad Air has a similar keyboard layout and hardware features as the Folio but comes in a slimmer cover only design
 A battery light indicator that gives you a good idea of how much battery you've got remaining
 backlit keyboard with interchangeable LED colors"
@@ -1215,7 +1124,8 @@ backlit keyboard with interchangeable LED colors"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",1,,"A KEYCAP WHODUNNIT: Like a black and white Hitchcock film, Artifact’s new Noir keycap set leaves certainty in the shadows. One thing we can be sure of, however, is its classic look and quality construction. Blending white, black, and gray, these caps are made from durable PBT material with dye-sublimated legends, which are non-textured and highly resistant to wear.
+  [255 255 255]]]",1,"$50
+00","A KEYCAP WHODUNNIT: Like a black and white Hitchcock film, Artifact’s new Noir keycap set leaves certainty in the shadows. One thing we can be sure of, however, is its classic look and quality construction. Blending white, black, and gray, these caps are made from durable PBT material with dye-sublimated legends, which are non-textured and highly resistant to wear.
 DURABLE PBT MATERIAL: Made from durable PBT material, these caps are outfitted with dye-sublimated legends, which are non-textured and highly resistant to wear.
 CHERRY PROFILE: Each keycap is shaped in Cherry profile: one of the most popular profiles on the market today, profile of choice for GMK, and a great option for those looking to mix and match their keycaps.
 EXTENSIVE COMPATIBILITY: An impressive 129 keycaps fit a huge range of keyboard layouts—including full-size, tenkeyless, compact 1800, HHKB, 75%, 67%, and 60%. Compatible with Cherry MX switches and clones.
@@ -1268,7 +1178,8 @@ DROP KEYBOARD COMPATIBILITY: Drop ALT, CTRL, ENTR, Carina, Tokyo60, and SHIFT."
   ...
   [252 252 254]
   [251 251 253]
-  [250 250 252]]]",3.7,,"Keyboard/Keypad Connectivity Technology: Cable
+  [250 250 252]]]",3.7,"$34
+50","Keyboard/Keypad Connectivity Technology: Cable
 Number of Keys: 104
 Hot Keys: Multimedia
 Keys Layout: QWERTY
@@ -1321,7 +1232,7 @@ Keyboard/Keypad Host Interface: USB"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.5,"$20
+  [255 255 255]]]",3.2,"$20
 95","Made with material which prevents the growth of harmful bacteria and protects against the buildup germs between washings
 The keyboard is wrapped with an advanced silicon material that will protect it against oil water and dust The silicone material also offers the ability to remove germs with liquid disinfectants or soap and water
 The lightweight slim and compact design is perfect for travel school and other industrial or medical environment
@@ -1429,7 +1340,8 @@ Quad keycaps replace four single keys on an X-keys"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Collider Gaming Keyboard.
+  [255 255 255]]]",5,"$26
+99","Collider Gaming Keyboard.
 Membrane.
 RGB Lighting.
 19-Key Rollover.
@@ -1535,7 +1447,8 @@ Note: Keycaps only, The keyboard in the picture is only for the demo and is not 
   ...
   [235 234 236]
   [255 255 255]
-  [255 255 255]]]",5,,"Hybrid mechanical membrane technology razer for sound touches with a soft and soft feel
+  [255 255 255]]]",5,"$113
+71","Hybrid mechanical membrane technology razer for sound touches with a soft and soft feel
 Multifunctional digital selector and media keys for more convenient control
 Equipped with razer chroma rgb for custom lighting and increased immersion in the game
 Ergonomic wrist rest in velvety synthetic leather for long-lasting comfort during play
@@ -1589,7 +1502,7 @@ Fully programmable keys for custom profiles, shortcuts, and macros"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.3,"$12
-64","Ideal key layout: perfectly spaced keys with familiar standard layout, including full complement of function keys and 10-key Number pad
+50","Ideal key layout: perfectly spaced keys with familiar standard layout, including full complement of function keys and 10-key Number pad
 Simple wired operation: simply Plug it into an available USB port to start typing right away, without the need for drivers or anything else"
 "[[[255 255 255]
   [255 255 255]
@@ -1639,7 +1552,8 @@ Simple wired operation: simply Plug it into an available USB port to start typin
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Toyko60 LED Diffuser: The Drop + Tokyo60 comes with customizable RGB underglow visible with an optional acrylic diffuser.
+  [255 255 255]]]",4.2,"$20
+00","Toyko60 LED Diffuser: The Drop + Tokyo60 comes with customizable RGB underglow visible with an optional acrylic diffuser.
 Two placement options: You can position the acrylic diffuser on the bottom or sandwich it between the aluminum pieces, depending on your style.
 Compatibilty: The Tokyo60 LED Diffuser is compatible with the Drop + Tokyo60 Keyboard.
 Item Package Weight: 0.5 pounds"
@@ -1797,7 +1711,7 @@ The slot opening on the back of the keycap is designed to better correspond to d
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$99
+  [255 255 255]]]",4.3,"$99
 99","【Comfortable Tactile Mechanical Keyboard】MECH K300 mechanical keyboard features tactile typing with red shaft low profile keys. Two adjustable tilt feet (6º and 9º) and tilted bottom frame with rounded recessed wrap-around keys provide a great ergonomic support for long-term typing comfort.
 【Quiet Keyboard Wireless】With smooth fluid linear low profile keys, wireless mechanical keyboard has a very short travel and a light feel but solid feedback. Nice soft touch feeling keys provides a silent typing with less noise.
 【Open Style & Nice Metal Look】With a well-constructed and nice metal look, the Bluetooth mechanical keyboard for Mac is an open-style keyboard, and it is easy to clean with a key removal tool.
@@ -1810,15 +1724,7 @@ The slot opening on the back of the keycap is designed to better correspond to d
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
+  [255 255 253]
   [255 255 255]
   [255 255 255]]
 
@@ -1826,7 +1732,15 @@ The slot opening on the back of the keycap is designed to better correspond to d
   [255 255 255]
   [255 255 255]
   ...
+  [255 255 253]
   [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 254 253]
   [255 255 255]
   [255 255 255]]
 
@@ -1909,8 +1823,8 @@ Note: For better customer experience, We added PgUp PgDn Home End function on �
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$62
-96","Wired/wireless - wired
+  [255 255 255]]]",3.8,"$65
+75","Wired/wireless - wired
 Connector/port/interface - USB
 For_device_type - desktop computer
 Keyboard_design - oversized"
@@ -2017,7 +1931,8 @@ Cable Length: 0.6 ft + 5.9 ft = 6.6 feet total"
   ...
   [254 253 251]
   [255 255 253]
-  [255 255 255]]]",3.7,,"Easy set-up. No software to install and ready to use right out of the box
+  [255 255 255]]]",3.7,"$18
+68","Easy set-up. No software to install and ready to use right out of the box
 Compact profile to save desk space and fit most standard keyboard trays
 Adjustable keyboard height for typing comfort
 Attractive styling to complement any decor
@@ -2070,7 +1985,8 @@ Spill resistant design allows liquids to drain out of keyboard's base"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.6,,"Further, “Positive contrast” is the case of a light object on a dark background such as white print on a black field.
+  [255 255 255]]]",3.6,"$34
+99","Further, “Positive contrast” is the case of a light object on a dark background such as white print on a black field.
 Large Print Keyboards are perfect for anybody who has a hard time seeing the letters on their computer keyboards.
 It is a full size enhanced 104 key keyboard with standard US English keyboard layout printed in big
 Highly visible large print letters on keycaps One-touch Internet and email hot keys One-touch media hot keys
@@ -2123,7 +2039,8 @@ Works with all Windows no need for CD. Windows 7, Vista, and XP - Not Intended f
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Full system lighting Sync capability via TT RGB Plus software with compatible Thermaltake power and cooling products.
+  [255 255 255]]]",4.2,"$111
+79","Full system lighting Sync capability via TT RGB Plus software with compatible Thermaltake power and cooling products.
 Razer Chroma ecosystem synchronization via TT RGB Plus software & RAZER Synapse 3.
 Premium grade aluminum faceplate with floating keys.
 Razer Green switches rated at 80 million keystrokes offers exceptional durability and precise input.
@@ -2177,8 +2094,7 @@ Stunning 16.8 million color per-key and encircling panel RGB illumination. 13 Dy
   [250 250 250]
   [253 253 253]
   [255 255 255]]]",4,"$25
-86","Interface: USB
-Keys: 110 keys
+03","Interface: USB
 Button Durability: 58 million times
 Operating Voltage: +5V0.25v
 Operating Current: 50mA
@@ -2233,7 +2149,8 @@ Cable Length: 1800mm"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"Compatibility: Fits most mechanical keyboards and optical keyboards.
+  [255 255 255]]]",4,"$22
+99","Compatibility: Fits most mechanical keyboards and optical keyboards.
 Doubleshot PBT Keycaps: Made of high quality PBT for a more durable and oil-resistant finish. Avoid your keycaps getting shiny and worn down after extended use.
 Backlight Compatible & Anti-fading: Unique doubleshot construction process for clear fonts to let RGB backlighting shine through.
 OEM Profile: The most popular OEM profile, suitable for most cherry MX switches and Cherry-like switches."
@@ -2338,8 +2255,8 @@ Dimensions - Length 5.9 x Width 15.3 x Height 1.1 inch - perfect for small or co
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$89
-93","ADD A LITTLE COLOR TO YOUR CTRL: Searching for new ways to customize your CTRL keyboard? We’re on the case—literally
+  [255 255 255]]]",4.4,"$90
+23","ADD A LITTLE COLOR TO YOUR CTRL: Searching for new ways to customize your CTRL keyboard? We’re on the case—literally
 FIVE CUSTOM COLORWAYS: Returning to the same proven CNC-machining process used to make the original CTRL, we’ve built a brand-new line of aluminum cases in five custom colorways
 ANODIZED ALUMINUM FEET: Anodized with a vivid, non-toxic finish that won’t fade, each case comes with matching aluminum magnetic feet for easy height adjustment
 INCLUDED: Anodized Aluminum Case, 2 angled aluminum feet, 4 magnets for angled aluminum feet, case screws, and rubber pads
@@ -2392,7 +2309,8 @@ LED DIFFUSER (REQUIRED FOR MASSDROP CTRL KEYBOARDS): If you own an original Mass
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"CREATE YOUR OWN WORK OF ART — Your keyboard is your canvas. And it’s time to begin your next project. Back by popular demand, the Canvas custom keycap set can transform any keyboard into a work of art
+  [255 255 255]]]",4.2,"$87
+57","CREATE YOUR OWN WORK OF ART — Your keyboard is your canvas. And it’s time to begin your next project. Back by popular demand, the Canvas custom keycap set can transform any keyboard into a work of art
 INSPIRED BY DIETER RAMS — A key figure in the German design renaissance of the late ‘50s and ‘60s—and his 10 Principles of Good Design, these keycaps feature a minimal yet powerful aesthetic, blending neutral grays and subtle tones
 SWITCH COMPATIBILITY AND PROFILE — Sculpted in XDA profile, which is similar to DSA, with uniform height for maximum layout compatibility. The MiTo XDA Canvas Keycap set is compatible with Cherry MX switches and clones including but not limited to Kaihua, Halo, and Gateron
 KEYBOARD COMPATIBILITY — Here we're offering kits specifically designed for our CTRL (TKL), ALT (65%), SHIFT (Full 1800), Preonic and Planck (Ortho)—or other, similar boards, if they're compatible
@@ -2446,7 +2364,8 @@ Compatible Devices: Other Keyboards With Compatible Layout"
   ...
   [255 255 255]
   [252 252 252]
-  [252 252 252]]]",4,,"Low-Profile.
+  [252 252 252]]]",4,"$18
+52","Low-Profile.
 Spill-Resistant.
 Silent.
 Membrane.
@@ -2499,7 +2418,8 @@ Water-Resistant Coating."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"YOUR TICKET TO A LEGENDARY COLORWAY: It’s been decades since a certain Austrian ticket company commissioned a unique keyboard for its internal operations. Years after these original keyboards were retired, the iconic colorway persisted, returning several times in one-off keycap set releases.
+  [255 255 255]]]",5,"$68
+00","YOUR TICKET TO A LEGENDARY COLORWAY: It’s been decades since a certain Austrian ticket company commissioned a unique keyboard for its internal operations. Years after these original keyboards were retired, the iconic colorway persisted, returning several times in one-off keycap set releases.
 CLASSIC COLORWAY: Now, it’s back again with the Drop MT3 Skiidata Keycap Set. Sporting the classically inspired orange-on-dark-gray colorway using high quality doubleshot ABS and sculpted in our exclusive, scooped MT3 profile and for an ultra-satisfying feel.
 FROM THE IBM TERMINAL TO THE DESKTOP: Based on the profile form the iconic IBM beamspring terminals of the 1970s, this custom set is fully sculpted in Hi-Profile. From its heavily slanted design to the scooped, contoured tops of each cap, the set recreates the feel of vintage keyboards.
 DOUBLESHOT ABS LEGENDS: As opposed to a dye-sublimiation process, these doubleshot legends are permanently molded inside the keycap, thus becoming an integral part of it. This ensures reliable legends and continuity throughout the set.
@@ -2601,7 +2521,8 @@ ORTHOLINEAR: For ortho keyboards like the Drop Planck, Preonic, and other boards
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
+  [255 255 255]]]",3.7,"$69
+99","【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
 【Function Across 3 Devices】 The wireless ergonomic keyboard allows you to connect via Bluetooth or a 2.4G USB receiver. You can connect up to 3 different devices at the same time and easy switch between them by just pressing a single key. Widely compatible with Windows 7/8/10, Mac OS X 10.12, Android 4.3 or higher, Microsoft system.
 【Quiet & Comfortable Typing】 Scissor switch structure make every keystroke quiet and fast rebound, scooped keys match the shape of your fingertips, offering quick and precise typing experience.
 【Rechargeable & Power Saving】 The wireless ergonomic keyboard is built with 300mAh lithium battery, it can be easily recharged with the included Type-C cable. Auto sleep mode for power saving after 30 minutes of no operation.
@@ -2633,27 +2554,27 @@ ORTHOLINEAR: For ortho keyboards like the Drop Planck, Preonic, and other boards
  ...
 
  [[251 251 251]
-  [249 249 249]
+  [251 251 251]
   [251 251 251]
   ...
   [251 251 251]
-  [250 250 250]
-  [252 252 252]]
+  [252 252 252]
+  [253 253 253]]
 
  [[251 251 251]
-  [250 250 250]
-  [250 250 250]
+  [251 251 251]
+  [251 251 251]
   ...
   [251 251 251]
-  [250 250 250]
-  [252 252 252]]
+  [252 252 252]
+  [253 253 253]]
 
- [[253 253 253]
-  [250 250 250]
-  [252 252 252]
-  ...
-  [252 252 252]
+ [[251 251 251]
   [251 251 251]
+  [251 251 251]
+  ...
+  [251 251 251]
+  [252 252 252]
   [253 253 253]]]",4.4,"$24
 99","Big Font, Full-Size Layout: 105 keys, full-size layout keyboard with elegant, adjustable backlighting, and the letters are 4-times larger font than the usual keyboard for more visibility
 Stylish Key Design: Round keycaps inspired by typewriter-style keys ensure stable keypress every time and comfortable typing
@@ -2764,7 +2685,8 @@ Ultra slim and lightweight ¨C ideal for notebook computer users"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.5,,"keyboard:7inch,80 keys
+  [255 255 255]]]",3.5,"$16
+28","keyboard:7inch,80 keys
 SIG Bluetooth 3.0
 Built-in rechargeable li-ion battery, charged by USB port, controls the charging automatically.
 Rechargeable Battery
@@ -3248,7 +3170,8 @@ Package includes: Fintie Ultra-Slim Wireless Keyboard, USB cable, instruction ma
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Blade shape design: equipped with metal base and built in wrist rest for maximum comfort.
+  [255 255 255]]]",4.1,"$29
+98","Blade shape design: equipped with metal base and built in wrist rest for maximum comfort.
 Abrasion and water-resistant Aluminum alloy structure reduces daily wear and tear.
 Conflict free keys: 104 keys anti ghosting to ensure all your keys register while you play. Responsive anti-ghosting keys give this keyboard a satisfying feel for the superior gaming performance. Also features Windows lock key.
 Adjustable LED: 8 adjustable LED RGB backlit modes to fit your mood and enhance your experience
@@ -3358,7 +3281,7 @@ Full-sized domed keys for great tamper-proof, typing experience"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$99
+  [255 255 255]]]",4.3,"$99
 99","【Comfortable Tactile Mechanical Keyboard】MECH K300 mechanical keyboard features tactile typing with red shaft low profile keys. Two adjustable tilt feet (6º and 9º) and tilted bottom frame with rounded recessed wrap-around keys provide a great ergonomic support for long-term typing comfort.
 【Quiet Keyboard Wireless】With smooth fluid linear low profile keys, wireless mechanical keyboard has a very short travel and a light feel but solid feedback. Nice soft touch feeling keys provides a silent typing with less noise.
 【Open Style & Nice Metal Look】With a well-constructed and nice metal look, the Bluetooth mechanical keyboard for Mac is an open-style keyboard, and it is easy to clean with a key removal tool.
@@ -3448,31 +3371,32 @@ Note: For better customer experience, We added PgUp PgDn Home End function on �
 
  ...
 
- [[241 244 243]
-  [ 94  97  96]
-  [ 49  52  51]
+ [[237 238 238]
+  [132 133 135]
+  [ 82  82  83]
   ...
-  [ 17  19  18]
-  [164 164 164]
+  [ 56  56  56]
+  [179 179 179]
+  [255 255 255]]
+
+ [[252 252 253]
+  [215 216 217]
+  [196 197 198]
+  ...
+  [152 152 152]
+  [222 222 222]
   [255 255 255]]
 
  [[255 255 255]
-  [248 250 249]
-  [241 243 242]
-  ...
-  [208 209 209]
-  [244 244 244]
-  [255 255 255]]
-
- [[254 255 255]
   [255 255 255]
   [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$62
-96","Wired/wireless - wired
+  [255 255 255]]]",3.8,"$65
+75","Wired/wireless - wired
 Connector/port/interface - USB
+For_device_type - desktop computer
 Keyboard_design - oversized"
 "[[[58 58 58]
   [58 58 58]
@@ -3524,7 +3448,6 @@ Keyboard_design - oversized"
   [38 38 38]
   [39 39 39]]]",5,,"KEYCAPS: Top-Quality custom PUBG gaming themed cherry mx switch keycaps designed by Mugen Keycaps!
 CUSTOM: Mugen Keycaps are custom made and hand-designed to fit most gaming keyboards, and come with Free Keycap Puller!
-CHERRY SWITCH: Our keycaps are compatible with any cherry MX switches on the majority of gaming or mechanical keyboards!
 R4 LEVEL: These keycaps are specifically designed to be most compatible in the R4 level of keycaps as pictured!
 MUGEN KEYCAPS: We are a US based design product design company and offer a 100% guarantee on all of our products!"
 "[[[255 255 255]
@@ -3575,7 +3498,8 @@ MUGEN KEYCAPS: We are a US based design product design company and offer a 100% 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Tile key layout: tile/island-style Low profile keys matching popular laptop keyboards with full complement of function keys and 10-key Number pad
+  [255 255 255]]]",5,"$19
+76","Tile key layout: tile/island-style Low profile keys matching popular laptop keyboards with full complement of function keys and 10-key Number pad
 Simple wired operation: simply Plug it into an available USB port to start typing right away, without the need for drivers or anything else"
 "[[[255 255 255]
   [255 255 255]
@@ -3679,7 +3603,7 @@ Saving time:which to a great extent saves the time spent on removing keyboard sw
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.2,"$30
-27","87 keys Mini keyboard layout with embedded numeric keypad
+14","87 keys Mini keyboard layout with embedded numeric keypad
 Low profile membrane switches with more than five million lifecycles
 Connection: USB with PS/2 adaptor
 Less than 12"" wide for space saving
@@ -3783,64 +3707,11 @@ Membrane keyboard for fast and quiet typing"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,"$137
-20","Play Macro via FN+G1/G2On the left FN function key can easily perform your recorded macro by G1/G2 combination
+  [255 255 255]]]",4.1,"$128
+74","Play Macro via FN+G1/G2On the left FN function key can easily perform your recorded macro by G1/G2 combination
 RGB Backlighting16.8 million color and customizable lighting effects
 Anti-ghosting with N-key rollover
 HERA Software Download and run HERA software to customize your gaming experience"
-"[[[255 254 252]
-  [255 255 253]
-  [255 255 253]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 253]
-  [255 255 253]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 253]
-  [255 255 255]
-  [167 167 165]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.1,,"【High-Brightness Rainbow backlight】 Rainbow backlights adds to the game atmosphere. The brightness and backlight speed are changeable, you can choose your own style. The backlight of the keyboard also can be turn off when you not need.
-【Ultra-thin & Suspension Design】 Unique short keycap makes all key caps are suspended above the keyboard, the simple appearance make the entire keyboard has more personality. The slim metal-panel structure design to make this usb keyboard more resistance to fall off than the plastic one, ensuring longer service life.
-【Ergonomic Wrist Rest】 The height of the hand rest allows the wrist to be comfortably placed on the keyboard, easily supporting the wrist. Our keyboard can reduce the fatigue caused by long game. One-piece wrist rest provides a comfortable space for your hands, relieving fatigue for long hours typing.
-【Crater Architecture for Best Tactile Feedback】55g actuation force and 4.0mm travel distance provides 4X faster input speed, enhancing the great typing feedback. Crater structure also provides quiet keystrokes, the mute function will not cause trouble, disturb others, making this computer keyboard suitable for office and games.
-【Plug and Play】 LED keyboard, compatible with Windows 95/98 / XP / 2000 / ME / VISTA / 7/8/9/10, Mac. Advanced anti-ghosting technology allows this backlit keyboard at most 19 keys to work simultaneously to provide fast game response. This keyboard is spill-resistant to prevent accidental splashing of water on the keyboard to affect the gaming experience."
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3889,8 +3760,8 @@ HERA Software Download and run HERA software to customize your gaming experience
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,"$99
-99","Designed to exceed U.S. Military Spec 810G drop tests (for iPad protection)
+  [255 255 255]]]",5,"$119
+95","Designed to exceed U.S. Military Spec 810G drop tests (for iPad protection)
 iPad installs quickly and easily; no pairing required, Keyboard attaches directly to the iPad 3-pin connector; can be securely locked in and removed with push of a button
 Slim, lightweight polyurethane-covered keyboard is splash-proof and easily wipeable
 Exceptionally thin (.95”) to work with most charging carts"
@@ -3942,7 +3813,8 @@ Exceptionally thin (.95”) to work with most charging carts"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"ADD A LITTLE COLOR TO YOUR ALT: Searching for new ways to customize your ALT keyboard? We’re on the case—literally
+  [255 255 255]]]",4.6,"$85
+00","ADD A LITTLE COLOR TO YOUR ALT: Searching for new ways to customize your ALT keyboard? We’re on the case—literally
 FIVE CUSTOM COLORWAYS: Returning to the same proven CNC-machining process used to make the original ALT, we’ve built a brand-new line of aluminum cases in five custom colorways
 ANODIZED ALUMINUM FEET: Anodized with a vivid, non-toxic finish that won’t fade, each case comes with matching aluminum magnetic feet for easy height adjustment
 INCLUDED: Anodized Aluminum Case, 2 angled aluminum feet, 4 magnets for angled aluminum feet, case screws, and rubber pads
@@ -4103,29 +3975,29 @@ Keeps dirt off the surface of your computer where it can be easily cleaned.
 Simply wipe down the keyboard with a wipe of your choice. Reduces the hassle of having to clean between keys, or removing keys to clean beneath them
 ZERO LATEX - No need to worry about allergies, because these covers have zero signs latex
 Keyboard Not Included"
-"[[[254 255 255]
-  [254 255 255]
-  [254 255 255]
-  ...
-  [254 255 255]
-  [254 255 255]
-  [254 255 255]]
-
- [[254 255 255]
-  [254 255 255]
-  [254 255 255]
-  ...
-  [254 255 255]
-  [254 255 255]
-  [254 255 255]]
-
- [[254 255 255]
-  [254 255 255]
-  [254 255 255]
-  ...
+"[[[255 255 255]
   [255 255 255]
+  [255 255 255]
+  ...
   [254 255 255]
-  [254 255 255]]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [254 255 255]
+  [255 255 255]
+  [255 255 255]]
 
  ...
 
@@ -4151,7 +4023,8 @@ Keyboard Not Included"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
+  [255 255 255]]]",3.7,"$69
+99","【Scientific-Based Ergonomic Design】 Comes with a pillowed wrist rest, which offers 58% more wrist support and reduces wrist bending by 25%. The curved split key-frame design reduces muscle strain on your wrists and forearms which works as a posture corrector and keeps hands, neck, and shoulders relaxed.(Kindly Note: This keyboard EK01-NL doesn't have backlight, If you would like a backlit version, please choose EK01)
 【Function Across 3 Devices】 The wireless ergonomic keyboard allows you to connect via Bluetooth or a 2.4G USB receiver. You can connect up to 3 different devices at the same time and easy switch between them by just pressing a single key. Widely compatible with Windows 7/8/10, Mac OS X 10.12, Android 4.3 or higher, Microsoft system.
 【Quiet & Comfortable Typing】 Scissor switch structure make every keystroke quiet and fast rebound, scooped keys match the shape of your fingertips, offering quick and precise typing experience.
 【Rechargeable & Power Saving】 The wireless ergonomic keyboard is built with 300mAh lithium battery, it can be easily recharged with the included Type-C cable. Auto sleep mode for power saving after 30 minutes of no operation.
@@ -4470,7 +4343,8 @@ Note - The keyboard in the picture is only for the demo and is not for sale."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3,,"Bluetooth v2.0 wireless technology provides users with convenient wireless control, maximum distance:10 meters
+  [255 255 255]]]",3,"$58
+99","Bluetooth v2.0 wireless technology provides users with convenient wireless control, maximum distance:10 meters
 iPad viewing stand supports both landscape and portrait orientation
 The dual functional cover is designed to perform both as an integrated iPad viewing stand as well as a keyboard dust shield
 Ultra-slim and lightweight keyboard body designed for maximum portability
@@ -4631,7 +4505,8 @@ Compatiability It can be used for most Cherry MX Gateron MX Kailh MX and all oth
   ...
   [254 254 254]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Product Name: Keyboard Sticker; Language: Korean
+  [255 255 255]]]",4.2,"$3
+95","Product Name: Keyboard Sticker; Language: Korean
 Material: Plastic,Paper; Color: Black
 Net Weight: 6g; Pattern: Letters, Numbers
 Dimensions: 18 x 6.5cm/7.1"" x 2.6""(LxW)
@@ -4737,7 +4612,8 @@ Part Number:
   ...
   [253 253 253]
   [255 255 255]
-  [255 255 255]]]",2.2,,"Wireless Bluetooth connectivity to easily pair with an iPad or iPhone
+  [255 255 255]]]",2.2,"$49
+99","Wireless Bluetooth connectivity to easily pair with an iPad or iPhone
 6 rows of island-style, high-performance keys
 Backlit for typing in darkened conditions
 Ultra-thin, stainless steel construction for strong, lightweight sturdiness
@@ -4845,31 +4721,32 @@ Country of Origin: China"
   ...
   [254 254 254]
   [254 254 254]
-  [255 255 255]]]",3.6,,"Bluetooth 4.0 Certified
+  [255 255 255]]]",3.6,"$23
+96","Bluetooth 4.0 Certified
 Scissor-Click Key Technology
 10 Integrated Hot Keys
 Automatic Wireless Synchronization
 Android OS 2.2 (Froyo) and above
 Bluetooth Connectivity"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
+"[[[254 254 252]
+  [254 254 252]
+  [255 255 253]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[254 254 252]
+  [254 254 252]
+  [255 255 253]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[255 255 253]
+  [255 255 253]
+  [255 255 253]
   ...
   [255 255 255]
   [255 255 255]
@@ -4899,7 +4776,7 @@ Bluetooth Connectivity"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$99
+  [255 255 255]]]",4.3,"$99
 99","【Comfortable Tactile Mechanical Keyboard】MECH K300 mechanical keyboard features tactile typing with red shaft low profile keys. Two adjustable tilt feet (6º and 9º) and tilted bottom frame with rounded recessed wrap-around keys provide a great ergonomic support for long-term typing comfort.
 【Quiet Keyboard Wireless】With smooth fluid linear low profile keys, wireless mechanical keyboard has a very short travel and a light feel but solid feedback. Nice soft touch feeling keys provides a silent typing with less noise.
 【Open Style & Nice Metal Look】With a well-constructed and nice metal look, the Bluetooth mechanical keyboard for Mac is an open-style keyboard, and it is easy to clean with a key removal tool.
@@ -5011,8 +4888,8 @@ Note: For better customer experience, We added PgUp PgDn Home End function on �
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$62
-96","Wired/wireless - wired
+  [255 255 255]]]",3.8,"$65
+75","Wired/wireless - wired
 Connector/port/interface - USB
 For_device_type - desktop computer
 Keyboard_design - oversized"
@@ -5064,7 +4941,8 @@ Keyboard_design - oversized"
   ...
   [255 255 255]
   [253 253 253]
-  [254 254 254]]]",3.6,,"124_ keyboard
+  [254 254 254]]]",3.6,"$113
+00","124_ keyboard
 Slimkeyproa-uk USB-A keyboard for Mac UK QWERTY key layout"
 "[[[255 255 255]
   [255 255 255]
@@ -5114,7 +4992,8 @@ Slimkeyproa-uk USB-A keyboard for Mac UK QWERTY key layout"
   ...
   [255 255 255]
   [252 252 252]
-  [247 247 247]]]",1,,"Product Type :Ce Accessory
+  [247 247 247]]]",1,"$13
+09","Product Type :Ce Accessory
 Package Dimensions :2.9 Cm L X11.0 Cm W X18.9 Cm H
 Country Of Origin :China
 Package Weight :0.21lbs"
@@ -5166,7 +5045,8 @@ Package Weight :0.21lbs"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Item Package Height: 11.1 inches
+  [255 255 255]]]",5,"$64
+66","Item Package Height: 11.1 inches
 Made In China
 Model Number: 5705730640070
 Item Package Width: 11.1 inches"
@@ -5324,8 +5204,171 @@ Silver and black fits in with today's contemporary systems."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3,,"Full-size keyboard
+  [255 255 255]]]",3,"$9
+99","Full-size keyboard
 QWERTY layout
 Nine quick navigation keys provide access to most used applications
 No batteries required
 Compatible only with N series Sony Clie handhelds"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.2,,"Maximum Productivity. Minimum Sound: The silent mechanical switches and sound dampening foam on this keyboard offer a quiet, distraction-free experience when at the office or WFH, while its super durable design lasts for up to 80 million clicks.Keycaps : ABS plastic - With soft touch coating
+Comfort with Every Keystroke: This ergonomically designed keyboard is high on comfort and features keycaps lined with a fingerprint-resistant, soft-touch coating—for a luxurious, cushioned feel that makes typing a joy
+Superior Ergonomic Support: The soft, cushioned wrist support perfectly aligns to the keyboard to relieve wrist pressure, providing superior comfort and less strain over long periods of typing
+Multi-Task with a Single Click: Connect and control up to 4 devices (desktop, laptop, Android tablet and TV screen) while conveniently switching between them without the constant need to pair and unpair
+Efficiency at Your Fingertips: Customize the keyboard to to best suit your style - remap keys, record macros, and create personal shortcuts for creative tools or office programs to maximize workflow
+Unparalleled Wireless Freedom: Powered by Razer HyperSpeed technology, keep any workspace looking clean and clutter-free by connecting this keyboard and compatible mice to the same Razer Productivity Dongle"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",3.8,,"3 Color (Red, Green, Blue) Illuminated Backlit Keyboard - The 3-color Illuminated Backlit keyboard lets you choose your backlit color to green, blue, or red in one keystroke! The gently-lit keys allow you to work day and night without straining your eyes. No more mistyping! You can work from dusk till dawn at your desk or bedroom without disturbing others!
+Ergonomic Design - The design of this keyboard with splitted key zones and gently sloped shape encourages natural position of hands, wrists, and forearm in maximum comfort for long use.
+Large Print Keys - Makes the keys easier to see and easy on the eyes.
+Split Key Design - Encourages natural position of hands, wrists and forearms for maximum comfort.
+Integrated Palm Rest - Keeps your wrists in the most comfortable position.
+Internet & Multimedia Keys - You can get instant access to your commonly used Internet and multimedia tools with the 20 built-in hotkeys this keyboard has to offer.
+Membrane Switch - 5 Million keystroke lifecycle for a quiet and fast typing experience."
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.5,"$45
+99","Microsoft MS ergonomic keyboard for business Win32 USB port English us/Canada 1 license for business
+Package dimensions : 20.0"" L x 11.75"" W x 2.6"" W
+Package weight : 1.0 Lbs
+Package quantity :1"

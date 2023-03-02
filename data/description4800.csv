@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -956,7 +956,7 @@ Casual loafer featuring dual-goring insets and rear heel-pull tab"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Rubber sole
+  [255 255 255]]]",4.1,,"Rubber sole
 Advanced Chassis: Placed between the outsole and midsole, this lightweight chassis helps optimize motion control, energy management and protection for an efficient, stable yet responsive ride.
 Regular laces: Traditional lacing system with eyelets.
 SensiFit cradles the foot from the midsole to the lacing system, providing a secure, snug, and virtually customized fit all around the foot."
@@ -1040,8 +1040,8 @@ Flex Tread: Groove pattern on the outsole that provides comfort by mimicking the
 
  ...
 
- [[255 255 255]
-  [254 254 254]
+ [[252 252 252]
+  [252 252 252]
   [252 252 252]
   ...
   [255 255 255]
@@ -1062,7 +1062,7 @@ Flex Tread: Groove pattern on the outsole that provides comfort by mimicking the
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Imported
+  [255 255 255]]]",4.6,,"Imported
 Rubber sole
 Shaft measures approximately mid-calf from arch
 ADVANCED TECHNOLOGY: This Columbia Men's Newton Ridge Plus II Suede Waterproof hiking boot features our signature lightweight midsole for long-lasting comfort, superior cushioning, and high energy return as well as our high-traction grip outsole.
@@ -1882,7 +1882,7 @@ Full rubber outsole with Grand OS technology"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Textile and Synthetic
+  [255 255 255]]]",4.6,,"50% Synthetic, 50% Textile
 Imported
 Rubber sole
 Shaft measures approximately low-top from arch
@@ -3019,12 +3019,7 @@ The technology behind Under Armour's diverse product assortment for men, women a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Rubber sole
-Textile material with synthetic overlays and overt stitch detail
-Padded collar and tongue
-Official Russell Westbrook logo
-Extra-durable rubber outsole
-Responsive Forefoot Cushioning"
+  [255 255 255]]]",4.4,,Rubber sole
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3194,25 +3189,25 @@ Gel-infused memory foam cushioned insole"
   [255 255 255]
   [255 255 255]
   ...
-  [255 254 254]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 252]
+  [255 255 253]
   [255 255 254]
-  [255 255 255]]
+  [254 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
+  [255 255 254]
+  [255 255 252]
+  [255 254 251]]
+
+ [[255 255 255]
   [255 255 255]
   [255 255 255]
-  [255 255 255]]
+  ...
+  [255 255 253]
+  [255 255 252]
+  [255 254 251]]
 
  ...
 
@@ -4166,13 +4161,8 @@ LIGHTWEIGHT: These Crocs clogs are incredibly light and fun to wear. The shoes a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Rubber sole
-Foam midsole
-Perforations on toe
-Smoother than backboard glass and featuring a slight sheen, the stitched leather overlays add heritage style, durability and support.
-Originally designed for performance hoops, Nike Air cushioning adds lightweight, all-day comfort.
-The low-cut silhouette adds a clean, streamlined look.
-Padded, low-cut collar feels soft and comfortable."
+  [255 255 255]]]",4.6,,"Rubber sole
+100% Authentic"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4252,25 +4242,25 @@ Padded, low-cut collar feels soft and comfortable."
   [255 255 255]
   [255 255 255]
   ...
-  [253 252 250]
-  [254 253 251]
-  [254 254 252]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
+  [255 251 250]
   [255 254 252]
-  [255 255 253]
   [255 255 253]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [255 254 252]
-  [255 255 253]
-  [255 255 253]]]",,,"Made in the USA
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",,,"Made in the USA
 Polyvinyl Chloride sole
 100% Waterproof
 Made in USA
@@ -4362,7 +4352,7 @@ CLASSIC STYLE: The Medfield features clean lines and a burnished finish and come
   [255 255 255]
   [255 255 255]
   ...
-  [237 237 237]
+  [241 241 241]
   [253 253 253]
   [255 255 255]]
 
@@ -4370,8 +4360,8 @@ CLASSIC STYLE: The Medfield features clean lines and a burnished finish and come
   [255 255 255]
   [255 255 255]
   ...
-  [251 251 251]
-  [254 254 254]
+  [250 250 250]
+  [255 255 255]
   [255 255 255]]
 
  [[255 255 255]
@@ -5092,7 +5082,8 @@ Size: Standard
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"SLIP RESISTANCE: The Purofort+ Expander Full Safety with Vibram outsole boots are SRC rated, with a strong grip to help with traction. This boot meets requirements for ASTM F 2413-18 M/I/C PR EH and is certified to CSA Z195-14 Omega ASTM 3445-21 SR.
+  [255 255 255]]]",4,"$190
+83","SLIP RESISTANCE: The Purofort+ Expander Full Safety with Vibram outsole boots are SRC rated, with a strong grip to help with traction. This boot meets requirements for ASTM F 2413-18 M/I/C PR EH and is certified to CSA Z195-14 Omega ASTM 3445-21 SR.
 COLD INSULATION: These lightweight boots are made with Purofort a material with a unique recipe and molecular structure that allows them to insulate down to -4F.
 COMFORTABLE: Our boots are made to be both comfortable and durable featuring a special toe area for grip and safe landing. The boots also have an energy absorbing heel region which limits the impact to the floor while walking.
 APPLICATIONS: Our Purofort+ Expander Full Safety with Vibram boots work well for heavy duty jobs including oil and gas, industrial, and agriculture. Please review our size charts in the image section to find the correct sizing.
@@ -5156,7 +5147,7 @@ MEMORY FOAM INSOLE: Each slipper is fitted with a multi-density cushioned insole
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -5164,7 +5155,7 @@ MEMORY FOAM INSOLE: Each slipper is fitted with a multi-density cushioned insole
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -5172,7 +5163,7 @@ MEMORY FOAM INSOLE: Each slipper is fitted with a multi-density cushioned insole
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 

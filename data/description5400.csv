@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -47,13 +47,13 @@ imges,rating,price,description
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.4,,"100% Leather
-Imported
+  [255 255 255]]]",4.2,,"Imported
 Rubber sole
 Shaft measures approximately 8"" from arch
 Boot opening measures approximately 11 around
 COMPOSITE TOE: Left and right asymmetrical, non-metallic, carbon-fiber safety toes offer unobtrusive fit and are 15% lighter than steel toes, and meet or exceed ASTM F2412 and F2413 EH standards
-WATERPROOF: KEEN.DRY is a waterproof, breathable membrane liner that lets vapor out without letting water in for keeping your feet dry and comfortable; this boot does have a liner that integrates with the waterproof membrane"
+WATERPROOF: KEEN.DRY is a waterproof, breathable membrane liner that lets vapor out without letting water in for keeping your feet dry and comfortable; this boot does have a liner that integrates with the waterproof membrane
+TRACTION: Oil- and slip-resistant, non-marking, siped, rubber outsoles disperse liquid underfoot for improved traction that meet or exceed ASTM F1677-96 and F2913 SATRA standards"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -697,7 +697,7 @@ WATERPROOF: KEEN.DRY is a waterproof, breathable membrane liner that lets vapor 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Made in the USA or Imported
+  [255 255 255]]]",4.3,,"Made in the USA or Imported
 Rubber sole
 Shaft measures approximately Calf High from arch
 Boot opening measures approximately 5.5 around
@@ -916,7 +916,7 @@ Poron XRD soft comfort internal metatarsal Guard. Identifies protection against 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Imported
+  [255 255 255]]]",4.4,,"Imported
 Polyurethane sole
 Crafted from smooth, full-grain leather, made in our own tanneries
 Tonal leather toe-cap for a premium look
@@ -2390,7 +2390,7 @@ This is not steel toe."
   [255 255 255]]]",4.7,,"Cow Leather WP, Cow Suede, Synthetic
 Imported
 Dyed Sheep Fur (Fur Origin: Australia/Ireland/United Kingdom/United States)
-Synthetic sole
+Rubber sole
 Shaft measures approximately 7.5"""" from arch
 By UGG
 UGGpure wool lining"
@@ -2984,13 +2984,14 @@ Breathable mesh lining
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% textile
+  [255 255 255]]]",4.6,,"Rubber
 Imported
-Rubber sole
-Heel measures approximately 1.5""
-Air Cooled Memory Foam
-Classic Fit
-Goga Mat Arch"
+manmade sole
+Lightweight knit mesh fabric upper with supportive synthetic overlays
+Slip on casual Oxford sneaker design with stretch-laced front panel
+Fabric linings and padded collar
+Air cooled memory foam cushioned footbed with Goga Mat Arch Cushion for added comfort
+Lightweight shock absorbing midsole"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3477,7 +3478,8 @@ Knit gusseted tongue for enhanced midfoot fit"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Rubber sole
+  [255 255 255]]]",5,"$69
+00","Rubber sole
 The lightweight mesh upper comfortably conforms to your foot.
 The rubber outsole is formed with a multidirectional traction pattern to help you stay in control, whichever direction you're moving.
 The laces feed through crisscross webbing straps over the top of your foot. When you lace up, it tightens the webbing to hold your foot in place.
@@ -3569,8 +3571,8 @@ Boot opening measures approximately 12.5"" around"
   [255 255 255]
   ...
   [243 243 243]
-  [245 245 245]
-  [249 249 249]]
+  [246 246 246]
+  [248 248 248]]
 
  [[255 255 255]
   [255 255 255]
@@ -3641,7 +3643,7 @@ WARM AND WATERPROOF: The PU coated leather and textile upper features waterproof
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"Imported
+  [255 255 255]]]",4.1,,"Imported
 Rubber sole
 Shaft measures approximately Ankle from arch
 Boot opening measures approximately 12"" around
@@ -3696,7 +3698,7 @@ ReBOTL fabric lining containing at least 50% recycled plastic"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Imported
+  [255 255 255]]]",4.2,,"Imported
 Rubber sole
 Suede leather upper
 Breathable mesh lining
@@ -3806,7 +3808,7 @@ Waterproof seam-sealed construction keeps feet dry"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"60% Polyester, 40% PVC
+  [255 255 255]]]",4.2,,"60% Polyester, 40% PVC
 Imported
 WADING BOOT with TRACTION – 5mm Neoprene shell coupled with a durable one piece rubber athletic outsole with cleated outsole for reliable traction
 DURABLE PROTECTION – Reinforced toe and heel cap improves navigation on rocky surfaces
@@ -3967,7 +3969,7 @@ Rubber sole"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$24
+  [255 255 255]]]",4.3,"$24
 38","Composite safety toe meets or exceeds ASTM F2413 M/I/C and does not transfer cold or set off metal detectors
 Injection molded construction for 100-Percent waterproof protection
 15-Inch height boot height with a 12-inch cutline to facilitate fast and clean height modification
@@ -4073,7 +4075,7 @@ Product Type: SPORTING GOODS"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Synthetic Rubber sole
+  [255 255 255]]]",4.5,,"Synthetic Rubber sole
 Nike Kyrie Low 5 Men's Basketball Shoes."
 "[[[255 255 255]
   [255 255 255]
@@ -4780,13 +4782,7 @@ VERSATILE TRACTION: These boots are designed to be worn to the construction site
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100% Leather
-Manmade sole
-Shaft measures approximately 5"" from arch
-Heel measures approximately 1.25""
-Platform measures approximately 0.75""
-Boot opening measures approximately 10"" around
-Blundstone"
+  [255 255 255]]]",4.4,,Rubber sole
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4835,14 +4831,13 @@ Blundstone"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Imported
-Synthetic sole
+  [255 255 255]]]",4.5,,"100% Leather
+Imported
+Ethylene Vinyl Acetate sole
 Shaft measures approximately not_applicable from arch
 GENUINE LEATHER: Leather upper is easy to clean and maintain, and looks and feels even better with time
 BREATHABLE LINING: Mesh lining wicks away moisture to keep your feet cool and dry, while enhancing overall breathability
-SHOCK ABSORPTION: truTECH is Rockport's lightweight comfort feature that absorbs shock and provides long-lasting cushioning in the heel
-STABILITY AND SHOCK ABSORPTION: EVA and rubber outsole helps provide lightweight shock absorption and a durable grip on a variety of surfaces
-FLEXIBLE FOREFOOT: Strobel construction provides forefoot flexibility"
+SHOCK ABSORPTION: truTECH is Rockport's lightweight comfort feature that absorbs shock and provides long-lasting cushioning in the heel"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -5108,7 +5103,7 @@ FIT & CARE: KEEN Original Fit with generous space across foot for toes to spread
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Imported
+  [255 255 255]]]",4.5,,"Made in the USA
 Rubber sole
 Shaft measures approximately Ankle from arch
 Boot opening measures approximately 5"" around
@@ -5386,7 +5381,8 @@ Camo"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"100% nubuck leather
+  [255 255 255]]]",4.3,"$46
+95","100% nubuck leather
 Imported
 Rubber sole
 Kick around town in the daylong comfort of the SKECHERS® Stamina Cutback sneaker.
@@ -5442,7 +5438,8 @@ Plush tongue and collar. Breathable fabric lining offers a great in-shoe feel. M
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100% Croslite
+  [255 255 255]]]",4.4,"$29
+99","100% Croslite
 Imported
 Ethylene Vinyl Acetate sole
 Heel measures approximately 1.3""

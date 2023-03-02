@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -322,9 +322,7 @@ All-terrain rubber outsole"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Textile
-Imported
-Man made sole
+  [255 255 255]]]",4.6,,"Rubber sole
 Quick-dry webbing made from recycled plastic using traceable, verifiable REPREVE polyester yarn by Unifi supports your foot and stands up to abuse
 Injection-molded strap ends for quick and easy grip and adjustability, Easy hook-and-loop closure comes on and off quickly and gets the fit just right
 Robust EVA footbed for enhanced comfort built for all-day wear
@@ -541,7 +539,7 @@ EASY TO CLEAN: Crocs Specialist II clogs are easy to clean by just using soap an
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"100% Leather
+  [255 255 255]]]",4.6,,"100% Leather
 Imported
 Rubber sole
 Shaft measures approximately low-top from arch
@@ -596,8 +594,7 @@ IMEVA (injection-molded EVA foam) midsole for firm yet flexible cushioning"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Nike Air Jordan 1 Mid Men's
-Color: White/Ice Blue-Black"
+  [255 255 255]]]",4,,Rubber sole
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -810,7 +807,8 @@ Bellows tongue keeps out debris"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"XTRATUF 6IN ANKLE DECK BOOTS - The performance Ankle Deck boot from XTRATUF is the perfect boot for any on the water athlete
+  [255 255 255]]]",4.8,"$104
+99","XTRATUF 6IN ANKLE DECK BOOTS - The performance Ankle Deck boot from XTRATUF is the perfect boot for any on the water athlete
 LIGHTWEIGHT SILHOUETTE - Lightweight silhouette with the same XTRATUF non-marking, slip-resistant Chevron outsole as the iconic Legacy boot
 PROPER FOOT TEMPERATURE - Evaporative cooling liner that helps regulate foot temperature to keep you comfortable in both cool and warm environments
 SLIP-RESISTANT - The SRA rated slip-resistant outsoles are made from an exclusive rubber compound that grips the floor surface creating sure footing ensuring the ultimate performance
@@ -1628,7 +1626,7 @@ Fleece lining is soft, durable and provides exceptional warmth in frigid environ
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Leather and Synthetic
+  [255 255 255]]]",4.6,,"100% Leather and synthetic
 Imported
 Man made sole
 Shaft measures approximately low-top from arch
@@ -1792,7 +1790,8 @@ Water Resistance Level: Not Water Resistant"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% waterproof
+  [255 255 255]]]",4.6,"$30
+51","100% waterproof
 Knee height boot with flying D logo
 Easy to put on knee-height Dunlop boot.
 Brand: Dunlop Protective Footwear"
@@ -2671,10 +2670,9 @@ Medicare / HCPCS code = A5500, may be eligible for Medicare reimbursement"
 Imported
 Rubber sole
 Shaft measures approximately 3"" from arch
-SOLID PERFORMANCE: Durable leather and synthetic overlays to meet your occupational needs
-SUPERIOR TRACTION: Solid rubber slip resistant outsole - tested in accordance with the applicable industry standards, including: ASTM F2913-11; though designed to help prevent slips, you should always exercise caution on slick surfaces
-ALL DAY COMFORT: Memory foam sockliner and midsole for additional comfort
-RELAXED STYLING: Perforations for breathability and a lace up front closure for relaxed fit"
+leather / mesh upper
+memory plus footbed with COOLMAX fiber
+offers superior oil and slip-resistance protection in compliance with ASTM F2913-11 safety standards"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3347,7 +3345,7 @@ MIDSOLE/CUSHION: 5GEN sole - proprietary lightweight injection-molded compound w
  ...
 
  [[255 255 255]
-  [255 255 255]
+  [254 254 254]
   [254 254 254]
   ...
   [255 255 255]
@@ -3423,7 +3421,8 @@ TAKE ON THE COLD: A re-energized update of our cold-weather classic. Versatility
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"15"" Ht. Plain Toe.
+  [255 255 255]]]",4.3,"$20
+30","15"" Ht. Plain Toe.
 Injection molded construction for 100% waterproof protection.
 Flexible upper material stays supple in cold temperatures to make walking easier.
 Tougher outsole material for good abrasion resistance.
@@ -3752,10 +3751,13 @@ WATERPROOF: The KEEN. DRY waterproof, breathable membrane keeps your feet dry an
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"100% Fabric
-Imported
+  [255 255 255]]]",4.3,,"Made in the USA or Imported
 Rubber sole
-Chambray upper"
+The Steve Madden Fenta casual sneakers are both versatile and stylish enough for season to season wear.
+Lightweight fabric upper.
+Four metal-eyelet lace construction.
+Smooth textile linings.
+Lightly padded insole."
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4223,7 +4225,7 @@ Tazon"
  ...
 
  [[255 255 255]
-  [255 255 255]
+  [254 254 254]
   [254 254 254]
   ...
   [255 255 255]
@@ -4423,7 +4425,7 @@ MAKE THEM YOUR OWN: Crocs clogs' can be customized to your personal flair with J
   ...
   [255 254 255]
   [255 255 255]
-  [254 255 255]]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
@@ -4431,7 +4433,7 @@ MAKE THEM YOUR OWN: Crocs clogs' can be customized to your personal flair with J
   ...
   [255 254 255]
   [255 255 255]
-  [254 255 255]]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
@@ -4439,7 +4441,7 @@ MAKE THEM YOUR OWN: Crocs clogs' can be customized to your personal flair with J
   ...
   [255 255 255]
   [255 255 255]
-  [254 255 255]]
+  [255 255 255]]
 
  ...
 
@@ -4690,15 +4692,7 @@ EH RESISTANCE - these MAXWear Wedge work boots meet ASTM F2413-18 electrical haz
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
+  [255 255 254]
   [255 255 255]
   [255 255 255]]
 
@@ -4706,7 +4700,15 @@ EH RESISTANCE - these MAXWear Wedge work boots meet ASTM F2413-18 electrical haz
   [255 255 255]
   [255 255 255]
   ...
+  [255 255 254]
   [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 254]
   [255 255 255]
   [255 255 255]]
 
@@ -5208,8 +5210,8 @@ Various occasions:Perfect to take them on boating trips and even for walking on 
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
+  [254 254 254]
+  [254 254 254]
   [255 255 255]]
 
  [[255 255 255]
@@ -5391,7 +5393,7 @@ Happy U sponge rubber outsole"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Full-grain leather
+  [255 255 255]]]",4.6,,"100% Leather
 Imported
 Rubber sole
 Shaft measures approximately 5"" from arch

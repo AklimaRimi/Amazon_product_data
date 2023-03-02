@@ -1,58 +1,4 @@
-imges,rating,price,description
-"[[[255 255 255]
-  [237 238 239]
-  [200 201 203]
-  ...
-  [242 242 242]
-  [255 255 255]
-  [255 255 255]]
-
- [[245 246 247]
-  [109 110 114]
-  [ 81  82  86]
-  ...
-  [ 97  97  97]
-  [138 138 138]
-  [250 250 250]]
-
- [[225 226 228]
-  [ 77  78  82]
-  [ 31  32  36]
-  ...
-  [ 50  50  50]
-  [ 65  65  65]
-  [227 227 227]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$119
-99","23.6"" Full HD (1920 x 1080) 1500R Curved Widescreen VA Display
-AMD FreeSync Premium Technology | Brightness: 250 nits
-Response Time: 1ms (VRB) | Refresh Rate: 165Hz
-ZeroFrame Design
-Ports: 1 x Display Port 1.4 & 2 x HDMI 2.0 Ports (HDMI Cable Included)"
+Image,Ratings,Price,Description
 "[[[252 252 252]
   [255 255 255]
   [253 251 254]
@@ -101,7 +47,8 @@ Ports: 1 x Display Port 1.4 & 2 x HDMI 2.0 Ports (HDMI Cable Included)"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"23.8inch FHD In-Plane Switching display with 3-Side NearEdgeless bezel design
+  [255 255 255]]]",4.5,"$269
+32","23.8inch FHD In-Plane Switching display with 3-Side NearEdgeless bezel design
 VGA+DP+HDMI with audio out and 4x USB 3.2 Gen1
 Up to 150mm lift range ergonomic design"
 "[[[230 229 227]
@@ -206,7 +153,8 @@ Ports: 1 x Display Port, 2 x HDMI 2.0 Ports & 1 x Audio Out (Display Port Cable 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"34"" QHD (3440 x 1440) 1500R Curved 21:9 Widescreen VA Gaming Monitor | AMD FreeSync Premium Technology
+  [255 255 255]]]",5,"$349
+99","34"" QHD (3440 x 1440) 1500R Curved 21:9 Widescreen VA Gaming Monitor | AMD FreeSync Premium Technology
 Refresh Rate: Up to 165Hz | Response Time: 1ms (VRB) | VESA Certified DisplayHDR 400 | Pixel Pitch: 0.231mm | Color Gamut: DCI-P3 90%
 Zero-Frame Design | 2 Speakers, 2 Watts per Speaker
 Ergonomic Tilt: -5° to 15° | Height Adjustment Range: 5.11"" | Swivel: 360°
@@ -259,7 +207,8 @@ Ports: 2 x Display Port 1.4, 2 x HDMI 2.0 Ports (HDMI Cable and Display Port Cab
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.3,,"Fully assembled, elegant, lightweight, and patented design; Designed for LCD monitors, NOT SUITABLE FOR LAPTOPS
+  [255 255 255]]]",3.3,"$118
+81","Fully assembled, elegant, lightweight, and patented design; Designed for LCD monitors, NOT SUITABLE FOR LAPTOPS
 Manufactured of an optical grade acrylic Fresnel lens, increasing image by up to double in size
 Patented design features a lightweight alternative to conventional heavy glass optical lens and easy adjustability US Patent 7495846
 Screen magnification level is adjustable by moving the magnifier closer or farther from the display; the greater the distance, the larger the image will appear
@@ -370,7 +319,8 @@ INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, USB Type B Uplink Cab
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"27-inch QHD (2560 x 1440) FastIPS gaming monitor with ultrafast 170Hz (overclocked) refresh rate designed for professional gamers and immersive gameplay
+  [255 255 255]]]",4.6,"$499
+00","27-inch QHD (2560 x 1440) FastIPS gaming monitor with ultrafast 170Hz (overclocked) refresh rate designed for professional gamers and immersive gameplay
 Aspect Ratio is 16:9; Viewing Angle (CR≧10, H/V) is 178°/ 178°; Brightness (Typ.) is 400cd/㎡ and Brightness (HDR, Peak) is 400cd/㎡
 ASUS FastIPS technology enables a 1ms response time (GTG) for sharp gaming visuals with high frame rates.
 Certified as G-SYNC Compatible, delivering a seamless, tear-free gaming experience by enabling VRR (variable refresh rate) by default.
@@ -425,7 +375,8 @@ Rich connectivity with DisplayPort 1.2 and HDMI (v2.0) x2 ports"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"24” Full HD (1920x1080) with 1ms response time and 75Hz refresh rate for crisp visuals featuring DisplayPort, HDMI and VGA connectivity with Adaptive Sync/FreeSync technology
+  [255 255 255]]]",4.8,"$139
+00","24” Full HD (1920x1080) with 1ms response time and 75Hz refresh rate for crisp visuals featuring DisplayPort, HDMI and VGA connectivity with Adaptive Sync/FreeSync technology
 ASUS Eye Care technology lowers blue light and eliminates flickering to reduce eyestrain and ailments
 Built in 1.5W stereo speakers allow for full sound without external speakers
 Exclusive GamePlus adds in-game viewing for adding a crosshair, timer, FPS, counter and display alignment
@@ -589,7 +540,8 @@ Get ideal settings for your game. Picture mode optimally adjusts Black Gamma lev
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"PREMIUM MONITOR: 4K UHD (3840x2160p) advanced ergonomic, 60Hz IPS monitor deliver lifelike colors perfect for office, graphic design, photographers and more
+  [255 255 255]]]",4.6,"$399
+99","PREMIUM MONITOR: 4K UHD (3840x2160p) advanced ergonomic, 60Hz IPS monitor deliver lifelike colors perfect for office, graphic design, photographers and more
 PANTONE VALIDATED DISPLAY: Color fidelity in every pixel. The VP2756-4K has been rigorously tested and capable of reproducing the Pantone Matching System colors for professionals
 AMAZING AT ANY ANGLE: A three-sided ultra-thin bezel shows off more of your masterpiece, and less of the monitor
 REDUCE CABLE CLUTTER: Connect video, audio, data and power with a single USB-C cable and plug in peripherals like USB drives and mice with the USB hub
@@ -704,25 +656,25 @@ ECO SAVING PLUS: Achieve power-consumption reductions while still maintaining pi
 AMD FREESYNC: Play videos without screen tearing so nothing distracts you; The T37F computer monitor maximizes business productivity so you can handle work tasks easily
 75Hz REFRESH RATE: All the action looks flawless with a 75 Hz refresh rate that delivers a more fluid picture; Everything you watch and play is smooth with virtually no lag or ghosting effect, so you don't miss a moment in exciting scenes
 GAME MODE: Instantly optimize screen contrast for a competitive edge while gaming; By selectively boosting contrast in scenes, Game Mode reveals more detail in dark areas to let you spot your enemies faster"
-"[[[255 255 255]
-  [203 202 205]
-  [163 162 167]
+"[[[251 250 247]
+  [212 208 212]
+  [176 170 182]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[200 200 203]
-  [ 44  43  50]
-  [ 25  24  30]
+ [[202 207 201]
+  [ 47  47  49]
+  [  6   4  15]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[122 121 126]
-  [ 34  33  39]
-  [ 63  62  68]
+ [[134 149 142]
+  [ 12  18  20]
+  [ 43  41  52]
   ...
   [255 255 255]
   [255 255 255]
@@ -752,7 +704,7 @@ GAME MODE: Instantly optimize screen contrast for a competitive edge while gamin
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$101
+  [255 255 255]]]",4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -808,8 +760,8 @@ Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$179
-04","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
+  [255 255 255]]]",4.5,"$149
+97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 165Hz Refresh Rate: Pushing beyond the standard refresh rate, 165Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 Response Time 1ms MPRT: With 1ms MPRT, motion blur is eliminated and exceptionally crisp imagery is visible in the midst of chaotic combat.
 320 Brightness: Remarkably vivid colors illuminate the screen like never before with 320 cd/m² brightness.
@@ -862,7 +814,8 @@ Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortab
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
+  [255 255 255]]]",4.6,"$164
+97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
 Adaptive Sync: Adaptive Sync is a technology that closes the gap between the graphics card's and the monitor's refresh rates, eliminating image tearing and stuttering in the process.
@@ -917,7 +870,8 @@ Tiltable Display: A display that tilts 15° backward and 5° forward allows you 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"16:9 widescreen resolution perfect for watching movies, playing video games and getting on with office work
+  [255 255 255]]]",5,"$139
+63","16:9 widescreen resolution perfect for watching movies, playing video games and getting on with office work
 LED backlight technology provides for industry-leading low power consumption and less hazardous materials
 Enjoy crisp content and energetic hues with the 250 Nit brightness"
 "[[[186 186 184]
@@ -1022,7 +976,8 @@ VGA cable included"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.9,,"Package Dimensions: 7.48 Lx 24.01 Hx 21.03 W (inches)
+  [255 255 255]]]",4.9,"$318
+96","Package Dimensions: 7.48 Lx 24.01 Hx 21.03 W (inches)
 Package Weight: 21.21 pounds
 Country of Origin : China"
 "[[[255 255 255]
@@ -1073,7 +1028,8 @@ Country of Origin : China"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"5-INCH 1000-nit SCREEN: With a stunning 5-inch 10-bit HDR or SDR display, the Shinobi monitor allows you to see your images clearly in daylight on the 1000nit screen featuring a special Anti-Reflective coating and Anti-fingerprint technology
+  [255 255 255]]]",4.6,"$299
+00","5-INCH 1000-nit SCREEN: With a stunning 5-inch 10-bit HDR or SDR display, the Shinobi monitor allows you to see your images clearly in daylight on the 1000nit screen featuring a special Anti-Reflective coating and Anti-fingerprint technology
 REVOLUTIONARY FEATURES: Shinobi utilizes revolutionary Atomos 10 platform and is packed with an extensive suite of scopes and simple one-touch operations. It includes monitoring tools for focus, framing, and exposure, including Focus Peaking, 4:1 / 2:1 / 1:1 Zoom, Zebra, False Color, Frame Guides, SMPTE Safe Area, Waveform, RGB parade, vectorscope, and a flexible 3D and 1D LUT, Profile and Preset support and options for anamorphic desqueeze monitoring
 ANALYSIS VIEW: We understand how important it is to see what you’re shooting at all times. With the Analysis view feature you can simultaneously see what you are shooting, view a waveform, histogram, and vectorscope, ensuring complete control of your image. You can even switch between different options on the fly with a single touch
 HDR IN THE FIELD: The Shinobi screen displays a stunning 10+ stops of dynamic range in realtime from Log/PQ/HLG signals. Combined with the unique HDR monitoring features, the Shinobi simplifies the complexities of shooting Log and HDR, helping you to replicate post-production workflows at the moment when it matters the most while shooting. The technology is being taken care of so you can focus on the story telling
@@ -1126,7 +1082,8 @@ REALTIME LUTS PREVIEW: Apply and compare looks for post-production in SDR or HDR
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"24"" 1920x1080 IPS Panel with 75Hz refresh rate delivers crisp, stunning images with a wide viewing angle
+  [255 255 255]]]",4.6,"$168
+64","24"" 1920x1080 IPS Panel with 75Hz refresh rate delivers crisp, stunning images with a wide viewing angle
 A sleek ultra-slim bezel design stands out on any desk. Monitor includes a tilt-adjust stand, while 75x75 VESA support allows you to mount the monitor on a wall or in a multi-monitor setup
 Flexible connectivity options including HDMI, and legacy VGA
 Eye Saver Mode and Flicker Free technology help to reduce eye strain for a more comfortable work experience, even during long work hours.
@@ -1397,7 +1354,8 @@ Tilt/Height/Pivot Adjustable Stand"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
+  [255 255 255]]]",4.2,"$66
+97","75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
 Built in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 HDMI and VGA: The HDMI, and VGA ports accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
 Adaptive Sync: Adaptive Sync is a technology that closes the gap between the graphics card's and the monitor's refresh rates, eliminating image tearing and stuttering in the process.
@@ -1450,8 +1408,8 @@ Security Lock: The Security Lock securely fastens your monitor in place, effecti
   ...
   [254 253 254]
   [255 255 255]
-  [255 255 255]]]",4.4,"$468
-26","24.5-inch Full HD (1920 x 1080) Fast IPS panel and the world’s first 360Hz gaming monitor
+  [255 255 255]]]",4.4,"$449
+99","24.5-inch Full HD (1920 x 1080) Fast IPS panel and the world’s first 360Hz gaming monitor
 ASUS Fast IPS technology enables a 1 ms response time (GTG) for sharp gaming visuals with high frame rates.
 NVIDIA G-SYNC processor provides smooth, tear-free gaming at refresh rates up to 360Hz
 An intelligent cooling system featuring a custom heatsink to provide more surface area for heat exchange, ensuring efficient cooling during marathon gaming sessions
@@ -1459,29 +1417,29 @@ HDR10 compatible to enhance bright and dark areas, delivering a lifelike gaming 
 ASUS Eye Care technology with TUV Rheinland Certification for Flicker-free and Low Blue Light technology to minimize eye fatigue and an ergonomic stand featuring tilt, swivel, pivot and height adjustments to ensure a comfortable viewing experience
 Robust connectivity with HDMI (v2.0), DisplayPort (1.4) and USB ports
 What’s in the box: DisplayPort cable, HDMI cable, USB cable, power adapter, power cord, quick start guide, warranty card, input/output port cover, color calibration report, ROG Welcome card with envelope, ROG sticker"
-"[[[231 229 230]
-  [122 124 128]
-  [112 113 114]
+"[[[219 224 233]
+  [143 145 153]
+  [129 120 122]
   ...
-  [133 130 132]
-  [134 131 134]
-  [219 217 222]]
+  [157 141 139]
+  [153 150 150]
+  [206 218 218]]
 
- [[159 164 162]
-  [ 16  18  19]
-  [ 41  20  16]
+ [[167 164 177]
+  [ 28  16  14]
+  [ 39   7   0]
   ...
-  [ 37  21  21]
-  [ 25  19  19]
-  [129 129 134]]
+  [ 38  16  14]
+  [ 34  25  25]
+  [139 149 150]]
 
- [[155 154 154]
-  [ 82  49  39]
-  [196  95  70]
+ [[173 164 166]
+  [ 62  30  18]
+  [146  81  60]
   ...
-  [ 62  10   4]
-  [ 39  23  19]
-  [118 122 124]]
+  [ 40   2   2]
+  [ 24   4   6]
+  [133 134 137]]
 
  ...
 
@@ -1495,7 +1453,7 @@ What’s in the box: DisplayPort cable, HDMI cable, USB cable, power adapter, po
 
  [[255 255 255]
   [255 255 255]
-  [254 254 254]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
@@ -1561,7 +1519,7 @@ RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium ser
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$99
+  [255 255 255]]]",4.6,"$119
 99","GREAT FOR HOME AND OFFICE: An ideal all-around 24 inch display for offices or remote work
 SEE THE DIFFERENCE: Razor-sharp clarity and detail with Full HD (1920x1080p) resolution
 LESS CABLE CLUTTER: In addition to fast data, audio and video transfer, USB Type-C also provides 15W charging over a single cable
@@ -1618,8 +1576,7 @@ INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, and a Quick Start Gui
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$162
-91","Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
+  [255 255 255]]]",4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 99% sRGB Color Gamut: With 99% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance & sharp visibility from multiple viewing angles.
 up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
@@ -1675,35 +1632,36 @@ FPS-RTS Game Modes: FPS and RTS are Sceptre's custom set display settings built 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"32-inch QHD (2560x1440) gaming monitor with ultrafast 170Hz refresh rate designed for professional gamers and immersive gameplay
+  [255 255 255]]]",4.6,"$379
+00","32-inch QHD (2560x1440) gaming monitor with ultrafast 170Hz refresh rate designed for professional gamers and immersive gameplay
 ASUS Extreme Low Motion Blur Sync (ELMB SYNC) technology enables ELMB together with G-SYNC Compatible, eliminating ghosting and tearing for sharp gaming visuals with high frame rates
 Freesync Premium technology, delivering a seamless, tear-free gaming experience by enabling VRR (variable refresh rate) by default
 High Dynamic Range (HDR) technology with professional color gamut delivers contrast and color performance that meets the DisplayHDR 400 certification
 Supports both Adaptive-Sync with NVIDIA GeForce graphics cards and FreeSync with AMD Radeon graphics cards Compatible with NVIDIA GeForce GTX 10 series, GTX 16 series, RTX 20 series and newer graphics cards
 Free 3-month Adobe Creative Cloud Subscription: Receive complimentary access with the purchase of this product (offer valid from 9/15/2021 to 8/31/2023)"
-"[[[221 221 221]
-  [143 143 143]
-  [124 124 124]
+"[[[232 232 232]
+  [121 121 121]
+  [104 104 104]
   ...
-  [135 134 139]
-  [136 133 134]
-  [214 212 212]]
+  [117 118 118]
+  [122 122 123]
+  [218 218 218]]
 
- [[162 162 162]
-  [  9   9   9]
-  [  0   0   0]
-  ...
-  [ 12  12  17]
-  [ 19  17  18]
-  [144 140 140]]
-
- [[167 167 167]
+ [[159 159 159]
+  [  1   1   1]
   [  3   3   3]
+  ...
+  [ 11  12  14]
+  [  7   7   7]
+  [122 122 122]]
+
+ [[151 151 151]
+  [  8   8   8]
   [  1   1   1]
   ...
-  [  1   2   6]
-  [  0   0   0]
-  [130 125 125]]
+  [  1   3   7]
+  [  8   8   9]
+  [111 111 111]]
 
  ...
 
@@ -1729,7 +1687,8 @@ Free 3-month Adobe Creative Cloud Subscription: Receive complimentary access wit
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
+  [255 255 255]]]",4,"$103
+29","IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
 ULTRA SLIM DESIGN: The KOORUI computer monitor 24 inch with edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 OPTIMAL COMFORT: Find your best viewing position and stay comfortable by tilting the screen up to 5 degrees forward or 15 degrees backward. 24"" monitor with Blue Light Filter, Adaptive FreeSync technology so you can enjoy ultra-smooth gameplay or working for all-day without any eyes uncomfor
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution.
@@ -1782,7 +1741,8 @@ KOORUI SERVICES: We owns super strength from monitor quality to premium service,
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"31.5” 4K UHD (3840x2160) monitor 4ms (GTG) response time with a wide 178° viewing angle complemented by a super narrow bezel design
+  [255 255 255]]]",4.4,"$341
+14","31.5” 4K UHD (3840x2160) monitor 4ms (GTG) response time with a wide 178° viewing angle complemented by a super narrow bezel design
 Adaptive-sync/free Sync technology to eliminate screen tearing and choppy frame rates. Compliance and Standards-Energy Star, CB, J-MOSS, PSE, RoHS, VCCI, WHQL (Windows 10, Windows 8.1, Windows 7), MEPS, RCM, TUV Flicker-free , TUV Low Blue Light, PC recycle
 Hdr-10 support to enhance bright and dark area, delivering lifelike viewing experience and Features up to 95% DCI-P3 color coverage provides realistic colors and smoother gradation
 Asus Eye Care technology feature TÜV Rhineland-certified flicker-free and blue light filter technologies to minimize eyestrain and an ergonomic tilt to ensure a comfortable viewing experience
@@ -1835,7 +1795,8 @@ Flexible connectivity with DisplayPort, HDMI x2 and stereo 2W speakers providing
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"22-Inch Full HD 1080p (1920x1080) 16:9 LED Touch Computer Monitor with USB 2.0, DVI-D, and VGA Inputs
+  [255 255 255]]]",3.7,"$319
+99","22-Inch Full HD 1080p (1920x1080) 16:9 LED Touch Computer Monitor with USB 2.0, DVI-D, and VGA Inputs
 With a robust, pressure-sensing Full HD 1080p touchscreen, versatile connections, and dual integrated speakers, the TD2210 is ideal for use in retail, POS, and commercial environments
 Modern design with muted black finish, adjustable forward/back tilt, and scratch resistant surface
 20M:1 Dynamic Contrast Ratio; Two Built-In Speaker; Physical Dimensions: 20.1” x 14.3” x 9.5” with Stand
@@ -1888,7 +1849,8 @@ Multi-Touch for MacOS: MacOS users can access a full range of touch and gesture 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"FEEL FULLY IMMERSED: Immerse yourself in gaming, movies or design projects while surrounding yourself with the 34 inch ultrawide curved display featuring a 21:9 aspect ratio; Ultra WQHD allows you to experience truly seamless multitasking on just one screen
+  [255 255 255]]]",3.9,"$589
+99","FEEL FULLY IMMERSED: Immerse yourself in gaming, movies or design projects while surrounding yourself with the 34 inch ultrawide curved display featuring a 21:9 aspect ratio; Ultra WQHD allows you to experience truly seamless multitasking on just one screen
 Viewing Angle is 178° (H) / 178° (V); Aspect Ratio is 21:9
 ENHANCED CONCENTRATION & COMFORT: Maximize work productivity and reduce eye strain; 1000R curvature matches the curve of the human field of sight and limits eye strain experienced with flat monitors
 1 BILLION COLORS WITH HDR10: With a wide range of colors, near limitless hues and HDR10, which makes dark colors darker and the brightest colors even brighter, content is a joy to look at
@@ -1943,7 +1905,8 @@ UNINTERRUPTED FOCUS: With a virtually borderless design, stay focused on your wo
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,Mounting Type:Wall Mountable 100 x 100 mm
+  [255 255 255]]]",4.5,"$1,125
+37",Mounting Type:Wall Mountable 100 x 100 mm
 "[[[187 188 188]
   [137 129 132]
   [139 140 142]
@@ -1992,7 +1955,8 @@ UNINTERRUPTED FOCUS: With a virtually borderless design, stay focused on your wo
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"SUPERIOR PICTURE QUALITY: With 4k monitor, four times more pixel density than FHD, 32 inch Samsung 4K monitor S80A series makes small text easy to read. A vertical monitor that that allows you to enjoy the 4K picture quality however you desire.
+  [255 255 255]]]",4,"$408
+39","SUPERIOR PICTURE QUALITY: With 4k monitor, four times more pixel density than FHD, 32 inch Samsung 4K monitor S80A series makes small text easy to read. A vertical monitor that that allows you to enjoy the 4K picture quality however you desire.
 Viewing Angle is 178° (H) / 178° (V); Aspect Ratio is 16:9
 SLIM DESIGN: The ergonomic stand lets you adjust the height, tilt and swivel to a position that suits your eye level. The slim metal base adds to the clean sophistication, while VESA compatibility makes installation on a wall or mounting arm easy.
 VERSATILE CONNECTIVITY: Connect multiple devices at once through not only the HDMI monitor and DP port, but you can also use multi-peripherals without connecting directly to a laptop thanks to the USB ports.
@@ -2154,7 +2118,8 @@ INCLUDED IN THE BOX: Monitor, Power Cable, and VGA Cable"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"34"" UltraWide 21:9 WQHD (3440 x 1440) IPS HDR Display
+  [255 255 255]]]",4.6,"$396
+99","34"" UltraWide 21:9 WQHD (3440 x 1440) IPS HDR Display
 Viewing Angle (L/R) (CR>=10) is 178°/178°; Brightness(Typ) is 300cd/m²; Aspect Ratio is 21:9
 Ergo Stand (Extend/Retract/Swivel/Height/Pivot/Tilt)
 3-Side Virtually Borderless Design
@@ -2208,7 +2173,7 @@ sRGB 99% Color Gamut / HDR 10"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,"$599
+  [255 255 255]]]",4.6,"$599
 99","CURVED DESIGN: A state-of-the-art ultrawide curved screen lets you immerse yourself in a stunning panoramic viewing experience featuring a 21:9 aspect ratio, dynamic colors and incredible detail
 PREMIUM MONITOR: This WQHD+ (3440x1440p) ergonomic MVA monitor deliver lifelike colors perfect for office, graphic design, photographers and more
 REDUCE CABLE CLUTTER: Connect video, audio, data and power with a single 90W USB-C cable and plug in peripherals like USB drives and mice with the USB hub
@@ -2217,29 +2182,29 @@ AMD FREESYNC WITH 100Hz REFRESH RATE: Smooth, tear-free playback ideal for video
 HDR10 CONTENT SUPPORT: Enjoy videos at the stunning resolution they were meant to be seen at for a deeper, richer viewing experience
 FLEXIBLE CONNECTIVITY: The VP3481a supports laptops, PCs with Mac and Windows operating systems with USB-C with 90W charging, HDMI 2.0 with HDCP 2.2 and DisplayPort inputs
 INCLUDED IN THE BOX: LCD Monitor, Power Cable, USB Type-C Cable, USB Type-B Uplink Cable, DP to DP Cable, and Factory Color Calibration Report"
-"[[[254 248 254]
-  [247 243 247]
-  [243 242 243]
+"[[[255 255 253]
+  [250 254 254]
+  [246 247 248]
   ...
-  [243 243 242]
-  [249 247 244]
-  [251 254 249]]
+  [248 247 244]
+  [255 255 255]
+  [255 255 255]]
 
- [[229 226 229]
-  [121 120 121]
-  [ 80  80  81]
+ [[232 233 229]
+  [ 99  92  95]
+  [ 69  65  69]
   ...
-  [ 89  86  86]
-  [141 134 132]
-  [234 234 229]]
+  [ 70  72  69]
+  [120 120 120]
+  [246 246 246]]
 
- [[183 191 185]
-  [ 18  25  20]
-  [  0   0   0]
+ [[173 177 175]
+  [ 10   5   6]
+  [  8  10   8]
   ...
-  [  0   0   0]
-  [ 44  34  34]
-  [212 208 205]]
+  [  9   5   0]
+  [ 17  17  17]
+  [202 202 202]]
 
  ...
 
@@ -2374,7 +2339,8 @@ OPTIMIZED WORKSPACE: This durable 2U hinged wall mount server equipment rack has
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"PREMIUM MONITOR: QHD (2560x1440p) advanced ergonomic, 60Hz IPS monitor deliver lifelike colors perfect for office, graphic design, photographers and more
+  [255 255 255]]]",4.6,"$299
+99","PREMIUM MONITOR: QHD (2560x1440p) advanced ergonomic, 60Hz IPS monitor deliver lifelike colors perfect for office, graphic design, photographers and more
 PANTONE VALIDATED DISPLAY: Color fidelity in every pixel. The VP2756-2K has been rigorously tested and capable of reproducing the Pantone Matching System colors for professionals
 AMAZING AT ANY ANGLE: A three-sided ultra-thin bezel shows off more of your masterpiece, and less of the monitor
 REDUCE CABLE CLUTTER: Connect video, audio, data and power with a single USB-C cable and plug in peripherals like USB drives and mice with the USB hub
@@ -2435,25 +2401,25 @@ EXCEPTIONAL COLOR ACCURACY: Screen wide sRGB, EBU, SMPTE-C, Rec. 709, and DICOM-
 HARDWARE CALIBRATION: Quick and easy calibration ensures that the color displayed perfectly matches the original file
 FLEXIBLE CONNECTIVITY: The VP2468_H2 supports laptops, PCs, and Apple/Mac operating systems with HDMI 1.4, USB, DisplayPort (Daisy Chain enabled), and Mini DisplayPort inputs
 INCLUDED IN THE BOX: x2 LCD Head-Only Monitors, x2 Power Cables, x2 Mini DP to DP Cables, and x2 USB 3.0 Cables"
-"[[[255 255 255]
-  [203 202 205]
-  [163 162 167]
+"[[[251 250 247]
+  [212 208 212]
+  [176 170 182]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[200 200 203]
-  [ 44  43  50]
-  [ 25  24  30]
+ [[202 207 201]
+  [ 47  47  49]
+  [  6   4  15]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[122 121 126]
-  [ 34  33  39]
-  [ 63  62  68]
+ [[134 149 142]
+  [ 12  18  20]
+  [ 43  41  52]
   ...
   [255 255 255]
   [255 255 255]
@@ -2483,7 +2449,7 @@ INCLUDED IN THE BOX: x2 LCD Head-Only Monitors, x2 Power Cables, x2 Mini DP to D
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$101
+  [255 255 255]]]",4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -2539,8 +2505,8 @@ Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$179
-04","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
+  [255 255 255]]]",4.5,"$149
+97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 165Hz Refresh Rate: Pushing beyond the standard refresh rate, 165Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 Response Time 1ms MPRT: With 1ms MPRT, motion blur is eliminated and exceptionally crisp imagery is visible in the midst of chaotic combat.
 320 Brightness: Remarkably vivid colors illuminate the screen like never before with 320 cd/m² brightness.
@@ -2593,7 +2559,8 @@ Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortab
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
+  [255 255 255]]]",4.6,"$164
+97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
 Adaptive Sync: Adaptive Sync is a technology that closes the gap between the graphics card's and the monitor's refresh rates, eliminating image tearing and stuttering in the process.
@@ -2648,7 +2615,8 @@ Tiltable Display: A display that tilts 15° backward and 5° forward allows you 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,Responsibly Made Make a conscious choice with this monitor that's been built with the environment in mind. Its plastics consist of over 80% recycled materials plus it has 100% sustainably sourced and recyclable packaging. It is ENERGY STAR certified and EPEAT registered.
+  [255 255 255]]]",4,"$269
+00",Responsibly Made Make a conscious choice with this monitor that's been built with the environment in mind. Its plastics consist of over 80% recycled materials plus it has 100% sustainably sourced and recyclable packaging. It is ENERGY STAR certified and EPEAT registered.
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2698,7 +2666,7 @@ Tiltable Display: A display that tilts 15° backward and 5° forward allows you 
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.6,"$190
-19","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
+42","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 AMD FreeSync Premium: By accelerating the frame rate to at least 120Hz at 1080P FHD resolution and delivering low latency to prevent visible delay in data processing, AMD FreeSync Premium allows gameplay to reach the highest echelons of performance.
 Edgeless Design: Edgeless Design completely immerses you in all the captivating action and wondrous scenery that 1080P resolution and 144Hz refresh rate have to offer.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes.
@@ -2801,7 +2769,8 @@ Weight: 19.850 lbs"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"Aspect ratio of 16:10 delivers a viewing area that works well for home and office
+  [255 255 255]]]",4,"$699
+00","Aspect ratio of 16:10 delivers a viewing area that works well for home and office
 The WQXGA monitor highlights WQXGA display with resolution up to 2560 x 1600 pixels
 Furnishes captivating visuals with 350 Nit brightness levels
 Features HDMI input to get connected with the top of the line PCs, Blu-ray players, and cutting edge gaming consoles
@@ -2855,7 +2824,8 @@ VESA mount compatibility allows you to mount the display on a wall or with a sta
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"DESIGNED FOR XBOX FOR OPTIMAL GAMING EXPERIENCE: We partnered with Microsoft Xbox team to design the Momentum monitor from the ground up for the optimal Xbox series X gaming experience, right out of the box.
+  [255 255 255]]]",3.9,"$741
+98","DESIGNED FOR XBOX FOR OPTIMAL GAMING EXPERIENCE: We partnered with Microsoft Xbox team to design the Momentum monitor from the ground up for the optimal Xbox series X gaming experience, right out of the box.
 ULTRA SMOOTH MOTION: Game with ultra-clear 4K resolution at a smooth 120 Hz refresh rate when you connect your Xbox Series X and other next-gen consoles. Hardcore PC gamers can play at the fastest refresh rate of 144 Hz on the big screen via DisplayPort 1.4 and HDMI 2.1.
 LOW LATENCY GAMING: No more screen tearing and broken frames. This Philips Momentum display is NVIDIA G-SYNC Compatible certified, with low input lag and 1ms (GtG) lightning-fast response time, giving you the ultimate edge over your opponents.
 RICH COLORS FOR WORK AND PLAY: Ultra Wide-Color with IPS Nano Color technology produces true-to-life images and 98% DCI-P3 color gamut area coverage.
@@ -2964,7 +2934,8 @@ AMD FreeSync – prevent screen tearing"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100Hz Refresh Rate: With 100Hz refresh rate and Adaptive Sync, you have more frames displayed on screen every second compared to a 60Hz or 75Hz screen, eliminating lag and motion blur for exhilarating gameplay with ultra-smooth action
+  [255 255 255]]]",4.4,"$237
+99","100Hz Refresh Rate: With 100Hz refresh rate and Adaptive Sync, you have more frames displayed on screen every second compared to a 60Hz or 75Hz screen, eliminating lag and motion blur for exhilarating gameplay with ultra-smooth action
 21:9 Ultra Wide Screen: Designed to give discriminating office users, content creators, and gamers a more spacious, immersive view, delivering eye-popping visuals or simply extra room to work with more productivity
 Immersive Viewing Experience: The 1500R curvature of the screen lets you enjoy big, bold and stunning panoramic views while you work or play at home or the office
 Eye Care: Optimize your viewing comfort by reducing blue light emissions and flickers, play games, watch movies and edit photos for longer periods without worrying about eye strain or fatigue
@@ -3025,24 +2996,24 @@ Gameplus Mode: It will give you an edge when you’re playing first-person shoot
 1ms response time helps eliminate screen tearing and choppy frame rates
 Wide view angle - 178° visible.
 Adaptive sync - keep screen tearing away from your monitor."
-"[[[204 205 207]
-  [158 159 161]
-  [185 186 188]
+"[[[178 178 178]
+  [144 144 144]
+  [164 164 164]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[122 123 125]
-  [ 27  28  30]
-  [ 26  27  29]
+ [[115 115 115]
+  [ 23  23  23]
+  [ 25  25  25]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[132 133 135]
-  [  5   5   7]
+ [[121 121 121]
+  [  5   5   5]
   [  0   0   0]
   ...
   [255 255 255]
@@ -3073,7 +3044,8 @@ Adaptive sync - keep screen tearing away from your monitor."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Curved Gaming display (1500R) – The best gameplay immersion
+  [255 255 255]]]",5,"$499
+99","Curved Gaming display (1500R) – The best gameplay immersion
 144Hz refresh rate - Display without after image.
 1ms response time helps eliminate screen tearing and choppy frame rates
 Wide view angle - 178° visible.
@@ -3126,7 +3098,8 @@ Adaptive sync - keep screen tearing away from your monitor."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"QHD RESOLUTION: Your gaming world will be more life like than ever before. Packing in 1.7 times the pixel density of Full HD, QHD resolution boasts incrediblydetailed, pin-sharp images. Experience a fuller view with more space to take in all the action.
+  [255 255 255]]]",4,"$799
+99","QHD RESOLUTION: Your gaming world will be more life like than ever before. Packing in 1.7 times the pixel density of Full HD, QHD resolution boasts incrediblydetailed, pin-sharp images. Experience a fuller view with more space to take in all the action.
 DISPLAY HDR 600: Reveal the whole picture. DisplayHDR 600 delivers more contrast, with deeper blacks and brighter whites to help you uncover enemies orsecrets lurking in the shadows. Even in dark scenes, every detail shines with clarity.
 240Hz REFRESH RATE & 1MS RESPONSE TIME: Speed through scenes. 240Hz refresh rate eliminates lag for exhilarating gameplay withultra-smooth action. Jump on enemies right when you see them with a 1ms response time and blur-free frames.
 AMD FREESYNC PREMIUM PRO: Effortlessly smooth game play. AMD FreeSync Premium Pro features adaptive sync technology which reduces screen tearing, stutter, and inputlatency. Low frame rate compensation ensures every scene flows seamlessly.
@@ -3179,7 +3152,8 @@ AMD FREESYNC PREMIUM PRO: Effortlessly smooth game play. AMD FreeSync Premium Pr
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"IntelliTouch surface acoustic wave (SAW) touch technology with an anti-glare display and Dual/Serial USB ready for any retail or hospitality environment
+  [255 255 255]]]",4.3,"$575
+99","IntelliTouch surface acoustic wave (SAW) touch technology with an anti-glare display and Dual/Serial USB ready for any retail or hospitality environment
 Flexible mounting - wall- and pole-mount via standard VESA mount patterns as well as tabletop accommodations with the use of the desktop stand
 Commercial grade with rigorous reliability testing (over 20 tests) to deliver 50,000 MTBF
 Up to 1024 x 768 resolution at 75 Hz
@@ -3286,7 +3260,7 @@ RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium ser
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$99
+  [255 255 255]]]",4.6,"$119
 99","GREAT FOR HOME AND OFFICE: An ideal all-around 24 inch display for offices or remote work
 SEE THE DIFFERENCE: Razor-sharp clarity and detail with Full HD (1920x1080p) resolution
 LESS CABLE CLUTTER: In addition to fast data, audio and video transfer, USB Type-C also provides 15W charging over a single cable
@@ -3343,8 +3317,7 @@ INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, and a Quick Start Gui
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$162
-91","Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
+  [255 255 255]]]",4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 99% sRGB Color Gamut: With 99% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance & sharp visibility from multiple viewing angles.
 up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
@@ -3356,25 +3329,25 @@ FPS-RTS Game Modes: FPS and RTS are Sceptre's custom set display settings built 
   [255 255 255]
   [255 255 255]
   ...
-  [ 87  87  87]
-  [180 180 180]
-  [255 255 255]]
+  [107 107 110]
+  [192 192 193]
+  [247 247 247]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [  5   5   5]
-  [ 46  46  46]
-  [181 181 181]]
+  [  0   0   0]
+  [ 50  50  52]
+  [190 190 191]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [ 17  17  17]
-  [ 53  53  53]
-  [112 112 112]]
+  [ 15  15  17]
+  [ 31  31  33]
+  [127 127 129]]
 
  ...
 
@@ -3400,7 +3373,8 @@ FPS-RTS Game Modes: FPS and RTS are Sceptre's custom set display settings built 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"32-inch QHD (2560x1440) gaming monitor with ultrafast 170Hz refresh rate designed for professional gamers and immersive gameplay
+  [255 255 255]]]",4.6,"$379
+00","32-inch QHD (2560x1440) gaming monitor with ultrafast 170Hz refresh rate designed for professional gamers and immersive gameplay
 ASUS Extreme Low Motion Blur Sync (ELMB SYNC) technology enables ELMB together with G-SYNC Compatible, eliminating ghosting and tearing for sharp gaming visuals with high frame rates
 Freesync Premium technology, delivering a seamless, tear-free gaming experience by enabling VRR (variable refresh rate) by default
 High Dynamic Range (HDR) technology with professional color gamut delivers contrast and color performance that meets the DisplayHDR 400 certification
@@ -3454,7 +3428,8 @@ Free 3-month Adobe Creative Cloud Subscription: Receive complimentary access wit
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
+  [255 255 255]]]",4,"$103
+29","IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
 ULTRA SLIM DESIGN: The KOORUI computer monitor 24 inch with edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 OPTIMAL COMFORT: Find your best viewing position and stay comfortable by tilting the screen up to 5 degrees forward or 15 degrees backward. 24"" monitor with Blue Light Filter, Adaptive FreeSync technology so you can enjoy ultra-smooth gameplay or working for all-day without any eyes uncomfor
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution.
@@ -3562,7 +3537,8 @@ AMD FreeSync"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.2,,"Best Use - The Dasung e-ink monitor is optimal for internet browsing, computer programming, ebook reading, and basic image viewing. It is not optimal for video streaming, gaming, and rich color graphics.
+  [255 255 255]]]",3.2,"$879
+00","Best Use - The Dasung e-ink monitor is optimal for internet browsing, computer programming, ebook reading, and basic image viewing. It is not optimal for video streaming, gaming, and rich color graphics.
 Protect Your Eyes - The Dasung Paper Like 3 HD Front-light and touch helps protect your eyes from Computer Vision Syndrome (CVS). The monitor doesn't emit a harsh backlight that can lead to eye issues, headaches, and insomnia. With Dasung's e-ink monitor, your eyes will be protected while writing code or browsing the internet. It can be a replacement for computer glasses that ease eye strain.
 Easy Setup - Includes 2 options for connecting to a computer. USB-C to USB-C cable for power & data from your computer's USB-C or thunderbolt 3 display out port to the USB-C port on the device. HDMI/USB to mini-HDMI cable connects your computer's full size HDMI display out port for data and a USB port for power to the mini-HDMI port on the device. No power cord needed as it draws power from the USB cord from your device. Compatible with Windows, Mac 10.11 or higher, Linux, Ubuntu, & iPhone/iPad.
 No Glare - The Paper Like 3 HD Front-light and touch is perfect for outdoor environments or high glare situations. With Dasung's Carta e-ink monitor, gone are the days of tilting or shading your monitor at the perfect angle to view the screen. This creates better sunlight readability and more productivity with your e-ink monitor while outdoors. The device also works great in low light settings. There are different display modes that you can toggle between to meet your specific preferences.
@@ -3615,7 +3591,8 @@ Touch Function Compatibility - The touch function only works with Windows, Linux
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"27-inch Full HD (1920 x 1080) gaming monitor with ultrafast 144Hz refresh rate designed for professional gamers and immersive gameplay
+  [255 255 255]]]",4.6,"$221
+99","27-inch Full HD (1920 x 1080) gaming monitor with ultrafast 144Hz refresh rate designed for professional gamers and immersive gameplay
 ASUS Extreme Low Motion Blur (ELMB ) technology enables a 1ms response time (MPRT) together with Adaptive-sync, eliminating ghosting and tearing for sharp gaming visuals with high frame rates
 FreeSync Premium technology supported through DisplayPort and HDMI ports providing variable refresh rates for low latency, stuttering-free and tearing-free while gaming
 Shadow Boost enhances image details in dark areas, brightening scenes without over-exposing bright areas
@@ -3724,7 +3701,8 @@ Reader Mode & Flicker Safe"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"27” FHD (1920 x 1080) IPS Display
+  [255 255 255]]]",4.7,"$309
+97","27” FHD (1920 x 1080) IPS Display
 1ms Response Time & 144Hz Refresh Rate
 IPS panel, 1920 x 1080, 2 HDMI ports, VESA Wall Mount Standard 100mm x 100mm
 G-SYNC Compatible (NVIDIA Adaptive Sync), FreeSync Premium (AMD Adaptive Sync)"
@@ -3776,7 +3754,7 @@ G-SYNC Compatible (NVIDIA Adaptive Sync), FreeSync Premium (AMD Adaptive Sync)"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,"$949
+  [255 255 255]]]",4.3,"$999
 99","Delivers a stunning 3840x2160 UHD 4K display with an ultra-thin micro-bezel.
 Resists motion blur and keeps up with the high frame rates produced by the latest graphics cards, so you see every frame your PC can output.
 Offers superb color accuracy and consistency regardless of viewing angle, up to 178° horizontally and vertically.
@@ -3884,7 +3862,7 @@ Anti-Flicker and Less Blue Light – game even longer and prevent eye strain and
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,"$599
+  [255 255 255]]]",3.7,"$599
 99","4K High Resolution at 144Hz high refresh rate.
 Viewing Angle is 178° (H) / 178° (V); Brightness(typ) is 300nits; Aspect Ratio is 16:9
 Rapid IPS – Provides 1ms GTG fast response time, optimizes screen colors and brightness
@@ -3938,7 +3916,8 @@ Gaming OSD App – Create the ultimate viewing settings for your game"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"100% Polyester
+  [255 255 255]]]",4.7,"$479
+99","100% Polyester
 Pivot Xpand TS Ayrshire Black"
 "[[[255 255 255]
   [232 232 232]
@@ -4042,7 +4021,8 @@ Adaptive sync - keep screen tearing away from your monitor."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Curved Gaming display (1500R) – The best gameplay immersion
+  [255 255 255]]]",5,"$249
+99","Curved Gaming display (1500R) – The best gameplay immersion
 170Hz refresh rate - Display without after image.
 1ms response time helps eliminate screen tearing and choppy frame rates
 Wide view angle - 178° visible.
@@ -4095,7 +4075,8 @@ Adaptive sync - keep screen tearing away from your monitor."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"28"" IPS UHD computer monitor with 4K (3840 x 2160) resolution and 178° viewing angle
+  [255 255 255]]]",4.5,"$349
+99","28"" IPS UHD computer monitor with 4K (3840 x 2160) resolution and 178° viewing angle
 AMD FreeSync technology and a 4ms response time ensure smooth gameplay
 Eyesafe Display Certification and Natural Low Blue Light technology to minimize eye strain
 HDMI and DisplayPort video input ports for high-resolution signals
@@ -4148,7 +4129,8 @@ HDMI and DisplayPort video input ports for high-resolution signals
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3,,"Number of Screens: 1
+  [255 255 255]]]",3,"$129
+99","Number of Screens: 1
 Screen Size Class: 22""
 Viewable Screen Size: 21.5""
 Panel Technology: Thin Film Transistor (TFT)
@@ -4201,7 +4183,7 @@ Backlight Technology: LED"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$101
+  [255 255 255]]]",4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -4209,25 +4191,25 @@ Vesa wall mount ready; Lamp Life: 30,000+ Hours
 Windows 10 Sceptre Monitors are fully compatible with Windows 10, the most recent operating System available on PCs.Brightness: 220 cd/M2
 Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
 75 hertz"
-"[[[255 255 255]
-  [229 229 230]
-  [183 183 185]
+"[[[254 254 254]
+  [240 240 240]
+  [179 179 179]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
  [[255 255 255]
-  [163 163 165]
-  [ 40  40  42]
+  [162 162 162]
+  [ 29  29  29]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
  [[255 255 255]
-  [151 151 154]
-  [ 26  26  28]
+  [155 155 155]
+  [ 34  34  34]
   ...
   [255 255 255]
   [255 255 255]
@@ -4257,8 +4239,8 @@ Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$179
-04","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
+  [255 255 255]]]",4.5,"$149
+97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 165Hz Refresh Rate: Pushing beyond the standard refresh rate, 165Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 Response Time 1ms MPRT: With 1ms MPRT, motion blur is eliminated and exceptionally crisp imagery is visible in the midst of chaotic combat.
 320 Brightness: Remarkably vivid colors illuminate the screen like never before with 320 cd/m² brightness.
@@ -4311,7 +4293,8 @@ Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortab
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
+  [255 255 255]]]",4.6,"$164
+97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
 Adaptive Sync: Adaptive Sync is a technology that closes the gap between the graphics card's and the monitor's refresh rates, eliminating image tearing and stuttering in the process.
@@ -4366,7 +4349,8 @@ Tiltable Display: A display that tilts 15° backward and 5° forward allows you 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"QUALITY SCREEN TIME: From big data to beautiful presentations, this 60Hz monitor deliver Full HD (1920x1080p) viewing for any task
+  [255 255 255]]]",4.2,"$249
+99","QUALITY SCREEN TIME: From big data to beautiful presentations, this 60Hz monitor deliver Full HD (1920x1080p) viewing for any task
 STREAMLINED SOLUTION: RJ45 and USB 3.2 Type-C eliminates the need for costly docking stations, as well as multiple wires, cables, and adapters
 LESS CABLE CLUTTER: In addition to fast data, audio, and video transfer, USB Type-C also provides quick 60W charging over a single cable
 PRODUCTIVITY & COMFORT: Advanced ergonomics with 40 degree tilt and more help to boost productivity with all-day comfort
@@ -4422,7 +4406,8 @@ INCLUDED IN THE BOX: LCD Monitor, Power Cable, DP to DP Cable, and USB Type C Ca
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"16:9 widescreen resolution perfect for watching movies, playing video games and getting on with office work
+  [255 255 255]]]",4.4,"$299
+99","16:9 widescreen resolution perfect for watching movies, playing video games and getting on with office work
 27"" screen size with 1920x1080 resolution provides a native display of a Full HD video sources without any degradation due to down-sampling technologies
 Enjoy crisp content and energetic hues with the 300 Nit brightness
 HDMI interface allows you to connect to a variety of HD devices including gaming consoles, Blu-ray players, laptop PCs, digital cameras and many others for the ultimate true high-definition display
@@ -4476,8 +4461,7 @@ VESA mount compatibility allows you to mount the display on a wall or with a sta
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$599
-99","Your #1 Source of Entertainment: Experience endless entertainment with this 32 Inch 4K IPS UHD computer monitor featuring a stunning 4K display.
+  [255 255 255]]]",4.5,,"Your #1 Source of Entertainment: Experience endless entertainment with this 32 Inch 4K IPS UHD computer monitor featuring a stunning 4K display.
 USB-C Connectivity: Synchronize images, videos, data and charge all of your mobile devices with an all-in-one cable and 60W power delivery! Easily access your settings with the remote control.
 HDRi Optimization: Get ready for a cinematic experience thanks to the HDRi optimization which improves contrast and colors of the image.
 Built-In Speakers: Free up desk space with a built-in sound system that delivers premium audio.
@@ -4694,7 +4678,8 @@ Ports: 1 x usb 3.1 (type-c) port, 1 x display port, 2 x hdmi 2.0, 1 x audio-out 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"With VESA DisplayHDR 400 high dynamic range compatibility, this monitor brings work and virtual worlds to life, backed by 400 nits of brightness, elevating textures, elements, character movements, and natural light and shadow
+  [255 255 255]]]",4.3,"$396
+99","With VESA DisplayHDR 400 high dynamic range compatibility, this monitor brings work and virtual worlds to life, backed by 400 nits of brightness, elevating textures, elements, character movements, and natural light and shadow
 With 95% coverage of the sRGB spectrum, this monitor is a great solution for photographers, graphic designers, or anyone looking for highly accurate color
 With supported video cards such as the AMD Radeon series, AMD FreeSync manages refresh rate, reducing screen tearing, flicker, and stuttering for an effortlessly smooth gaming experience
 Transform standard content into HDR-quality video right on the screen. Using a picture quality algorithm, tone mapping and luminance of SDR content are improved for an HDR-like experience
@@ -4747,7 +4732,8 @@ Customized game modes optimize your gaming conditions with two first-person-shoo
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Versatile 20"" display - Well-suited for retail, hospitality, government, restaurant, and industrial environments
+  [255 255 255]]]",4.3,"$577
+99","Versatile 20"" display - Well-suited for retail, hospitality, government, restaurant, and industrial environments
 Full HD Edge-to-edge glass display with anti-glare for retail interiors
 Mount with flexibility – Standard VESA mount allows you integrate the Elo touchscreen monitor with ease
 With up to 10 touches enabled, the 02-Series Monitors provide a tablet-like experience
@@ -4800,7 +4786,8 @@ TouchPro PCAP technology offers wide viewing angles with impeccable image clarit
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,,"32-Inch 4K UHD (3840 x 2160) resolution display with DisplayPort 1.2, HDMI (V2.0) x3, USB Type-C
+  [255 255 255]]]",3.8,"$1,069
+00","32-Inch 4K UHD (3840 x 2160) resolution display with DisplayPort 1.2, HDMI (V2.0) x3, USB Type-C
 Brightness is 450cd/m²
 100% Adobe RGB and 100% RGB true Color reproduction, factory pre calibrated for outstanding color accuracy (Delta). supports 98% DCI-P3 and 84% rec. 2020 color standards
 Asus ProArt calibration technology with 14-bit look-up table (LUT) and uniformity Compensation capability
@@ -4907,7 +4894,8 @@ DC power connector for Dell soundbar, 38 W (typical) / 72 W (maximum) power cons
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"22” Full HD (1920x1080) IPS Display
+  [255 255 255]]]",4.6,"$141
+48","22” Full HD (1920x1080) IPS Display
 AMD FreeSync Technology
 Dynamic Action Sync
 Black Stabilizer
@@ -4967,29 +4955,29 @@ EXTREMELY VIEWING COMFORT: Find your best viewing position and stay comfortable 
 ULTRA SLIM DESIGN: The KOORUI 23.8 inch Business Computer Monitor adopts edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution. You can connect the edge-less monitor to Xbox, PC and laptops etc, transmitting high-quality images, any switch between office and entertainment.
 RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium service, making you assured. With a 3-year warranty, a 12-month replacement service and calling technical support. If you find any damage, malfunction or missing accessories, please feel free to contact us."
-"[[[179 179 179]
-  [142 142 142]
-  [139 139 139]
+"[[[166 166 166]
+  [119 119 119]
+  [128 128 128]
   ...
-  [141 139 135]
-  [152 157 153]
-  [212 223 221]]
+  [123 128 124]
+  [137 139 136]
+  [222 223 223]]
 
- [[ 14  14  14]
+ [[ 13  13  13]
   [  0   0   0]
   [  0   0   0]
   ...
-  [  6   0   0]
-  [  5   4   2]
-  [119 126 125]]
+  [  0   0   0]
+  [  0   0   0]
+  [113 117 115]]
 
- [[  4   4   4]
+ [[  3   3   3]
+  [  1   1   1]
   [  0   0   0]
-  [  5   5   5]
   ...
-  [ 39   6   9]
-  [  8   0   0]
-  [ 96  94  93]]
+  [ 45   8  13]
+  [ 12   0   0]
+  [ 83  85  83]]
 
  ...
 
@@ -5015,7 +5003,7 @@ RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium ser
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$99
+  [255 255 255]]]",4.6,"$119
 99","GREAT FOR HOME AND OFFICE: An ideal all-around 24 inch display for offices or remote work
 SEE THE DIFFERENCE: Razor-sharp clarity and detail with Full HD (1920x1080p) resolution
 LESS CABLE CLUTTER: In addition to fast data, audio and video transfer, USB Type-C also provides 15W charging over a single cable
@@ -5024,29 +5012,29 @@ AMAZING AT ANY ANGLE: A slim bezel panel ensures stunning views no matter your v
 ENHANCED VIEWING COMFORT: Flicker-Free technology and Blue Light Filter for all-day comfort
 FLEXIBLE CONNECTIVITY: The VA2447-MHU supports a variety of HD devices including gaming consoles, Blu-ray, laptops, PCs and digital cameras with HDMI and VGA inputs
 INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, and a Quick Start Guide"
-"[[[215 213 210]
-  [183 181 183]
-  [178 177 177]
+"[[[227 229 236]
+  [206 205 219]
+  [208 205 216]
   ...
-  [230 228 231]
-  [233 233 234]
-  [251 251 251]]
+  [244 245 245]
+  [239 240 240]
+  [244 245 245]]
 
- [[105 103 102]
-  [ 47  44  50]
-  [ 46  44  49]
+ [[114 115 128]
+  [ 44  43  53]
+  [ 30  27  34]
   ...
-  [ 95  92  98]
-  [ 92  92  94]
-  [172 172 174]]
+  [ 93  93  96]
+  [105 103 105]
+  [187 183 185]]
 
- [[ 88  86  89]
-  [ 23  20  28]
-  [  8   5   9]
+ [[110 110 118]
+  [ 11  10  16]
+  [  0   0   0]
   ...
-  [ 38  39  37]
-  [ 53  53  55]
-  [133 133 135]]
+  [ 17  16  24]
+  [ 35  26  33]
+  [155 141 149]]
 
  ...
 
@@ -5072,8 +5060,7 @@ INCLUDED IN THE BOX: LCD Monitor, Power Cable, HDMI Cable, and a Quick Start Gui
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$162
-91","Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
+  [255 255 255]]]",4.4,,"Built-in Speakers: Perfectly suited to work & gaming settings, built-in speakers deliver robust & smooth audio while saving space on your desk.
 99% sRGB Color Gamut: With 99% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance & sharp visibility from multiple viewing angles.
 up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
@@ -5129,35 +5116,36 @@ FPS-RTS Game Modes: FPS and RTS are Sceptre's custom set display settings built 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"32-inch QHD (2560x1440) gaming monitor with ultrafast 170Hz refresh rate designed for professional gamers and immersive gameplay
+  [255 255 255]]]",4.6,"$379
+00","32-inch QHD (2560x1440) gaming monitor with ultrafast 170Hz refresh rate designed for professional gamers and immersive gameplay
 ASUS Extreme Low Motion Blur Sync (ELMB SYNC) technology enables ELMB together with G-SYNC Compatible, eliminating ghosting and tearing for sharp gaming visuals with high frame rates
 Freesync Premium technology, delivering a seamless, tear-free gaming experience by enabling VRR (variable refresh rate) by default
 High Dynamic Range (HDR) technology with professional color gamut delivers contrast and color performance that meets the DisplayHDR 400 certification
 Supports both Adaptive-Sync with NVIDIA GeForce graphics cards and FreeSync with AMD Radeon graphics cards Compatible with NVIDIA GeForce GTX 10 series, GTX 16 series, RTX 20 series and newer graphics cards
 Free 3-month Adobe Creative Cloud Subscription: Receive complimentary access with the purchase of this product (offer valid from 9/15/2021 to 8/31/2023)"
-"[[[232 232 232]
-  [121 121 121]
-  [104 104 104]
+"[[[221 221 221]
+  [143 143 143]
+  [124 124 124]
   ...
-  [117 118 118]
-  [122 122 123]
-  [218 218 218]]
+  [135 134 139]
+  [136 133 134]
+  [214 212 212]]
 
- [[159 159 159]
-  [  1   1   1]
+ [[162 162 162]
+  [  9   9   9]
+  [  0   0   0]
+  ...
+  [ 12  12  17]
+  [ 19  17  18]
+  [144 140 140]]
+
+ [[167 167 167]
   [  3   3   3]
-  ...
-  [ 11  12  14]
-  [  7   7   7]
-  [122 122 122]]
-
- [[151 151 151]
-  [  8   8   8]
   [  1   1   1]
   ...
-  [  1   3   7]
-  [  8   8   9]
-  [111 111 111]]
+  [  1   2   6]
+  [  0   0   0]
+  [130 125 125]]
 
  ...
 
@@ -5183,7 +5171,8 @@ Free 3-month Adobe Creative Cloud Subscription: Receive complimentary access wit
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
+  [255 255 255]]]",4,"$103
+29","IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
 ULTRA SLIM DESIGN: The KOORUI computer monitor 24 inch with edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 OPTIMAL COMFORT: Find your best viewing position and stay comfortable by tilting the screen up to 5 degrees forward or 15 degrees backward. 24"" monitor with Blue Light Filter, Adaptive FreeSync technology so you can enjoy ultra-smooth gameplay or working for all-day without any eyes uncomfor
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution.
@@ -5236,7 +5225,8 @@ KOORUI SERVICES: We owns super strength from monitor quality to premium service,
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"32” class (31.5” viewable) Momentum 5000 series gaming monitor with 4K UHD 3840x2160 resolution IPS panel and minimal bezels for ultra clear images from virtually all angles.
+  [255 255 255]]]",5,"$748
+17","32” class (31.5” viewable) Momentum 5000 series gaming monitor with 4K UHD 3840x2160 resolution IPS panel and minimal bezels for ultra clear images from virtually all angles.
 GET AHEAD OF THE COMPETITION BY MILLISECONDS with lightning-fast 144Hz refresh rate and rapid 1ms response MPRT to hit moving targets with precision, giving you the ultimate edge over your opponents.
 SMOOTH VICTORIES WITH AMD FREESYNC PREMIUM + NVIDIA G-SYNC compatibility: Get the most fluid, tear-free gaming experience at its highest performance no matter which GPU you use.
 LOW INPUT LAG delivers a lag-free display for higher resolution, enhances picture quality, and maximizes in-game responsiveness, perfect for fast-paced, competitive gaming.
@@ -5411,3 +5401,60 @@ Zero frame design, 2 speakers, 2 watts per speaker
 Ports: 1 x display port and 2 x hdmi 2.0 (hdmi cable included)
 Display technology: LED
 Connectivity technology: DisplayPort"
+"[[[215 218 216]
+  [140 139 135]
+  [127 126 127]
+  ...
+  [134 135 131]
+  [143 142 142]
+  [226 226 226]]
+
+ [[ 89  90  90]
+  [  0   0   0]
+  [  5   6   7]
+  ...
+  [  6  13   7]
+  [  1   2   2]
+  [ 89  89  89]]
+
+ [[ 56  57  57]
+  [ 11  10   8]
+  [  6   9  13]
+  ...
+  [ 16  24  19]
+  [ 13  13  13]
+  [ 49  49  49]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.3,"$399
+00","Ultra-wide 21:9 3440 x 1440 IPS 178° wide viewing angle display with a frameless, edge-to-edge design for pristine cinematic experience and enhanced productivity
+Up to 100Hz refresh rate with Adaptive-Sync/FreeSync technology to eliminate tracing and ensure crisp and clear video playback
+USB-C port supports DisplayPort signal and 15W power output via only one cable
+VESA wall-mountable to save on desktop space plus ergonomically-designed stands with tilt, swivel and height adjustment
+ASUS Eye Care Plus technology features TÜV Rheinland-certified Flicker-free and Low Blue Light technologies to ensure a comfortable viewing experience, Color Augmentation for better color differentiation, and Rest Reminder to prevent eye fatigue caused by long screen viewing time
+Supports both Adaptive-Sync with NVIDIA GeForce graphics cards and FreeSync with AMD Radeon graphics cards Compatible with NVIDIA GeForce GTX 10 series, GTX 16 series, RTX 20 series and newer graphics cards
+Robust Connectivity with USB-C (with up to 15W Power Delivery), DisplayPort 1.2,  and HDMI (v2.0) ports
+What’s in the box: HDMI cable, DisplayPort cable, Power cord, Warranty card, Quick Start Guide"

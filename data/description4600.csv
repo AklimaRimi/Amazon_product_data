@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -365,7 +365,7 @@ Leather work boot featuring comfortable cushioned collar and lace-up closure wit
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100% Synthetic
+  [255 255 255]]]",4.3,,"100% Synthetic
 Imported
 Synthetic sole
 Heel measures approximately 1""
@@ -1470,8 +1470,7 @@ Cushioned footbed for all day comfort"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,"$84
-99","Rubber sole
+  [255 255 255]]]",4.6,,"Rubber sole
 The lightweight mesh upper comfortably conforms to your foot.
 The rubber outsole is formed with a multidirectional traction pattern to help you stay in control, whichever direction you're moving.
 The laces feed through crisscross webbing straps over the top of your foot. When you lace up, it tightens the webbing to hold your foot in place.
@@ -2128,13 +2127,13 @@ Breathable lining with a padded collar for a comfortable fit"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Man Made
+  [255 255 255]]]",4.4,,"Leather-And-Synthetic
 Imported
-Man made sole
+Rubber sole
 Shaft measures approximately low-top from arch
-MEN'S LEATHER SNEAKERS: Leather upper features overlays for support and perforations for airflow.
-COMFORTABLE TRAINING: Foam Phylon midsole and full-length encapsulated Air-Sole unit cushions for comfort and support.
-NATURAL MOTION: Solid rubber outsole is durable and provides traction over varied surfaces."
+NIKE SHOES MEN: The Nike Air Monarch IV (4E) Training Shoe for Men sets you up for a comfortable training session with durable leather on top for support.
+DURABLE LEATHER: Men's sneakers are made with leather upper features for durability and support, while perforations provide airflow during every shoe wear.
+CUSHIONED COMFORT & DURABLE SUPPORT: A lightweight foam midsole with full-length encapsulated Air-Sole unit cushions every stride, providing all day comfort in your Nike shoes."
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2731,8 +2730,7 @@ WATERPROOF: KEEN.DRY is a waterproof, breathable membrane liner that lets vapor 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,"$76
-69","Rubber sole
+  [255 255 255]]]",4.6,,"Rubber sole
 The lightweight mesh upper comfortably conforms to your foot.
 The rubber outsole is formed with a multidirectional traction pattern to help you stay in control, whichever direction you're moving.
 The laces feed through crisscross webbing straps over the top of your foot. When you lace up, it tightens the webbing to hold your foot in place.
@@ -2873,8 +2871,8 @@ Relaxed Fit"
  ...
 
  [[254 254 254]
-  [252 252 252]
-  [250 250 250]
+  [251 251 251]
+  [248 248 248]
   ...
   [254 254 254]
   [254 254 254]
@@ -3320,7 +3318,7 @@ Razor Slit Rubber Outsole Unit"
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -3328,7 +3326,7 @@ Razor Slit Rubber Outsole Unit"
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -3336,7 +3334,7 @@ Razor Slit Rubber Outsole Unit"
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.2,,"Rubber sole
 The plush inner bootie is perforated for breathability.
@@ -3504,11 +3502,11 @@ CROCS FOR WOMEN AND MEN: The fuzz-lined Classic Crocs are fun to wear inside and
   [255 255 255]
   [255 255 255]]]",4.6,,"100% Leather
 Imported
-Duratread sole
+Rubber sole
 Shaft measures approximately 10.5"" from arch
-Boot opening measures approximately 16"" around
-ALL-WEATHER BOOTS:From Nashville to L.A., Austin to Boulder,the Rambler is the perfect boot to take you there;Bare bones and broken in, these unlined leather western boots have a rubber sole to wear in any weather to keep your feet comfortable all day long
-ATS TECHNOLOGY: Advanced Torque Stability (ATS) Technology is a helpful combination of a moisture wicking, gel-cushioned foot bed with a heel stabilizer for support and stability; It is lightweight and ergonomic and provides all-day comfort"
+Heel measures approximately 1.5""
+Platform measures approximately 0.50""
+Boot opening measures approximately 15"" around"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4380,10 +4378,9 @@ COMFORT: Removable metatomical footbed design provides excellent arch support an
 Imported
 Rubber sole
 Shaft measures approximately 3"" from arch
-Heel measures approximately 4 inches""
-Safety
-Manufacturer: Timberland Pro
-Country of Manufacturer: Vietnam"
+Mutilation-free, premium synthetic upper
+Asymmetrical alloy safety toe
+Electrostatic-dissipative protection"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4432,13 +4429,12 @@ Country of Manufacturer: Vietnam"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Man Made
+  [255 255 255]]]",4.6,,"100% Leather
 Imported
 Rubber sole
 Shaft measures approximately not_applicable from arch
-Air cooled memory foam
-Relaxed Fit 360
-Double gore"
+Relax fit
+Memory foam"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -5293,8 +5289,8 @@ Lightweight cement construction"
 
  ...
 
- [[255 255 255]
-  [255 255 255]
+ [[254 254 254]
+  [254 254 254]
   [255 255 255]
   ...
   [255 255 255]
@@ -5352,25 +5348,25 @@ Business casual dress shoes perfect for both the office and weekend wear"
   [255 255 255]
   [255 255 255]
   ...
-  [243 243 243]
-  [254 254 254]
-  [254 254 254]]
+  [242 242 242]
+  [252 252 252]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [254 254 254]
-  [254 254 254]
-  [254 254 254]]
+  [253 253 253]
+  [255 255 255]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
   [255 255 255]
-  [254 254 254]
-  [254 254 254]]]",4.4,,"Imported
+  [255 255 255]
+  [255 255 255]]]",4.4,,"Imported
 Ethylene Vinyl Acetate sole
 PLATFORM SHOES: Introducing the Classic Mega Crush Clog, featuring a unique 2.4 inch (60mm) platform ready to take any outfit to the next level.
 PLATFORM CROCS: These Crocs platform clogs have a unique 61mm height, measured from floor to heel rest.
@@ -5425,8 +5421,7 @@ PERSONALIZATION: Add Jibbitz shoe charms to your Crocs to show your unique style
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,"$85
-51","Rubber sole
+  [255 255 255]]]",4.6,,"Rubber sole
 The lightweight mesh upper comfortably conforms to your foot.
 The rubber outsole is formed with a multidirectional traction pattern to help you stay in control, whichever direction you're moving.
 The laces feed through crisscross webbing straps over the top of your foot. When you lace up, it tightens the webbing to hold your foot in place.

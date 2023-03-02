@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -31,123 +31,7 @@ imges,rating,price,description
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.3,,"Optical Sensor USB Mouse
-Precise performance with a resolution of 1000 dpi
-Polymer pad with high wear resistance.
-Elegant design, ideal for both right and left handed users."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",1,,"Pointing Device Connectivity Technology: Cable
-Movement Detection: Optical
-Movement Resolution (dpi): 1600
-Number of Total Buttons: 3
-Ergonomic Fit: Symmetrical"
-"[[255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]
- ...
- [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]]",4.6,,"Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
-The blue optical sensor in the wireless computer mouse allows you to work on almost any surface
-Get more done with revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls
-The Lenovo 600 Bluetooth Silent Mouse is sculpted to be comfortable to rest your palm on
-Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design that makes it easy to carry and fit into pockets without bulging"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [254 254 254]
-  [253 253 253]
-  [253 253 253]]
+  [254 254 254]]
 
  [[255 255 255]
   [255 255 255]
@@ -164,7 +48,7 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$31
-39","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
+99","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
 Tons of productivity features are packed into the smaller form of this USB-C mouse, including adjustable DPI sensitivity (2400, 1600, 800), shortcuts for online meetings, and a programmable utility button
 Stay connected effortlessly with an up to 3-month rechargeable battery that reaches full charge in under 1.5 hours; get back to work faster with a 15-minute quick charge for a week's worth of power
 The lightweight, ambidextrous design is comfortable in the right or left hand and small enough to take with you wherever you go
@@ -271,7 +155,8 @@ Compatible with Windows and Chrome devices; 2.4 GHz connection required at launc
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3,,"110 IDC fully shielded 180-degree punch down jack
+  [255 255 255]]]",3,"$3
+91","110 IDC fully shielded 180-degree punch down jack
 8-position 8-conductor (8P8C)
 568A and 568B wiring compatible"
 "[[[255 255 255]
@@ -322,8 +207,8 @@ Compatible with Windows and Chrome devices; 2.4 GHz connection required at launc
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$6
-06","Black matte wired USB 2.0 mouse
+  [255 255 255]]]",4.2,"$7
+99","Black matte wired USB 2.0 mouse
 3-button mouse for the right- and left-handed (ambidextrous)
 Compatible with Windows/macOS/Linux/Android/iOS
 Flat ergonomic design for better comfort
@@ -535,7 +420,8 @@ Quick Switch Button and scroll wheel put more options at your fingertips"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.3,,"Optical Precision Allows Cursor Control At The Speed Of Light
+  [255 255 255]]]",3.3,"$39
+86","Optical Precision Allows Cursor Control At The Speed Of Light
 Wireless Freedom No Cords Attached
 Quiet Scroll Wheel For Smooth Scrolling & Zooming
 USB Compatible
@@ -588,7 +474,8 @@ Zooming Feature"
   ...
   [254 254 254]
   [254 254 254]
-  [255 255 255]]]",4.5,,"【STABLE CONNECTION & POWER EFFICIENT】The 2.4 GHz quiet wireless mouse omes with a tiny USB Nano receiver (stored within the back of the mouse), plug & play,effective up to 10 meters of range. This laptop mouse will auto sleep after 8 minutes of inactivity for power saving, it can be waken up by clicking any button. 1 AA battery needed (not included in the package).
+  [255 255 255]]]",4.5,"$11
+99","【STABLE CONNECTION & POWER EFFICIENT】The 2.4 GHz quiet wireless mouse omes with a tiny USB Nano receiver (stored within the back of the mouse), plug & play,effective up to 10 meters of range. This laptop mouse will auto sleep after 8 minutes of inactivity for power saving, it can be waken up by clicking any button. 1 AA battery needed (not included in the package).
 【SILENT MOUSE】Wireless silent mouse adapts less noise switch for both left and right buttons, the mouse for computer ergonomic design also quieter and Easier to click, make you concentrate on your work without disturbing others beside you.
 【HIGH PRECISION DPI】This computer mouse has 5 DPI adjustable levels 800/1200/1600/2000/2400 for you to change the sensitivity depend on your activities.
 【SLIM & PORTABLE】: The laptop mouse wireless about 5.5 x 3.5 x 1.5 inch, Perfect for travelling carry and it can be easily put into your laptop bag and ultra-space saving.
@@ -695,7 +582,8 @@ USB 2.1, Bluetooth Low energy 4.0/4.1/4.2 compatible"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"LEFT-HANDED ERGO MOUSE: Natural ergonomic vertical with left-handed design. 6-button mouse to increase your productivity; Recommended for users with muscle strains and particularly for those who works long periods on the computer
+  [255 255 255]]]",4.4,"$26
+99","LEFT-HANDED ERGO MOUSE: Natural ergonomic vertical with left-handed design. 6-button mouse to increase your productivity; Recommended for users with muscle strains and particularly for those who works long periods on the computer
 Easy access to multiple usage through 6 buttons. Instinct three-level sensitivity Adjustment of the most widely-used 800/1200/1600 DPI set up.EASY TO USE: Easy access to multiple usage through 6 buttons. Adjustable 3 DPI levels of the 800/ 1200 (default)/ 1600
 WIRELESS FREEDOM: Wireless 2.4GHz ergonomic vertical mouse provides up to 10 meters operation range. Nano USB receiver with storage compartment at the bottom of the mouse, easy for you to store your USB
 POWER-SAVING: Built in power on/off switch button and power saving function. Two AAA batteries needed (batteries are not included in the package)
@@ -748,7 +636,8 @@ CERTIFIED QUALITY: FCC, CE, RoHS qualified ergonomic mouse. Compatible with Wind
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"PREVENTS WRIST DISCOMFORT - Evoluent's ergonomic VM4S VerticalMouse 4 gently supports your right hand in an upright neutral position. The patented shape prevents you from twisting your forearm like what you usually do with an ordinary mouse.
+  [255 255 255]]]",4.5,"$86
+95","PREVENTS WRIST DISCOMFORT - Evoluent's ergonomic VM4S VerticalMouse 4 gently supports your right hand in an upright neutral position. The patented shape prevents you from twisting your forearm like what you usually do with an ordinary mouse.
 PROGRAM YOUR MOUSE TO YOUR NEEDS - Install the Evoluent Mouse Manager onto your computer to configure the VerticalMouse's buttons. Not only can you change their function but you can also set how the buttons work within different programs.
 ADJUST MOUSE-SPEED FROM LOW TO HIGH - You can adjust the pointer speed from low to high with the optical sensor controls on the side of the mouse. There is no need to release the grip for speed adjustment.
 OFFERS OPTIMUM COMFORT - The VerticalMouse 4 has a broader lip along the bottom edge that prevents the pinky finger from rubbing the desk. The thumb has been reshaped from earlier version to provide more comfort.
@@ -856,7 +745,8 @@ Limited 1 Year Warranty: Rest easy knowing your ergonomic wireless mouse is cove
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"1000 dpi Optical Technology for Precise Cursor Control
+  [255 255 255]]]",3.9,"$9
+85","1000 dpi Optical Technology for Precise Cursor Control
 Driver-free plug and play
 3 button functionality + Quick view scroll wheel
 Soft-touch comfort finish
@@ -910,8 +800,8 @@ Compatible with Windows and Mac
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$15
-73","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
+  [255 255 255]]]",4.6,"$14
+82","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
 Wireless optical mouse with 1200 DPI sensor resolution
 Get dependable connectivity with 2.4 GHz wireless technology via a Nano USB connection
 Easy portability – store the Nano USB receiver inside the mouse when you travel and slip this lightweight optical mouse into a carrying case to enjoy more flexibility on the go
@@ -964,7 +854,8 @@ Enjoy 12-month battery life* with the included AA battery"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"POINTER SPEED INDICATORS: Top mounted LEDs show through the chrome thumb rest to indicate selected pointer speed
+  [255 255 255]]]",4.4,"$89
+77","POINTER SPEED INDICATORS: Top mounted LEDs show through the chrome thumb rest to indicate selected pointer speed
 IMPROVED THUMB REST: The thumb rest has been reshaped to provide even more comfort over earlier versions
 AVOIDS FOREARM TWISTING FOR COMFORT AND GOOD HEALTH: The patented shape supports your hand in an upright neutral posture avoids forearm twisting.
 POWERFUL AND INTUITIVE DRIVER: Evoluent Mouse Manager provides extensive but easy to use functionality for 6 buttons through a simple and intuitive interface.
@@ -1125,7 +1016,8 @@ Windows 2000 / XP / Vista / 7 / 8/ 10 Mac OSX 10.6 +UP"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.6,,"To provide optimal support for the human hand the Handshoe mouse is designed with a curvature and contour to support the fingers, palm, thumb and wrist.
+  [255 255 255]]]",3.6,"$104
+00","To provide optimal support for the human hand the Handshoe mouse is designed with a curvature and contour to support the fingers, palm, thumb and wrist.
 This is a two button mouse with a scroll wheel. The two buttons are placed in an ergonomic position scroll and are Light Click.
 Designed for right hands, sizes 6.9″- 7.7″
 Wireless USB 1.1 connection (compatible with USB 1.1 and USB 2.0.) Compatible with Windows (all versions,) Mac OS 9 or Mac OS X, Unix, Linux. Plug and Play no software needed
@@ -1178,7 +1070,8 @@ BlueRay Track sensor provides laser precision that works on almost every surface
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Wireless
+  [255 255 255]]]",4.3,"$50
+12","Wireless
 Package length: 4.2cm
 Package width: 13.8cm
 Package height: 28.2cm"
@@ -1230,7 +1123,8 @@ Package height: 28.2cm"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"3 Button Optical Mouse (Without Logo)
+  [255 255 255]]]",4.3,"$14
+90","3 Button Optical Mouse (Without Logo)
 SMOOTH AND PRECISE - An affordable mouse with 3-buttons that offers accurate tracking movements
 PLUG-AND-PLAY SETUP - Simply plug in the USB cable to the port and the mouse is ready to go
 AMBIDEXTROUS DESIGN - Suitable for left-handed and right-handed users; change the primary button on your computer setting
@@ -1283,7 +1177,8 @@ SYSTEM REQUIREMENTS - Windows Vista, Windows 7, Windows 8, Windows 10 and USB po
   ...
   [230 229 231]
   [219 217 219]
-  [210 209 210]]]",4,,"special patented shape - hand and fingers are supported in the ideal relaxed position
+  [210 209 210]]]",4,"$93
+00","special patented shape - hand and fingers are supported in the ideal relaxed position
 designed to help prevent carpal tunnel syndrome and rsi
 functioning hand angle of 25 degrees (not vertical) with integrated, comfortable thumb support
 compatible with every operating system
@@ -1337,7 +1232,8 @@ Display size: 6.9 inches"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.3,,"Allows you to center and index your T56 bellhousing
+  [255 255 255]]]",3.3,"$109
+95","Allows you to center and index your T56 bellhousing
 Precision machined opening for accurate measurements
 Pre-installed dowel pins, make mounting the index plate easy
 Indexing helps prevent premature transmission pilot bearing failure
@@ -1401,7 +1297,8 @@ Laser is a BlueRay track and has a DPI of 1500"
  ...
  [255 255 255 ... 255 255 255]
  [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]]",4.7,,"Pointing Device Connectivity Technology: Wireless
+ [255 255 255 ... 255 255 255]]",4.7,"$43
+00","Pointing Device Connectivity Technology: Wireless
 Pointing Device Wireless Technology: Bluetooth 5.0
 Movement Detection: Track-on Glass (TOG)
 Movement Resolution: 1200 dpi
@@ -1454,7 +1351,8 @@ Number of Total Buttons: 5"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Bluetooth connection allows you to save a valuable USB port for other accessories
+  [255 255 255]]]",4.6,"$31
+57","Bluetooth connection allows you to save a valuable USB port for other accessories
 1000 DPI laser sensor provides high-definition tracking for enhanced performance
 Comfortable two-button, scroll wheel design is ideal for mobile right-handed or left-handed users
 Plug & play Installation so you can be up and scrolling Fast
@@ -1507,7 +1405,8 @@ Compatible with Windows and Mac"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.7,,"Keyboard and Mouse Wireless Type 2 4GHz
+  [255 255 255]]]",2.7,"$14
+50","Keyboard and Mouse Wireless Type 2 4GHz
 104 keys keyboard keys number and 6 buttons mouse
 10 Meter / 32 80 Feet (max) operating range
 Adjustable DIP Switch 800/1200/1600DPI
@@ -1560,7 +1459,8 @@ Alkaline batteries are recommended battery is not included"
   ...
   [228 229 234]
   [226 227 231]
-  [226 227 230]]]",3.3,,"ERGONOMIC VERTICAL MOUSE - Prevents RSI (repetitive strain injuries) caused due to strain on wrist and hands. The vertical shape of the HE mouse stimulates the blood flow, because you automatically use larger muscles during mice. With good blood circulation you can prevent complaints and increase your productivity! Places your hand in a natural handshake position using a unique 60-degree angle, preventing forearm twisting and reducing muscular strain
+  [226 227 230]]]",3.3,"$99
+99","ERGONOMIC VERTICAL MOUSE - Prevents RSI (repetitive strain injuries) caused due to strain on wrist and hands. The vertical shape of the HE mouse stimulates the blood flow, because you automatically use larger muscles during mice. With good blood circulation you can prevent complaints and increase your productivity! Places your hand in a natural handshake position using a unique 60-degree angle, preventing forearm twisting and reducing muscular strain
 SLEEK DESIGN AND SHAPE - Ergonomic Vertical Mouse has a vertical grip which provides a neutral, relaxed position of the hand and wrist. You move from the forearm instead of your wrist, which prevents RSI. The mouse fits comfortably in your hand and supports your fingers. The round shape and thumb gutter provide optimal support and 100% comfort. Mouse has won the Benelux Office Product Award due to its innovative design
 WIRELESS CONNECTION AND CUSTOMIZABLE BUTTONS – Wireless with USB receiver, Has 5 buttons and scroll wheel. You can customize the buttons on the HE Mouse to your personal requirements. Would you prefer CTRL + ""C"" or CTRL + ""V"" instead of the forward or backward buttons? The buttons of the HE Mouse can easily be adjusted to your wishes via an app.
 HIGH CAPACITY RECHARGEABLE BATTERY AND SENSITIVE – Built-in rechargeable battery. You no longer need to buy batteries, very convenient!! EASY TO USE. 500/1000/1750 DPI Levels – Easily adjusts the sensitivity of the mouse - SKU RGOHEWL (Right hand, medium) RGOHEWLL (Left hand, medium) RGOHELAWL (Right Hand, Large) RGOHELELAWL (Left Hand, Large)
@@ -1624,7 +1524,8 @@ Color:Black"
  ...
  [255 255 255 ... 255 255 255]
  [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]]",4.6,,"Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
+ [255 255 255 ... 255 255 255]]",4.6,"$24
+99","Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
 The blue optical sensor in the wireless computer mouse allows you to work on almost any surface
 Get more done with revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls
 The Lenovo 600 Bluetooth Silent Mouse is sculpted to be comfortable to rest your palm on
@@ -1678,7 +1579,7 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$31
-39","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
+99","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
 Tons of productivity features are packed into the smaller form of this USB-C mouse, including adjustable DPI sensitivity (2400, 1600, 800), shortcuts for online meetings, and a programmable utility button
 Stay connected effortlessly with an up to 3-month rechargeable battery that reaches full charge in under 1.5 hours; get back to work faster with a 15-minute quick charge for a week's worth of power
 The lightweight, ambidextrous design is comfortable in the right or left hand and small enough to take with you wherever you go
@@ -1895,7 +1796,8 @@ Scroller Type: Scroll Wheel"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.3,,"TerrainTested Tracking Technology utilizes a blue LED sensor to deliver rock-solid cursor control practically anywhere
+  [255 255 255]]]",3.3,"$19
+99","TerrainTested Tracking Technology utilizes a blue LED sensor to deliver rock-solid cursor control practically anywhere
 Travel-friendly features include a compact size, 30 feet of reception and convenient storage of the USB nano receiver
 The textured scroll wheel lets you breeze through documents and web pages
 A 1600 dpi sensor ensures the perfect blend of tracking speed and accuracy
@@ -1903,54 +1805,54 @@ An attractive, ambidextrous design looks great and provides comfort for both lef
 Travel-friendly features include a compact size and convenient storage of the USB nano receiver
 Reliable wireless reception up to 30 feet
 On/Off switch helps save batteries"
-"[[[209 200 164]
-  [208 199 157]
-  [207 200 149]
+"[[[204 202 163]
+  [203 200 158]
+  [203 199 151]
   ...
-  [211 197 115]
-  [211 196 111]
-  [211 197 109]]
+  [208 199 115]
+  [210 196 109]
+  [210 196 108]]
 
- [[208 199 161]
-  [207 199 155]
-  [206 199 148]
+ [[205 202 160]
+  [204 200 155]
+  [204 199 150]
   ...
-  [211 197 115]
-  [211 196 111]
-  [211 197 109]]
+  [208 199 115]
+  [210 196 109]
+  [210 196 108]]
 
- [[207 198 155]
-  [206 198 151]
-  [205 198 144]
+ [[205 201 155]
+  [204 199 150]
+  [205 198 145]
   ...
-  [211 197 115]
-  [211 196 111]
-  [211 197 109]]
+  [207 198 114]
+  [210 197 109]
+  [210 196 108]]
 
  ...
 
  [[230 231 235]
-  [233 234 238]
-  [237 238 242]
+  [234 235 239]
+  [236 237 241]
   ...
-  [220 221 224]
-  [216 217 220]
-  [211 211 216]]
+  [221 221 226]
+  [217 216 221]
+  [212 211 216]]
 
- [[227 228 232]
-  [230 231 235]
+ [[226 227 231]
+  [231 232 236]
   [234 235 239]
   ...
-  [224 225 230]
-  [222 223 228]
-  [221 220 225]]
+  [226 227 231]
+  [223 224 228]
+  [219 220 224]]
 
  [[222 223 227]
-  [226 227 231]
-  [230 231 235]
+  [227 228 232]
+  [231 232 236]
   ...
+  [230 231 235]
   [228 229 233]
-  [226 227 231]
   [224 225 229]]]",3.6,"$91
 83","ERGONOMIC VERTICAL MOUSE - Prevents RSI (repetitive strain injuries) caused due to strain on wrist and hands. The vertical shape of the HE mouse stimulates the blood flow, because you automatically use larger muscles during mice. With good blood circulation you can prevent complaints and increase your productivity! Places your hand in a natural handshake position using a unique 60-degree angle, preventing forearm twisting and reducing muscular strain
 Ergonomic Vertical Mouse has a vertical grip which provides a neutral, relaxed position of the hand and wrist. You move from the forearm instead of your wrist, which prevents RSI. The mouse fits comfortably in your hand and supports your fingers. The round shape and thumb gutter provide optimal support and 100% comfort. Mouse has won the Benelux Office Product Award due to its innovative design
@@ -2113,7 +2015,8 @@ Works with Windows, Chrome OS, macOS and Android OS. An ideal mouse for desktop 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,Toshiba Usb Optical Mouse U55 - Blue Led - Cable - Black - Usb - 1600 Dpi - Computer - Scroll Wheel - Symmetrical
+  [255 255 255]]]",4.4,"$11
+99",Toshiba Usb Optical Mouse U55 - Blue Led - Cable - Black - Usb - 1600 Dpi - Computer - Scroll Wheel - Symmetrical
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2162,7 +2065,8 @@ Works with Windows, Chrome OS, macOS and Android OS. An ideal mouse for desktop 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Microsoft
+  [255 255 255]]]",4.4,"$41
+99","Microsoft
 GMF-00274
 Input devices wireless"
 "[[[255 255 255]
@@ -2267,7 +2171,8 @@ Enhanced optical engine: This mouse Features an optical sensor that improves spe
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Dual Wireless Mouse provides multiple pairing options – connect to a laptop or mobile smart device via Bluetooth 3. 0 or 5. 0 (Bluetooth LE) to save a valuable USB port, or to a desktop PC via the 2. 4GHz USB-A Nano dongle.
+  [255 255 255]]]",4.8,"$32
+99","Dual Wireless Mouse provides multiple pairing options – connect to a laptop or mobile smart device via Bluetooth 3. 0 or 5. 0 (Bluetooth LE) to save a valuable USB port, or to a desktop PC via the 2. 4GHz USB-A Nano dongle.
 The high-performance optical sensor tracks quickly and accurately on even the most difficult modern office surfaces, including glass, granite, lacquer, marble and wood.
 Meets corporate security protocols and protects your data from potential hackers with government-grade encryption technology.
 Easily adjust the cursor speed to meet your needs by selecting the appropriate DPI level (1200/2400/4000) –higher DPI for casual browsing or word processing and lower DPI for precision editing.
@@ -2375,7 +2280,8 @@ Limited 1 Year Warranty: Rest easy knowing your ergonomic wireless mouse is cove
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"1000 dpi Optical Technology for Precise Cursor Control
+  [255 255 255]]]",3.9,"$9
+85","1000 dpi Optical Technology for Precise Cursor Control
 Driver-free plug and play
 3 button functionality + Quick view scroll wheel
 Soft-touch comfort finish
@@ -2429,8 +2335,8 @@ Compatible with Windows and Mac
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$15
-73","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
+  [255 255 255]]]",4.6,"$14
+82","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
 Wireless optical mouse with 1200 DPI sensor resolution
 Get dependable connectivity with 2.4 GHz wireless technology via a Nano USB connection
 Easy portability – store the Nano USB receiver inside the mouse when you travel and slip this lightweight optical mouse into a carrying case to enjoy more flexibility on the go
@@ -2493,7 +2399,8 @@ System requirements - Windows 2000, Windows XP, Windows Vista, Windows 7 and 8, 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Ultra-slim And Lightweight
+  [255 255 255]]]",4.4,"$67
+23","Ultra-slim And Lightweight
 Snaps Flat And Slips Easily Into Pocket Or Bag
 Innovative Full Scroll Plane For Vertical/horizontal Scrolling
 Bluetooth 4. 0 Wireless Technology
@@ -2548,7 +2455,8 @@ Snaps Flat And Slips Easily Into Pocket Or Bag"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"The 2.4GHz wireless technology has 65536 ids with 12 channels and works up to 30 feet. This provides the reliability to ensure your other wireless devices will not interfere with your Device.
+  [255 255 255]]]",4.6,"$14
+99","The 2.4GHz wireless technology has 65536 ids with 12 channels and works up to 30 feet. This provides the reliability to ensure your other wireless devices will not interfere with your Device.
 The auto sleep feature will help users preserve battery when the mouse is not in use therefore extending its battery life.
 The compact and durable design will make this mouse become your ideal choice when you travel. The Mini compact size makes it Easy to store your mouse in your laptop Bag or briefcase while on the go.
 The 2.4GHz wireless technology has 65536 ids with 12 channels and works up to 30 feet. This provides the reliability to ensure your other wireless devices will not interfere with your Device.
@@ -2603,7 +2511,8 @@ The compact and durable design will make this mouse become your ideal choice whe
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,4U Utility Shelf
+  [255 255 255]]]",5,"$97
+00",4U Utility Shelf
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2652,7 +2561,8 @@ The compact and durable design will make this mouse become your ideal choice whe
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The 2.4GHz wireless technology has 65536 ids with 12 channels and works up to 30 feet. This provides the reliability to ensure your other wireless devices will not interfere with your Device.
+  [255 255 255]]]",4.8,"$14
+99","The 2.4GHz wireless technology has 65536 ids with 12 channels and works up to 30 feet. This provides the reliability to ensure your other wireless devices will not interfere with your Device.
 The auto sleep feature will help users preserve battery when the mouse is not in use therefore extending its battery life.
 The compact and durable design will make this mouse become your ideal choice when you travel. The Mini compact size makes it Easy to store your mouse in your laptop Bag or briefcase while on the go.
 The 2.4GHz wireless technology has 65536 ids with 12 channels and works up to 30 feet. This provides the reliability to ensure your other wireless devices will not interfere with your Device.
@@ -2707,7 +2617,8 @@ The compact and durable design will make this mouse become your ideal choice whe
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.1,,"Reduce sticking and constant cleaning with optical tracking - a system that works through light with less moving parts for greater durability than ball-based mice.
+  [255 255 255]]]",2.1,"$700
+00","Reduce sticking and constant cleaning with optical tracking - a system that works through light with less moving parts for greater durability than ball-based mice.
 Users benefit from a smooth, contoured shape that fits both hands - and a wheel that functions as a third button.
 The optical sensor within the HP US Optical Scroll Mouse employs a scan rate of 800dpi and enables crisp motion without a mouse pad, ball or roller.
 Left-handed or right-handed users can enjoy a contoured shape that suits either preference."
@@ -2759,7 +2670,8 @@ Left-handed or right-handed users can enjoy a contoured shape that suits either 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"Optical sensor for reliable mouse control without cleaning
+  [255 255 255]]]",4,"$34
+98","Optical sensor for reliable mouse control without cleaning
 Scroll wheel to speed through long documents and web pages
 Comfortable, rounded shape for right- or left-handed users
 USB plug and play on both PCs and Macs; Compatible with Windows 8
@@ -2812,7 +2724,8 @@ Guaranteed dependability with extended 5-year warranty"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Mid-size, right-handed design for lasting comfort
+  [255 255 255]]]",3.9,"$28
+85","Mid-size, right-handed design for lasting comfort
 Office-friendly 2.4GHz wireless technology for less interference
 Dedicated forward and back buttons
 Designed to withstand drops and spills
@@ -2916,7 +2829,8 @@ IBM 4190D2U, IBM 4190D4U, IBM 4190D6U, IBM 419442U, IBM 419482U, IBM 419484U, IB
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,2.4 GHZ BLACK WRLS MOUSE
+  [255 255 255]]]",3.9,"$25
+48",2.4 GHZ BLACK WRLS MOUSE
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3020,7 +2934,8 @@ Fast tracking reduces mousing movement, prevents hand fatigue and provides impro
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Note : In case of Wireless mouse, the USB receiver will be provided inside or along with the mouse"
+  [255 255 255]]]",3.9,"$15
+44","Note : In case of Wireless mouse, the USB receiver will be provided inside or along with the mouse"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3120,7 +3035,8 @@ Weight: 0.150 lbs"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"UPC: 092636353063
+  [255 255 255]]]",5,"$28
+92","UPC: 092636353063
 Weight: 0.350 lbs"
 "[[255 255 255 ... 255 255 255]
  [255 255 255 ... 255 255 255]
@@ -3128,7 +3044,8 @@ Weight: 0.350 lbs"
  ...
  [255 255 255 ... 255 255 255]
  [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]]",4.6,,"Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
+ [255 255 255 ... 255 255 255]]",4.6,"$24
+99","Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
 The blue optical sensor in the wireless computer mouse allows you to work on almost any surface
 Get more done with revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls
 The Lenovo 600 Bluetooth Silent Mouse is sculpted to be comfortable to rest your palm on
@@ -3182,7 +3099,7 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$31
-39","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
+99","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
 Tons of productivity features are packed into the smaller form of this USB-C mouse, including adjustable DPI sensitivity (2400, 1600, 800), shortcuts for online meetings, and a programmable utility button
 Stay connected effortlessly with an up to 3-month rechargeable battery that reaches full charge in under 1.5 hours; get back to work faster with a 15-minute quick charge for a week's worth of power
 The lightweight, ambidextrous design is comfortable in the right or left hand and small enough to take with you wherever you go
@@ -3289,7 +3206,7 @@ Compatible with Windows and Chrome devices; 2.4 GHz connection required at launc
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,"$10
+  [255 255 255]]]",5,"$14
 99","6-Buttons with forward and backward buttons for web browsing
 2-adjustable dpi settings: 1000 & 1600dpi
 Compact design at 104 x 61 x 39mm (4.1 x 2.4 x 1.6 in) is ready for on the go users
@@ -3343,7 +3260,8 @@ Ambidextrous design for comfort with either left or right handed users
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Upgraded sensor specs compared to most basic computer and office mice. Change DPI settings on the fly to switch between tracking speed or extra precision, without leaving your app or current window
+  [255 255 255]]]",4.3,"$19
+34","Upgraded sensor specs compared to most basic computer and office mice. Change DPI settings on the fly to switch between tracking speed or extra precision, without leaving your app or current window
 LED backlighting changes colors to the indicate current DPI setting. Cycle between 800, 1200, 1600, and 2400 DPI
 Side navigation buttons add functionality for advanced users, but are out of the way for those who don't need them
 This mid-sized mouse features curves to fit the natural contours of the hand
@@ -3396,7 +3314,8 @@ The 5.8 foot tangle-resistant braided USB cable provides a direct connection and
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.7,,
+  [255 255 255]]]",2.7,"$27
+22",
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3445,7 +3364,8 @@ The 5.8 foot tangle-resistant braided USB cable provides a direct connection and
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.4,,"Buy with Confidence: With Monoprice's Lifetime Warranty on all Cables, you can rest assured we stand behind our products and our customers.
+  [255 255 255]]]",3.4,"$14
+51","Buy with Confidence: With Monoprice's Lifetime Warranty on all Cables, you can rest assured we stand behind our products and our customers.
 Uses 2.5GHz RF signals with an effective operating range of about 15 feet
 Powered by two AAA batteries (included)
 Small form factor, measures only 3 7/8"" long by 2 5/16"" wide and 1 1/4"" high
@@ -3500,7 +3420,7 @@ Note : In case of Wireless mouse, the USB receiver will be provided inside or al
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Multiple unique and cool colors available to better showcase your style
+  [255 255 255]]]",4.1,,"Multiple unique and cool colors available to better showcase your style
 Light and compact for easy carry and usage in any location
 Precision 1000dpi optical control with an ergonomic and fast scroll wheel
 Windows, MacOS, Chrome OS, Linux Kernel 2.6 and higher compatible"
@@ -3552,9 +3472,118 @@ Windows, MacOS, Chrome OS, Linux Kernel 2.6 and higher compatible"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"Provides most comfortable mouse shape to fit your hand, USB dongle doubles as a perch to hold mouse in place when moving from room to room.
+  [255 255 255]]]",3.7,"$23
+42","Provides most comfortable mouse shape to fit your hand, USB dongle doubles as a perch to hold mouse in place when moving from room to room.
 Features an all-terrain optical engine to mouse on most surfaces, Power-save mode puts mouse to sleep after 8 minutes of inactivity.
 Compatible with Mac computers, Includes 2 AAA batteries."
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",3.5,,"Bluetooth connection leaves your USB port free for other use- no receiver required
+Full-featured laser mouse for easy navigation
+Switch to presentation mode and give your presentations in style
+Ultra-thin design fits great in your hand and slips easily into a pocket or travel bag
+Never worry about turning your mouse on or off again- your mouse goes into sleep mode when your notebook does"
+"[[[ 83  83  83]
+  [ 49  49  49]
+  [ 53  53  53]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[ 47  47  47]
+  [  0   0   0]
+  [  0   0   0]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[ 54  54  54]
+  [  0   0   0]
+  [  1   1   1]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",3.7,,"2-in-1 calculator can be used as a stand-alone or full numeric keypad for quick data entry
+No messy cords--one wireless receiver connects both wireless mouse and keypad to your laptop
+Wireless optical mouse tracks precisely on virtually any surface
+Clear LCD display works in various lighting conditions
+Travel bag offers a tidy way to keep it all together and is ready to toss into your briefcase
+2-in-1 calculator can be used as a stand-alone or full numeric keypad for quick data entry
+Note : In case of Wireless mouse, the USB receiver will be provided inside or along with the mouse"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3658,7 +3687,8 @@ Limited 1 Year Warranty: Rest easy knowing your ergonomic wireless mouse is cove
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"1000 dpi Optical Technology for Precise Cursor Control
+  [255 255 255]]]",3.9,"$9
+85","1000 dpi Optical Technology for Precise Cursor Control
 Driver-free plug and play
 3 button functionality + Quick view scroll wheel
 Soft-touch comfort finish
@@ -3766,7 +3796,8 @@ RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium ser
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
+  [255 255 255]]]",4,"$103
+29","IMMERSIVE VIEWING EXPERIENCE: The monitor 24 inch adopts a advanced VA panel technology minimizes light leakage across the entire screen and corners to deliver deeper, more uniform blacks. The excellent 3000:1 contrast ratio delivers deep blacks and bright whites, so you can see clearly in the darkest or brightest scenes.
 ULTRA SLIM DESIGN: The KOORUI computer monitor 24 inch with edgeless design to make the picture more complete when multiple monitors connect. A great choice of business display for desktop, or laptop at home.
 OPTIMAL COMFORT: Find your best viewing position and stay comfortable by tilting the screen up to 5 degrees forward or 15 degrees backward. 24"" monitor with Blue Light Filter, Adaptive FreeSync technology so you can enjoy ultra-smooth gameplay or working for all-day without any eyes uncomfor
 MULTIPLE PORTS: KOORUI monitors provide video interfaces via HDMI and VGA ports. This HDMI monitor is with 60Hz refresh rate (compatible with most normal graphics cards) and FHD 1920x1080p resolution.
@@ -3819,7 +3850,8 @@ KOORUI SERVICES: We owns super strength from monitor quality to premium service,
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
+  [255 255 255]]]",4.6,"$164
+97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
 Adaptive Sync: Adaptive Sync is a technology that closes the gap between the graphics card's and the monitor's refresh rates, eliminating image tearing and stuttering in the process.
@@ -3874,8 +3906,8 @@ Tiltable Display: A display that tilts 15° backward and 5° forward allows you 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$107
-75","24"" Ultra slim profile
+  [255 255 255]]]",4.6,"$99
+97","24"" Ultra slim profile
 Contemporary sleek metallic design
 Slim bezel with thin chassis. Audio will play from HDMI, there are also built in speakers, and you can also attach your own speakers or use headphones.
 2 x HDMI Ports (convertible to DVI)
@@ -3930,7 +3962,8 @@ Up to 75Hz Refresh Rate"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"OUTSTANDING VISUALS – This FHD display with IPS technology gives you brilliant visuals and unforgettable quality; with a maximum resolution of 1920 x 1080 at 75 Hz, you’ll experience the image accuracy and wide-viewing spectrums of premium tablets and mobile devices
+  [255 255 255]]]",4.7,"$177
+99","OUTSTANDING VISUALS – This FHD display with IPS technology gives you brilliant visuals and unforgettable quality; with a maximum resolution of 1920 x 1080 at 75 Hz, you’ll experience the image accuracy and wide-viewing spectrums of premium tablets and mobile devices
 MORE SCREEN, LESS SPACE – Enjoy more desk space than you thought possible with an attractive and ultra-slim design
 PANORAMIC VIEWING – Vibrant detail from practically any position with consistent color and image clarity maintained across an ultra-wide 178° horizontal and vertical viewing angles
 MICRO-EDGE DISPLAY – With virtually no bezel encircling the display on three sides, an ultra-wide viewing experience provides for seamless multi-monitor setups
@@ -4049,29 +4082,29 @@ Fast response time 5ms. Dimensions - With Stand (Inches)- 18.01 x 7.02 x13.57 .W
 Vesa wall mount ready. Contrast Ratio : 3,000:1.
 Built in speakers
 Mounting Type: VESA wall mount hole pattern 75mm x 75mm"
-"[[[231 229 230]
-  [122 124 128]
-  [112 113 114]
+"[[[219 224 233]
+  [143 145 153]
+  [129 120 122]
   ...
-  [133 130 132]
-  [134 131 134]
-  [219 217 222]]
+  [157 141 139]
+  [153 150 150]
+  [206 218 218]]
 
- [[159 164 162]
-  [ 16  18  19]
-  [ 41  20  16]
+ [[167 164 177]
+  [ 28  16  14]
+  [ 39   7   0]
   ...
-  [ 37  21  21]
-  [ 25  19  19]
-  [129 129 134]]
+  [ 38  16  14]
+  [ 34  25  25]
+  [139 149 150]]
 
- [[155 154 154]
-  [ 82  49  39]
-  [196  95  70]
+ [[173 164 166]
+  [ 62  30  18]
+  [146  81  60]
   ...
-  [ 62  10   4]
-  [ 39  23  19]
-  [118 122 124]]
+  [ 40   2   2]
+  [ 24   4   6]
+  [133 134 137]]
 
  ...
 
@@ -4085,7 +4118,7 @@ Mounting Type: VESA wall mount hole pattern 75mm x 75mm"
 
  [[255 255 255]
   [255 255 255]
-  [254 254 254]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
@@ -4151,7 +4184,8 @@ RELIABLE MONITOR: KOORUI owns super strength from monitor quality to premium ser
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"34-INCH ULTRAWIDE MONITOR with WQHD resolution (3440 x 1440p).Wall-Mount (Size mm) 100.0 x 100.0
+  [255 255 255]]]",4.4,"$329
+99","34-INCH ULTRAWIDE MONITOR with WQHD resolution (3440 x 1440p).Wall-Mount (Size mm) 100.0 x 100.0
 Viewing Angle is 178° (H) / 178° (V); Aspect Ratio is 21:9
 PERFECT FOR DUAL MONITOR USAGE with powerful multitasking split screen features – PBP/PIP and easy to use embedded split screen software
 AMD FREESYNC synchronizes the refresh rate of your graphics card and widescreen monitor to reduce image tear and stutter
@@ -4206,7 +4240,7 @@ DARKER BLACKS with industry-leading 3000:1 contrast ratio of advanced VA panel. 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$379
+  [255 255 255]]]",4.6,"$469
 99","With more space for online meetings, webinars, and working with multiple reports side-by-side with this QHD (3440 x 1440) VA display with 21:9 aspect ratio, up-level your multitasking with this curved monitor
 With HDR 10 support and color performance with 99% coverage of the sRGB spectrum, this color-calibrated monitor is a great solution for photographers, graphic designers, or anyone looking for highly accurate color
 Protect your eyes and minimize eye fatigue during long work sessions with Reader Mode's blue light reduction and Flicker Safe, virtually eliminating onscreen flicker
@@ -4260,7 +4294,7 @@ Dynamic Action Sync helps reduce input lag to help you respond to on-screen acti
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$101
+  [255 255 255]]]",4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -4316,8 +4350,8 @@ Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$237
-55","30"" Curved Gaming Monitor 2560 x 1080 Full HD Resolution. Response Time- 5ms GTG.Aspect Ratio: 21:9. Viewing Angle is 170° (H) / 170° (V). Brightness(typ) is 250. Without Stand (W x H x D)-27.82 x 12.64 x 3.69 inches
+  [255 255 255]]]",4.6,"$199
+97","30"" Curved Gaming Monitor 2560 x 1080 Full HD Resolution. Response Time- 5ms GTG.Aspect Ratio: 21:9. Viewing Angle is 170° (H) / 170° (V). Brightness(typ) is 250. Without Stand (W x H x D)-27.82 x 12.64 x 3.69 inches
 DP Up to 200Hz Refresh Rate / HDMI 2. 0 Up to 120Hz Refresh Rate: More than double the standard refresh rate, 200Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images
 AMD Free Sync With Free Sync, gamers now enjoy smooth video and seamless on the spot movement through their fast paced games. Free Sync is an AMD technology that nearly eliminates tearing and stuttering due to differences between a graphics card's frame rate and a monitor's refresh rate.
 FPS-RTS FPS and RTS are Scepter's custom set display settings built for an enhanced gaming experience. FPS (First Person Shooter) , RTS (Real-Time Strategy).
@@ -4372,31 +4406,31 @@ VESA Wall Mount Pattern Using the VESA wall mount pattern, easily mount your Sce
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$179
-04","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
+  [255 255 255]]]",4.5,"$149
+97","IPS Panel: The IPS (In-Plane Switching) panel cannot be beat when it comes to consistently delivering top color performance and sharp visibility from multiple viewing angles.
 165Hz Refresh Rate: Pushing beyond the standard refresh rate, 165Hz gives gamers an edge in visibility as frames transition instantly, leaving behind no blurred images.
 Response Time 1ms MPRT: With 1ms MPRT, motion blur is eliminated and exceptionally crisp imagery is visible in the midst of chaotic combat.
 320 Brightness: Remarkably vivid colors illuminate the screen like never before with 320 cd/m² brightness.
 Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes."
 "[[[255 255 255]
-  [162 163 165]
-  [ 97  98 100]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[194 195 194]
-  [ 67  68  72]
-  [ 39  40  44]
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[150 151 151]
-  [ 73  74  79]
-  [ 34  35  40]
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
@@ -4426,31 +4460,30 @@ Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortab
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$98
-39","【 FHD 1800R Curved Monitor 】- KOORUI curved monitor using a 23.6'' VA screen, delivers 1920 x 1080 at 60Hz breathtaking viewing quality. The 1800R degree curved design immerses you completely into the working landscape, screen curvature as the images appear to wrap around you for an in depth, immersive experience.
-【 Wide Compatibility 】- KOORUI 24 inch curved computer monitor equipped with 1 HDMI ports and VGA port, easy access to your favorite devices with 1 cable solution, compatible with most laptop and PC.
-【 Panoramic Viewing 】- With 3-sided micro-edge bezel display and an ultra-wide 178° , vibrant detail from practically any position with consistent color and image clarity maintained across horizontal and vertical viewing angles. It covers 99% of the RGB color gamut and 16.7 million color depths for improved fidelity and detailed color display, provide you the clearer, smooth, excellent performance in gaming/multimedia.
-【 Adjustable Tilt Angel 】- This curved gaming monitor is ability to tilt 15 degrees backward and 5 degrees forward, the added tilt feature will provide multiple options for finding the optimum angle to view the screen so that work and browsing can be performed with ease.
-【 Easy on Your Eyes 】- The 24 inch pc monitors can effectively reduce blue light radiation damage, no flickering, eye-care, and make it easier to watch for a long time."
-"[[[255 255 255]
-  [203 202 205]
-  [163 162 167]
+  [255 255 255]]]",4.4,,"[ Taking Anywhere - KOORUI Portable Monitor ] 15.6 inch portable display, Full HD 1920 x 1080P IPS screen, with excellent panel performance, 3000:1 Contrast, 178 degrees viewing angle, better than most of the portable monitors. Slim design at 0.4 inches thick, weighting with 2.2 pounds, you can easily take it with you, and you can also handle work anytime and anywhere while enjoying travel.
+[ Type-C and HDMI Connection ] There are two types of ports for mobile monitors, Mini HDMI and Type-C, which are widely versatile. The interfaces are rich and new devices can be supported without any problem. In addition to MacBooks, Android smartphones are also equipped with USB-C ports, which can use the charm of various devices. The package comes standard with a Type-C to Type-C cable and an HDMI to Mini HDMI cable, so you don't need to buy extras.
+[ Connection Method ] Method ①: If your device only supports Type-C, you can use the included Type-C cable to connect. At the same time, you must to use Type-C cable and wall charger to power the monitor, and then press and hold the power button for 3 seconds to start normal use. Method ②: If your device supports HDMI, you can use the included Type-C cable and HDMI cable to connect; HDMI cable connects your device, and uses Type-C cable and wall charger to power the monitor.
+[ Wide Compatibility ] KOORUI USB Portable Monitor can be easily connected to laptops, PCs, MACs, tablets, smartphones, etc. via Type-c or mini HDMI ports, perfect for expanding your screen or playing games for entertainment on business trips, travel or at home.
+[ With Protective Case ] The protective case made of non-slip material protects the body from dust and scratches, and can also be used as a stand when folded. ● Note: 1. This product does not have a built-in battery. Unable to charge. 2. When using a single Type-C cable to connect to the computer, the monitor will automatically adjust the brightness and enter the power saving mode. Increase power supply to get stable voltage and increase brightness.●"
+"[[[251 250 247]
+  [212 208 212]
+  [176 170 182]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[200 200 203]
-  [ 44  43  50]
-  [ 25  24  30]
+ [[202 207 201]
+  [ 47  47  49]
+  [  6   4  15]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[122 121 126]
-  [ 34  33  39]
-  [ 63  62  68]
+ [[134 149 142]
+  [ 12  18  20]
+  [ 43  41  52]
   ...
   [255 255 255]
   [255 255 255]
@@ -4480,7 +4513,7 @@ Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortab
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$101
+  [255 255 255]]]",4.6,"$109
 97","1800R curve monitor the curved display delivers a revolutionary visual experience with a leading 1800R screen curvature as the images appear to wrap around you for an in depth, immersive experience
 Hdmi, VGA & PC audio in ports
 High refresh rate 75Hz.Brightness (cd/m²):250 cd/m2
@@ -4488,29 +4521,29 @@ Vesa wall mount ready; Lamp Life: 30,000+ Hours
 Windows 10 Sceptre Monitors are fully compatible with Windows 10, the most recent operating System available on PCs.Brightness: 220 cd/M2
 Pixel Pitch: 0.27156mm (H) x 0.27156 mm (V)
 75 hertz"
-"[[[219 219 218]
-  [153 154 157]
-  [142 141 152]
+"[[[225 225 227]
+  [138 138 143]
+  [132 133 135]
   ...
-  [151 154 157]
-  [150 160 154]
-  [214 223 216]]
+  [135 140 138]
+  [145 145 149]
+  [233 232 235]]
 
- [[137 140 137]
-  [ 20  20  24]
-  [ 12   6  20]
+ [[130 128 131]
+  [ 12  14  18]
+  [ 20  24  25]
   ...
-  [ 20  19  27]
-  [ 18  26  19]
-  [140 152 139]]
+  [ 25  31  29]
+  [ 16  16  21]
+  [133 133 136]]
 
- [[118 122 119]
-  [ 13  11  17]
-  [ 51  34  55]
+ [[111 116 116]
+  [ 27  34  35]
+  [ 55  48  61]
   ...
-  [ 41  34  55]
-  [ 13  19  13]
-  [123 134 120]]
+  [ 51  47  58]
+  [ 33  33  38]
+  [115 114 118]]
 
  ...
 
@@ -4642,7 +4675,8 @@ Display technology: LED"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes.
+  [255 255 255]]]",4.5,"$144
+91","Blue Light Shift: Blue Light Shift reduces blue light, allowing you to comfortably work, watch, or play applications without straining your eyes.
 Up to 75Hz Refresh Rate: With 75Hz refresh rate, images change faster and smoother than the standard, reducing screen tearing
 AMD FreeSync: With AMD FreeSync, gamers enjoy smooth video & seamless on the spot movement in fast-paced games. The graphic card and monitor refresh rates are synchronized to eliminate tearing and stuttering.
 Multiple Ports: One VGA and two HDMI ports each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat any opponent during all of your gaming adventures.
@@ -4695,7 +4729,8 @@ Built in Speakers: Perfectly suited to work & gaming settings, built-in speakers
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
+  [255 255 255]]]",4.6,"$164
+97","1500R Curved Display: The 1500R degree curved design immerses you completely into the gaming landscape, allowing you to spot all threats and opportunities before all of your competitors.
 98% sRGB: With 98% sRGB, this monitor offers a wider color gamut than most conventional monitors, giving deeper colors and defining features.
 Multiple Ports: Two HDMI and one VGA port each accelerate refresh rate up to 75Hz, providing the visual edge you need to defeat the competition during all of your gaming exploits.
 Adaptive Sync: Adaptive Sync is a technology that closes the gap between the graphics card's and the monitor's refresh rates, eliminating image tearing and stuttering in the process.
@@ -4914,7 +4949,8 @@ This VESA-compatible monitor gives you the freedom to take it off the desk and h
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"WIDESCREEN UHD: With 4x the pixels of Full HD, get more screen space (vs 16:9 screen) and UHD images; View documents & webpages w/ less scrolling, work more comfortably w/ multiple windows & toolbars, and enjoy photos, videos & games in stunning 4K
+  [255 255 255]]]",4.3,"$339
+99","WIDESCREEN UHD: With 4x the pixels of Full HD, get more screen space (vs 16:9 screen) and UHD images; View documents & webpages w/ less scrolling, work more comfortably w/ multiple windows & toolbars, and enjoy photos, videos & games in stunning 4K
 A BILLION COLOR SHADES: Supporting a billion shades of color, the UJ59 delivers incredibly vivid and realistic images; Its color accuracy means colors appear true to life, making the UJ59 ideal for photo, video and graphics applications
 SEAMLESS UPSCALING: Samsung’s UHD upscaling technology includes signal analysis and detail enhancement that seamlessly upconverts SD, HD and Full HD content to near UHD-level picture quality
 WIDESCREEN 4K GAMING: With 8.3 million pixels supporting a wide range of colors and resolving every image with astonishing clarity, UHD gives you a wider view for a truly thrilling and immersive gaming experience
@@ -4967,7 +5003,8 @@ SMOOTHER GAMEPLAY: AMD FreeSync synchronizes the refresh rate of your graphics c
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"22"" contemporary sleek metallic profile
+  [255 255 255]]]",4.5,"$89
+97","22"" contemporary sleek metallic profile
 Frameless bezel with thin chassis;Packaging Dimension (inches) : 22.04 x 14.57 x 4.21 inches
 HDMI, VGA build-in speakers. Dimensions With Stand (Inch, W x H x D) - 19.92 x 15.09 x 7.02, Without Stand (inch, W x H x D)- 19.92 x 11.92 x 1.45
 VESA wall mount ready. Security : Kensington Lock
@@ -5021,8 +5058,8 @@ Mounting type: VESA Wall Mount Hole Pattern (mm) 75mm x 75mm"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$125
-18","【 24‘’ FHD Computer Monitor 】 KOORUI 24 inch Full HD ( 1920x1080 ) 16:9 monitor adopts an VA panel with 20000000:1 contrast ratio, display with 85% DCI-P3 color gamut cover, the colors are richer and transitions between hues are smoother. Renders images with stunning color reproduction and precise detail.
+  [255 255 255]]]",4.4,"$126
+49","【 24‘’ FHD Computer Monitor 】 KOORUI 24 inch Full HD ( 1920x1080 ) 16:9 monitor adopts an VA panel with 20000000:1 contrast ratio, display with 85% DCI-P3 color gamut cover, the colors are richer and transitions between hues are smoother. Renders images with stunning color reproduction and precise detail.
 【 Motion Blur Reduction 】 The blazing fast 165Hz Refresh Rate displays smooth images, enhancing the overall experience in any game, while providing a crucial advantage in eSports. Experience games in near real time thanks to the 1ms MPRT, which makes the display strobe the backlight. That is highly beneficial in competitive fast-paced games.※ 165Hz Refresh Rate can achieved with DP 1.2 cable; HDMI 1.4 only achieves 144Hz ※
 【 Build-in AMD FreeSync Technology 】 Don't let hardware issues negatively impact your performance. Minimize stutter, screen tearing, input lag, and maintain high FPS rates through use of AMD FreeSync technology, no ghosting, no glitching, no blurring. 24 inch monitor also compatible with G-sync technology, presenting you with the most realistic and pure CG game picture quality.
 【 Flexible Connectivity 】 The gaming monitor has rich interfaces: HDMI (v1 4) x 2, DisplayPort 1.2 x1 and audio out. Compatible with wall mountable VESA 75x75mm standard (BUT NOIT INCLUDED VESA). The monitor can also be tilted from -5° to 15 degrees; the most comfortable angle brings the best gaming experience. Accessories: DP cable (1.5m), power cable, adapter, base and user manual.
@@ -5131,8 +5168,64 @@ ECO-SAVING PLUS: This feature reduces screen brightness to save power, plus the 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Great for gaming, this ultra-wide QHD (3440 x 1440, 21:9 aspect ratio) curved monitor immerses you in the action and increases your field of view, allowing you to see more on-screen
+  [255 255 255]]]",4.6,"$398
+75","Great for gaming, this ultra-wide QHD (3440 x 1440, 21:9 aspect ratio) curved monitor immerses you in the action and increases your field of view, allowing you to see more on-screen
 A high native 160Hz refresh rate with 1-millisecond Motion Blur Reduction (MBR) keeps you firmly in the action while reducing blur and ghosting, helping you to respond to opponents quickly
 With HDR10 support and color performance with 99% coverage of the sRGB spectrum, you'll see the game as the developers intend, with accurate and vivid color
 AMD FreeSync Premium manages refresh rate, reducing screen tearing, flicker, and stuttering for an effortlessly smooth gaming experience with supported video cards such as the AMD Radeon series
 Dynamic Action Sync helps reduce input lag to help you respond to on-screen action quickly. Black Stabilizer dynamically brightens dark scenes to help you find enemies in the dark. Enhance your accuracy in firefights with the Crosshair feature"
+"[[[255 254 255]
+  [226 225 228]
+  [205 202 201]
+  ...
+  [219 218 213]
+  [223 224 225]
+  [250 251 252]]
+
+ [[227 230 230]
+  [ 78  79  81]
+  [ 74  70  68]
+  ...
+  [ 40  40  39]
+  [ 55  56  60]
+  [192 193 195]]
+
+ [[200 200 201]
+  [ 81  76  80]
+  [122 119 127]
+  ...
+  [ 54  61  72]
+  [ 33  35  42]
+  [144 145 148]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.7,"$109
+99","23.8"" Full HD IPS widescreen with 1920 x 1080 resolution
+Response time: 4ms, refresh rate: 60 hertz, pixel pitch: 0.2745 millimeter. 178 degree wide viewing angle, display colors: 16.7 million
+The zero frame design provides maximum visibility of the screen from edge to edge
+Signal inputs: 1 x HDMI, 1 x DVI (withHDCP) & 1 x VGA. Does not support HDCP 2.2, the version this monitor supports is HDCP 1.4
+No picture visible using the OSD menu, adjust brightness and contrast to maximum or reset to their default settings. Brightness is 250 nit. Operating power consumption: 25 watts
+Monitor only, without speaker"

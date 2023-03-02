@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -97,7 +97,7 @@ imges,rating,price,description
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Made in USA or Imported
+  [255 255 255]]]",4.4,,"Made in USA or Imported
 Synthetic sole
 Shaft measures approximately Ankle from arch
 Heel measures approximately 1.25""
@@ -153,7 +153,7 @@ Wyoming is a rich leather with a subtle grain and oily surface."
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.3,"$25
-73","Foam sole
+67","Foam sole
 Fully microwavable plush soft toy that meets all U.S. Safety standards for all ages.
 Filled with all-natural grain and dried French Lavender to provide soothing warmth and comfort.
 Manufactured with the highest quality super soft fabrics for over 20 years
@@ -207,7 +207,7 @@ Warmies are the #1 leading and trusted brand of hot and cold therapy plush toys 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Made in USA or Imported
+  [255 255 255]]]",4.7,,"Made in USA or Imported
 Rubber sole
 3D Advanced Chassis: Placed between the outsole and midsole, this low-profile chassis helps optimize motion control and energy management. It also provides extra protection for a precise, stable and responsive ride.
 Contagrip MA is built for the widest variety of surfaces. It balances both the geometry and the rubber compound to deliver confidence on wet, dry, hard or loose surfaces, and offer long-term durability.
@@ -1090,24 +1090,24 @@ Waterproof"
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [254 255 255]
+  [255 255 253]
+  [255 253 255]
   [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [254 255 255]
+  [255 255 254]
+  [255 253 255]
   [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [254 255 255]
+  [254 255 254]
+  [255 254 255]
   [255 255 255]]
 
  ...
@@ -1134,14 +1134,13 @@ Waterproof"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$85
-80","100% Leather
-Imported
+  [255 255 255]]]",4.6,,"100% Leather
+Made in USA or Imported
 Synthetic sole
 Shaft measures approximately Ankle from arch
+Heel measures approximately 1.25""
 Boot opening measures approximately 10"" around
-Inspired by Dr. Martens iconic 1460
-Crazy Horse is heavyweight leather with a tough, worn-in appearance giving a pre-loved finish without the hard work."
+6-eye style, with metal eyelets"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1350,7 +1349,7 @@ Memory Foam arch length cushioned footbed provides all day comfort"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Rubber sole
+  [255 255 255]]]",4.6,,"Rubber sole
 The lightweight mesh upper comfortably conforms to your foot.
 The rubber outsole is formed with a multidirectional traction pattern to help you stay in control, whichever direction you're moving.
 The laces feed through crisscross webbing straps over the top of your foot. When you lace up, it tightens the webbing to hold your foot in place.
@@ -1564,13 +1563,14 @@ TPU heel insert provides added support for increased balance and stability"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Rubber sole
-Shaft measures approximately low-top from arch
-Men's classic slides made for wearing anywhere from the shower to the street
-EFFORTLESS COMFORT: One-piece bandage upper for ease and convenience
-CONTOURED FOOTBED: Contoured footbed offers step-in comfort
-RUBBER OUTSOLE: Rubber outsole provides outstanding grip and a sleek, low-profile look
-MADE WITH RECYCLED CONTENT: Made in part with recycled content generated from production waste, e.g. cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content"
+  [255 255 255]]]",4.5,"$37
+29","100% Synthetic
+Imported
+Fabric lining
+Slip On closure
+Polyurethane-coated synthetic bandage upper with 3-Stripes
+Quick-dry synthetic lining
+Patterned outsole for grip"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1795,25 +1795,25 @@ Fully padded sock lining for ultimate comfort"
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 251]
-  [255 255 254]
-  [255 254 255]]
+  [253 255 254]
+  [255 255 255]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 251]
-  [255 255 254]
-  [255 254 255]]
+  [251 255 254]
+  [255 255 255]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
+  [255 255 255]
   [255 255 254]
-  [254 254 253]
-  [255 253 255]]
+  [255 255 254]]
 
  ...
 
@@ -1839,13 +1839,13 @@ Fully padded sock lining for ultimate comfort"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"100% Rubber
+  [255 255 255]]]",4.3,,"100% Rubber
 Imported
+Extended rubber coverage for added protection
 Rubber sole
-Shaft measures approximately 7.0#inches#inches"" from arch
-Boot opening measures approximately 12"" around
-4 mm provides comfort and flexibility, along with excellent waterproofing, absorption and heat retention properties; adjusts to your foot shape to resist
-XpressCool lining pulls moisture away from skin to keep feet cool and dry in warm weather; comfort rated from 40 °F to 95 °F (4 °C to 35 °C)"
+Shaft measures approximately Knee High from arch
+Boot opening measures approximately 15 around
+4 mm neoprene provides comfort and flexibility, along with excellent waterproofing, shock absorption and heat retention properties; adjusts to your foot shape to resist blisters and chafing"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2168,7 +2168,7 @@ STYLE AND DESIGN: Classic and versatile, this dress shoe is made with textured n
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"These shoes feature our new Power Frame KPU overmold in a textured honeycomb cell pattern to reinforce the fabric of the shoe for longer life
+  [255 255 255]]]",4.3,,"These shoes feature our new Power Frame KPU overmold in a textured honeycomb cell pattern to reinforce the fabric of the shoe for longer life
 The BOA Fit System with disc lacing gives you instant adjustability and convenience
 Patented SST technology for right or left hand bowlers"
 "[[[255 255 255]
@@ -2219,14 +2219,13 @@ Patented SST technology for right or left hand bowlers"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,"$109
-95","100% Leather
-Imported
+  [255 255 255]]]",4.6,,"100% Leather
+Made in USA or Imported
 Synthetic sole
 Shaft measures approximately Ankle from arch
+Heel measures approximately 1.25""
 Boot opening measures approximately 10"" around
-Inspired by Dr. Martens iconic 1460
-Wyoming is a rich leather with a subtle grain and oily surface."
+6-eye style, with metal eyelets"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2314,7 +2313,7 @@ GIFT READY: Comes in an Original Penguin packaging -- perfect gift for friends a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]
+  [254 254 254]]
 
  [[255 255 255]
   [255 255 255]
@@ -2322,7 +2321,7 @@ GIFT READY: Comes in an Original Penguin packaging -- perfect gift for friends a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]
+  [254 254 254]]
 
  [[254 254 254]
   [254 254 254]
@@ -2330,7 +2329,7 @@ GIFT READY: Comes in an Original Penguin packaging -- perfect gift for friends a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Rubber sole
+  [254 254 254]]]",4.3,,"Rubber sole
 High Elastic Outsole: The modules of mens running shoes that make up the shoe's outsole are designed to offer shock absorption and stability to the feet at key points of impact.
 Ultra Breathable Upper: Mens tennis shoes stretch mesh for crazy breathability and all-temperature control that adds a lightweight feel with plenty of ventilation to preserve your feet cool and dry.
 Comfortable & Soft Insole: Mens shoes Insole is a kind of high elastic breathable memory foam provide stable lateral movements and slip resistant. Soft insole adds stability to guide the feet from heel-strike to a neutral toe-off.
@@ -2439,7 +2438,7 @@ Rubber sole
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Imported
+  [255 255 255]]]",4.2,,"Imported
 Rubber sole
 Shaft measures approximately 8"" from arch
 Boot opening measures approximately 11 around
@@ -3040,7 +3039,7 @@ Electrical Hazard (Safety Toe). Identifies secondary protection against incident
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"100% Synthetic
+  [255 255 255]]]",4.6,,"100% Synthetic
 Rubber sole"
 "[[[255 255 255]
   [255 255 255]
@@ -3470,7 +3469,7 @@ Textile lining offers softness"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Leather and Textile
+  [255 255 255]]]",4.5,,"Leather and Textile
 Imported
 Man made sole
 Rugged Durabrasion Rubber outsole stands up to abuse and supplies great traction
@@ -3524,13 +3523,14 @@ Nylon shank stabilizes and supports your foot on uneven terrain"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"100% Leather
+  [255 255 255]]]",4.4,,"100% Leather
 Imported
-Ethylene Vinyl Acetate sole
+Man Made sole
 Shaft measures approximately not_applicable from arch
 Genuine leather uppers
 Treated with Never Wet, a revolutionary water and stain guard that instantly repels liquids so you don't have to worry about spills or stains
-Double goring on each side for an easy slip on and off the foot"
+Double goring on each side for an easy slip on and off the foot
+Footbed treated with Clean sport NXT"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3632,7 +3632,7 @@ The technology behind Under Armour's diverse product assortment for men, women a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Leather
+  [255 255 255]]]",4.5,,"100% Leather
 Imported
 Polyurethane sole
 Shaft measures approximately 5"" from arch
@@ -3687,9 +3687,13 @@ Full-grain leather Good Year welt construction"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Made in the USA or Imported
+  [255 255 255]]]",4.5,,"Rubber
+Made in the USA or Imported
 Rubber sole
-Built to help keep you moving naturally on a variety of surfaces–from sand to stones, from beach to boardwalk–this durable Oakley sandal elevates warm-weather footwear with deep flex grooves and a tough rubber outsole"
+Built to help keep you moving naturally on a variety of surfaces–from sand to stones, from beach to boardwalk–this durable Oakley sandal elevates warm-weather footwear with deep flex grooves and a tough rubber outsole
+Target gender: male
+Package Dimensions: 6.6 L x 26.0 H x 19.2 W (centimeters)
+item package weight: 1.0 pounds"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4479,7 +4483,7 @@ Internal waterproof bootie"
  ...
 
  [[250 250 250]
-  [247 247 247]
+  [249 249 249]
   [243 243 243]
   ...
   [255 255 255]
@@ -4487,8 +4491,8 @@ Internal waterproof bootie"
   [255 255 255]]
 
  [[255 255 255]
+  [255 255 255]
   [254 254 254]
-  [253 253 253]
   ...
   [255 255 255]
   [255 255 255]
@@ -4999,7 +5003,7 @@ Electrical Hazard (Safety Toe). Identifies secondary protection against incident
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Rubber sole
+  [255 255 255]]]",4.2,,"Rubber sole
 Fresh Foam midsole cushioning is precision engineered to deliver an ultra-cushioned, lightweight ride
 Synthetic/mesh upper
 Diamond-specific, nubbed rubber outsole provides lightweight traction on various surfaces
@@ -5275,11 +5279,10 @@ DC SHOES: We’re passionate about skateboarding and we spend as much time on ou
   [255 255 255]]]",4.6,,"100% Leather
 Imported
 Rubber sole
+Shaft measures approximately low-top from arch
 Leather upper
 Removable polyurethane footbeds
-Rubber outsole
-ABZORB midsole absorbs impact through a combination of cushioning and compression resistance
-ROLLBAR stability post system helps control rear-foot movement for enhanced support"
+Rubber outsole"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]

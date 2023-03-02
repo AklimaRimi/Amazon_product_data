@@ -1,164 +1,4 @@
-imges,rating,price,description
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.1,,"Buttons: 3 (left, right and scroll key)
-Button durability: 1, 000, 000 times
-Resolution: 1200DPI
-Operating voltage: 4.5 - 5.5V
-Operating current: < 70mA"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",3.5,,"Aerodynamic ENGINEERED AIR-through ventilation: Enhance your gaming comfort with built-in ventilation to reduce heat exchange.
-Powerful Software Control: With the Ventus custom mouse software, adjust multiple setting for a one-of-a-kind gaming experience and look.
-Full Customization: With 7 programmable buttons, 5 individual profiles, adjustable weight system, selectable polling rates and more with easy to use software control interface.
-Tactile Response: Gain lightning quick response times with OMRON gaming switches for the ultimate in reliability and control.
-On-The-Fly DPI: In the heat of the battle, adjustable DPI buttons positioned perfectly for unbeatable access while in game.
-The Perfect Fit: Coated in smooth soft touch plastic with a rounded ambidextrous back, grip with ease and be prepared for even the most intense gaming battles."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,,"Customize DPI Switch mode 1: 500/1000/2000/3000/6200 adjusted via the buttons of the mouse
-Customize DPI Switch mode 2: DPI can be adjusted freely by 100 from 100 to 12400 via programming software
-Polling Rate: Up to 1000 Hz; switchable: 125HZ/250HZ/500HZ/1000HZ (Default 500HZ)
-Buttons: 18 (18 out of 19) are customizable
-Tracking System: optical"
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -261,7 +101,8 @@ Verbatim has been a leader in data storage technology since 1969, and guarantees
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Mouse Pointing Device: Pointing Device Connectivity Technology:Wireless Pointing Device
+  [255 255 255]]]",4.7,"$39
+98","Mouse Pointing Device: Pointing Device Connectivity Technology:Wireless Pointing Device
 Movement Detection: Optical Interfaces/Ports
 USB Physical Characteristics
 Watermelon design
@@ -314,7 +155,8 @@ Logitech Product Model: M325c Product Name: M325c Mouse Product Type"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,
+  [255 255 255]]]",4.7,"$56
+95",
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -363,7 +205,8 @@ Logitech Product Model: M325c Product Name: M325c Mouse Product Type"
   ...
   [254 254 254]
   [254 254 254]
-  [253 253 253]]]",4.5,,"【MULTI-DEVICE WIRELESS CONNECTION】This wireless mouse has three connection modes and can be connected at the same time. It comes with TYPE C receiver, USB nano reveiver and Bluetooth function. You can control three devices at the same time, switch freely between Android, tablet and Mac with just one button
+  [253 253 253]]]",4.5,"$19
+99","【MULTI-DEVICE WIRELESS CONNECTION】This wireless mouse has three connection modes and can be connected at the same time. It comes with TYPE C receiver, USB nano reveiver and Bluetooth function. You can control three devices at the same time, switch freely between Android, tablet and Mac with just one button
 【SILENT CLICKING & ADJUSTABLE DPI】Quiet clicks can bring a better user experience and free your worry about bothering others and keep you stay focused while working. 3 adjustable DPI lecvels (1000/1600/2400) allows you to change the cursor sensitivity easily depending on your activity and track more smoothly over a variety of surfaces
 【RECHARGEABLE & AUTO-SLEEP】Easily recharged through the included micro usb cable and built-in durable 300mAh lithium rechargeable battery. It will enter auto sleep mode if you don't use it for a few minutes to save battery and click it, the mouse will enter working mode again
 【WIDE COMPATIBILTY】Bluetooth mode supports Bluetooth enabled devices with Windows / Android / Mac OS system. 2. 4G wireless mode supports all devices with usb port or type C port. Fits for PC, laptop, cellphone, Mac. 【NOTE: the usb receiver is stored in the battery compartment】
@@ -572,7 +415,8 @@ Nano Receiver"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Designed for Comfort - If you're looking for an ergonomic mouse, the Targus Midsize Comfort mouse fits perfectly in your hand and gives you the support you need to work all day long. 
+  [255 255 255]]]",5,"$24
+99","Designed for Comfort - If you're looking for an ergonomic mouse, the Targus Midsize Comfort mouse fits perfectly in your hand and gives you the support you need to work all day long. 
 Bluetooth + Customized Response Capability - Featuring 2.4 GHz + Bluetooth and 5.0 wireless connectivity, this Bluetooth mouse for laptop or computer keeps you connected. Adjustable 800, 1200, 1600, or 2400 DPI for customized response sensitivity
 Multi-Device Connectivity - Connect up to 3 devices to this cordless mouse. Experience freedom from cords with two wireless connectivity options. Don't worry about toggling USB receptors. Connect with Bluetooth and you're good to go
 DefenseGuard Protection - This mouse features Targus DefenseGuard Protection. Unlike topical sprays, DefenseGuard mice are treated with an additive that does not wear off and lasts for the life of the product 
@@ -637,7 +481,8 @@ Verbatim has been a leader in data storage technology since 1969 and s this prod
  ...
  [255 255 255 ... 255 255 255]
  [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]]",4.6,,"Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
+ [255 255 255 ... 255 255 255]]",4.6,"$24
+99","Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
 The blue optical sensor in the wireless computer mouse allows you to work on almost any surface
 Get more done with revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls
 The Lenovo 600 Bluetooth Silent Mouse is sculpted to be comfortable to rest your palm on
@@ -672,9 +517,9 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   ...
-  [254 254 254]
-  [253 253 253]
-  [253 253 253]]
+  [255 255 255]
+  [255 255 255]
+  [254 254 254]]
 
  [[255 255 255]
   [255 255 255]
@@ -691,7 +536,7 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$31
-39","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
+99","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
 Tons of productivity features are packed into the smaller form of this USB-C mouse, including adjustable DPI sensitivity (2400, 1600, 800), shortcuts for online meetings, and a programmable utility button
 Stay connected effortlessly with an up to 3-month rechargeable battery that reaches full charge in under 1.5 hours; get back to work faster with a 15-minute quick charge for a week's worth of power
 The lightweight, ambidextrous design is comfortable in the right or left hand and small enough to take with you wherever you go
@@ -810,7 +655,8 @@ Ambidextrous design to provide comfort and control for either hand"
   ...
   [254 254 254]
   [254 254 254]
-  [254 254 254]]]",3.7,,"Buttons: 3 (left, right, scroll)
+  [254 254 254]]]",3.7,"$17
+66","Buttons: 3 (left, right, scroll)
 Operation Range: 30-Feet, 360 degrees
 Resolutions: 1000 / 2000 DPI
 Operating Voltage: 1.5V
@@ -1081,7 +927,8 @@ Nano Receiver"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Ergonomically positioned at a comfortable 35° angle
+  [255 255 255]]]",3.9,"$57
+50","Ergonomically positioned at a comfortable 35° angle
 Add an additional 10° adjustment with the included magnetic base for 45° vertical support
 Auto-Speed DPI allows for quick adjustment from 450-1200 dpi or lock at 600 dpi
 6-Buttons; Forward, Back, DPI, Wheel, Left, and Right
@@ -1187,7 +1034,8 @@ Nano Receiver"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.6,,"1000 DPI Resolution - Optical sensor technology improves precision and even lets you work on most glass, marble, wood and leather surfaces without the need of a mouse pad. With an optical resolution of 1000 DPI, you can browse comfortably basically on any surface.
+  [255 255 255]]]",3.6,"$16
+69","1000 DPI Resolution - Optical sensor technology improves precision and even lets you work on most glass, marble, wood and leather surfaces without the need of a mouse pad. With an optical resolution of 1000 DPI, you can browse comfortably basically on any surface.
 Optical Technology - Features optical technology to work on virtually any surface, with improved speed, accuracy and reliability, without the hassle of clogged mouse ball.
 Convenient Scroll Wheel - Navigate quickly and easily with the convenient scroll wheel."
 "[[[250 250 250]
@@ -1238,7 +1086,8 @@ Convenient Scroll Wheel - Navigate quickly and easily with the convenient scroll
   ...
   [250 250 250]
   [250 250 250]
-  [250 250 250]]]",2.6,,"Equipped with two modes of Bluetooth connectivity (3.0 or 5.0), for full compatibility with Bluetooth-enabled computer devices. Connect without using a valuable USB port.
+  [250 250 250]]]",2.6,"$29
+92","Equipped with two modes of Bluetooth connectivity (3.0 or 5.0), for full compatibility with Bluetooth-enabled computer devices. Connect without using a valuable USB port.
 This mouse works with Windows, Mac, and Chrome operating systems.
 Bluetooth pairing and low battery indicator lets you know that you’re properly connected, and when it’s time to replace the batteries so you’re never caught off guard.
 Comfortable, ambidextrous three-button scroll wheel design gives right- and left-handed users the freedom to get the most out of the mouse, with contours that allow for pain-free extended usage.
@@ -1346,7 +1195,8 @@ Limited 1 Year Warranty: Rest easy knowing your ergonomic wireless mouse is cove
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"1000 dpi Optical Technology for Precise Cursor Control
+  [255 255 255]]]",3.9,"$9
+85","1000 dpi Optical Technology for Precise Cursor Control
 Driver-free plug and play
 3 button functionality + Quick view scroll wheel
 Soft-touch comfort finish
@@ -1400,8 +1250,8 @@ Compatible with Windows and Mac
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$15
-73","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
+  [255 255 255]]]",4.6,"$14
+82","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
 Wireless optical mouse with 1200 DPI sensor resolution
 Get dependable connectivity with 2.4 GHz wireless technology via a Nano USB connection
 Easy portability – store the Nano USB receiver inside the mouse when you travel and slip this lightweight optical mouse into a carrying case to enjoy more flexibility on the go
@@ -1454,7 +1304,8 @@ Enjoy 12-month battery life* with the included AA battery"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"5-button rechargeable mouse
+  [255 255 255]]]",4.2,"$13
+96","5-button rechargeable mouse
 Ergonomic - minimizes hand and wrist fatigue
 Utilizes either Bluetooth or 2.4GHz wireless
 Resolution Switching (800, 1200, 1600 dpi)
@@ -1507,7 +1358,8 @@ Web Forward & Back keys (Windows only)"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.9,,"Perfect fit: the contoured design perfectly fits your hand, ensuring hours of comfortable use
+  [255 255 255]]]",2.9,"$6
+48","Perfect fit: the contoured design perfectly fits your hand, ensuring hours of comfortable use
 Precision Optical tracking: the high-grade Optical sensor provides pinpoint accurate cursor control
 Simple wireless operation: setup is as simple as plugging the dongle into an available USB port, installing the included AAA Batteries, & switching it on. No special drivers /configuration is required
 Perfect fit: the contoured design perfectly fits your hand, ensuring hours of comfortable use
@@ -1562,7 +1414,8 @@ Simple wireless operation: setup is as simple as plugging the dongle into an ava
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.2,,"Built-in wrist rest and neutral grip supports, cushions, and positions the wrist for comfort and neutral hand alignment.
+  [255 255 255]]]",3.2,"$45
+99","Built-in wrist rest and neutral grip supports, cushions, and positions the wrist for comfort and neutral hand alignment.
 Dual wireless with 128-bit AES encryption security delivers the flexibility of 2. 4 GHz and Bluetooth 4. 0 LE, with Government-grade encryption.
 Quiet clicking means Mousing is smooth and non-disruptive.
 Three-mode power-saving switch allows you to toggle between 2. 4GHz, Bluetooth, and off for best battery life.
@@ -1616,7 +1469,8 @@ Free downloadable KensingtonWorks software provides button customization"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Full‑Size Ultralight Mouse: Compared with other lightweight mice that employ a more compact overall size to achieve weight reduction, the Dark Matter Hyper‑K is a full‑size, ultralight gaming mouse that utilizes a strong honeycomb structure, along with other design innovations, to achieve an impossibly light 60g* weight, without compromising durability. *60g weight does not include the weight of the cable or USB connector
+  [255 255 255]]]",5,"$39
+99","Full‑Size Ultralight Mouse: Compared with other lightweight mice that employ a more compact overall size to achieve weight reduction, the Dark Matter Hyper‑K is a full‑size, ultralight gaming mouse that utilizes a strong honeycomb structure, along with other design innovations, to achieve an impossibly light 60g* weight, without compromising durability. *60g weight does not include the weight of the cable or USB connector
 Industry‑Leading Precision: Extreme weight reduction results in extreme performance! The Dark Matter Hyper‑K features the industry's most precise 16,000 DPI optical sensor from PixArt, the most respected producer of optical sensors.
 Premium Construction: The premium, paracord wrapped cable jacket reduces fraying and tangling, while high grade PTFE feet ensure smooth movements on multiple surface types over the lifespan of the mouse.
 Durable Omron Switches: Longer and more intense gaming sessions require switches that can go the extra mile. The Dark Matter Hyper‑K features switches fromindustry‑leader Omron, each rated for more than 20 million clicks.
@@ -1669,7 +1523,8 @@ Full‑size, ultralight gaming mouse that utilizes a strong honeycomb structure,
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Buttons: Corded mouse with 3 buttons and optical tracking
+  [255 255 255]]]",4.1,"$10
+50","Buttons: Corded mouse with 3 buttons and optical tracking
 Resolution: 800 dpi
 Material: ABS
 Interface: USB
@@ -1723,7 +1578,8 @@ OS : windows 2000;windows xp;windows 95;windows vista;windows 98"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Perfect fit: the contoured design perfectly fits your hand, ensuring hours of comfortable use.
+  [255 255 255]]]",4.3,"$7
+09","Perfect fit: the contoured design perfectly fits your hand, ensuring hours of comfortable use.
 Precision Optical tracking: the high-grade Optical sensor provides pinpoint accurate cursor control.
 Simple wired operation: simply Plug it into an available USB port to start using it without the need for drivers or anything else."
 "[[[255 255 255]
@@ -1774,7 +1630,8 @@ Simple wired operation: simply Plug it into an available USB port to start using
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.4,,"Interface: Bluetooth 3.0 Wireless Technology
+  [255 255 255]]]",3.4,"$24
+99","Interface: Bluetooth 3.0 Wireless Technology
 Range: 30ft (10 m)
 Resolution: 1000 DPI
 Features: Scroll Wheel, On/Off Switch & Auto Sleep Mode
@@ -1828,7 +1685,8 @@ Tracking Method: Optical Sensor"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"Wired USB-A connection delivers reliable plug-and-play performance without the need for batteries. Compatible with Windows, macOS, and Chrome OS
+  [255 255 255]]]",4,"$13
+96","Wired USB-A connection delivers reliable plug-and-play performance without the need for batteries. Compatible with Windows, macOS, and Chrome OS
 Three-button ambidextrous scroll wheel mouse provides a comfortable experience for left- or right-handed users
 1,600 DPI optical sensor tracks the mouse’s movements smoothly and precisely
 TAA-compliant, so it’s ready for use in U.S. Federal Government institutions and organizations
@@ -1882,7 +1740,7 @@ A three-year warranty means you can rest assured knowing you’re covered by Ken
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",3.3,"$20
-93","Allows wireless connectivity to most Android and Windows Bluetooth enabled tablets and Windows/Mac computers - no receiver required, simply pair your device and you're ready to go
+17","Allows wireless connectivity to most Android and Windows Bluetooth enabled tablets and Windows/Mac computers - no receiver required, simply pair your device and you're ready to go
 Blue LED - navigate your computer anywhere, on virtually any surface with precision and control, including: glass desk surfaces, granite counter tops, hardwood floors, or even airport carpeting
 1600 DPI - high sensitivity, great for accurate movement
 Low Power - efficient low power consumption requires only one AAA battery
@@ -1935,7 +1793,8 @@ Contour shape - use this mouse comfortably for hours with ergo- friendly shape a
   ...
   [252 246 250]
   [252 246 250]
-  [252 246 250]]]",4.6,,"5 button
+  [252 246 250]]]",4.6,"$47
+04","5 button
 Selectable DPI
 Precision scroll wheel
 Natural hand Position
@@ -1988,7 +1847,8 @@ Detachable hand rest"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Connection Type: Usb
+  [255 255 255]]]",4.5,"$10
+96","Connection Type: Usb
 Resolution : 1200 DPI
 Special Features : Scroll Wheel
 Symmetrical Design – Suitable For Left And Right-Handed Users"
@@ -2041,7 +1901,7 @@ Symmetrical Design – Suitable For Left And Right-Handed Users"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.7,"$40
-47","Sensor: PMW3389 optical gaming sensor
+36","Sensor: PMW3389 optical gaming sensor
 Resolution: 16,000 DPI
 Game Type: FPS / MOBA / RTS
 Polling Rate: 2000Hz
@@ -2094,7 +1954,8 @@ Software: COUGAR UIX System"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"RZ01-02130200-R3M1
+  [255 255 255]]]",4.5,"$496
+54","RZ01-02130200-R3M1
 RAZER"
 "[[[255 255 255]
   [255 255 255]
@@ -2155,7 +2016,8 @@ Compatible devices: PC, Mac"
  ...
  [255 255 255 ... 255 255 255]
  [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]]",4.6,,"Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
+ [255 255 255 ... 255 255 255]]",4.6,"$24
+99","Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
 The blue optical sensor in the wireless computer mouse allows you to work on almost any surface
 Get more done with revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls
 The Lenovo 600 Bluetooth Silent Mouse is sculpted to be comfortable to rest your palm on
@@ -2209,7 +2071,7 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$31
-39","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
+99","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
 Tons of productivity features are packed into the smaller form of this USB-C mouse, including adjustable DPI sensitivity (2400, 1600, 800), shortcuts for online meetings, and a programmable utility button
 Stay connected effortlessly with an up to 3-month rechargeable battery that reaches full charge in under 1.5 hours; get back to work faster with a 15-minute quick charge for a week's worth of power
 The lightweight, ambidextrous design is comfortable in the right or left hand and small enough to take with you wherever you go
@@ -2370,7 +2232,8 @@ Side back/forward buttons - easily navigate between pages in your browser
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Ambidextrous Design: Atom offers versatile ambidextrous grip with option to deactivate left or right side-buttons
+  [255 255 255]]]",4.2,"$49
+99","Ambidextrous Design: Atom offers versatile ambidextrous grip with option to deactivate left or right side-buttons
 Uncompromised True Precision: Atom is equipped with top gaming grade PixArt PMW3360 optical sensor with 7 DPI settings
 7 Backlight Colors + 5 RGB lighting Modes: 5 lighting modes with 7 colors to choose from, independent of DPI setting
 Customize Settings with Ease: Simple software-less settings for DPI, polling rate, hand orientation and lighting, located all at bottom of the mouse
@@ -2636,7 +2499,8 @@ Easy installation, Plug and Play, Compatible with Windows 2000, XP, Vista, 7, 8,
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"2.4GHz wireless connection allows for complete freedom and mobility
+  [255 255 255]]]",3.7,"$24
+99","2.4GHz wireless connection allows for complete freedom and mobility
 1000 DPI laser sensor provides high-definition tracking for enhanced performance
 Comfortable two-button, scroll wheel design is ideal for mobile right-handed or left-handed users
 Plug & play Installation so you can be up and scrolling Fast
@@ -2689,8 +2553,8 @@ Compatible with Windows and Mac"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",2.6,"$32
-63","LED headlights and rear lights
+  [255 255 255]]]",2.6,"$31
+39","LED headlights and rear lights
 Plug and Play technology
 On/Off switch for LED headlights are rear lights
 Computer mouse with 2.4 GHz wireless technology
@@ -2902,7 +2766,8 @@ Limited 1 Year Warranty: Rest easy knowing your ergonomic wireless mouse is cove
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"1000 dpi Optical Technology for Precise Cursor Control
+  [255 255 255]]]",3.9,"$9
+85","1000 dpi Optical Technology for Precise Cursor Control
 Driver-free plug and play
 3 button functionality + Quick view scroll wheel
 Soft-touch comfort finish
@@ -2956,8 +2821,8 @@ Compatible with Windows and Mac
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$15
-73","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
+  [255 255 255]]]",4.6,"$14
+82","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
 Wireless optical mouse with 1200 DPI sensor resolution
 Get dependable connectivity with 2.4 GHz wireless technology via a Nano USB connection
 Easy portability – store the Nano USB receiver inside the mouse when you travel and slip this lightweight optical mouse into a carrying case to enjoy more flexibility on the go
@@ -3063,7 +2928,8 @@ Compatible with Windows XP Home or Professional, 2000, Server; Mac OS X version 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Superior ergonomic design
+  [255 255 255]]]",4.2,"$34
+95","Superior ergonomic design
 Five button, full function Mouse
 Connectivity technology: wired - USB
 Compatible Devices: Pc, Mac"
@@ -3169,7 +3035,8 @@ Gaming-grade optical sensor"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"8-position 8-conductor (8P8C).
+  [255 255 255]]]",4,"$3
+99","8-position 8-conductor (8P8C).
 568A and 568B wiring compatible.
 Meets or exceeds TIA/EIA 568B industry standard.
 RoHS compliant | UL listed."
@@ -3221,7 +3088,8 @@ RoHS compliant | UL listed."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.7,,"Batteries Required: True
+  [255 255 255]]]",3.7,"$10
+99","Batteries Required: True
 Comfortable Ergonomic Design - After thousands of samples of palm data, we designed this ergonomic wireless mouse. The laptop mouse has a streamlined arc and finger rest to help reduce the stress caused by prolonged use. The side pits help reduce slippage.
 2.4G Stable Connection - Plug and play! No need any driver, and you can plug and play the wireless laptop mouse directly. The 2.4G wireless tech with 10m/33ft range also makes it ultra-stable to use this USB mouse without any lag and dropout. You can use this mouse anytime, anywhere.
 Multifunctional Wireless Mouse - 800/1200/1600/2000/2400-5 adjustable levels DPI, easily change the cursor sensitivity depending on your activity. Two side buttons that you can use to control page forward/backward for increased productivity. Advanced technology help mouse moves around the computer screen smoothly.
@@ -3275,8 +3143,8 @@ Universal Compatibility - Compatible with Windows7/8/10/XP, Vista7/18 and Linux 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,"$22
-35",V7 MW400 7-Button/Adjustable DPI - Black
+  [255 255 255]]]",5,"$21
+77",V7 MW400 7-Button/Adjustable DPI - Black
 "[[[255 253 254]
   [255 253 254]
   [255 253 254]
@@ -3430,7 +3298,8 @@ Brand Name: Remer"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.4,,"Perfect Fit
+  [255 255 255]]]",3.4,"$12
+98","Perfect Fit
 Precision Optical Tracking
 Extra Buttons
 Simple Wireless Operation
@@ -3538,7 +3407,8 @@ Ergonomic shape fits comfortably in your hand"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,,"800 DPI sensitivity
+  [255 255 255]]]",3.8,"$13
+29","800 DPI sensitivity
 Ergonomic 3 button & Scroll wheel design
 Optical sensor & precision tracking
 USB connection
@@ -3591,7 +3461,8 @@ Compatible with: windows nt/2000/Me/XP/Vista/Win7/Mac os 10.4 or later"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"Advanced Optical Tracking
+  [255 255 255]]]",3.8,"$129
+99","Advanced Optical Tracking
 Compact, on-the-go design
 Plug it, Forget it, Add to it
 Year-round Power"
@@ -3643,7 +3514,8 @@ Year-round Power"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,,"scroll wheel
+  [255 255 255]]]",3.8,"$18
+75","scroll wheel
 optical mouse
 left and right click areas"
 "[[[255 255 255]
@@ -3704,7 +3576,8 @@ For Windows, Mac and Linux: Reliable wireless connection with tiny Logitech Unif
  ...
  [255 255 255 ... 255 255 255]
  [255 255 255 ... 255 255 255]
- [255 255 255 ... 255 255 255]]",4.6,,"Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
+ [255 255 255 ... 255 255 255]]",4.6,"$24
+99","Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
 The blue optical sensor in the wireless computer mouse allows you to work on almost any surface
 Get more done with revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls
 The Lenovo 600 Bluetooth Silent Mouse is sculpted to be comfortable to rest your palm on
@@ -3739,9 +3612,9 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   ...
-  [254 254 254]
-  [253 253 253]
-  [253 253 253]]
+  [255 255 255]
+  [255 255 255]
+  [254 254 254]]
 
  [[255 255 255]
   [255 255 255]
@@ -3758,7 +3631,7 @@ Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design 
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$31
-39","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
+99","With its lightweight design, precision blue optical sensor, and silent buttons, the Lenovo Go USB-C Wireless Mouse ensures that you'll be ready for anything, working whenever and wherever you please
 Tons of productivity features are packed into the smaller form of this USB-C mouse, including adjustable DPI sensitivity (2400, 1600, 800), shortcuts for online meetings, and a programmable utility button
 Stay connected effortlessly with an up to 3-month rechargeable battery that reaches full charge in under 1.5 hours; get back to work faster with a 15-minute quick charge for a week's worth of power
 The lightweight, ambidextrous design is comfortable in the right or left hand and small enough to take with you wherever you go
@@ -3817,55 +3690,55 @@ The blue optical sensor on this wireless mouse ensures you experience maximum pr
 Crafted as an all-in-one solution, this mouse features a programmable utility button with shortcuts configured for Microsoft Teams meetings by default
 With a fast-chargeable battery that provides 2 months of use on a single 1.5-hour charge and supports both wired USB-C and wireless Qi charging, the Lenovo Go Wireless Multi-Device Mouse is hard to beat
 Compatible with Windows and Chrome devices; 2.4 GHz connection required at launch"
-"[[[252 252 255]
-  [251 253 255]
-  [253 252 255]
+"[[[250 254 253]
+  [248 253 252]
+  [244 250 248]
   ...
-  [224 237 238]
-  [229 240 242]
-  [225 238 239]]
+  [225 246 245]
+  [218 242 240]
+  [220 245 243]]
 
- [[255 253 255]
-  [255 254 255]
+ [[254 254 253]
   [255 255 254]
+  [254 255 254]
   ...
-  [213 233 235]
-  [217 234 239]
-  [199 225 232]]
+  [215 234 238]
+  [215 237 241]
+  [202 227 231]]
 
- [[253 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[255 252 255]
+  [255 254 255]
+  [255 254 255]
   ...
-  [220 236 238]
-  [225 240 244]
-  [183 226 237]]
+  [217 235 245]
+  [221 242 251]
+  [200 227 236]]
 
  ...
 
- [[254 254 255]
-  [252 255 254]
-  [252 254 255]
+ [[253 255 255]
+  [255 254 255]
+  [253 251 252]
   ...
-  [233 242 245]
-  [227 236 238]
-  [244 248 250]]
+  [231 242 239]
+  [227 240 236]
+  [242 253 249]]
 
- [[252 254 253]
-  [253 255 253]
-  [254 253 254]
+ [[245 254 251]
+  [251 255 255]
+  [252 254 254]
   ...
-  [210 231 233]
-  [207 228 230]
-  [237 247 246]]
+  [224 240 234]
+  [211 227 219]
+  [237 250 244]]
 
- [[233 240 239]
-  [245 251 250]
-  [249 252 252]
+ [[227 240 235]
+  [243 252 250]
+  [246 251 250]
   ...
-  [238 246 246]
-  [223 234 236]
-  [252 254 254]]]",4.5,,"ERGONOMIC DESIGN & ULTRA-DURABLE: RATEL Computer Ergonomic Wireless Mouse is made of skin-friendly silicone and plastic. Absolutely non-toxic and safe and comfortable. Super durable PC ergonomic mouse with perfect performance on 5,000,000 clicks keystroke test! Comes with a Nano receiver (stored in the back of the mouse).
+  [243 251 249]
+  [221 231 227]
+  [246 253 250]]]",4.5,,"ERGONOMIC DESIGN & ULTRA-DURABLE: RATEL Computer Ergonomic Wireless Mouse is made of skin-friendly silicone and plastic. Absolutely non-toxic and safe and comfortable. Super durable PC ergonomic mouse with perfect performance on 5,000,000 clicks keystroke test! Comes with a Nano receiver (stored in the back of the mouse).
 3 ADJUSTABLE DPI SWITCH & PLUG AND PLAY: Our PC Wireless Ergonomic Mouse has 3-level DPI settings (800/1200/1600). Freely control the speed of your optical mouse, 6 buttons design can suit both ordinary and gaming needs. RATEL laptop ergonomic wireless mouse does not need any driver. The USB Wireless Mouse just requires a workable USB port. Only 2 steps: plug, and play. Pretty cool!
 UNIVERSAL COMPATIBILITY & WIDE USE: RATEL Wireless Mouse Well compatible with Windows XP, Vista, 7, 8, 8.1, 10, Linux and Mac OS (V10.4 or higher); as well as compatible for PC, Laptop, Macbook and more. Great optical computer mice for various activities!
 FAST & STABLE EFFICIENT TRANSMISSION: Adopted 2.4GHz wireless technology to ensure fast and stable transmission, and longer working distance. This Ergonomic PC Mouse has a high anti-interference performance with 33ft/10m transmission distance, effectively eliminates delays, dropouts, and interference. Excellent wireless mouse for both home and office. Worth to try!
@@ -3918,8 +3791,8 @@ SUPER ENERGY SAVING & ENVIRONMENTALLY FRIENDLY: RATEL USB Mouse for computer wil
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$7
-01","Item Package Height:14.2 Centimeters
+  [255 255 255]]]",4.5,"$6
+41","Item Package Height:14.2 Centimeters
 Item Package Length:4.2 Centimeters
 Item Package Width:9.0 Centimeters
 Product Type:Input Mouse"
@@ -3971,7 +3844,8 @@ Product Type:Input Mouse"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.6,,"US Cypress RF Chipset
+  [255 255 255]]]",3.6,"$12
+84","US Cypress RF Chipset
 7 years battery life with normal use
 Auto Sleep/Awake button to save power
 Cellular technology, multipoint interconnection (many connection technologies compatible with Bornd wireless mice and keyboards)
@@ -4026,7 +3900,8 @@ US Cypress RF Chipset"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"Connection type: USB
+  [255 255 255]]]",5,"$58
+72","Connection type: USB
 Number of buttons: 6 keys
 Sensor: optical
 Resolution: 4000 dpi
@@ -4184,7 +4059,8 @@ Comfortable with Control and Break Pads - its ultralight feature makes great com
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.8,,"The name you know — for over 120 years, Philips has been a leading brand of electronics, trusted all over the world. That legacy of quality design and stunning functionality continues with this professional PC mouse for home or office.
+  [255 255 255]]]",3.8,"$13
+46","The name you know — for over 120 years, Philips has been a leading brand of electronics, trusted all over the world. That legacy of quality design and stunning functionality continues with this professional PC mouse for home or office.
 High-performance optical laser — Custom engineered in-house, the Philips Optical engine delivers superbly accurate positioning, with a 125Hz polling rate and 1000 DPI. The result is a corded mouse that registers every click and gesture with exact reliability.
 A comfortable fit — The ergonomic, low-profile build helps keep hand- and wrist-fatigue at bay. With its “barely-there” design, you'll only realize that you're using this computer mouse is because you're getting work done.
 Quiet longevity — the button switches have a lifespan of over 3 million keypresses and are specially calibrated to avoid false-clicks, while being silent enough to let you get on with work without distracting others around you.
@@ -4237,7 +4113,8 @@ Balanced and ambidextrous — Whether you're left-handed or right-handed, you'll
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.1,,"Excellent Wireless Reception
+  [255 255 255]]]",3.1,"$15
+49","Excellent Wireless Reception
 Comfortable, Ergonomical Shape
 Long Battery Life
 Enhanced Functions For Greater Productivity
@@ -4292,7 +4169,8 @@ Note : In case of Wireless mouse, the USB receiver will be provided inside or al
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"mini USB receptor
+  [255 255 255]]]",4,"$9
+77","mini USB receptor
 Power on and off switch
 DPI change button, 800 dpi - 1600 dpi
 mini USB receptor
@@ -4455,7 +4333,8 @@ Limited 1 Year Warranty: Rest easy knowing your ergonomic wireless mouse is cove
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"1000 dpi Optical Technology for Precise Cursor Control
+  [255 255 255]]]",3.9,"$9
+85","1000 dpi Optical Technology for Precise Cursor Control
 Driver-free plug and play
 3 button functionality + Quick view scroll wheel
 Soft-touch comfort finish
@@ -4509,8 +4388,8 @@ Compatible with Windows and Mac
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$15
-73","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
+  [255 255 255]]]",4.6,"$14
+82","This ambidextrous mouse is made for ergonomics and comfort, with a 3-button design that fits both the right and left hand
 Wireless optical mouse with 1200 DPI sensor resolution
 Get dependable connectivity with 2.4 GHz wireless technology via a Nano USB connection
 Easy portability – store the Nano USB receiver inside the mouse when you travel and slip this lightweight optical mouse into a carrying case to enjoy more flexibility on the go
@@ -4563,7 +4442,7 @@ Enjoy 12-month battery life* with the included AA battery"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"【WIRELESS CONNECTION】(Not for ipad)This wireless mouse does not need a drive, support plug and play. Also it can be used as wireless gaming mouse, ote: If your laptop/computer is a c-port, you need to plug the mouse's USB wireless receiver into the USB C adapter (which is included in the commodity box) to connect to your laptop.
+  [255 255 255]]]",3.6,,"【WIRELESS CONNECTION】(Not for ipad)This wireless mouse does not need a drive, support plug and play. Also it can be used as wireless gaming mouse, ote: If your laptop/computer is a c-port, you need to plug the mouse's USB wireless receiver into the USB C adapter (which is included in the commodity box) to connect to your laptop.
 【WIDE COMPATIBILITY】 Well compatible with Windows7/8/10/XP, Vista, Mac OS X 10.10 or later. Fits for all Type-C devices, tablets, cellphones, Macbook, Macbook Pro, iMac, iMac Pro, Chromebook and more
 【COMFORT & CONTROLS】mooth frosted surface and quiet clicks can bring a better user experience and free your worry about bothering others and keep you stay focused while working
 【ERGONOMIC DESIGN]】- Good surface coating technology given you a skin-like touch feeling. User-friendly design provide all-day comfort for work and entertainment, portable and pocket-sized perfect for travel, Mute design keeps away annoying clicks.
@@ -4879,7 +4758,8 @@ adjustable weight tuning system, change weight around to provide the best suited
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Compact, modern design that fits comfortably in your hand.
+  [255 255 255]]]",4.7,"$24
+99","Compact, modern design that fits comfortably in your hand.
 Matches your style in a choice of modern colors.
 Connects via Bluetooth wirelessly with a fast tracking sensor, precise navigation.
 Up to 12 months of battery life."
@@ -4931,7 +4811,8 @@ Up to 12 months of battery life."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Nano Transceiver - Leave it plugged in your notebook when you're on the go. The mouse has its own on/off switch.
+  [255 255 255]]]",4.4,"$36
+99","Nano Transceiver - Leave it plugged in your notebook when you're on the go. The mouse has its own on/off switch.
 Up to 8 months battery life - Power status indicator lets you know when your battery runs low.
 Comfort - Designed by ergonomic experts for comfort in either hand.
 Nano Transceiver - Leave it plugged in your notebook when you're on the go. The mouse has its own on/off switch.
@@ -5039,7 +4920,8 @@ Optimal cable length (1.5m) for desktop settings
   ...
   [254 254 254]
   [254 254 254]
-  [255 255 255]]]",3.7,,"Universal paging with forward/back buttons
+  [255 255 255]]]",3.7,"$249
+99","Universal paging with forward/back buttons
 Wheel tilts for side to side scrolling, clicks to zoom
 Controls MediaLife software and most other media players
 Backlit media control buttons with one-touch media player access
@@ -5099,7 +4981,15 @@ High resolution 1600 DPI sensor
 No driver or setup needed.COMPATIBILITY: Windows XP/Vista/7/8/10, Mac OS X 10.4 or later, USB port.CONTENTS: Wired optical mouse.WARRANTY: 2 Years"
 "[[[ 7  6 11]
   [ 7  6 11]
+  [ 6  5 10]
+  ...
+  [ 4  3  8]
+  [ 4  3  8]
+  [ 4  3  8]]
+
+ [[ 7  6 11]
   [ 7  6 11]
+  [ 6  5 10]
   ...
   [ 4  3  8]
   [ 4  3  8]
@@ -5109,44 +4999,155 @@ No driver or setup needed.COMPATIBILITY: Windows XP/Vista/7/8/10, Mac OS X 10.4 
   [ 7  6 11]
   [ 7  6 11]
   ...
-  [ 4  3  8]
-  [ 4  3  8]
+  [ 3  2  7]
+  [ 3  2  7]
   [ 5  4  9]]
-
- [[ 7  6 11]
-  [ 7  6 11]
-  [ 7  6 11]
-  ...
-  [ 4  3  8]
-  [ 4  3  8]
-  [ 6  5 10]]
 
  ...
 
- [[27  3 17]
-  [27  3 17]
-  [27  3 17]
+ [[27  4 17]
+  [27  4 17]
+  [28  4 18]
   ...
-  [21  4 10]
-  [21  4 10]
-  [19  4 13]]
+  [20  4 10]
+  [21  4 13]
+  [21  4 13]]
 
- [[27  3 17]
-  [27  3 17]
-  [27  3 17]
+ [[23  5 17]
+  [25  5 17]
+  [26  4 17]
   ...
-  [21  4 10]
-  [21  4 10]
-  [19  5 13]]
+  [17  6 10]
+  [18  6 10]
+  [18  6 10]]
 
- [[27  5 18]
-  [27  5 18]
-  [27  5 18]
+ [[23  5 17]
+  [25  5 17]
+  [26  4 17]
   ...
+  [17  6 10]
   [18  6 10]
-  [18  6 10]
-  [18  6 10]]]",4,,"Connection type: USB
+  [18  6 10]]]",4,"$55
+90","Connection type: USB
 Number of buttons: 6 keys
 Sensor: optical
 Resolution: 4000 dpi
 USB polling rate: 1000Hz"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.3,"$40
+27","Optical Sensor USB Mouse
+Precise performance with a resolution of 1000 dpi
+Polymer pad with high wear resistance.
+Elegant design, ideal for both right and left handed users."
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",1,"$36
+78","Pointing Device Connectivity Technology: Cable
+Movement Resolution (dpi): 1600
+Number of Total Buttons: 3
+Ergonomic Fit: Symmetrical"
+"[[255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ ...
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]
+ [255 255 255 ... 255 255 255]]",4.6,"$24
+99","Bluetooth 5.0 and Microsoft Swift Pair technology let you connect this Bluetooth mouse conveniently and pair effortlessly with up to two devices at once and quickly switch between them with the push of a button
+The blue optical sensor in the wireless computer mouse allows you to work on almost any surface
+Get more done with revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls
+The Lenovo 600 Bluetooth Silent Mouse is sculpted to be comfortable to rest your palm on
+Compact, portable wireless Bluetooth mouse has a low-profile, minimalist design that makes it easy to carry and fit into pockets without bulging"

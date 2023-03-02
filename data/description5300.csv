@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -58,24 +58,24 @@ V-tread tap sole for flexibility and discreet traction."
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 251]
-  [255 255 252]
-  [255 255 253]]
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 251]
-  [253 253 250]
-  [255 255 253]]
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
+  [255 255 255]
   [255 255 253]
-  [254 254 252]
   [255 255 253]]
 
  ...
@@ -157,7 +157,7 @@ New Balance Running Shoes With a Fresh, Attractive Design: Add an exclamation ma
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100% Leather
+  [255 255 255]]]",4.5,,"100% Leather
 Imported
 Ethylene Vinyl Acetate sole
 Shaft measures approximately not_applicable from arch
@@ -261,7 +261,7 @@ SHOCK ABSORPTION: truTECH is Rockport's lightweight comfort feature that absorbs
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Imported
+  [255 255 255]]]",4.5,,"Imported
 Rubber sole
 Rubber cupsole bottom adds durability
 Ortholite footbed for breathability, cushioning and durability properties
@@ -315,7 +315,7 @@ Target gender: male"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Imported
+  [255 255 255]]]",4.2,,"Imported
 Rubber sole
 Shaft measures approximately 8"" from arch
 Boot opening measures approximately 11 around
@@ -477,7 +477,8 @@ CHOOSE YOUR SIZE AND COLOR: Available in Black, Medium Grey, Loden and Peacoat, 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"leather-and-mesh
+  [255 255 255]]]",4.8,"$210
+00","leather-and-mesh
 Made in the USA
 Rubber sole
 Shaft measures approximately Ankle from arch
@@ -644,7 +645,7 @@ Underfoot Protection: Electrical Hazard (Eh)-Rated Footwear Provides A Secondary
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Imported
+  [255 255 255]]]",4.4,,"Imported
 Rubber sole
 Shaft measures approximately Ankle from arch
 Crafted from a mix of quality leathers that offer texture and character
@@ -700,7 +701,7 @@ Hooks allow textile laces to be easily adjusted for a secure fit"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3,,"Rubber sole
+  [255 255 255]]]",4.6,,"Rubber sole
 The lightweight mesh upper comfortably conforms to your foot.
 The rubber outsole is formed with a multidirectional traction pattern to help you stay in control, whichever direction you're moving.
 The laces feed through crisscross webbing straps over the top of your foot. When you lace up, it tightens the webbing to hold your foot in place.
@@ -970,7 +971,7 @@ UNDERFOOT PROTECTION: Electrical hazard (EH) rated footwear provides a secondary
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Suede
+  [255 255 255]]]",4.6,,"leather-and-synthetic
 Imported
 Synthetic sole
 SLIPPERS FOR MEN: Our lined moccasin house shoes are the ultimate combination of comfort and function. Keep your feet warm and comfy while you're by the fire, reading a book, or napping on the porch.
@@ -1410,7 +1411,8 @@ Athletic-inspired wedge outsole"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Rubber
+  [255 255 255]]]",4.5,"$28
+79","Rubber
 Imported
 PVC polyblend injection molded construction is seamless and 100% waterproof but flexible for greater comfort; resistant to degradation from agricultural chemicals, fertilizers and animal waste
 CT (Comfort Technology) offers a unique scalloped top-line for easy flexing; guide along shaft allows for customized height; reinforced at critical stress points for longer wear
@@ -1683,7 +1685,7 @@ Fiberglass shank"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Imported
+  [255 255 255]]]",4,,"Imported
 Rubber sole
 Shaft measures approximately Ankle from arch
 Boot opening measures approximately 5"" around
@@ -2453,8 +2455,8 @@ Durable rubber outsole for safety"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,"$136
-11","100% leather-and-synthetic
+  [255 255 255]]]",4.2,"$139
+27","100% leather-and-synthetic
 Imported
 Full grain SPR leather upper
 High performance mesh lining
@@ -2509,7 +2511,8 @@ Twin gore panels for great fit"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100% Croslite
+  [255 255 255]]]",4.4,"$29
+99","100% Croslite
 Imported
 Ethylene Vinyl Acetate sole
 Heel measures approximately 1.32""
@@ -2727,8 +2730,8 @@ What you get: our worry-free warranty and friendly customer service, NORTIV 8 is
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$85
-51","100% Nylon
+  [255 255 255]]]",4.5,"$84
+99","100% Nylon
 Imported
 KEEP IT COMFORTABLE: Athletic styling gives these men’s Powertrain Sport work shoes a modern look. Alloy safety toes, breathable mesh linings, electrical hazard protection & anti-fatigue technology combine for ultimate low-profile comfort & protection.
 SAFETY AND COMFORT: Built on a tradition of craftsmanship & innovation, Timberland PRO helps you conquer your work day. Technology like our proprietary outsole with built-in Anti-Fatigue Technology keeps you comfortable all day.
@@ -2892,8 +2895,8 @@ Chelsea boot style"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$37
-72","100% Synthetic
+  [255 255 255]]]",4.4,"$36
+22","100% Synthetic
 Imported
 Rubber sole
 SCIENCE AND MAGIC: Take a ride in a superbly cushioned new kind of Crocs for men. Inspired by your evolving lifestyle, the LiteRide tennis shoe collection was created to be worn on your terms, at any pace.
@@ -2949,8 +2952,8 @@ MEN'S SHOES: Same Crocs shoe quality designed to fit your lifestyle. Offers brea
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$85
-51","100% Nylon
+  [255 255 255]]]",4.4,"$84
+99","100% Nylon
 Imported
 KEEP IT COMFORTABLE: Athletic styling gives these men’s Powertrain Sport work shoes a modern look. Alloy safety toes, breathable mesh linings, electrical hazard protection & anti-fatigue technology combine for ultimate low-profile comfort & protection.
 SAFETY AND COMFORT: Built on a tradition of craftsmanship & innovation, Timberland PRO helps you conquer your work day. Technology like our proprietary outsole with built-in Anti-Fatigue Technology keeps you comfortable all day.
@@ -3115,7 +3118,7 @@ Ultra Heel design hugs the back of the foot for a snug, supportive fit"
   ...
   [253 253 253]
   [252 252 252]
-  [255 255 255]]]",4.5,,"Imported
+  [255 255 255]]]",4.6,,"Imported
 Ethylene Vinyl Acetate sole
 SANDALS FOR WOMEN AND MEN: The Crocs Classic Sandals are all about comfort and functionality. It's the same look and feel of our comfortable Classic Clog and Crocs Slide, now in sandal form.
 WATER-FRIENDLY: These men's and women's sandals are water-friendly and designed to channel water away. Needless to say, if you'll be near the water, you'll want to have these sandals with you.
@@ -3497,7 +3500,8 @@ DuraFresh organic bio-technology activates to fight odors"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,
+  [255 255 255]]]",4.2,,"Rubber sole
+100% Authentic"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3800,9 +3804,9 @@ MAKE THEM YOUR OWN: These women's and men's Crocs offer a roomy and generous fit
 
  ...
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[252 252 252]
+  [252 252 252]
+  [252 252 252]
   ...
   [255 255 255]
   [255 255 255]
@@ -4091,7 +4095,7 @@ Durable, rugged exterior"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Breathable lazer-cut color shift leather upper
+  [255 255 255]]]",4.3,,"Breathable lazer-cut color shift leather upper
 Patented Toehold Hyperflex Engineering
 BOA Fit System disc lacing
 TPU molded external heel stabilizer"
@@ -4309,7 +4313,8 @@ Padded collar for a comfortable fit"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"ANTI-SLIP: The Explorer Thermo+ Full Safety with Vibram boots are SRC rated, with a strong grip to help with traction on uneven surfaces. This boot meet requirements for ASTM F 2413-18 M/I/C PR EH and is certified to CSA Z195-14 OmegaASTM 3445-21 SR.
+  [255 255 255]]]",4.6,"$278
+59","ANTI-SLIP: The Explorer Thermo+ Full Safety with Vibram boots are SRC rated, with a strong grip to help with traction on uneven surfaces. This boot meet requirements for ASTM F 2413-18 M/I/C PR EH and is certified to CSA Z195-14 OmegaASTM 3445-21 SR.
 COLD INSULATION: These lightweight boots are made with a unique Purofort recipe and molecular structure that allows them to insulate down to -58F.
 COMFORTABLE: Our boots are made to be both comfortable and durable featuring an energy absorbing heel region which limits the impact to the floor while walking.
 APPLICATIONS: Our Explorer THermo+ Full Safety with Vibram boots work well for heavy duty jobs in the Oil Gas and Mining fields. Please review our size charts in the image section to find the correct sizing.
@@ -4418,7 +4423,7 @@ Rubber outsole with the look of authentic crepe"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"75% Leather, 25% Nylon
+  [255 255 255]]]",4.4,,"75% Leather, 25% Nylon
 Imported
 Rubber sole
 Electrical hazard

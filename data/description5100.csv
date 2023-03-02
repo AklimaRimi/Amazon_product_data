@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -423,8 +423,8 @@ Black/White/Wolf Grey"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$85
-02","100% Nylon
+  [255 255 255]]]",4.5,"$84
+99","100% Nylon
 Imported
 KEEP IT COMFORTABLE: Athletic styling gives these men’s Powertrain Sport work shoes a modern look. Alloy safety toes, breathable mesh linings, electrical hazard protection & anti-fatigue technology combine for ultimate low-profile comfort & protection.
 SAFETY AND COMFORT: Built on a tradition of craftsmanship & innovation, Timberland PRO helps you conquer your work day. Technology like our proprietary outsole with built-in Anti-Fatigue Technology keeps you comfortable all day.
@@ -973,7 +973,7 @@ The finish or polish on these boots show marks which are not scratches"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Imported
+  [255 255 255]]]",4.2,,"Imported
 Thermoplastic Elastomers sole
 Shaft measures approximately not_applicable from arch
 High quality faux suede upper with faux shearling sock and lining
@@ -1738,13 +1738,13 @@ Organic Traction"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Imported
+  [255 255 255]]]",4.6,,"Imported
 Synthetic sole
 Crafted from soft nubuck leather made in our own tanneries
 Majority textile lining offers softness and breathability, while a patch of leather lining at the back offers a smooth finish for easy entry
 Micro-perforated design adds a stylish edge
-Lightweight sole provides cushioning and flexibility, using innovative ecco flyuidform Direct Comfort Technology
-Removable, molded leather-covered insole for added comfort and extra width when taken out"
+Lightweight sole provides cushioning and flexibility, using innovative ECCO FLUIDFORM Direct Comfort Technology
+Textile lace closure can be adjusted for a secure fit"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1903,7 +1903,7 @@ CROCS FOR WOMEN AND MEN: The Crocs Classic Hiker Clogs are not only the most com
   ...
   [255 255 255]
   [255 255 255]
-  [254 254 254]]]",4.5,,"Imported
+  [254 254 254]]]",4.5,,"Made in the USA or Imported
 Rubber sole
 Lighter and smoother every step of the way: With a softer, lighter PWRRUN formula and more midsole beveling, you get a thicker stack of cushioning and an incredibly smooth ride from heel to toe.
 Support that lets you fly: HOLLOW-TECH gives you the underfoot support you need, but in a lightweight and minimalistic way.
@@ -2067,8 +2067,8 @@ Defender Repellent Systems treatment"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$85
-30","100% Nylon
+  [255 255 255]]]",4.6,"$84
+99","100% Nylon
 Imported
 KEEP IT COMFORTABLE: Athletic styling gives these men’s Powertrain Sport work shoes a modern look. Alloy safety toes, breathable mesh linings, electrical hazard protection & anti-fatigue technology combine for ultimate low-profile comfort & protection.
 SAFETY AND COMFORT: Built on a tradition of craftsmanship & innovation, Timberland PRO helps you conquer your work day. Technology like our proprietary outsole with built-in Anti-Fatigue Technology keeps you comfortable all day.
@@ -2346,7 +2346,7 @@ Layed EVA midsole"
   [255 255 255]
   [255 255 255]]]",4.2,,"100% Synthetic/Leather
 Imported
-Synthetic sole
+Rubber sole
 Memory foam"
 "[[[255 255 255]
   [255 255 255]
@@ -2396,7 +2396,7 @@ Memory foam"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Rubber sole
+  [255 255 255]]]",4.3,,"Rubber sole
 Shaft measures approximately Ankle from arch
 Boot opening measures approximately 10 around
 Natural leather upper for a casual look and soft feel
@@ -2836,7 +2836,10 @@ Water Repellent"
   [255 255 255]
   [255 255 255]]]",4.7,,"Imported
 Synthetic sole
-Closure Type: Slip-On"
+Streetwear
+Goga Mat Arch
+Air Cooled Memory Foam
+Classic Fit"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2941,7 +2944,7 @@ M"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"100% Synthetic
+  [255 255 255]]]",4.2,,"100% Synthetic
 Rubber sole
 Fresh Foam midsole cushioning is precision engineered to deliver an ultra-cushioned, lightweight ride
 TPU molded cleat outsole provides superior traction on both turf and natural surfaces
@@ -3986,7 +3989,7 @@ Retains classic Docs DNA: grooved edges and visible welt stitching"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Rubber sole
+  [255 255 255]]]",4,,"Rubber sole
 TPU molded cleat outsole provides superior traction on both turf and natural surfaces
 Knit upper with Kinetic Stitch technology
 Achilles pads for heel comfort
@@ -4164,7 +4167,7 @@ QUALITY WORKWEAR: Timberland PRO assesses the unmet needs of those who work in t
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -4172,7 +4175,7 @@ QUALITY WORKWEAR: Timberland PRO assesses the unmet needs of those who work in t
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -4180,7 +4183,7 @@ QUALITY WORKWEAR: Timberland PRO assesses the unmet needs of those who work in t
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 253]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -4320,7 +4323,7 @@ REFRESHED UPPER: The Engineered Air Mesh and 3D Fit Print on the upper create th
   [255 255 255]
   [255 255 255]]]",4.6,,"100% Leather
 Imported
-Ethylene Vinyl Acetate sole
+Rubber sole
 Shaft measures approximately Mid-Calf"" from arch
 Leather upper
 Pull on entry
@@ -4515,30 +4518,30 @@ Union Jack symbol"
 
  ...
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[255 255 253]
+  [255 255 253]
+  [255 255 254]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[255 254 255]
+  [255 254 255]
+  [255 254 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[255 254 255]
+  [255 254 255]
+  [255 254 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.3,,"100% Leather
-Imported
+Made in USA or Imported
 Polyurethane sole
 Shaft measures approximately Ankle-High from arch
 Boot opening measures approximately 6"" around
@@ -4647,7 +4650,8 @@ Rubber outsole for traction and durability"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"leather-and-mesh
+  [255 255 255]]]",4.1,"$210
+00","leather-and-mesh
 Made in the USA
 Rubber sole
 Shaft measures approximately Ankle from arch
@@ -5415,9 +5419,9 @@ Enzyme treatment for odor control"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"100% Synthetic
+  [255 255 255]]]",4.3,,"100% Synthetic
 Imported
-Synthetic sole
+Rubber sole
 PREMIUM COMFORT: Men’s moccasin slipper in closed back design with indoor & outdoor support
 CLASSIC MOC DESIGN: Genuine corduroy house slipper with microterry lining deliver timeless style and warmth throughout the entire year
 ISOTONER 360 SURROUND COMFORT: Gel-infused memory foam wraps the entire foot – including the tops, sides, and soles – for the ultimate custom fit
@@ -5470,10 +5474,10 @@ VERSATILE: Durable, rubber outsole provide weatherproof, skid-resistant traction
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Leather and Textile
+  [255 255 255]]]",4.6,,"100% Leather and Textile
 Imported
-Man made sole
+Man-made sole
 Shaft measures approximately 11.5"" from arch
 Boot opening measures approximately 14.5"" around
-WORKS AS HARD AS YOU DO: The WorkHog Boots by Ariat are made for the long haul: strong, sturdy, and styled with western detailing. The supportive cushioning and stability technology make them ideal for harsh outdoor work environments.
-THE SUPPORT YOU NEED: The ATS Max extra-wide shank provides maximum support and performance. Combined with a lightweight, cushioning EVA midsole and Pro Performance insole, your feet will have all-day comfort and shock absorption."
+Premium full-grain leather foot
+Sand storm camo printed textile shaft w/ flag patch"

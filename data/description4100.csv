@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -47,7 +47,8 @@ imges,rating,price,description
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"As seen on Shark Tank
+  [255 255 255]]]",4.8,"$6
+68","As seen on Shark Tank
 Two-in-one teether and baby spoon created by a child inventor. Unique animal shape helps prevent choking or gagging.
 Patented design eliminates sharp angles and ends
 Easy to grip and super gentle on gums. 4+ months.
@@ -208,7 +209,8 @@ Infantino, smartly designed products for happy parenting: We design smartly, we 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"CLASSIC STORYTIME: Help baby to learn & begin story time with a soft fabric book featuring Pooh, Tigger, Eeyore & Piglet. An adorable 5 inch on-the-go book lets baby play as you read a story together.
+  [255 255 255]]]",4.8,"$10
+99","CLASSIC STORYTIME: Help baby to learn & begin story time with a soft fabric book featuring Pooh, Tigger, Eeyore & Piglet. An adorable 5 inch on-the-go book lets baby play as you read a story together.
 SOFT TEETHING TOY: Fun interactive materials keep baby engaged. This book features crinkly sound, squeaker, a c clip for attaching to stroller or car seat, a mirror and a textured teether .
 BABYS FIRST TOY: A baby essential, this carseat and stroller toy is ideal for baby showers, 1st birthdays, and is popular for boys & girls ages 0 months to toddler. Machine washable and BPA Free.
 CRINKLE BOOK: Soft books, or teether books, are classic retro toys that have amused babies for decades. This interactive infant book delights babies with textures, sounds, & bright colors to discover.
@@ -261,7 +263,8 @@ MODERN CLASSIC TOY: The Wonderful World of Disney's iconic characters are instan
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Contains 40 magnetic pieces
+  [255 255 255]]]",4.7,"$14
+13","Contains 40 magnetic pieces
 Each piece represents a blend beginning or ending word
 Identify or segment the sounds in the word
 Use with magnetic letters or on their own
@@ -314,7 +317,8 @@ Hands on and fun!"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"This familiar face engages baby in developmental play. The flexible body has easy-to-grasp openings that help little hands build dexterity
+  [255 255 255]]]",4.8,"$8
+99","This familiar face engages baby in developmental play. The flexible body has easy-to-grasp openings that help little hands build dexterity
 The rattle encourages rolling, shaking and tossing, while teethable surfaces and colorful beads offer more to touch and explore
 Rubberized details for teething
 Easy to grab
@@ -367,7 +371,8 @@ Ages 3m+; BPA-Free, PVC-Free, Phthalate-Free; Size (inches): 6.5l x 3.5w x 4.75h
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"BerryBumps Design: The RaZberry teething pacifier is made with 100% soft silicone and textured with patented BerryBumps to soothe sore, swollen gums. It’s great for chewing and can also be frozen for added soothing support!
+  [255 255 255]]]",4.5,"$5
+99","BerryBumps Design: The RaZberry teething pacifier is made with 100% soft silicone and textured with patented BerryBumps to soothe sore, swollen gums. It’s great for chewing and can also be frozen for added soothing support!
 BPA Free: Like all of our products, our RaZberry teething pacifiers are free of BPA, PVC, phthalates, and lead, and made with high-quality materials that conform to US Consumer Product Safety standards, as well as EU standards EN 1400.
 Easy to Clean: Sterilize our RaZberry teething toys in boiling water for 5 minutes before first use, then rinse in between subsequent uses. Our teethers are durable and they make great baby shower gifts for a boy or girl!
 Multi-Texture: The original hands-free teething pacifier for babies, our RaZberry teethers are easy for little hands to hold with perfectly sized, multi-textured handles. They are shaped like berries to help introduce real fruits, and designed for babies 3 months and up.
@@ -474,7 +479,8 @@ Tactile exploration with crinkles and tags"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Includes 1 magnet wand (assorted solid, vibrant colors) measuring 7.63 inches long.
+  [255 255 255]]]",4.6,"$1
+99","Includes 1 magnet wand (assorted solid, vibrant colors) measuring 7.63 inches long.
 Durable wand features a completely encased large, strong magnet; recessed handle, and hole for lanyard (not included). Child safety tested for ages 3+.
 Great for magnet play, experiments, scavenger hunts, sensory tables, and more."
 "[[[255 255 255]
@@ -574,7 +580,8 @@ Great for magnet play, experiments, scavenger hunts, sensory tables, and more."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"This classic circus-themed Jack in the Box musical toy will bring joy and delight to children for generations
+  [255 255 255]]]",4.6,"$24
+95","This classic circus-themed Jack in the Box musical toy will bring joy and delight to children for generations
 Turn the handle and it plays ""Pop Goes the Weasel"" until up pops a soft plush circus clown amusing a child and bringing a smile
 It's beautifully decorated with attractive and engaging circus graphics that are loved by all children
 Sturdy metal construction ensures long lasting play; box is 5.5 inches tall
@@ -629,7 +636,7 @@ His tin box, brightly painted with a circus theme, is a little over 5 inches tal
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,"$9
+  [255 255 255]]]",4.8,"$11
 99","SHAPE SORTING WITH A SMILE: With colorful shapes made in sizes easy for little hands to grasp, kids can match, sort, shake, dump out, and do it all over again for hours of fun
 HELP PRACTICE FINE MOTOR MOJO: It may take some time for tiny fingers to get the hang of it - but with every new try, they can practice their mighty fine motor skills one shape at a time
 MATCHING FUN FOR KIDS 18 MONTHS AND UP: Each side of the Form Fitter has a texture to match its corresponding shapes, which gives toddlers and preschoolers a tactile cue
@@ -736,7 +743,8 @@ GREAT GIFT FOR 3 TO 6 YEARS: The Melissa & Doug Car Carrier Truck & Cars Wooden 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The Bitzy Crinkle is a loveable sensory toy that excites baby with a crinkle sound, textured ribbons and a braided teething ring
+  [255 255 255]]]",4.8,"$14
+99","The Bitzy Crinkle is a loveable sensory toy that excites baby with a crinkle sound, textured ribbons and a braided teething ring
 The crinkle sound helps teach baby cause and effect, all while keeping them amused with its gentle sound
 Colorful ribbons will captivate your little one with their movement and entertain them with their texture
 A braided teething ring soothes and massages sore gums
@@ -789,7 +797,8 @@ The bunny Bitzy Crinkle is made of soft, natural cotton fabric and includes embr
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
+  [255 255 255]]]",5,"$8
+99","The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
 The Itzy Pal features an engaging crinkle sound and textured ribbons that are sure to keep baby’s hands busy
 The included silicone teether features texture to help soothe and massage sore gums while baby is teething
 An included attachment ring allows you to quickly and easily clip the Itzy Pal to a car seat or stroller for on-the-go use
@@ -842,7 +851,8 @@ Designed for ages 0 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The Bitzy Busy Ring includes a braided teething ring and dangling toys that feature textured ribbons, crinkle sounds and a gentle jingle sound to entertain baby
+  [255 255 255]]]",4.9,"$12
+99","The Bitzy Busy Ring includes a braided teething ring and dangling toys that feature textured ribbons, crinkle sounds and a gentle jingle sound to entertain baby
 The Busy Ring also includes a textured teether and a dangling star to help encourage reaching and grasping
 The toy can easily attach to a car seat or stroller to keep baby entertained when on the move
 Made of natural cotton fabric and soft velour to be gentle on baby’s skin
@@ -1004,7 +1014,8 @@ COLORS MAY VARY: A set includes four 4"" sensory ball for toddlers 1-3 with colo
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Wooden shape sorter: Kids Preferred presents this super cute, charmingly detailed shape sorter that features artwork from The Tale of Peter Rabbit on character and shape blocks.
+  [255 255 255]]]",4.6,"$22
+00","Wooden shape sorter: Kids Preferred presents this super cute, charmingly detailed shape sorter that features artwork from The Tale of Peter Rabbit on character and shape blocks.
 Developmental toy: This sorter is 2 puzzles in 1 with a “Grow with Me” function featuring 4 geometric blocks for shape recognition that little ones can quickly master & 4 character shaped blocks for story-time interaction and more advanced play.
 Toddler essential: This shape sorting toy set is ideal for baby showers, 1st birthdays, and is popular for boys and girls ages 18 months and up. BPA Free. Set measures 5.5”x 3.5”.
 Sensory details: Engage little ones with a shape sorter that includes 8 Peter Rabbit themed pieces that help baby discover shapes and matching the shapes to the correct openings."
@@ -1056,7 +1067,8 @@ Sensory details: Engage little ones with a shape sorter that includes 8 Peter Ra
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Classic gameplay
+  [255 255 255]]]",4.7,"$6
+99","Classic gameplay
 Regulation, tournament-sized dominoes
 Polished finish with engraved dots
 Perfect for the avid domino player
@@ -1109,7 +1121,8 @@ For 2-4 players, ages 5 and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The Sort and Discover Activity Cube features five sides of fun activities; features 75+ songs, sounds, melodies and phrases
+  [255 255 255]]]",4.8,"$34
+99","The Sort and Discover Activity Cube features five sides of fun activities; features 75+ songs, sounds, melodies and phrases
 Your little one will love exploring seven fun activities and two electronic panels that introduce colors, numbers, animals and more; 5 piano keys introduce numbers, colors and music
 Turn the book page, twist the spinner and slide the animals to develop fine motor skills; book page plays two nursery rhymes; spinner lights up and introduces animals and objects
 The activity cube also develops hand-eye coordination with the shape sorter and colorful shape blocks; includes 4 colorful shape blocks
@@ -1162,7 +1175,8 @@ Requires 2 AA batteries (batteries included for demo purposes only, new batterie
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"SLOTH BABY RATTLE: A rattle on the inside and a silicone teether on the outside make this both stimulating and soothing
+  [255 255 255]]]",4.8,"$9
+99","SLOTH BABY RATTLE: A rattle on the inside and a silicone teether on the outside make this both stimulating and soothing
 MOLASSES SLOTH: Sleepy-eyed soft buddy hangs onto teether, measures 5-inches
 TAGS BABIES LOVE TO EXPLORE: Adorned with interactive and soothing satin loop tags for baby's sensory delight
 EASY TO CARE FOR: Surface wash with cold water and mild soap as needed, air dry
@@ -1216,7 +1230,8 @@ Minimum 1 Months, Maximum-36 Months"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"BABY STACKING CUPS: Entertain your babies and toddlers for hours with these sorting and stacking toys. This classic toy comes with 19 colorful pieces that you can stack into a tower or sort into the nesting cups.
+  [255 255 255]]]",4.7,"$9
+99","BABY STACKING CUPS: Entertain your babies and toddlers for hours with these sorting and stacking toys. This classic toy comes with 19 colorful pieces that you can stack into a tower or sort into the nesting cups.
 EDUCATIONAL TOYS: Encourage early development and learning with these nesting cups. Teach your toddler colors, shapes, numbers, hand-eye coordination, basic math concepts, and other various skills as they play.
 DURABLE MATERIALS: Play with these stacking cups for toddlers anywhere as they are crafted from tough, waterproof materials. Stack and sort these nesting cups on the beach, at the park, in the bath, or in a playroom.
 EASY-TO-STORE DESIGN: Slip the stacking smaller stacking cups into the largest bucket with the convenient handle to store. The nesting cup design makes this toy easy to take with you when traveling from one location to another.
@@ -1323,7 +1338,7 @@ STANDING BY OUR BRAND: If you're reading this, you've found a safe toy from a re
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"PERFECT GIFT FOR KIDS: Check out other bath or sensory toys in the Zimpli Kids store
+  [255 255 255]]]",4.2,$19.99,"PERFECT GIFT FOR KIDS: Check out other bath or sensory toys in the Zimpli Kids store
 12 x BATH USES IN TOTAL: All skin safe, drain safe, easy clean & stain free and proudly made in the UK to strict European safety standards
 6 x CRACKLE BAFF: Makes your bath water crackle, pop and change colour, just like popping candy
 4 x GELLI BAFF: Magically turns your water into thick, colourful goo which can be drained away safely and easily by following the instructions
@@ -1376,7 +1391,8 @@ STANDING BY OUR BRAND: If you're reading this, you've found a safe toy from a re
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Itzy Ritzy’s silicone Ritzy Rattle is a teething rattle that includes two silicone rings and a gentle rattle sound to entertain baby
+  [255 255 255]]]",4.8,"$8
+99","Itzy Ritzy’s silicone Ritzy Rattle is a teething rattle that includes two silicone rings and a gentle rattle sound to entertain baby
 The rattle is made of 100% food grade silicone and features raised textures to help soothe and massage sore gums
 Two attached silicone rings keep baby’s hands busy while the soft rattle sound helps occupy baby
 The wide opening makes the Ritzy Rattle easy for small hands to grasp
@@ -1429,7 +1445,8 @@ The Ritzy Rattle is designed for ages 3 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Itzy Ritzy’s water-filled teethers come in a 3-pack of coordinating fruit shapes that each feature an open design, making them easy for baby to hold
+  [255 255 255]]]",4.6,"$7
+99","Itzy Ritzy’s water-filled teethers come in a 3-pack of coordinating fruit shapes that each feature an open design, making them easy for baby to hold
 Each teether has texture on both sides to help soothe sore, swollen gums and massage emerging teeth
 For added relief, these teethers can be placed in the refrigerator until chilled so baby has something cold and soothing to chew on
 Before use, clean with a damp cloth and mild soap and air dry. Do not boil, microwave or place in freezer."
@@ -1481,7 +1498,8 @@ Before use, clean with a damp cloth and mild soap and air dry. Do not boil, micr
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"The Itzy Stacker includes six silicone stacking rings with a fun character topper to help improve baby’s fine motor skills and problem-solving skills
+  [255 255 255]]]",4.7,"$19
+99","The Itzy Stacker includes six silicone stacking rings with a fun character topper to help improve baby’s fine motor skills and problem-solving skills
 The silicone rings and topper are made of food grade silicone and feature multiple textures to help soothe and massage sore gums when used for teething
 The numbered rings nestle together for storage and make a cute shelf display when not in use
 Designed for ages 3 months and up"
@@ -1587,7 +1605,8 @@ Care instructions: Clean before use with damp cloth and mild soap. Air dry. Not 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"COUNTING & SORTING SKILLS: Unbox counting, sorting, and matching skills with these two-piece presents with a surprise inside!
+  [255 255 255]]]",4.8,"$23
+64","COUNTING & SORTING SKILLS: Unbox counting, sorting, and matching skills with these two-piece presents with a surprise inside!
 10 SURPRISE TOYS: Discover a different surprise toy in every box - 10 in all!
 FINE MOTOR SKILLS: Build fine motor skills as they box and unbox again and again!
 COLOR RECOGNITION: Learn recognition skills with the presents' unique colors and numbers!
@@ -1640,7 +1659,8 @@ Homeschool supplies for any toddler ages 3+"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.9,,"DINOSAUR BATH TOY FOR BABIES AND TODDLERS. Designed to easily fit little hands, the watering can includes draining holes in the mouth, horns and nose.
+  [255 255 255]]]",4.9,"$9
+99","DINOSAUR BATH TOY FOR BABIES AND TODDLERS. Designed to easily fit little hands, the watering can includes draining holes in the mouth, horns and nose.
 TACTILE WATER TOY. Develop motor skills and hand-eye coordination as your toddler scoops and pours water.
 MORE THAN JUST A BATHTUB TOY. Use the Pour & Roar Watering Can as a pool or water table toy.
 KID-SAFE DESIGN. The Pour & Roar Watering Can is free of BPA, Phthalates and PVC.
@@ -1693,7 +1713,8 @@ CERTIFIED PLASTIC NEUTRAL. Dr. Brown Baby Bath Essential items are now Certified
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Itzy Ritzy’s Teensy Teether features a flexible, hollow nipple teether that includes gentle texture to help soothe sore gums
+  [255 255 255]]]",4.7,"$6
+99","Itzy Ritzy’s Teensy Teether features a flexible, hollow nipple teether that includes gentle texture to help soothe sore gums
 The handle is easy for baby to hold and features a cable design element
 The Teensy Teether is made of 100% food grade silicone and is BPA-free and PVC-free
 Designed for ages 3 months and up"
@@ -1908,7 +1929,8 @@ SAFETY TESTED: JPMA certified to meet or exceed all safety standards set by ASTM
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Stationary, car-themed activity center that grows along with baby from sitting up to crawling to pulling up to stand and “cruising” all around
+  [255 255 255]]]",4.8,"$69
+99","Stationary, car-themed activity center that grows along with baby from sitting up to crawling to pulling up to stand and “cruising” all around
 3 Smart Stages levels with 120+ songs, sounds, tunes, and phrases teach shapes, colors, the alphabet, numbers, opposites and more
 Interactive dashboard activates lights, music and sounds as baby steers, shifts, turns the key, honks the horn, uses the turn signals, and turns “on” the radio
 Built-in ramp with 3 balls for play, plus shapes & colors door with 3 shape blocks to sort
@@ -2233,7 +2255,8 @@ For babies ages 9 months and older"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Turn bath time into a bow-tastic adventure with the Disney Junior Minnie Mouse Water Toys.
+  [255 255 255]]]",4.7,"$14
+99","Turn bath time into a bow-tastic adventure with the Disney Junior Minnie Mouse Water Toys.
 Styles may vary.
 Fun toys for the bath and pool!
 Collect Minnie Mouse, Daisy Duck, and Figaro. Each sold separatley.
@@ -2286,7 +2309,8 @@ Ages 3+"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"CLASSIC STORYTIME: Begin story time with a soft fabric book featuring favorite Disney princesses like Cinderella, Ariel, Snow White, & Belle. An adorable on-the-go book lets baby play as you read.
+  [255 255 255]]]",4.8,"$12
+00","CLASSIC STORYTIME: Begin story time with a soft fabric book featuring favorite Disney princesses like Cinderella, Ariel, Snow White, & Belle. An adorable on-the-go book lets baby play as you read.
 SOFT TEETHING TOY: Fun interactive materials keep baby engaged. This book features crinkly sound, squeaker, a c clip for attaching to stroller or car seat, a mirror and a textured teether.
 BABYS FIRST TOY: A baby essential, this carseat and stroller toy is ideal for baby showers, 1st birthdays, and is popular for boys & girls ages 0 months to toddler. Machine washable and BPA Free.
 CRINKLE BOOK: Soft teether books are classic retro toys that have amused babies for decades. This interactive infant book delights babies with textures, sounds, & bright colors to discover.
@@ -2339,7 +2363,8 @@ MODERN CLASSIC BABY TOY: The Wonderful World of Disney's iconic characters are i
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The Bitzy Crinkle is a loveable sensory toy that excites baby with a crinkle sound, textured ribbons and a braided teething ring
+  [255 255 255]]]",4.8,"$14
+99","The Bitzy Crinkle is a loveable sensory toy that excites baby with a crinkle sound, textured ribbons and a braided teething ring
 The crinkle sound helps teach baby cause and effect, all while keeping them amused with its gentle sound
 Colorful ribbons will captivate your little one with their movement and entertain them with their texture
 A braided teething ring soothes and massages sore gums
@@ -2392,7 +2417,8 @@ The bunny Bitzy Crinkle is made of soft, natural cotton fabric and includes embr
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
+  [255 255 255]]]",5,"$8
+99","The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
 The Itzy Pal features an engaging crinkle sound and textured ribbons that are sure to keep baby’s hands busy
 The included silicone teether features texture to help soothe and massage sore gums while baby is teething
 An included attachment ring allows you to quickly and easily clip the Itzy Pal to a car seat or stroller for on-the-go use
@@ -2445,7 +2471,8 @@ Designed for ages 0 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The Bitzy Busy Ring includes a braided teething ring and dangling toys that feature textured ribbons, crinkle sounds and a gentle jingle sound to entertain baby
+  [255 255 255]]]",4.9,"$12
+99","The Bitzy Busy Ring includes a braided teething ring and dangling toys that feature textured ribbons, crinkle sounds and a gentle jingle sound to entertain baby
 The Busy Ring also includes a textured teether and a dangling star to help encourage reaching and grasping
 The toy can easily attach to a car seat or stroller to keep baby entertained when on the move
 Made of natural cotton fabric and soft velour to be gentle on baby’s skin
@@ -2498,7 +2525,8 @@ Designed for ages 0 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"8.75 x 7.75 x 1.5
+  [255 255 255]]]",4.7,"$16
+99","8.75 x 7.75 x 1.5
 crinkling, rattling, lift-the-flap cloth book
 easy-grasp flaps and cute characters"
 "[[[255 255 255]
@@ -2603,7 +2631,8 @@ Made of BPA free materials. Nuby’s Baby’s Bath Book features soft pages that
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Have a wobbly-bobbly ball with baby
+  [255 255 255]]]",4.4,"$11
+61","Have a wobbly-bobbly ball with baby
 Ball rolls in different directions for baby to chase
 Silly sounds play with every shake
 Multiple textures are easy for baby to hold
@@ -2656,7 +2685,8 @@ Encourage walking with this chase toy"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"CLASSIC STORYTIME: Help baby to learn & begin story time with a soft fabric book featuring the little bunny wishing everything “goodnight”. This adorable soft toy lets baby interact with the bunny’s bedroom.
+  [255 255 255]]]",4.7,"$11
+47","CLASSIC STORYTIME: Help baby to learn & begin story time with a soft fabric book featuring the little bunny wishing everything “goodnight”. This adorable soft toy lets baby interact with the bunny’s bedroom.
 SOFT TEETHING TOY: Fun interactive materials & on-the-go clip keep baby engaged in the stroller, car seat, or at home. Book features corner teether, crinkle, squeak, multiple textures, & peek-a-boo flap.
 BABYS FIRST TOY: A baby essential, this carseat and stroller toy is ideal for baby showers, 1st birthdays, and is popular for boys & girls ages 0 months to toddler. Machine wash. BPA Free.
 CRINKLE BOOK: Soft books, or teether books, are classic retro toys that have amused babies for decades. This interactive infant book delights babies with textures, sounds, & bright colors to discover.
@@ -2709,7 +2739,8 @@ MODERN CLASSIC BABY TOY: The great green room is instantly recognizable, bringin
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"TEST YOUR BALANCE - Show off your balancing skills while jumping from stone to stone and create a new obstacle playground every day. Let your imagination lead the way with National Geographic Balance Stepping Stones!
+  [255 255 255]]]",4.5,"$49
+99","TEST YOUR BALANCE - Show off your balancing skills while jumping from stone to stone and create a new obstacle playground every day. Let your imagination lead the way with National Geographic Balance Stepping Stones!
 MADE TO LAST – Our unique foam formula is both flexible and durable making these stepping stones a great toddler gift that’s made to last. For best results use on carpeted areas or outdoors.
 DURABLE YET SOFT - These colorful stones are lightweight and soft to the touch. This fun toddler activity helps promote positive development. The perfect preschool toy or activity that encourages imagination and active playtime.
 AWARD-WINNING – These Balance Stepping Stones are one of the best toddler toys around, which is why they were awarded the 2019 TOY OF THE YEAR AWARD for excellence by Creative Child Magazine.
@@ -2923,7 +2954,8 @@ GIVE THE GIFT OF LEARNING: Whether you’re shopping for holidays, birthdays, or
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
+  [255 255 255]]]",5,"$8
+99","The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
 The Itzy Pal features an engaging crinkle sound and textured ribbons that are sure to keep baby’s hands busy
 The included silicone teether features texture to help soothe and massage sore gums while baby is teething
 An included attachment ring allows you to quickly and easily clip the Itzy Pal to a car seat or stroller for on-the-go use
@@ -2976,7 +3008,8 @@ Designed for ages 0 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Itzy Ritzy’s silicone Ritzy Rattle is a teething rattle that includes two silicone rings and a gentle rattle sound to entertain baby
+  [255 255 255]]]",4.8,"$8
+99","Itzy Ritzy’s silicone Ritzy Rattle is a teething rattle that includes two silicone rings and a gentle rattle sound to entertain baby
 The rattle is made of 100% food grade silicone and features raised textures to help soothe and massage sore gums
 Two attached silicone rings keep baby’s hands busy while the soft rattle sound helps occupy baby
 The wide opening makes the Ritzy Rattle easy for small hands to grasp
@@ -3029,7 +3062,8 @@ The Ritzy Rattle is designed for ages 3 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Itzy Ritzy’s water-filled teethers come in a 3-pack of coordinating fruit shapes that each feature an open design, making them easy for baby to hold
+  [255 255 255]]]",4.6,"$7
+99","Itzy Ritzy’s water-filled teethers come in a 3-pack of coordinating fruit shapes that each feature an open design, making them easy for baby to hold
 Each teether has texture on both sides to help soothe sore, swollen gums and massage emerging teeth
 For added relief, these teethers can be placed in the refrigerator until chilled so baby has something cold and soothing to chew on
 Before use, clean with a damp cloth and mild soap and air dry. Do not boil, microwave or place in freezer."
@@ -3081,7 +3115,8 @@ Before use, clean with a damp cloth and mild soap and air dry. Do not boil, micr
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"The Itzy Stacker includes six silicone stacking rings with a fun character topper to help improve baby’s fine motor skills and problem-solving skills
+  [255 255 255]]]",4.7,"$19
+99","The Itzy Stacker includes six silicone stacking rings with a fun character topper to help improve baby’s fine motor skills and problem-solving skills
 The silicone rings and topper are made of food grade silicone and feature multiple textures to help soothe and massage sore gums when used for teething
 The numbered rings nestle together for storage and make a cute shelf display when not in use
 Designed for ages 3 months and up"
@@ -3134,7 +3169,7 @@ Designed for ages 3 months and up"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.5,"$20
-70","Fully Equipped Sensory Activity Box: The Sensory Tissue Box by Be Amazing! Toys provides the ultimate sensory activity that promotes the development of fine motor skills in your child. Pull textured scarves out of a plush tissue box and discover exciting colors and textures
+89","Fully Equipped Sensory Activity Box: The Sensory Tissue Box by Be Amazing! Toys provides the ultimate sensory activity that promotes the development of fine motor skills in your child. Pull textured scarves out of a plush tissue box and discover exciting colors and textures
 Treat Your Senses: Develop coordination, exploration and color recognition with the Sense & Grow Products; Improve hand-eye coordination, dexterity, and fine motor skills as you explore the sense of touch with these textured scarves
 Discover Different Textures: Our sensory toy for toddlers and babies comes with many interesting materials to trigger your kid’s senses; Discover sheer, tulle, cotton and felt and enjoy the fun sounds of the corduroy crinkly scarf
 Big Gift for Little Ones: Give a gift that will delight parents as well as kids; It's the perfect holiday or birthday present that will keep them entertained long after the party is over; Teach them to pull at the scarves to remove them from the tissue box and then push them back in to start the fun again
@@ -3242,7 +3277,8 @@ Made from 100% recycled material^Made in the USA^Safe & Non-toxic, no BPA, Phtha
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"This 12-piece set of building blocks are made from super soft BPA-free material. This means no more accidental ouchies for baby and you
+  [255 255 255]]]",4.8,"$18
+99","This 12-piece set of building blocks are made from super soft BPA-free material. This means no more accidental ouchies for baby and you
 Your baby can stack the blocks or play with them individually by squishing their must-squeeze soft material
 Three different size varieties give your baby more options during playtime and introduces them to small, medium, and large
 Inspires imagination with open-ended play possibilities that keep playtime fun and engaging
@@ -3295,7 +3331,8 @@ Perfectly sized for little hands to hold and stack, while supporting developing 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Scoop, strain and store bath toys in seconds
+  [255 255 255]]]",4.1,"$16
+99","Scoop, strain and store bath toys in seconds
 Large capacity basket holds many toys
 Drain holes allow for rinsing and air drying
 Attaches to tub wall with hanging bracket"
@@ -3347,7 +3384,8 @@ Attaches to tub wall with hanging bracket"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.9,,"DEVELOPMENTAL TOY: Help baby learn & grow with a Stitch Plush activity toy from Disney Baby that includes a fun chime, crinkle ears, textured teethers, and an on-the-go clip
+  [255 255 255]]]",4.9,"$18
+00","DEVELOPMENTAL TOY: Help baby learn & grow with a Stitch Plush activity toy from Disney Baby that includes a fun chime, crinkle ears, textured teethers, and an on-the-go clip
 BABYS FIRST TOY: A baby essential, this car seat and stroller toy is ideal for baby showers and new baby welcomes, and is popular for boys & girls ages 0 months to toddler. Machine washable
 FUN DISNEY ACCESSORY: Baby essential, this carseat and stroller toy is ideal for baby showers and new baby welcomes, and is popular for boys & girls ages 0 months to toddler. Machine washable and BPA Free
 BABY ON THE GO: Keep baby happy and soothed while shopping or in the car. Easy to take along in the stroller, car seat, high chair, or shopping cart, helping keep baby entertained.This interactive infant toy delights babies with textures, sounds, & bright colors to discover
@@ -3456,7 +3494,8 @@ Super Smart Toddler Easter Basket Stuffers!: Whether they're learning with math 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Design: Fillable water mat for tummy time and sensory play complete with squishy tail and safety edges, for interactive and mess free water play while learning cause and effect
+  [255 255 255]]]",4.2,"$7
+99","Design: Fillable water mat for tummy time and sensory play complete with squishy tail and safety edges, for interactive and mess free water play while learning cause and effect
 Developmental benefits: Mat helps baby to engage head and neck muscles while encouraging grasping and batting to refine motor skills with floating sea pals
 Great for gifting: This mat is packaged in easy-to-wrap packaging and is a suitable gift for any occasion including baby showers, birthdays, Christmas, Easter and more
 How it works: Simply fill the outer edge with air, and the inner mat with water until it reaches the fill line then drain and deflate for compact storage or on-the-go entertainment
@@ -3509,7 +3548,8 @@ Infantino, smartly designed products for happy parenting: We design smartly, we 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Dog-themed ride-on learning toy lets babies bounce and spin 360 degrees with 2 musical play modes
+  [255 255 255]]]",4.8,"$67
+23","Dog-themed ride-on learning toy lets babies bounce and spin 360 degrees with 2 musical play modes
 100+ songs, sounds & phrases teach numbers & counting, colors, the alphabet and first words
 Spin the light-up rattle roller or press the ABC and 123 buttons for lights, songs and sounds
 Easy-grip handles, sturdy base, and comfy saddle helps baby feel secure as they play
@@ -3562,8 +3602,8 @@ Helps build balance & coordination skills for babies and toddlers ages 12 months
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,"$18
-99","Wooden bright green and polka-dot frog pull toy
+  [255 255 255]]]",4.8,"$19
+43","Wooden bright green and polka-dot frog pull toy
 Frolicking frog bounces and bobs as kids pull wheeled toy with string
 Encourages movement and sensory development
 Bright colors, bold patterns, and whimsical design boost skills and spark imagination
@@ -3616,7 +3656,7 @@ Ages 18 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,"$16
+  [255 255 255]]]",4.7,"$16
 99","Wooden vehicle stacker
 Includes 10 toy cars, sliding counter, and wooden frame
 Clever drop-down counter encourages early math skills
@@ -3671,7 +3711,8 @@ Makes a great gift for kids ages 3 and up, for hands-on, screen-free play"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"This lightweight hoop is fun to use and can fly for more than 100 feet.
+  [255 255 255]]]",4.4,"$12
+99","This lightweight hoop is fun to use and can fly for more than 100 feet.
 The hoop's soft foam ring and spandex sleeve is both safe to use and durable, designed to stand up under hours of intense play.
 The Beamo Flying Hoop helps develop hand-eye coordination and keeps kids on the move.
 Suitable for outdoor play only.
@@ -3726,7 +3767,8 @@ Committed to providing the most imaginative toys along with the highest safety s
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"ENGAGE AND EXPLORE: Babies will love self-discovering all the contrasting colors, patterns, textures, crinkle sounds, clacking rings and satin fiddle flags. Lifting the peek & seek lid brings a sweet surprise and a big selfie mirror.
+  [255 255 255]]]",4.8,"$13
+88","ENGAGE AND EXPLORE: Babies will love self-discovering all the contrasting colors, patterns, textures, crinkle sounds, clacking rings and satin fiddle flags. Lifting the peek & seek lid brings a sweet surprise and a big selfie mirror.
 SAFE FOR BABY: With no hard edges, this discovery cube’s cuddly soft fabric and selfie mirror are ideal for holding and snuggling.
 JUST RIGHT FOR LITTLE HANDS: Perfectly sized for tiny fingers and hands to hold and explore on their own.
 DEVELOPMENTAL ACTIVITY: The selfie mirror offers an introduction to self awareness. The variety of sounds provides audio stimulation. Fiddle flags help little fingers develop fine motor skills. Friendly characters will encourage early color and fruit identification.
@@ -3780,7 +3822,7 @@ DESIGNED WITH LOVE: At Infantino, we love babies, we adore kids, and we admire t
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.8,"$25
-78","PAW PATROL TRUE METAL PLAY MAT: Set up the mat in the playroom, bedroom or any room for exciting True Metal vehicles play! The mat features a printed map of Adventure City and measures 11.5in. x 11.5in.
+85","PAW PATROL TRUE METAL PLAY MAT: Set up the mat in the playroom, bedroom or any room for exciting True Metal vehicles play! The mat features a printed map of Adventure City and measures 11.5in. x 11.5in.
 TRANSFORMS TO TOY STORAGE BOX: The Adventure City mat folds up into a toy box! Close it up and store the included vehicles and accessories, and other True Metal vehicles from your collection inside!
 MOVIE-THEMED ACCESSORIES: 2 included play pieces add to your storytelling play. Roll Marshall over the City Hall ramp and knock down the flames! Then, burst through the obedience school’s wall!
 COLLECT THEM ALL: For more fun, collect all the PAW Patrol toys like the Big Truck Pup kids toys, PAW Patrol movie toys, dragon toys, stuffed animals, toy figures and playsets (each sold separately).
@@ -3889,7 +3931,8 @@ GIVE THE GIFT OF LEARNING: Whether you’re shopping for holidays, birthdays, or
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Age grade 0m+
+  [255 255 255]]]",4.8,"$5
+99","Age grade 0m+
 Easy-to-grasp chewy ring with chaser bead gems
 Multi-textured chewy sensory petals
 Roller ball center with bouncy rattle beads
@@ -3942,7 +3985,8 @@ Perfect size for little hands"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The Bitzy Crinkle is a loveable sensory toy that excites baby with a crinkle sound, textured ribbons and a braided teething ring
+  [255 255 255]]]",4.8,"$14
+99","The Bitzy Crinkle is a loveable sensory toy that excites baby with a crinkle sound, textured ribbons and a braided teething ring
 The crinkle sound helps teach baby cause and effect, all while keeping them amused with its gentle sound
 Colorful ribbons will captivate your little one with their movement and entertain them with their texture
 A braided teething ring soothes and massages sore gums
@@ -3995,7 +4039,8 @@ The bunny Bitzy Crinkle is made of soft, natural cotton fabric and includes embr
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
+  [255 255 255]]]",5,"$8
+99","The Itzy Pal infant toy and teether includes a soft, plush dinosaur character and a gentle silicone teether
 The Itzy Pal features an engaging crinkle sound and textured ribbons that are sure to keep baby’s hands busy
 The included silicone teether features texture to help soothe and massage sore gums while baby is teething
 An included attachment ring allows you to quickly and easily clip the Itzy Pal to a car seat or stroller for on-the-go use
@@ -4048,7 +4093,8 @@ Designed for ages 0 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The Bitzy Busy Ring includes a braided teething ring and dangling toys that feature textured ribbons, crinkle sounds and a gentle jingle sound to entertain baby
+  [255 255 255]]]",4.9,"$12
+99","The Bitzy Busy Ring includes a braided teething ring and dangling toys that feature textured ribbons, crinkle sounds and a gentle jingle sound to entertain baby
 The Busy Ring also includes a textured teether and a dangling star to help encourage reaching and grasping
 The toy can easily attach to a car seat or stroller to keep baby entertained when on the move
 Made of natural cotton fabric and soft velour to be gentle on baby’s skin
@@ -4155,7 +4201,8 @@ Super Sensory Skills: Sensory fidget toys and activities not only encourage chil
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Product includes - The Freight Battery Engine is a battery powered train that's strong enough to pull the longest trains - just a push of the buton makes it go forward, reverse and stop.
+  [255 255 255]]]",4.6,"$29
+99","Product includes - The Freight Battery Engine is a battery powered train that's strong enough to pull the longest trains - just a push of the buton makes it go forward, reverse and stop.
 Perfect for the creative toddler - Keep your budding train engineer on the right track by adding a Freight Battery Engine to your collection. It’s the perfect gift at Christmas or over the holiday season for the creative toddler - designed for ages 3 and up.
 Compatibility - As your child develops, so can their railway play as the 33214 Freight Battery Engine is compatible with all other BRIO railway toys.
 Develops important skills - Playing with train sets helps children to understand and learn about their environment in a fun way.
@@ -4208,7 +4255,8 @@ Safe for your child - We conduct more than 1, 000 safety tests a year to ensure 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"10 Bath Boats: This colorful play set includes 10 stackable and tiny hands-friendly boats that float and connect!
+  [255 255 255]]]",4.7,"$6
+95","10 Bath Boats: This colorful play set includes 10 stackable and tiny hands-friendly boats that float and connect!
 Stack & Learn: This bathtime toy set features the numbers 1 through 10 and can help your little one discover the 123s as they scoop, stack, and play.
 Indoor & Outdoor: Make a splash in the tub, discover numbers in the playroom, make these boats float in the pool, or scoop up some sand at the beach.
 Easy Storage: Storing these bath boats is easy-peasy – just stack them all up and put them away at the end of the day.
@@ -4480,7 +4528,8 @@ Collapsible design for convenient storage when not in use; assembled dimensions 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"HUGE VALUE -- This bulk set includes 500 Transparent Counters in 6 colors: red, orange, yellow, blue, green and purple. Perfect for preschool, kindergarten or learning at home.
+  [255 255 255]]]",4.8,"$8
+99","HUGE VALUE -- This bulk set includes 500 Transparent Counters in 6 colors: red, orange, yellow, blue, green and purple. Perfect for preschool, kindergarten or learning at home.
 VERSATILE MATH RESOURCE -- These counters develop essential skills such as counting, sorting and sequencing. Kids love to add, subtract and create patterns with these hands-on, colorful chips.
 MAKE LEARNING COLORFUL -- Pair these counters with light panels and overhead projectors to illuminate learning. Create visual lessons as you demonstrate color mixing, light exploration and more.
 DESIGNED FOR KIDS -- No sharp edges. Measuring 0.75” diameter, these counting chips are easy for young hands to pick up and manipulate. Perfect for bingo and board games.
@@ -4588,7 +4637,8 @@ No BPA, phthalates, PVC, or external coatings"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Itzy Ritzy’s silicone Ritzy Rattle is a teething rattle that includes two silicone rings and a gentle rattle sound to entertain baby
+  [255 255 255]]]",4.8,"$8
+99","Itzy Ritzy’s silicone Ritzy Rattle is a teething rattle that includes two silicone rings and a gentle rattle sound to entertain baby
 The rattle is made of 100% food grade silicone and features raised textures to help soothe and massage sore gums
 Two attached silicone rings keep baby’s hands busy while the soft rattle sound helps occupy baby
 The wide opening makes the Ritzy Rattle easy for small hands to grasp
@@ -4641,7 +4691,8 @@ The Ritzy Rattle is designed for ages 3 months and up"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Itzy Ritzy’s water-filled teethers come in a 3-pack of coordinating fruit shapes that each feature an open design, making them easy for baby to hold
+  [255 255 255]]]",4.6,"$7
+99","Itzy Ritzy’s water-filled teethers come in a 3-pack of coordinating fruit shapes that each feature an open design, making them easy for baby to hold
 Each teether has texture on both sides to help soothe sore, swollen gums and massage emerging teeth
 For added relief, these teethers can be placed in the refrigerator until chilled so baby has something cold and soothing to chew on
 Before use, clean with a damp cloth and mild soap and air dry. Do not boil, microwave or place in freezer."
@@ -4693,7 +4744,8 @@ Before use, clean with a damp cloth and mild soap and air dry. Do not boil, micr
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"The Itzy Stacker includes six silicone stacking rings with a fun character topper to help improve baby’s fine motor skills and problem-solving skills
+  [255 255 255]]]",4.7,"$19
+99","The Itzy Stacker includes six silicone stacking rings with a fun character topper to help improve baby’s fine motor skills and problem-solving skills
 The silicone rings and topper are made of food grade silicone and feature multiple textures to help soothe and massage sore gums when used for teething
 The numbered rings nestle together for storage and make a cute shelf display when not in use
 Designed for ages 3 months and up"
@@ -4801,8 +4853,8 @@ PRODUCT SPECIFICATIONS — recommended for kids 6 months to 2 years, includes 6 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,"$36
-31","SPIN AROUND TO PEPPA PIG SONGS: Get ready for a “spin” on the classic Sit ‘n Spin toy with this Peppa Pig version. Whirl the musical toy’s wheel to hear the Peppa Pig theme song, or a clip from “Bing Bong”
+  [255 255 255]]]",4.7,"$35
+08","SPIN AROUND TO PEPPA PIG SONGS: Get ready for a “spin” on the classic Sit ‘n Spin toy with this Peppa Pig version. Whirl the musical toy’s wheel to hear the Peppa Pig theme song, or a clip from “Bing Bong”
 A CLASSIC TWIST ON ACTIVE PLAY: Turn the fun loose with Peppa and friends on this sit-on spinning activity toy for toddlers 18 months and up. It also makes a great way to help practice motor skills
 CUTE PEPPA PIG-THEMED DESIGN: It’s a crossover that can only be described as oink-tacular. The Playskool Peppa Pig Sit ‘n Spin toy provides plenty of classic spinning action for energetic Peppa Pig fans
 GO ‘ROUND AND ‘ROUND: Kids control the speed, as they push and pull the stationary wheel to make the base spin. When they stop spinning, the music stops too.
@@ -4856,7 +4908,8 @@ EASY-PEASY FRUSTRATION-FREE SHIPPING: Ships in simple recyclable brown packaging
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Includes 4 different water-squirting, floating barnyard animal friends
+  [255 255 255]]]",4.7,"$5
+29","Includes 4 different water-squirting, floating barnyard animal friends
 Fun way to teach animal names and sounds in the bath
 Great for underwater bubbles and bath games"
 "[[[255 255 255]
@@ -4907,7 +4960,8 @@ Great for underwater bubbles and bath games"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"2-in-1 food truck Jumperoo entertainer and infant activity center with toys, music, sounds, lights, and learning content
+  [255 255 255]]]",4.8,"$149
+99","2-in-1 food truck Jumperoo entertainer and infant activity center with toys, music, sounds, lights, and learning content
 Converts from freestanding baby jumper (up to 25 lb/11,3 kg), to crawl-around infant play center with shape sorter activities
 Interactive steering wheel lights up and plays 100+ songs, sounds, and phrases
 Content changes as baby grows with Smart Stages technology and teaches them colors, shapes, the alphabet, counting, and opposites
@@ -4960,7 +5014,8 @@ Content changes as baby grows with Smart Stages technology and teaches them colo
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"12 JUMBO TWEEZERS -- This set includes 12 tweezers in 6 different colors: blue, green, red, yellow, orange and purple. These colors perfectly accommodate counting and sorting kits.
+  [255 255 255]]]",4.7,"$12
+99","12 JUMBO TWEEZERS -- This set includes 12 tweezers in 6 different colors: blue, green, red, yellow, orange and purple. These colors perfectly accommodate counting and sorting kits.
 MADE FOR LITTLE HANDS -- These tweezers measure 4.5”L and feature an ergonomic design to fit comfortably in small hands. Children can easily pick up manipulatives during lessons or sensory play
 EXERCISE FINE MOTOR SKILLS -- Using Jumbo Tweezers with sorting activities strengthens children’s pincer grip and develops fine motor skills. Ideal for occupational therapists.
 A VERSATILE LEARNING RESOURCE -- Pair these tweezers with bowls to create matching, counting and sorting games. They’re also ideal for sensory bins, sand tables and loose parts kits
@@ -5014,7 +5069,8 @@ LEARNING THROUGH PLAY -- Our products inspire children to play with purpose. Pla
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"3-Pack of textured teethers
+  [255 255 255]]]",4.8,"$9
+49","3-Pack of textured teethers
 Easy to grasp and hold
 Chewy feet and ring for teething
 Fun crinkle sounds for baby to explore
@@ -5120,7 +5176,8 @@ BUY RISK-FREE: We fully stand behind our products with a best satisfaction and 1
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"SOOTHING ON GUMS - The unique textured design helps to relieve gums and comfort babies while they are teething.
+  [255 255 255]]]",4.2,"$8
+29","SOOTHING ON GUMS - The unique textured design helps to relieve gums and comfort babies while they are teething.
 MEDICAL GRADE SILICONE - Made of 100% medical-grade silicone. Completely BPA-free and safe for baby.
 PACIFIER STYLE - This teether is designed to be hands-free similar to a traditional pacifier. This style is perfect for younger babies ages 3 months and up who have not yet developed strong hand-eye coordination.
 CALM AND COMFORT BABY - These teethers are a quick and easy way to quiet a troubled baby. The textured silicone is gentle on delicate gums.
@@ -5173,7 +5230,8 @@ COLORS VARY - This item comes in several colors. You will receive two of the fol
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"The fun shark teether is made of 100% super soft silicone to help soothe baby's sore gums.
+  [255 255 255]]]",4.8,"$10
+99","The fun shark teether is made of 100% super soft silicone to help soothe baby's sore gums.
 The lightweight teether was designed to make it easy for little hands to hold while teething.
 The teether features multiple teething surfaces to soothe tender gums and stimulates the emergence of New teeth.
 This eye catching, fun shark design helps stimulate the senses promoting hand and eye coordination.
@@ -5279,7 +5337,8 @@ Soft polyester fabric and child-safe materials
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"CLASSIC STORYTIME: Help baby to learn and begin story time with a soft fabric book featuring Peter Rabbit. An adorable 6.5 inch on-the-go book lets baby play as you read a story together.
+  [255 255 255]]]",4.8,"$18
+00","CLASSIC STORYTIME: Help baby to learn and begin story time with a soft fabric book featuring Peter Rabbit. An adorable 6.5 inch on-the-go book lets baby play as you read a story together.
 SOFT TEETHING TOY: Fun interactive materials keep baby engaged in the stroller, car seat, or at home. This book features a crinkly sound, squeaker, and textured teether.
 BABYS FIRST TOY: A baby essential, this carseat and stroller toy is ideal for baby showers, 1st birthdays, and is popular for boys & girls ages 0 months to toddler. Machine washable and BPA Free.
 CRINKLE BOOK: Soft books, or teether books, are classic retro toys that have amused babies for decades. This interactive infant book delights babies with textures, sounds, & bright colors to discover.

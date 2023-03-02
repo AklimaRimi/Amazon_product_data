@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -210,12 +210,14 @@ Relaxed Fit"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Rubber sole
-Soft nubuck leather upper with one side bar, 3-point adjustability and neoprene lining for a soft and comfortable fit
-Lightweight moulded EVA footbed with soft microfibre cover for supreme cushioning and superior stability
-FLUIDFORM DIP P.U midsole foam provides long-lasting cushioning and outstanding everyday walking comfort
-RECEPTOR technology for excellent stability and dynamic support from ground impact to toe-off
-Durable rubber outsole for outstanding grip and traction on varied terrain"
+  [255 255 255]]]",4.7,,"Leather and Textile
+Imported
+Rubber sole
+Nubuck uppers
+Stretch fit material lining
+Direct injected PU midsole featuring full length RECEPTOR Technology
+Dual density footbed for added comfort
+Rubber Outsole"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -592,9 +594,9 @@ Since 1947 Salomon has created innovative outdoor sports gear; From running and 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Textile and Synthetic
+  [255 255 255]]]",4.6,,"Textile and Synthetic
 Imported
-Man Made sole
+Synthetic sole
 Memory foam insole. The shoe has a dual side elastic fabric panels for easy slip on fit
 Shock absorbing FlexSole lightweight midsole
 Relaxed Fit for a roomy comfort fit at toe and forefoot
@@ -976,7 +978,7 @@ Super Elevate"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Made in the USA or Imported
+  [255 255 255]]]",4.6,,"Made in the USA or Imported
 Synthetic Rubber sole
 GORE-TEX SURROUND for 100% waterproof protection and 360-degree breathability
 ECCO FLUIDFORM Direct Comfort Technology for cushioning, rebound and flexibility
@@ -1375,7 +1377,7 @@ TRACTION: Oil- and slip-resistant, non-marking, rubber outsoles are used for imp
   [255 255 255]
   [255 255 255]
   ...
-  [255 254 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -1383,7 +1385,7 @@ TRACTION: Oil- and slip-resistant, non-marking, rubber outsoles are used for imp
   [255 255 255]
   [255 255 255]
   ...
-  [255 254 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -1391,7 +1393,7 @@ TRACTION: Oil- and slip-resistant, non-marking, rubber outsoles are used for imp
   [255 255 255]
   [255 255 255]
   ...
-  [255 254 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -1419,13 +1421,13 @@ TRACTION: Oil- and slip-resistant, non-marking, rubber outsoles are used for imp
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"100% Leather
+  [255 255 255]]]",4.6,,"100% Leather
 Imported
 Synthetic sole
 Shaft measures approximately 6.5 from arch
-THE ORIGINAL: Instantly recognizable and ready to make your own; With 8 eyes, grooved sides and yellow stitching, the 1460 has style for the ages
-AIR-CUSHIONED: Dr. Martens famous “bouncing” AirWair soles are comfortable, oil and fat resistant and provide good abrasion and slip resistance
-MADE LIKE NO OTHER: Boots built to pound the pavement; The leather upper and sole are heat-sealed together for exceptional durability"
+Smooth leather upper
+Raw leather interior
+8 eyelet lace-up"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1749,7 +1751,7 @@ Packed with comfort features including BIOM last to allow natural foot movement"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.6,,"Imported
-Rubber sole
+Synthetic sole
 Shaft measures approximately not_applicable from arch
 Winter lining
 Relaxed Fit 360 degree memory foam"
@@ -1856,7 +1858,7 @@ ALPINE STYLE & PERFORMANCE: A lightweight, mid height, waterproof boot, made wit
   ...
   [254 254 254]
   [254 254 254]
-  [254 254 254]]]",4.6,,"50% Rubber, 50% Neoprene
+  [254 254 254]]]",4.7,,"50% Rubber/50% Neoprene
 Made in USA or Imported
 Rubber sole
 Shaft measures approximately 6"" from arch
@@ -2391,8 +2393,8 @@ Oil- & slip-resistant high-traction rubber lug outsole for enhanced grip on a va
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
-  [255 255 255]
+  [254 254 254]
+  [254 254 254]
   [255 255 255]]
 
  [[255 255 255]
@@ -2409,7 +2411,8 @@ Oil- & slip-resistant high-traction rubber lug outsole for enhanced grip on a va
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Made in the USA or Imported
+  [255 255 255]]]",4.8,"$35
+79","Made in the USA or Imported
 Ethylene Vinyl Acetate sole
 JACK SKELLINGTON CROCS: Tim Burton’s The Nightmare Before Christmas comes to life on this Jack Skellington clog with glow in the dark jibbitz shoe charms.
 LIGHTWEIGHT AND FUN: The Crocs for men and women feature lightweight Iconic Crocs Comfort. Ventilation ports add breathability and help shed water and debris quickly
@@ -2954,14 +2957,13 @@ CARE TIPS: Gently brush the shoe with a soft bristle brush or hand towel to remo
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"100% Leather
-Made in USA or Imported
+  [255 255 255]]]",4.5,,"Made in the USA or Imported
 Rubber sole
-Feel superior cushioning and support in the timeless style of the Cole Haan GrandPro TopSpin Sneaker.
-Lace-up style.
-Lightweight leather uppers for a soft and flexible feel.
-Luxuriously cushioned GRANDFAM footbed.
-Plush heel padding that hugs your foot."
+Featuring a crafted welt that connects an extra-cushioned midsole to a luxe leather upper, the Cole Haan GrandPro TopSpin Sneaker offers superior style and comfort.
+Grand.OS technology for lightweight comfort, flexibility, and responsive cushioning.
+Lace-up vamp.
+Round toe.
+Padded collar."
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3115,12 +3117,12 @@ CARE TIPS & ODOR PREVENTION: All KEEN water sandals are machine washable. Use a 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Leather
-Made in the USA or Imported
-Rubber sole
-Classic plain toe oxford with crafted leather uppers EVA footbed for added comfort and supportLightweight construction so you can go further
-Lined in textile
-EVA midsole for luxurious comfortWelt detailing for added craft elementEVA Outsole with rubber forefront and heel for traction"
+  [255 255 255]]]",4.6,,"Made in the USA or Imported
+Get the inimitable style and ultimate comfort wearing Cole Haan Go-To Plain Toe Oxford.
+Man-made upper.
+Man-made lining and insole.
+Round toe.
+lace-up closure."
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3714,7 +3716,7 @@ Durable, rugged exterior"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Rubber sole
+  [255 255 255]]]",4.5,,"Rubber sole
 2-tone mesh upper is lightweight & breathable
 Removable, deluxe foam sockliner for ultimate step-in comfort & cushioning
 Dual density Charged Cushioning midsole for the ultimate blend of comfort & explosive energy return
@@ -3987,13 +3989,13 @@ Equipped with a California lasting for superior durability:"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Leather
-Made in USA or Imported
+  [255 255 255]]]",,,"100% Leather
+Made in the USA or Imported
 Polyvinyl Chloride sole
-Shaft measures approximately Ankle"" from arch
-Heel measures approximately 1.25""
+Shaft measures approximately Ankle from arch
 Boot opening measures approximately 10"" around
-8-eye boot"
+Built with core Dr. Martens DNA: grooved edges, an AirWair heel loop and visible stitching
+Hiker inspired 6 Tie boot with padded collar"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4423,7 +4425,7 @@ Unlined with padded collar so your feet stay cool even on the hottest days."
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"Made in the USA or Imported
+  [255 255 255]]]",4.4,,"Made in the USA or Imported
 Rubber sole
 Engineered mesh upper is lightweight & breathable
 Firm external heel counter for additional support that keeps the back of the foot locked in place

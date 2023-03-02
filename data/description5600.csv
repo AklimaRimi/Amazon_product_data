@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -320,7 +320,7 @@ The technology behind Under Armour's diverse product assortment for men, women a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.9,,"Imported
+  [255 255 255]]]",4.2,,"Imported
 Rubber sole
 Shaft measures approximately 8"" from arch
 Boot opening measures approximately 11 around
@@ -375,7 +375,7 @@ TRACTION: Oil- and slip-resistant, non-marking, siped, rubber outsoles disperse 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100% Textile_Synthetic
+  [255 255 255]]]",4.5,,"100% Textile_Synthetic
 Made in the USA or Imported
 Ethylene Vinyl Acetate sole
 Under Armour’s mission is to make all athletes better through passion, design and the relentless pursuit of innovation
@@ -429,13 +429,15 @@ The technology behind Under Armour's diverse product assortment for men, women a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.8,,"Rubber sole
+  [255 255 255]]]",4.8,"$135
+00","Made in USA or Imported
+Rubber sole
 Shaft measures approximately 6"" from arch
-WATERPROOF: Full rubber 100% waterproof construction keeps feet dry all day long
-SLIP: Non-marking Chevron outsole provides a sure footing without leaving marks or scuffs
-XPRESSCOOL: evaporating cooling liner
-COMFORT: Lightweight and ankle-height for easy walking comfort
-EASY ON/OFF: Pull tab at heel for easy or easy slipping on and off"
+Crafted of Saltwater Resistant Leather That Will Wear to a Fine Patina over Time
+Features a 100% Waterproof Breathable Membrane
+EVA Insole for Added Comfort for Long Days on the Water
+Slip Resistant Non Marking Chevron Outsole
+Waterproof Full Grain Leather"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -601,25 +603,25 @@ CARE TIPS: KEEN recommends you clean using mild soap and cold water; To remove e
   [255 255 255]
   [255 255 255]
   ...
-  [253 252 253]
-  [253 255 253]
-  [250 255 252]]
+  [254 253 252]
+  [255 255 254]
+  [255 255 253]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [189 186 185]
+  [195 191 190]
   [255 255 255]
-  [251 255 253]]
+  [255 255 253]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [155 147 146]
-  [254 253 251]
-  [253 255 254]]
+  [158 148 149]
+  [254 252 252]
+  [255 255 254]]
 
  ...
 
@@ -1497,7 +1499,7 @@ Goodyear welt construction"
 
  ...
 
- [[255 255 255]
+ [[254 254 254]
   [255 255 255]
   [255 255 255]
   ...
@@ -1691,24 +1693,24 @@ COMFORT: The insole is a fully cushioned, removable footbed with stability heel 
   [255 255 255]
   ...
   [255 255 254]
-  [255 255 255]
-  [255 255 255]]
+  [255 254 255]
+  [255 254 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
   [255 255 254]
-  [255 255 255]
-  [255 255 255]]
+  [255 254 255]
+  [255 254 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
   [255 255 254]
-  [255 255 255]
-  [255 255 255]]
+  [255 254 255]
+  [255 254 255]]
 
  ...
 
@@ -1844,7 +1846,8 @@ MACHINE WASHABLE design for easy care - wash on gentle cycle cold, hang to air d
   ...
   [254 254 254]
   [254 254 254]
-  [254 254 254]]]",4.3,,
+  [254 254 254]]]",4.3,"$39
+79",
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2107,11 +2110,13 @@ Cork footbed"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$44
-99","100% Leather
+  [255 255 255]]]",4.5,,"100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
 Soft fabric shoe lining"
 "[[[255 255 255]
   [255 255 255]
@@ -2161,11 +2166,13 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$44
-99","100% Leather
+  [255 255 255]]]",4.5,,"100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
 Soft fabric shoe lining"
 "[[[255 255 255]
   [255 255 255]
@@ -2323,7 +2330,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Leather
+  [255 255 255]]]",4.6,"$44
+99","100% Leather
 Imported
 Rubber sole
 1.5 inches heel
@@ -2376,8 +2384,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$44
-99","100% Synthetic
+  [255 255 255]]]",4.4,"$42
+90","100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
@@ -2487,8 +2495,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,"$42
-90","100% Synthetic
+  [255 255 255]]]",4.3,"$44
+99","100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
@@ -2651,8 +2659,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$44
-99","100% Leather
+  [255 255 255]]]",4.5,"$42
+90","100% Leather
 Imported
 Rubber sole
 1.5 inches heel
@@ -2708,8 +2716,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$44
-99","100% Leather
+  [255 255 255]]]",4.6,"$42
+90","100% Leather
 Imported
 Rubber sole
 1.5 inches heel
@@ -3408,10 +3416,7 @@ Textile and synthetic lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Rubber sole
-manufacturer: Nike
-Item Trademark: NIKE
-Style: Running Shoe"
+  [255 255 255]]]",4.4,,Rubber sole
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3571,7 +3576,7 @@ FIT & CARE TIPS: Low profile design is lightweight and flexible for improved g
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.1,,"Rubber sole
+  [255 255 255]]]",3.9,,"Rubber sole
 Shaft measures approximately Ankle from arch
 Boot opening measures approximately 14.5 around
 Premium full-grain leather upper with vented sides
@@ -3792,7 +3797,7 @@ Insite Technology Footbed. Carhartt footbed made with Insite technology is engin
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Imported
+  [255 255 255]]]",4.1,,"Imported
 Rubber sole
 OMNI-TECH: Our proprietary technology provides air-permeable protection that's waterproof and breathable, keeping mother nature's elements out, at the same time allowing the inside to breathe – keeping you dry and comfortable no matter the conditions
 URBAN STYLE – TRAIL PERFORMANCE: You’ll love this multi-sport shoe developed through the lens of the urban activist. It’s a waterproof shoe that features modern construction delivering versatility and comfort for a wide range of use
@@ -4081,25 +4086,25 @@ Heat resistant outsole"
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [254 255 254]
-  [251 255 253]]
+  [255 254 250]
+  [255 253 248]
+  [255 253 254]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [255 254 255]
-  [254 254 255]]
+  [255 255 254]
+  [255 254 252]
+  [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
-  [255 252 255]
-  [255 253 255]]
+  [255 255 255]
+  [253 255 255]
+  [252 255 254]]
 
  ...
 
@@ -4180,7 +4185,8 @@ Lightweight EVA midsole absorbs shock"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Rubber
+  [255 255 255]]]",4.6,"$32
+50","Rubber
 Imported
 Ethylene Vinyl Acetate sole
 Heel measures approximately 0.81""
@@ -4756,7 +4762,7 @@ SHOCK ABSORPTION: truTECH is Rockport's lightweight comfort feature that absorbs
 
  ...
 
- [[255 255 255]
+ [[254 254 254]
   [255 255 255]
   [255 255 255]
   ...
@@ -4831,8 +4837,7 @@ Flat"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Rubber sole
-CHEMICAL RESISTANT: Features chemical, liquid, and barnyard acid-resistant SPR leather, hard-wearing thermoplastic urethane (TPU) SAFETY cell reinforcement provides excellent protection. from oils and minerals, cuts and abrasions.
+  [255 255 255]]]",4.3,,"CHEMICAL RESISTANT: Features chemical, liquid, and barnyard acid-resistant SPR leather, hard-wearing thermoplastic urethane (TPU) SAFETY cell reinforcement provides excellent protection. from oils and minerals, cuts and abrasions.
 MET GUARD: XRD internal metatarsal guard; lightweight, soft and flexible, but instantly hardens on impact to create a unique protective shield for excellent impact protection
 COMFORT CUSHION: Uses a combination of cellular urethane and PORON Performance Cushioning technology to protect the heel and ball of the foot, providing superior cushioning and shock absorption at the heel, reducing foot, leg and lower back fatigue.
 NANOLITE FOOTBEAD: For greater comfort and well-being. The gently raised surface massages your feet as you walk, promoting greater blood ﬂow to help reduce fatigue. A perforated foam air control layer enhances air circulation, reducing odor.
@@ -4995,7 +5000,8 @@ Recreated from the first Wolverine 1000 mile boot introduced in 1914 time-tested
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"100% Nylon
+  [255 255 255]]]",4.3,"$95
+55","100% Nylon
 Imported
 KEEP IT COMFORTABLE: Athletic styling gives these men’s Powertrain Sport work shoes a modern look. Alloy safety toes, breathable mesh linings, electrical hazard protection & anti-fatigue technology combine for ultimate low-profile comfort & protection.
 SAFETY AND COMFORT: Built on a tradition of craftsmanship & innovation, Timberland PRO helps you conquer your work day. Technology like our proprietary outsole with built-in Anti-Fatigue Technology keeps you comfortable all day.
@@ -5322,7 +5328,8 @@ TRACTION: Oil- and slip-resistant, non-marking, rubber outsoles are used for imp
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"If you want the best results in less time, all in a compact design, you want the Rock ’n Fit. This all-in-one, vibrating exercise machine allows you to personalize every workout for maximum results.
+  [255 255 255]]]",5,"$284
+10","If you want the best results in less time, all in a compact design, you want the Rock ’n Fit. This all-in-one, vibrating exercise machine allows you to personalize every workout for maximum results.
 Designed for all levels of fitness and ages, the Rock ’n Fit offers three intensity stages and positions: relaxed, comfort, and strong zone. This means you can tailor your muscle burn each day to meet your unique capabilities and goals.
 The Rock ’n Fit is a full-body experience that helps you maximize your calorie-burn using scientifically proven vibration technology to help you burn fat.
 It adapts seamlessly to your fitness level and age, and is so effective that even astronauts in space use it! Whether you want to workout sitting down or standing up, it’s all possible with the Rock n’ Fit.

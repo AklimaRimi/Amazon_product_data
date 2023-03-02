@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -47,121 +47,13 @@ imges,rating,price,description
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$43
-76","100% Leather
+  [255 255 255]]]",4.5,,"100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
-Soft fabric shoe lining
-Flexible rubber traction outsole."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.6,"$44
-99","100% Leather
-Imported
-Rubber sole
-1.5 inches heel
-Soft fabric shoe lining
-Flexible rubber traction outsole."
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.5,"$44
-99","100% Leather
-Imported
-Rubber sole
-1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
 Soft fabric shoe lining"
 "[[[255 255 255]
   [255 255 255]
@@ -211,11 +103,13 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$44
-99","100% Leather
+  [255 255 255]]]",4.5,,"100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
 Soft fabric shoe lining"
 "[[[255 255 255]
   [255 255 255]
@@ -265,65 +159,13 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$44
-99","100% Leather
+  [255 255 255]]]",4.5,,"100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
-Soft fabric shoe lining"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.2,"$57
-61","100% Leather
-Imported
-Rubber sole
-1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
 Soft fabric shoe lining"
 "[[[255 255 255]
   [255 255 255]
@@ -432,6 +274,170 @@ Soft fabric shoe lining"
 Imported
 Rubber sole
 1.5 inches heel
+Soft fabric shoe lining"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.2,"$57
+69","100% Leather
+Imported
+Rubber sole
+1.5 inches heel
+Soft fabric shoe lining"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.4,"$42
+90","100% Leather
+Imported
+Rubber sole
+1.5 inches heel
+Soft fabric shoe lining"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]",4.5,,"100% Synthetic
+Imported
+Rubber sole
+1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
 Soft fabric shoe lining"
 "[[[255 255 255]
   [255 255 255]
@@ -590,8 +596,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$44
-99","100% Leather
+  [255 255 255]]]",4.5,"$42
+90","100% Leather
 Imported
 Rubber sole
 1.5 inches heel
@@ -644,8 +650,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,"$63
-33","100% Synthetic
+  [255 255 255]]]",4.3,"$42
+90","100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
@@ -755,10 +761,13 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"100% Leather
+  [255 255 255]]]",4.5,,"100% Synthetic
 Imported
 Rubber sole
 1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
 Soft fabric shoe lining"
 "[[[255 255 255]
   [255 255 255]
@@ -861,8 +870,64 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
+  [255 255 255]]]",4.5,,"100% Synthetic
+Imported
+Rubber sole
+1.5 inches heel
+Smooth leather and mesh upper with lace-up front
+Shock-absorbing supportive midsole
+Flexible rubber traction outsole
+Soft fabric shoe lining"
+"[[[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ...
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [255 255 255]
   [255 255 255]]]",4.4,"$42
-90","100% Synthetic
+90","100% Leather
 Imported
 Rubber sole
 1.5 inches heel
@@ -915,62 +980,8 @@ Soft fabric shoe lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$44
-99","100% Leather
-Imported
-Rubber sole
-1.5 inches heel
-Soft fabric shoe lining"
-"[[[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- ...
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [255 255 255]
-  [255 255 255]
-  [255 255 255]]]",4.2,"$44
-99","100% Leather
+  [255 255 255]]]",4.2,"$42
+90","100% Leather
 Imported
 Rubber sole
 1.5 inches heel
@@ -1240,8 +1251,7 @@ KEEN.ALL-TERRAIN rubber outsole for higher-traction grip
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Made in the USA or Imported
-Synthetic Rubber sole
+  [255 255 255]]]",4.6,,"Synthetic Rubber sole
 Waterproof microfiber leather / performance mesh upper
 Flexible NDurance spikeless rubber cupsole
 Extra-thick PU sockliner for increased comfort
@@ -1305,25 +1315,25 @@ COMFORT: These shoes come with KEEN LuftCell air-infused, PU midsoles for weight
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 252]
-  [250 254 252]
-  [253 255 246]]
+  [254 255 253]
+  [249 252 255]
+  [255 251 254]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [248 234 221]
-  [254 255 255]
-  [254 255 249]]
+  [246 230 210]
+  [253 253 255]
+  [253 254 254]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [185 131  96]
-  [254 247 241]
-  [255 255 254]]
+  [191 135  94]
+  [255 248 244]
+  [252 255 255]]
 
  ...
 
@@ -2005,7 +2015,7 @@ The technology behind Under Armour's diverse product assortment for men, women a
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"100% Leather
+  [255 255 255]]]",4.3,,"100% Leather
 Imported
 Rubber sole
 ROLLBAR stability post system helps control rear-foot movement for enhanced support
@@ -2282,7 +2292,7 @@ TRACTION: Oil- and slip-resistant, non-marking, rubber outsoles; Lug sole patter
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"100% Textile_Synthetic
+  [255 255 255]]]",4.8,,"100% Textile_Synthetic
 Imported
 Synthetic sole
 Charged Vantage 2
@@ -2486,15 +2496,7 @@ ORGANICALLY ALTERED TRACTION-Traction inspired by nature, strategically designed
   [255 255 255]
   [255 255 255]
   ...
-  [249 249 249]
-  [253 253 253]
-  [255 255 255]]
-
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
-  ...
-  [254 252 253]
+  [248 248 248]
   [254 254 254]
   [255 255 255]]
 
@@ -2502,9 +2504,17 @@ ORGANICALLY ALTERED TRACTION-Traction inspired by nature, strategically designed
   [255 255 255]
   [255 255 255]
   ...
-  [255 254 254]
+  [252 252 252]
   [254 254 254]
-  [255 255 255]]]",4.6,,"Imported
+  [254 254 254]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ...
+  [255 255 255]
+  [254 254 254]
+  [254 254 254]]]",4.6,,"Imported
 Rubber sole
 Heel measures approximately 10 millimeters
 Dual-layer midsole construction featuring top-bed foam cushioning and underfoot Fresh Foam X
@@ -2560,14 +2570,11 @@ Reflective detailing
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"Synthetic-and-mesh
-Made in USA or Imported
+  [255 255 255]]]",4,,"100% Synthetic
+Imported
 Rubber sole
-Fresh Foam midsole cushioning is precision engineered to deliver an ultra-cushioned, lightweight ride
-Breathable Hyposkin upper allows for easy cleaning
-Synthetic/mesh upper
-No-sew overlays for durability
-Slip-resistant outsole tested according to ASTM F2913-18 to provide superior traction under various surface conditions"
+Fresh Foam cushioning
+Data-loacated slip resistant lugs"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -2616,7 +2623,8 @@ Slip-resistant outsole tested according to ASTM F2913-18 to provide superior tra
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"✅ Made of Full Grain Premium 2.2mm Thick Cowhide Waterproof Leather, Classic Engineer Design, Inside Side Zipper Entry for Easy on and off Wear, Lace-Up with Fold Over Buckle Strap
+  [255 255 255]]]",4.3,"$129
+99","✅ Made of Full Grain Premium 2.2mm Thick Cowhide Waterproof Leather, Classic Engineer Design, Inside Side Zipper Entry for Easy on and off Wear, Lace-Up with Fold Over Buckle Strap
 ✅ Classic Engineer Design, Inside Side Zipper Entry for Easy on and off Wear, Lace-Up with Fold Over Buckle Strap
 ✅ Welt Construction, Oil and Acid Resistant Out-Sole, Non-Skid and Non-Marking Tread, Milwaukee Signature Hardware
 ✅ Smart Mask Climate Control Insole with Flex Power Toe Design, Linings are Moisture Wicking Designed to Work with Your Body’s Temperature
@@ -2832,7 +2840,8 @@ Package Weight: 4.0 Pounds"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3,,"Rubber sole
+  [255 255 255]]]",3,"$73
+00","Rubber sole
 The lightweight mesh upper comfortably conforms to your foot.
 The rubber outsole is formed with a multidirectional traction pattern to help you stay in control, whichever direction you're moving.
 The laces feed through crisscross webbing straps over the top of your foot. When you lace up, it tightens the webbing to hold your foot in place.
@@ -3106,7 +3115,8 @@ Every man's closet should have a pair of stylish mens sneakers;Sneakers go with 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"Increases Slide
+  [255 255 255]]]",4.4,"$16
+94","Increases Slide
 Great for synthetic approaches
 One Size Fits Most"
 "[[[255 255 255]
@@ -4075,8 +4085,8 @@ KEEN.DRY waterproof breathable membrane"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Made in the USA or Imported
-Ethylene Vinyl Acetate sole
+  [255 255 255]]]",4.7,,"Made in the USA or Imported
+Rubber sole
 The Polo Ralph Lauren Faxon X Low-Top Canvas Sneaker features a modernized silhouette and stitching at the vamp inspired by classic boat shoes. Crafted from cotton canvas, it's finished with Ralph Lauren's signature embroidered Pony.
 Traditional lace-up closure for a secure fit.
 Round toe silhouette.
@@ -4734,7 +4744,8 @@ WET AND DRY TRACTION: Featuring Adapt Trax, an outsole that provides exceptional
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4,,"100% Leather
+  [255 255 255]]]",4,"$129
+95","100% Leather
 Imported
 100% Synthetic sole
 Heel measures approximately 1.1""
@@ -4838,8 +4849,8 @@ Somewhat chunky sole offers a bit of height"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",3.4,"$77
-97","100% Synthetic
+  [255 255 255]]]",3.4,"$76
+25","100% Synthetic
 Made in the USA or Imported
 Rubber sole
 Comfortable, casual moccasin in rich, full-grain or soft nubuck leather that combines simplicity and elegance
@@ -5109,7 +5120,7 @@ Lace-up closure for a secure fit"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,"$40
-65","100% Synthetic
+53","100% Synthetic
 Imported
 Rubber sole
 SCIENCE AND MAGIC: Take a ride in a superbly cushioned new kind of Crocs for men. Inspired by your evolving lifestyle, the LiteRide tennis shoe collection was created to be worn on your terms, at any pace.
@@ -5144,15 +5155,15 @@ MEN'S SHOES: Same Crocs shoe quality designed to fit your lifestyle. Offers brea
  ...
 
  [[255 255 255]
-  [255 255 255]
-  [253 253 253]
+  [254 254 254]
+  [254 254 254]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
  [[255 255 255]
-  [255 255 255]
+  [254 254 254]
   [254 254 254]
   ...
   [255 255 255]

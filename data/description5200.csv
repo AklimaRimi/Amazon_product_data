@@ -1,4 +1,4 @@
-imges,rating,price,description
+Image,Ratings,Price,Description
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -322,9 +322,10 @@ COMFORT: Flexible moccasin construction gives you the freedom to move comfortabl
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",5,,"100% Textile_Synthetic
+  [255 255 255]]]",,"$139
+95","100% Textile_Synthetic
 Made in the USA or Imported
-Man Made sole
+Rubber sole
 MIZUNO ENERZY (FOAM): Offering versatility in its application, while still maintaining softness and resilience.  It will help enhance performance capabilities.
 MIZUNO WAVE: The MIZUNO WAVE plate disperses energy from impact to a broader area providing a stable platform and a superior cushioning.
 X10 Outsole: Durable carbon rubber that allows for longer wear.
@@ -664,7 +665,7 @@ WESTERN BOOT: Comfortable and classic, these sporty cowboy boots will never weig
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -672,7 +673,7 @@ WESTERN BOOT: Comfortable and classic, these sporty cowboy boots will never weig
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
@@ -680,15 +681,15 @@ WESTERN BOOT: Comfortable and classic, these sporty cowboy boots will never weig
   [255 255 255]
   [255 255 255]
   ...
-  [254 255 255]
+  [255 255 255]
   [255 255 255]
   [255 255 255]]
 
  ...
 
- [[255 255 255]
-  [255 255 255]
-  [255 255 255]
+ [[254 255 253]
+  [254 255 254]
+  [254 255 255]
   ...
   [255 255 255]
   [255 255 255]
@@ -1088,7 +1089,8 @@ Lace closure offers a secure fit"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"100% leather-and-synthetic
+  [255 255 255]]]",4.3,"$165
+00","100% leather-and-synthetic
 Imported
 Full grain SPR leather upper
 High performance mesh lining
@@ -1305,14 +1307,13 @@ Storm Defender Waterproof Breathable Protection. These shoes are designed to be 
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,"$89
-99","100% Leather
-Imported
+  [255 255 255]]]",4.6,,"100% Leather
 Rubber sole
 Shaft measures approximately Ankle from arch
 Boot opening measures approximately 10"" around
 Designed with quality and comfortable in mind
-Perfect fit and stylish for any occasion"
+Perfect fit and stylish for any occasion
+Upper made with premium leather from an LWG Silver-rated tannery"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1414,7 +1415,8 @@ Non-marking rubber outsole features molded Wave-Siping technology for enhanced t
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"100% Synthetic
+  [255 255 255]]]",4.1,"$80
+00","100% Synthetic
 Made in the USA or Imported
 Rubber sole
 100% recycled adventure-ready ripstop upper inspired by classic outdoor gear, 100% recycled polyester rib knit collar, 50% recycled polyester collapsible heel for easy on and off
@@ -1469,14 +1471,13 @@ Best for: all-day wear, getting around town, relaxing at the campground"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,"$110
-00","100% Leather
+  [255 255 255]]]",4.6,,"100% Leather
 Made in USA or Imported
 Synthetic sole
 Shaft measures approximately Ankle from arch
 Heel measures approximately 1.25""
 Boot opening measures approximately 10"" around
-Inspired by Dr. Martens iconic 1460"
+6-eye style, with metal eyelets"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -1525,7 +1526,7 @@ Inspired by Dr. Martens iconic 1460"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"100% Nubuck Leather
+  [255 255 255]]]",4.4,,"100% Nubuck Leather
 Imported
 Rubber sole
 Shaft measures approximately 4"" from arch
@@ -1635,7 +1636,7 @@ BEACH FREELY: REEF encourages people around the world to embrace the spirit of t
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.2,,"Imported
+  [255 255 255]]]",4.3,,"Imported
 Rubber sole
 QUIX outsole technology helps provide traction during quick, cutting movements
 Lightweight synthetic/mesh upper
@@ -1745,8 +1746,8 @@ Go The Distance: Whether you love road running in your neighborhood, an escape t
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,"$97
-27","100% Nylon
+  [255 255 255]]]",4.5,"$106
+56","100% Nylon
 Imported
 KEEP IT COMFORTABLE: Athletic styling gives these men’s Powertrain Sport work shoes a modern look. Alloy safety toes, breathable mesh linings, electrical hazard protection & anti-fatigue technology combine for ultimate low-profile comfort & protection.
 SAFETY AND COMFORT: Built on a tradition of craftsmanship & innovation, Timberland PRO helps you conquer your work day. Technology like our proprietary outsole with built-in Anti-Fatigue Technology keeps you comfortable all day.
@@ -1800,7 +1801,7 @@ QUALITY WORKWEAR: Timberland PRO assesses the unmet needs of those who work in t
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.3,,"Man Made
+  [255 255 255]]]",4.4,,"Man Made
 Imported
 Man made sole
 Shaft measures approximately low-top from arch
@@ -1942,25 +1943,25 @@ Care - Machine washable, use a small amount of detergent, wash on gentle cycle a
 
  ...
 
- [[254 254 254]
-  [254 254 254]
-  [254 254 254]
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[254 254 254]
-  [254 254 254]
-  [254 254 254]
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
   [255 255 255]]
 
- [[254 254 254]
-  [254 254 254]
-  [254 254 254]
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
   ...
   [255 255 255]
   [255 255 255]
@@ -2925,15 +2926,15 @@ Road: designed and engineered to perform on paved roads, from the smoothest tarm
   [255 255 255]
   [255 255 255]
   ...
-  [247 247 247]
-  [253 253 253]
+  [249 249 249]
+  [254 254 254]
   [255 255 255]]
 
  [[255 255 255]
   [255 255 255]
   [255 255 255]
   ...
-  [255 255 255]
+  [254 254 254]
   [255 255 255]
   [255 255 255]]
 
@@ -3053,11 +3054,11 @@ Electrical hazard protectoin"
   [255 255 255]
   [255 255 255]
   [255 255 255]]]",4.4,,"Imported
-Take them by surprise with these Nike Court Legacy CNVS.
-Textured outsole and deconstructed canvas upper for durability.
-Featuring a plush foam insole that is lightweight and responsive.
-Heel license plate with logo and swoosh on outer upper.
-Textured sole for added grip and traction"
+Rubber sole
+Shaft measures approximately Ankle from arch
+Sports shoes
+Fabric upper
+Full length rubber tread"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3469,9 +3470,9 @@ Size and easy care: This slipper runs small; we recommend ordering the next size
 
  ...
 
- [[252 252 252]
+ [[253 253 253]
   [251 251 251]
-  [249 249 249]
+  [248 248 248]
   ...
   [255 255 255]
   [255 255 255]
@@ -3491,7 +3492,7 @@ Size and easy care: This slipper runs small; we recommend ordering the next size
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"Imported
+  [255 255 255]]]",4.5,,"Imported
 Rubber sole
 Adapt Trax outsole provides exceptional traction in wet and dry conditions
 Techlite+ Single density foam midsole delivers a responsive underfoot cushioning experience while providing superior comfort and stability on the trail
@@ -3544,7 +3545,8 @@ NAVIC FIT SYSTEM delivers a natural midfoot lock down. OutDry waterproof, breath
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,
+  [255 255 255]]]",4.5,"$40
+99",
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -3813,7 +3815,8 @@ Georgia waterproof system"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"15 inch height Blue upper with composite safety toe and red chevron-plus outsole
+  [255 255 255]]]",4.4,"$96
+85","15 inch height Blue upper with composite safety toe and red chevron-plus outsole
 Composite safety toe meets astm F2413 m i/75 c/75 eh* and will not set-off metals detectors
 Foot protection
 Country of origin: China"
@@ -3865,7 +3868,7 @@ Country of origin: China"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.4,,"100% Synthetic
+  [255 255 255]]]",4.3,,"100% Synthetic
 Imported
 Rubber sole
 Shaft measures approximately low-top from arch
@@ -3969,14 +3972,13 @@ Classic rubber cupsole construction provides durability and a classic look"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.7,,"Imported
-Synthetic sole
-Shaft measures approximately Ankle from arch
-Boot opening measures approximately 10"" around
-Inspired by Dr. Martens iconic 1460
-Element is a split leather with a fine geometric emboss pattern
-Built with core Dr. Martens DNA: grooved edges, an AirWair heel loop and visible stitching
-Target gender: unisex"
+  [255 255 255]]]",4.7,,"Rubber sole
+Shaft measures approximately Mid-Calf from arch
+Soft, hardwearing and shiny patent leather upper
+Breathable leather and textile lining for abrasion-free wear
+Removable foam padded insole for cushioning and support
+Goodyear welt construction for durability
+Durable AirWair air-cushioned rubber sole with grooved edges"
 "[[[255 255 255]
   [255 255 255]
   [255 255 255]
@@ -4136,7 +4138,8 @@ Faux Fur Lining"
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.6,,"100% Nylon
+  [255 255 255]]]",4.6,"$95
+55","100% Nylon
 Imported
 KEEP IT COMFORTABLE: Athletic styling gives these men’s Powertrain Sport work shoes a modern look. Alloy safety toes, breathable mesh linings, electrical hazard protection & anti-fatigue technology combine for ultimate low-profile comfort & protection.
 SAFETY AND COMFORT: Built on a tradition of craftsmanship & innovation, Timberland PRO helps you conquer your work day. Technology like our proprietary outsole with built-in Anti-Fatigue Technology keeps you comfortable all day.
@@ -4190,7 +4193,8 @@ QUALITY WORKWEAR: Timberland PRO assesses the unmet needs of those who work in t
   ...
   [255 255 255]
   [255 255 255]
-  [255 255 255]]]",4.5,,"CERTIFIED STEEL TOE: The DuraPro Steel Toe boots are ASTM F2413-18 certified with a reinforced shank which ensures protection against a variety of workplace hazards.
+  [255 255 255]]]",4.5,"$70
+95","CERTIFIED STEEL TOE: The DuraPro Steel Toe boots are ASTM F2413-18 certified with a reinforced shank which ensures protection against a variety of workplace hazards.
 WATERPROOF: These lightweight boots feature an energy absorbing Safety-LOC outsole with channels to repel water making them 100% waterproof.
 COMFORTABLE: Our boots are made with a 360 degree pull tab for easy donning and doffing and a sloped comfort top to prevent chafing when walking and bending. A great boot for everyday use.
 APPLICATIONS: Our DuraPro Steel Toe boots are fuel and oil resistant which work well for heavy duty jobs in the industrial, processing and construction fields. Please review our size charts in the image section to find the correct sizing. Made in the USA.
